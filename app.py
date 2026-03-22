@@ -8,12 +8,12 @@ st.title("🌐 G20 실시간 글로벌 뉴스 헤드라인 브리핑")
 st.markdown("GDP 상위 G20 국가들의 구글 뉴스 메인 속보 5개를 1시간 간격으로 수집하여 한국어 3줄 요약본으로 제공합니다.")
 st.markdown("💡 **정렬 기준**: 기본적으로 GDP 순위로 정렬되지만, 전 세계 포털에 '새로운 속보'가 다수 등장한 국가는 **최상단(🔥 속보 집중)**으로 자동 배치됩니다.")
 
-FLAG_EMOJIS = {
-    'United States': '🇺🇸', 'China': '🇨🇳', 'Germany': '🇩🇪', 'Japan': '🇯🇵',
-    'India': '🇮🇳', 'United Kingdom': '🇬🇧', 'France': '🇫🇷', 'Italy': '🇮🇹',
-    'Brazil': '🇧🇷', 'Canada': '🇨🇦', 'Russia': '🇷🇺', 'Mexico': '🇲🇽',
-    'Australia': '🇦🇺', 'South Korea': '🇰🇷', 'Indonesia': '🇮🇩', 'Turkey': '🇹🇷',
-    'Saudi Arabia': '🇸🇦', 'Argentina': '🇦🇷', 'South Africa': '🇿🇦'
+FLAG_CODES = {
+    'United States': 'us', 'China': 'cn', 'Germany': 'de', 'Japan': 'jp',
+    'India': 'in', 'United Kingdom': 'gb', 'France': 'fr', 'Italy': 'it',
+    'Brazil': 'br', 'Canada': 'ca', 'Russia': 'ru', 'Mexico': 'mx',
+    'Australia': 'au', 'South Korea': 'kr', 'Indonesia': 'id', 'Turkey': 'tr',
+    'Saudi Arabia': 'sa', 'Argentina': 'ar', 'South Africa': 'za'
 }
 
 data = load_current_data()
@@ -29,11 +29,18 @@ else:
         rank = info.get("gdp_rank", 99)
         updated = info.get("last_updated", "N/A")
         
-        spike_badge = "🔥 **속보 집중(상승)!**" if score > 0 else ""
-        emoji = FLAG_EMOJIS.get(country, '🏳️')
+        spike_badge = "<span style='color: #ff4bc6;'>🔥 <b>속보 집중(상승)!</b></span>" if score > 0 else ""
+        flag_code = FLAG_CODES.get(country, 'kr')
+        
+        st.markdown(f'''
+            <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 5px;">
+                <img src="https://flagcdn.com/w40/{flag_code}.png" width="36" style="border: 1px solid #e0e0e0; border-radius: 4px; margin-right: 12px; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
+                <h3 style="margin: 0; padding: 0;">{country} <span style="font-size: 0.7em; font-weight: normal; color: #888;">(GDP 순위: {rank}위)</span> {spike_badge}</h3>
+            </div>
+        ''', unsafe_allow_html=True)
         
         # 기본적으로 최상위 급상승 혹은 G3 국가는 열어둠
-        with st.expander(f"[{emoji} {country}] 실시간 뉴스 헤드라인 Top 5 (GDP 순위: {rank}위) {spike_badge}", expanded=(score > 0 or rank <= 3)):
+        with st.expander(f"👉 이 곳을 눌러서 {country} 뉴스 헤드라인 5선 펼쳐보기", expanded=(score > 0 or rank <= 3)):
             st.caption(f"최근 데이터 갱신 시간: {updated}")
             
             trends = info.get("trends", [])
