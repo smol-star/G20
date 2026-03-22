@@ -1,0 +1,7 @@
+streamlit
+pandas
+pytrends
+deep-translator
+schedule
+fpdf2
+requests
