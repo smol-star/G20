@@ -4,37 +4,37 @@ from deep_translator import GoogleTranslator
 from data_manager import load_current_data, save_current_data
 from datetime import datetime
 import time
+import html
 
-# G20 Countries mapped to geo codes for RSS parsing
-G20_COUNTRIES = {
-    'United States': ('US', 1),
-    'China': ('CN', 2),
-    'Germany': ('DE', 3),
-    'Japan': ('JP', 4),
-    'India': ('IN', 5),
-    'United Kingdom': ('GB', 6),
-    'France': ('FR', 7),
-    'Italy': ('IT', 8),
-    'Brazil': ('BR', 9),
-    'Canada': ('CA', 10),
-    'Russia': ('RU', 11),
-    'Mexico': ('MX', 12),
-    'Australia': ('AU', 13),
-    'South Korea': ('KR', 14),
-    'Indonesia': ('ID', 15),
-    'Turkey': ('TR', 16),
-    'Saudi Arabia': ('SA', 17),
-    'Argentina': ('AR', 18),
-    'South Africa': ('ZA', 20)
+# G20 Countries mapped to Google News (gl) and Language (hl) codes
+G20_NEWS_CODES = {
+    'United States': ('US', 'en-US', 1),
+    'China': ('CN', 'zh-CN', 2),
+    'Germany': ('DE', 'de', 3),
+    'Japan': ('JP', 'ja', 4),
+    'India': ('IN', 'en-IN', 5),
+    'United Kingdom': ('GB', 'en-GB', 6),
+    'France': ('FR', 'fr', 7),
+    'Italy': ('IT', 'it', 8),
+    'Brazil': ('BR', 'pt-BR', 9),
+    'Canada': ('CA', 'en-CA', 10),
+    'Russia': ('RU', 'ru', 11),
+    'Mexico': ('MX', 'es-419', 12),
+    'Australia': ('AU', 'en-AU', 13),
+    'South Korea': ('KR', 'ko', 14),
+    'Indonesia': ('ID', 'id', 15),
+    'Turkey': ('TR', 'tr', 16),
+    'Saudi Arabia': ('SA', 'ar', 17),
+    'Argentina': ('AR', 'es-419', 18),
+    'South Africa': ('ZA', 'en-ZA', 20)
 }
 
 translator = GoogleTranslator(source='auto', target='ko')
 
-def fetch_rss_trends(geo_code):
-    url = f"https://trends.google.com/trends/trendingsearches/daily/rss?geo={geo_code}"
-    # Adding a standard browser User-Agent
+def fetch_rss_news(gl, hl):
+    url = f"https://news.google.com/rss?gl={gl}&hl={hl}&ceid={gl}:{hl}"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
     
     try:
@@ -46,26 +46,28 @@ def fetch_rss_trends(geo_code):
         items = root.findall('.//item')
         
         trends = []
-        for item in items[:3]: # top 3
+        # Get top 3 breaking news headlines
+        for item in items[:3]: 
             title = item.find('title').text
-            ht_approx = item.find('{https://trends.google.com/trends/trendingsearches/daily}approx_traffic')
-            traffic = ht_approx.text if ht_approx is not None else "관심도 상승"
+            pubDate = item.find('pubDate')
+            date_str = pubDate.text if pubDate is not None else "방금 전"
             
             trends.append({
-                "original_title": title,
-                "traffic": traffic
+                "original_title": html.unescape(title),
+                "traffic": "국가 주요 헤드라인 (속보)",
+                "pub_date": date_str
             })
         return trends
     except Exception as e:
-        print(f"Error fetching {geo_code}: {e}")
+        print(f"Error fetching {gl}: {e}")
         return []
 
 def fetch_and_update_trends():
-    print(f"[{datetime.now()}] Fetching new hourly trends via RSS...")
+    print(f"[{datetime.now()}] Fetching new hourly trends via Google News RSS...")
     data = load_current_data()
     
-    for country, (code, gdp_rank) in G20_COUNTRIES.items():
-        top_trends = fetch_rss_trends(code)
+    for country, (gl, hl, gdp_rank) in G20_NEWS_CODES.items():
+        top_trends = fetch_rss_news(gl, hl)
         
         if not top_trends:
             continue
@@ -74,16 +76,18 @@ def fetch_and_update_trends():
         for t in top_trends:
             trend_str = t['original_title']
             traffic_str = t['traffic']
+            pub_date = t['pub_date']
             
             try:
+                # To avoid translate failing completely, we use translation
                 translated_title = translator.translate(trend_str)
             except:
                 translated_title = trend_str
                 
             summary_lines = [
-                f"'{translated_title}' 관련 이슈가 급부상하고 있습니다.",
-                f"해당 키워드는 현재 {country} 지역의 핵심 검색어입니다.",
-                f"예상 검색량/언급량: {traffic_str}"
+                f"'{translated_title}' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                f"해당 뉴스는 현재 {country}의 핵심 속보 헤드라인입니다.",
+                f"게시 시간: {pub_date}"
             ]
             
             country_trends.append({
@@ -100,6 +104,7 @@ def fetch_and_update_trends():
                 "trends": []
             }
         
+        # New issue detection for Spike scoring
         previous_trends = [t["original_title"] for t in data.get(country, {}).get("trends", [])]
         new_issues_count = len([t for t in country_trends if t["original_title"] not in previous_trends])
         
@@ -107,11 +112,12 @@ def fetch_and_update_trends():
         data[country]["trends"] = country_trends
         data[country]["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
-        time.sleep(1)
+        # Prevent Google Translate API rate limit
+        time.sleep(1.5)
         
     data = sort_countries(data)
     save_current_data(data)
-    print("Trends updated.")
+    print("News Trends updated successfully.")
 
 def sort_countries(data):
     country_list = []
