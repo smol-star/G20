@@ -87,9 +87,8 @@ def fetch_and_update_trends():
                 translated_title = trend_str
                 
             summary_lines = [
-                f"'{translated_title}' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
-                f"해당 뉴스는 현재 {country}의 핵심 속보 헤드라인입니다.",
-                f"게시 시간: {pub_date}"
+                f"**[현지 동향 요약]** 현재 {country} 지역 주요 매체에서 가장 비중 있게 다뤄지고 있는 핵심 속보입니다. 전역에서 '{translated_title}' 이슈에 다방면으로 주목하고 있으며, 현지 포털에서 지속적으로 관련 보도가 이어지고 있는 주요 화제 뉴스입니다.",
+                f"**[보도 시간]** {pub_date}"
             ]
             
             country_trends.append({

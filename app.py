@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 from data_manager import load_current_data
-from datetime import datetime
+from datetime import datetime, timedelta
 
 st.set_page_config(page_title="G20 실시간 뉴스 헤드라인 보드", layout="wide")
 st.title("🌐 G20 실시간 글로벌 뉴스 헤드라인 브리핑")
-st.markdown("GDP 상위 G20 국가들의 구글 뉴스 메인 속보 5개를 1시간 간격으로 수집하여 한국어 3줄 요약본으로 제공합니다.")
+st.markdown("GDP 상위 G20 국가들의 구글 뉴스 메인 속보 5개를 1시간 간격으로 수집하여 한국어 개괄 요약본으로 제공합니다.")
 st.markdown("💡 **정렬 기준**: 기본적으로 GDP 순위로 정렬되지만, 전 세계 포털에 '새로운 속보'가 다수 등장한 국가는 **최상단(🔥 속보 집중)**으로 자동 배치됩니다.")
 
 FLAG_CODES = {
@@ -22,6 +22,7 @@ if not data:
     st.info("데이터를 수집 중입니다. 백그라운드 수집기가 실행될 때까지 잠시만 대기해 주세요.")
 else:
     st.divider()
+    kst_now = (datetime.utcnow() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M:%S")
     
     # data is already sorted by fetcher.py
     for country, info in data.items():
@@ -41,7 +42,7 @@ else:
         
         # 기본적으로 최상위 급상승 혹은 G3 국가는 열어둠
         with st.expander(f"👉 이 곳을 눌러서 {country} 뉴스 헤드라인 5선 펼쳐보기", expanded=(score > 0 or rank <= 3)):
-            st.caption(f"최근 데이터 갱신 시간: {updated}")
+            st.caption(f"🔄 최근 데이터 갱신 시간: {updated} (UTC) &nbsp;|&nbsp; ⏰ 대한민국 현재 시간: {kst_now} (KST)")
             
             trends = info.get("trends", [])
             if not trends:
@@ -53,9 +54,9 @@ else:
                 link_url = t.get('link', '#')
                 st.markdown(f"🔗 [[기사 원문 보기]({link_url})]")
                 
-                # 3-line summary
+                # 개괄 요약
                 for line in t.get('summary', []):
-                    st.markdown(f"- {line}")
+                    st.markdown(f"> {line}")
                 
                 if idx < len(trends) - 1:
                     st.markdown("---")
