@@ -1,1 +1,705 @@
-{}
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "이란, 트럼프 최후 통첩 이후 호르무즈 해협 '완전히' 봉쇄하고 발전소 타격하겠다고 위협 - AP통신",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란, 트럼프 최후 통첩 이후 호르무즈 해협 '완전히' 봉쇄하고 발전소 타격하겠다고 위협 - AP통신' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 United States의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 17:24:00 GMT"
+                ],
+                "original_title": "Iran threatens to 'completely' close Strait of Hormuz and hit power plants after Trump's ultimatum - AP News"
+            },
+            {
+                "title": "국경 황제 호만(Homan)은 지연이 증가함에 따라 ICE 장교들이 공항에 배치될 것이라고 확인했습니다 - NPR",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'국경 황제 호만(Homan)은 지연이 증가함에 따라 ICE 장교들이 공항에 배치될 것이라고 확인했습니다 - NPR' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 United States의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 17:30:42 GMT"
+                ],
+                "original_title": "ICE officers set to deploy to airports as delays mount, border czar Homan confirms - NPR"
+            },
+            {
+                "title": "뮬러 특검 사망에 대한 트럼프의 반응: '좋아요, 기쁘네요.' - The New York Times",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'뮬러 특검 사망에 대한 트럼프의 반응: '좋아요, 기쁘네요.' - The New York Times' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 United States의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 15:43:00 GMT"
+                ],
+                "original_title": "Trump’s Reaction to Mueller’s Death: ‘Good, I’m Glad.’ - The New York Times"
+            }
+        ],
+        "last_updated": "2026-03-22 19:52:50"
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "장강 수자원 보호 위원회는 시진핑 총서기의 '3·14' 중요 연설 - 통화순의 정신을 철저하게 구현하기 위해 수자원부의 요구 사항을 배치 및 실행합니다.",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'장강 수자원 보호 위원회는 시진핑 총서기의 '3·14' 중요 연설 - 통화순의 정신을 철저하게 구현하기 위해 수자원부의 요구 사항을 배치 및 실행합니다.' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 China의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 12:03:36 GMT"
+                ],
+                "original_title": "长江水利委员会部署落实水利部深入贯彻落实习近平总书记“3·14”重要讲话精神会议要求 - 同花顺"
+            },
+            {
+                "title": "이란 외무차관 \"미국의 이란 발전소 공격 위협은 국제법 위반\" - eeo.com.cn",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란 외무차관 \"미국의 이란 발전소 공격 위협은 국제법 위반\" - eeo.com.cn' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 China의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 16:48:00 GMT"
+                ],
+                "original_title": "伊朗副外长：美方威胁打击伊朗发电厂违反国际法 - eeo.com.cn"
+            },
+            {
+                "title": "항상 좋은 친구, 좋은 파트너가 되어주세요 - 시진핑 주석의 제10차 라틴아메리카 및 카리브해 국가 공동체 정상회의 축전이 뜨거운 반응을 불러일으켰습니다 - Xinhuanet",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'항상 좋은 친구, 좋은 파트너가 되어주세요 - 시진핑 주석의 제10차 라틴아메리카 및 카리브해 국가 공동체 정상회의 축전이 뜨거운 반응을 불러일으켰습니다 - Xinhuanet' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 China의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 15:06:16 GMT"
+                ],
+                "original_title": "始终做好朋友、好伙伴——习近平主席向拉美和加勒比国家共同体第十届峰会致贺电引发热烈反响 - 新华网"
+            }
+        ],
+        "last_updated": "2026-03-22 19:52:57"
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "라인란트-팔츠 주 선거 전망: 슈나이더 환호 - “CDU가 돌아왔다” - 프랑크푸르트 룬트샤우",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'라인란트-팔츠 주 선거 전망: 슈나이더 환호 - “CDU가 돌아왔다” - 프랑크푸르트 룬트샤우' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Germany의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 19:21:00 GMT"
+                ],
+                "original_title": "Hochrechnungen zur Landtagswahl in Rheinland-Pfalz: Schnieder jubelt – „Die CDU ist wieder da“ - Frankfurter Rundschau"
+            },
+            {
+                "title": "모든 것이 뮌헨으로 보입니다: 라이브 티커의 OB 결선 투표 - \"디터 라이터가 사과했습니다\" - Merkur",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'모든 것이 뮌헨으로 보입니다: 라이브 티커의 OB 결선 투표 - \"디터 라이터가 사과했습니다\" - Merkur' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Germany의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 18:34:12 GMT"
+                ],
+                "original_title": "Alles schaut nach München: OB-Stichwahl im Live-Ticker – „Dieter Reiter hat sich entschuldigt“ - Merkur"
+            },
+            {
+                "title": "오늘 이란 뉴스: 이란, 호르무즈 해협을 완전히 봉쇄하겠다고 위협 - Spiegel",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'오늘 이란 뉴스: 이란, 호르무즈 해협을 완전히 봉쇄하겠다고 위협 - Spiegel' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Germany의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 14:48:00 GMT"
+                ],
+                "original_title": "Iran-News heute: Iran droht mit vollständiger Schließung der Straße von Hormus - Spiegel"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:02"
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "미일 정상회담 '평가' 69%, 내각 지지 71%… 요미우리 여론조사 - 요미우리신문 온라인",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'미일 정상회담 '평가' 69%, 내각 지지 71%… 요미우리 여론조사 - 요미우리신문 온라인' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Japan의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 13:00:00 GMT"
+                ],
+                "original_title": "日米首脳会談「評価」６９％、内閣支持７１％…読売世論調査 - 読売新聞オンライン"
+            },
+            {
+                "title": "'국제 해사 기관에 협력'과 이란 대표자 홀름스 해협의 안전 항행 순회 - 일본 경제 신문",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "''국제 해사 기관에 협력'과 이란 대표자 홀름스 해협의 안전 항행 순회 - 일본 경제 신문' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Japan의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 12:24:00 GMT"
+                ],
+                "original_title": "「国際海事機関に協力」とイラン代表者 ホルムズ海峡の安全航行巡り - 日本経済新聞"
+            },
+            {
+                "title": "‘헤이와마루’ 선장, 실황 견해를 만나는 것도 무언대로 떠난다",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'‘헤이와마루’ 선장, 실황 견해를 만나는 것도 무언대로 떠난다' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Japan의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 11:04:18 GMT"
+                ],
+                "original_title": "「平和丸」船長、実況見分に立ち会うも無言のまま立ち去る 辺野古転覆事故23日で1週間 - 産経ニュース"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:08"
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "이란-이스라엘 전쟁 LIVE: 미국이 발전소를 목표로 삼을 경우 호르무즈 해협을 완전히 봉쇄할 것이라고 이란이 밝혔습니다.",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란-이스라엘 전쟁 LIVE: 미국이 발전소를 목표로 삼을 경우 호르무즈 해협을 완전히 봉쇄할 것이라고 이란이 밝혔습니다.' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 India의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 18:49:16 GMT"
+                ],
+                "original_title": "Iran-Israel war LIVE: Will completely close Strait of Hormuz if U.S. targets power plants, says Iran - The Hindu"
+            },
+            {
+                "title": "Modi 총리, 중동 긴장 속에서 연료, 전력에 관한 고위급 검토 회의 주재 - The Times of India",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'Modi 총리, 중동 긴장 속에서 연료, 전력에 관한 고위급 검토 회의 주재 - The Times of India' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 India의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 11:49:00 GMT"
+                ],
+                "original_title": "PM Modi chairs high-level review meet on fuel, power amid Middle East tensions - The Times of India"
+            },
+            {
+                "title": "러시아 원유 유조선 아쿠아 타이탄, 중국 항로를 버리고 신망갈로르 항구에 도착 | 인도 뉴스-Hindustan Times",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'러시아 원유 유조선 아쿠아 타이탄, 중국 항로를 버리고 신망갈로르 항구에 도착 | 인도 뉴스-Hindustan Times' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 India의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 15:22:57 GMT"
+                ],
+                "original_title": "Russian crude oil tanker Aqua Titan reaches New Mangalore port after ditching China route | India News - Hindustan Times"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:14"
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "중동 위기 생방송: 트럼프가 인프라 위협에 조치를 취하면 이란은 호르무즈 해협을 완전히 봉쇄할 것이라고 IRG가 밝혔습니다.",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'중동 위기 생방송: 트럼프가 인프라 위협에 조치를 취하면 이란은 호르무즈 해협을 완전히 봉쇄할 것이라고 IRG가 밝혔습니다.' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 United Kingdom의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 19:39:00 GMT"
+                ],
+                "original_title": "Middle East crisis live: Iran will completely close strait of Hormuz if Trump acts on infrastructure threats, says IRG - The Guardian"
+            },
+            {
+                "title": "스티브 리드는 이란이 런던을 공격할 능력이 있다고 평가하지 않는다 - BBC",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'스티브 리드는 이란이 런던을 공격할 능력이 있다고 평가하지 않는다 - BBC' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 United Kingdom의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 11:11:43 GMT"
+                ],
+                "original_title": "No assessment Iran capable of striking London, Steve Reed says - BBC"
+            },
+            {
+                "title": "시의회가 £180k Aughton 증축 공사를 철거하라고 요구하자 엄마는 '노숙자가 될 것' - 리버풀 에코",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'시의회가 £180k Aughton 증축 공사를 철거하라고 요구하자 엄마는 '노숙자가 될 것' - 리버풀 에코' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 United Kingdom의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 17:00:00 GMT"
+                ],
+                "original_title": "Mum 'will be homeless' after council demands she destroys £180k Aughton extension - Liverpool Echo"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:19"
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "지도. 2026년 지방선거 2차: 모든 결과를 지방자치단체별로 실시간으로 확인 - 공의회",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'지도. 2026년 지방선거 2차: 모든 결과를 지방자치단체별로 실시간으로 확인 - 공의회' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 France의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 17:30:40 GMT"
+                ],
+                "original_title": "CARTE. Second tour des municipales 2026 : retrouvez tous les résultats en temps réel, commune par commune - Public Sénat"
+            },
+            {
+                "title": "라이브, 중동 전쟁: 이란은 이스라엘을 향해 새로운 미사일을 발사하고 발전소가 표적이 될 경우 \"지역 전체의 에너지 및 석유 현장\"을 공격하겠다고 위협했습니다-Le Monde.fr",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'라이브, 중동 전쟁: 이란은 이스라엘을 향해 새로운 미사일을 발사하고 발전소가 표적이 될 경우 \"지역 전체의 에너지 및 석유 현장\"을 공격하겠다고 위협했습니다-Le Monde.fr' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 France의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 16:38:48 GMT"
+                ],
+                "original_title": "EN DIRECT, guerre au Moyen-Orient : l’Iran tire de nouveaux missiles sur Israël et menace d’attaquer les « sites énergétiques et pétroliers dans toute la région » si ses centrales électriques sont visées - Le Monde.fr"
+            },
+            {
+                "title": "2026년 로제르 지방선거: 정오에 두 번째 라운드의 참여율을 알아보세요 - Midi Libre",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'2026년 로제르 지방선거: 정오에 두 번째 라운드의 참여율을 알아보세요 - Midi Libre' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 France의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 11:12:00 GMT"
+                ],
+                "original_title": "Municipales 2026 en Lozère : découvrez le taux de participation de ce second tour à midi - Midi Libre"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:26"
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "2026년 정의 국민투표, 오늘 투표: 실시간 뉴스 - la Repubblica",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'2026년 정의 국민투표, 오늘 투표: 실시간 뉴스 - la Repubblica' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Italy의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 17:17:00 GMT"
+                ],
+                "original_title": "Referendum Giustizia 2026, oggi si vota: le news in diretta - la Repubblica"
+            },
+            {
+                "title": "보시, 폰티다의 장례식 라이브 | Salvini는 \"녹색 셔츠를 벗으세요!\"라고 도전했습니다. 그리고 \"도둑질하는 로마\"라는 슬로건이 돌아옵니다 - Corriere Milano",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'보시, 폰티다의 장례식 라이브 | Salvini는 \"녹색 셔츠를 벗으세요!\"라고 도전했습니다. 그리고 \"도둑질하는 로마\"라는 슬로건이 돌아옵니다 - Corriere Milano' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Italy의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 13:50:00 GMT"
+                ],
+                "original_title": "Bossi, i funerali a Pontida in diretta | Salvini contestato: «Togli la camicia verde!». E torna lo slogan «Roma ladrona» - Corriere Milano"
+            },
+            {
+                "title": "이란 전쟁, 액시오스: \"트럼프는 테헤란과 협상할 팀을 만들고 있다.\" 라이브 - 스카이 TG24",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란 전쟁, 액시오스: \"트럼프는 테헤란과 협상할 팀을 만들고 있다.\" 라이브 - 스카이 TG24' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Italy의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 19:49:06 GMT"
+                ],
+                "original_title": "Guerra Iran, Axios: \"Trump sta creando una squadra per negoziare con Teheran\". LIVE - Sky TG24"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:35"
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "이란 공격에 대해 미 국방장관과 군사 데이터가 다르다 - CNN 브라질",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란 공격에 대해 미 국방장관과 군사 데이터가 다르다 - CNN 브라질' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Brazil의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 07:00:21 GMT"
+                ],
+                "original_title": "Secretário de defesa dos EUA e dados militares diferem sobre ataques ao Irã - CNN Brasil"
+            },
+            {
+                "title": "이란, 인프라 공격 시 미국 에너지 기지 위협 - CNN 브라질",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란, 인프라 공격 시 미국 에너지 기지 위협 - CNN 브라질' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Brazil의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 00:51:22 GMT"
+                ],
+                "original_title": "Irã ameaça bases de energia dos EUA caso infraestrutura seja atacada - CNN Brasil"
+            },
+            {
+                "title": "쿠바, 일주일도 채 안 돼 두 번째 전국 정전 사태 - Prime Time Zone",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'쿠바, 일주일도 채 안 돼 두 번째 전국 정전 사태 - Prime Time Zone' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Brazil의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 10:41:24 GMT"
+                ],
+                "original_title": "Cuba sofre segundo apagão nacional em menos de uma semana - Jovem Pan"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:41"
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "이란, 트럼프의 48시간 최후통첩 이후 호르무즈 해협 폐쇄 및 발전소 공격 위협 - CTV News",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란, 트럼프의 48시간 최후통첩 이후 호르무즈 해협 폐쇄 및 발전소 공격 위협 - CTV News' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Canada의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 16:11:12 GMT"
+                ],
+                "original_title": "Iran threatens to close Strait of Hormuz and hit power plants after Trump’s 48-hour ultimatum - CTV News"
+            },
+            {
+                "title": "'사람들은 피곤하다:' 인도주의적 임무를 수행하는 캐나다인들이 쿠바에서의 삶을 묘사합니다 - CTV 뉴스",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "''사람들은 피곤하다:' 인도주의적 임무를 수행하는 캐나다인들이 쿠바에서의 삶을 묘사합니다 - CTV 뉴스' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Canada의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 11:22:28 GMT"
+                ],
+                "original_title": "'People are tired:' Canadians on humanitarian mission describe life in Cuba - CTV News"
+            },
+            {
+                "title": "Poilievre는 'Joe Rogan Experience'인터뷰를 직접 준비했다고 보수당 캠페인 관리자는 말합니다 - CTV News",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'Poilievre는 'Joe Rogan Experience'인터뷰를 직접 준비했다고 보수당 캠페인 관리자는 말합니다 - CTV News' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Canada의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 09:00:00 GMT"
+                ],
+                "original_title": "Poilievre set up ‘Joe Rogan Experience’ interview himself, Conservative campaign manager says - CTV News"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:46"
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "NASA, Russian Progress 우주선에 문제 보고 - Interfax",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'NASA, Russian Progress 우주선에 문제 보고 - Interfax' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Russia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 15:13:00 GMT"
+                ],
+                "original_title": "NASA сообщило о неполадках на российском корабле \"Прогресс\" - Интерфакс"
+            },
+            {
+                "title": "Oleg Kononenko가 우주 비행사 훈련 센터 책임자로 임명됨 - Interfax",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'Oleg Kononenko가 우주 비행사 훈련 센터 책임자로 임명됨 - Interfax' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Russia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 14:21:00 GMT"
+                ],
+                "original_title": "Олег Кононенко назначен начальником Центра подготовки космонавтов - Интерфакс"
+            },
+            {
+                "title": "트럼프와이란은 에너지 시설을 공격하겠다는 위협을 교환했습니다-Vedomosti",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'트럼프와이란은 에너지 시설을 공격하겠다는 위협을 교환했습니다-Vedomosti' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Russia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 14:37:11 GMT"
+                ],
+                "original_title": "Трамп и Иран обменялись угрозами нанесения ударов по энергетическим объектам - Ведомости"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:52"
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "트럼프, 이란에 호르무즈 해협 개방 촉구 최후통첩 - 라요르나다",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'트럼프, 이란에 호르무즈 해협 개방 촉구 최후통첩 - 라요르나다' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Mexico의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 13:56:00 GMT"
+                ],
+                "original_title": "Ultimátum de Trump a Irán para que abra el estrecho de Ormuz - La Jornada"
+            },
+            {
+                "title": "이스라엘 남부서 이란 공격으로 120명 부상 - dw.com",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이스라엘 남부서 이란 공격으로 120명 부상 - dw.com' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Mexico의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 15:27:58 GMT"
+                ],
+                "original_title": "Reportan 120 heridos por ataques iraníes en el sur de Israel - dw.com"
+            },
+            {
+                "title": "트럼프, 전 FBI 국장 사망에 \"기쁘다\" 썼다 - Aristegui Noticias",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'트럼프, 전 FBI 국장 사망에 \"기쁘다\" 썼다 - Aristegui Noticias' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Mexico의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sat, 21 Mar 2026 18:02:00 GMT"
+                ],
+                "original_title": "'Me alegro' escribió Trump, ante la muerte del ex director del FBI - Aristegui Noticias"
+            }
+        ],
+        "last_updated": "2026-03-22 19:53:58"
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "트럼프, 이란에 호르무즈 해협 48시간 시한 제시 - The Age",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'트럼프, 이란에 호르무즈 해협 48시간 시한 제시 - The Age' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Australia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 06:45:00 GMT"
+                ],
+                "original_title": "Trump gives Iran 48-hour deadline on Strait of Hormuz - The Age"
+            },
+            {
+                "title": "SA 선거에서 One Nation의 급증과 자유당의 붕괴는 호주 정치의 구조적 변화를 드러냅니다 - The Conversation",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'SA 선거에서 One Nation의 급증과 자유당의 붕괴는 호주 정치의 구조적 변화를 드러냅니다 - The Conversation' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Australia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 02:03:00 GMT"
+                ],
+                "original_title": "One Nation’s surge and Liberal Party’s collapse in SA election reveal tectonic shifts in Australian politics - The Conversation"
+            },
+            {
+                "title": "Malinauskas Mandate: SA 총리는 어떻게 미국에서 가장 강력한 정치인이 되었는가 - The Age",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'Malinauskas Mandate: SA 총리는 어떻게 미국에서 가장 강력한 정치인이 되었는가 - The Age' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Australia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 09:00:00 GMT"
+                ],
+                "original_title": "The Malinauskas Mandate: How the SA premier became the nation’s most formidable politician - The Age"
+            }
+        ],
+        "last_updated": "2026-03-22 19:54:04"
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "트인 구조에 찌든 기름때, 대피로 미비…대전 공장 화재 참사 키웠다 - 한겨레",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'트인 구조에 찌든 기름때, 대피로 미비…대전 공장 화재 참사 키웠다 - 한겨레' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 South Korea의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 11:42:00 GMT"
+                ],
+                "original_title": "트인 구조에 찌든 기름때, 대피로 미비…대전 공장 화재 참사 키웠다 - 한겨레"
+            },
+            {
+                "title": "국힘, 대구시장 주호영·이진숙 전격 컷오프에···“무소속 출마” “납득 못해” 반발 - 경향신문",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'국힘, 대구시장 주호영·이진숙 전격 컷오프에···“무소속 출마” “납득 못해” 반발 - 경향신문' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 South Korea의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 11:00:00 GMT"
+                ],
+                "original_title": "국힘, 대구시장 주호영·이진숙 전격 컷오프에···“무소속 출마” “납득 못해” 반발 - 경향신문"
+            },
+            {
+                "title": "국힘 공관위, 오세훈 등 면접… “서울 6명중 3명 추려 본경선 검토” - 동아일보",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'국힘 공관위, 오세훈 등 면접… “서울 6명중 3명 추려 본경선 검토” - 동아일보' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 South Korea의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 19:30:00 GMT"
+                ],
+                "original_title": "국힘 공관위, 오세훈 등 면접… “서울 6명중 3명 추려 본경선 검토” - 동아일보"
+            }
+        ],
+        "last_updated": "2026-03-22 19:54:06"
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "MAKI, Yaqut가 가택연금된 것에 대해 KPK를 비판: 차별 - detikNews",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'MAKI, Yaqut가 가택연금된 것에 대해 KPK를 비판: 차별 - detikNews' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Indonesia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 09:16:22 GMT"
+                ],
+                "original_title": "MAKI Kritik KPK soal Yaqut Jadi Tahanan Rumah: Diskriminasi - detikNews"
+            },
+            {
+                "title": "마침내 이란, 장거리 탄도미사일 사용, 이스라엘이 유럽에 경고 - CNBC 인도네시아",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'마침내 이란, 장거리 탄도미사일 사용, 이스라엘이 유럽에 경고 - CNBC 인도네시아' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Indonesia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sat, 21 Mar 2026 23:20:00 GMT"
+                ],
+                "original_title": "Akhirnya Iran Pakai Rudal Balistik Jarak Jauh, Israel Warning Eropa - CNBC Indonesia"
+            },
+            {
+                "title": "자카르타 동부에서 이라크 시민 시리 전남편에 의해 살해된 여성은 음폭 노리의 손자로 밝혀졌다 - detikNews",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'자카르타 동부에서 이라크 시민 시리 전남편에 의해 살해된 여성은 음폭 노리의 손자로 밝혀졌다 - detikNews' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Indonesia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 09:10:58 GMT"
+                ],
+                "original_title": "Wanita Tewas Dibunuh WN Irak Eks Suami Siri di Jaktim Ternyata Cucu Mpok Nori - detikNews"
+            }
+        ],
+        "last_updated": "2026-03-22 19:54:12"
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "이란이 이스라엘 아라드 시에 미사일 공격을 가해 84명이 부상했고 10명이 중상을 입었다.",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란이 이스라엘 아라드 시에 미사일 공격을 가해 84명이 부상했고 10명이 중상을 입었다.' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Turkey의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 07:26:28 GMT"
+                ],
+                "original_title": "İran'ın İsrail'in Arad kentine düzenlediği füze saldırısında 10'u ağır 84 kişi yaralandı - Anadolu Ajansı"
+            },
+            {
+                "title": "국방부: 카타르 헬기 추락으로 터키인 3명 순교 - Bloomberght",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'국방부: 카타르 헬기 추락으로 터키인 3명 순교 - Bloomberght' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Turkey의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 10:06:06 GMT"
+                ],
+                "original_title": "MSB: Katar'daki helikopter kazasında 3 Türk personel şehit oldu - Bloomberght"
+            },
+            {
+                "title": "이스탄불 파티흐에서 건물 2채 붕괴 - TRT 뉴스",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이스탄불 파티흐에서 건물 2채 붕괴 - TRT 뉴스' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Turkey의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 17:59:14 GMT"
+                ],
+                "original_title": "İstanbul Fatih'te 2 bina çöktü - TRT Haber"
+            }
+        ],
+        "last_updated": "2026-03-22 19:54:19"
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "이란 미사일 92% 요격…이스라엘 대공방어 알아보자 - 아랍어",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이란 미사일 92% 요격…이스라엘 대공방어 알아보자 - 아랍어' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Saudi Arabia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 14:27:00 GMT"
+                ],
+                "original_title": "92 % من صواريخ إيران اعترضت.. تعرف على دفاعات إسرائيل الجوية - العربية"
+            },
+            {
+                "title": "호르무즈 해협 - 트럼프는 이란에게 48시간을 주고 이란은 응답할 것이다 - dw.com",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'호르무즈 해협 - 트럼프는 이란에게 48시간을 주고 이란은 응답할 것이다 - dw.com' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Saudi Arabia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 10:34:00 GMT"
+                ],
+                "original_title": "مضيق هرمز ـ ترامب يُمهل إيران 48 ساعة والأخيرة ترد - dw.com"
+            },
+            {
+                "title": "\"사우디 국방\": 리야드를 향한 탄도미사일 3기 발사 모니터링 - Sky News Arabia",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'\"사우디 국방\": 리야드를 향한 탄도미사일 3기 발사 모니터링 - Sky News Arabia' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Saudi Arabia의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 01:55:52 GMT"
+                ],
+                "original_title": "\"الدفاع السعودية\": رصد إطلاق 3 صواريخ باليستية باتجاه الرياض - سكاي نيوز عربية"
+            }
+        ],
+        "last_updated": "2026-03-22 19:54:25"
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "$LIBRA 사례: Novelli는 조세 피난처에 역외 기업 및 은행 계좌 네트워크를 구축했습니다. - La Nación",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'$LIBRA 사례: Novelli는 조세 피난처에 역외 기업 및 은행 계좌 네트워크를 구축했습니다. - La Nación' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Argentina의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 07:21:00 GMT"
+                ],
+                "original_title": "Caso $LIBRA: Novelli montó un entramado de sociedades offshore y cuentas bancarias en paraísos fiscales - La Nación"
+            },
+            {
+                "title": "최근 몇 년 동안 가장 큰 민간 프로젝트로 국가의 수출 매트릭스를 바꿀 준비가 되었습니다 - La Nación",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'최근 몇 년 동안 가장 큰 민간 프로젝트로 국가의 수출 매트릭스를 바꿀 준비가 되었습니다 - La Nación' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Argentina의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 03:49:00 GMT"
+                ],
+                "original_title": "La obra privada más grande de los últimos años está lista para cambiar la matriz exportadora del país - La Nación"
+            },
+            {
+                "title": "이스라엘 남부서 이란 공격으로 120명 부상 - dw.com",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'이스라엘 남부서 이란 공격으로 120명 부상 - dw.com' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 Argentina의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 15:27:58 GMT"
+                ],
+                "original_title": "Reportan 120 heridos por ataques iraníes en el sur de Israel - dw.com"
+            }
+        ],
+        "last_updated": "2026-03-22 19:54:30"
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 15.0,
+        "trends": [
+            {
+                "title": "DA 대변인, 연방 의회 부의장 선거에서 강제 퇴각을 이겼습니다 - News24",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'DA 대변인, 연방 의회 부의장 선거에서 강제 퇴각을 이겼습니다 - News24' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 South Africa의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 16:38:05 GMT"
+                ],
+                "original_title": "DA spokesperson beats forced retreat in race for deputy Federal Council chairperson - News24"
+            },
+            {
+                "title": "'이것은 완전한 거짓말': 대통령직은 SABC의 Face the Nation 취소에 대한 압력 주장을 반박했습니다. - IOL",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "''이것은 완전한 거짓말': 대통령직은 SABC의 Face the Nation 취소에 대한 압력 주장을 반박했습니다. - IOL' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 South Africa의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sun, 22 Mar 2026 07:37:10 GMT"
+                ],
+                "original_title": "'This is a complete lie': Presidency refutes claims of pressure over SABC's Face the Nation cancellation - IOL"
+            },
+            {
+                "title": "부패는 사람들의 삶을 어렵게 만든다 - Ramaphosa - eNCA",
+                "volume": "국가 주요 헤드라인 (속보)",
+                "summary": [
+                    "'부패는 사람들의 삶을 어렵게 만든다 - Ramaphosa - eNCA' 관련 이슈가 각국 포털 메인을 장식하고 있습니다.",
+                    "해당 뉴스는 현재 South Africa의 핵심 속보 헤드라인입니다.",
+                    "게시 시간: Sat, 21 Mar 2026 14:02:17 GMT"
+                ],
+                "original_title": "Corruption makes people's lives difficult - Ramaphosa - eNCA"
+            }
+        ],
+        "last_updated": "2026-03-22 19:54:35"
+    }
+}
