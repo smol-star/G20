@@ -46,16 +46,18 @@ def fetch_rss_news(gl, hl):
         items = root.findall('.//item')
         
         trends = []
-        # Get top 3 breaking news headlines
-        for item in items[:3]: 
+        # Get top 5 breaking news headlines
+        for item in items[:5]: 
             title = item.find('title').text
+            link = item.find('link').text if item.find('link') is not None else "#"
             pubDate = item.find('pubDate')
             date_str = pubDate.text if pubDate is not None else "방금 전"
             
             trends.append({
                 "original_title": html.unescape(title),
                 "traffic": "국가 주요 헤드라인 (속보)",
-                "pub_date": date_str
+                "pub_date": date_str,
+                "link": link
             })
         return trends
     except Exception as e:
@@ -94,7 +96,8 @@ def fetch_and_update_trends():
                 "title": translated_title,
                 "volume": traffic_str,
                 "summary": summary_lines,
-                "original_title": trend_str
+                "original_title": trend_str,
+                "link": t.get("link", "#")
             })
             
         if country not in data:
