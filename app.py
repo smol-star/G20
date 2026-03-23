@@ -53,7 +53,7 @@ def render_dashboard(data, kst_now):
                 category = t.get('category', '서브 이슈')
                 category_color = "#ff4bc6" if category == "메인 이슈" else "#4b88ff"
                 
-                st.markdown(f"### {idx+1}. <span style='color: {category_color}; font-size: 0.6em; border: 1px solid {category_color}; border-radius: 4px; padding: 2px 6px; vertical-align: middle; margin-right: 8px;'>{category}</span>{t['title']}", unsafe_allow_html=True)
+                st.markdown(f"<p style='font-size: 1.05em; font-weight: bold; margin: 8px 0 4px 0;'>{idx+1}. <span style='color: {category_color}; font-size: 0.72em; border: 1px solid {category_color}; border-radius: 4px; padding: 2px 6px; vertical-align: middle; margin-right: 8px;'>{category}</span>{t['title']}</p>", unsafe_allow_html=True)
                 
                 st.markdown(f"*(원문 뉴스 제목: {t['original_title']})*")
                 
