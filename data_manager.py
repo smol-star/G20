@@ -38,6 +38,10 @@ def reset_and_archive():
     
     pdf_path = os.path.join(save_dir, f"{date_str}.pdf")
     
+    json_path = os.path.join(save_dir, f"{date_str}.json")
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    
     ensure_font_exists()
     
     pdf = FPDF()
