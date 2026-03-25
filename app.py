@@ -53,7 +53,20 @@ def render_dashboard(data, kst_now):
                 category = t.get('category', '서브 이슈')
                 category_color = "#ff4bc6" if category == "메인 이슈" else "#4b88ff"
                 
-                st.markdown(f"<p style='font-size: 1.2em; font-weight: bold; margin: 6px 0 2px 0;'>{idx+1}. <span style='color: {category_color}; font-size: 0.65em; border: 1px solid {category_color}; border-radius: 4px; padding: 2px 6px; vertical-align: middle; margin-right: 8px;'>{category}</span>{t['title']}</p>", unsafe_allow_html=True)
+                # HOT 뱃지: 발행 시점이 3시간 미만인 경우
+                hot_badge = ""
+                pub_dt_str = t.get('pub_datetime_utc')
+                if pub_dt_str:
+                    try:
+                        from datetime import timezone
+                        pub_dt = datetime.strptime(pub_dt_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                        diff_hours = (datetime.now(timezone.utc) - pub_dt).total_seconds() / 3600
+                        if diff_hours < 3:
+                            hot_badge = "<span style='background: linear-gradient(135deg, #ff4500, #ff8c00); color: white; font-size: 0.6em; font-weight: bold; border-radius: 4px; padding: 2px 6px; vertical-align: middle; margin-right: 6px; letter-spacing: 0.5px;'>🔥 HOT</span>"
+                    except:
+                        pass
+                
+                st.markdown(f"<p style='font-size: 1.2em; font-weight: bold; margin: 6px 0 2px 0;'>{idx+1}. <span style='color: {category_color}; font-size: 0.65em; border: 1px solid {category_color}; border-radius: 4px; padding: 2px 6px; vertical-align: middle; margin-right: 8px;'>{category}</span>{hot_badge}{t['title']}</p>", unsafe_allow_html=True)
                 
                 st.markdown(f"*(원문 뉴스 제목: {t['original_title']})*")
                 

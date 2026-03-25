@@ -55,12 +55,15 @@ def fetch_rss_news(gl, hl):
             pubDate = item.find('pubDate')
             
             date_str = "방금 전"
+            pub_datetime_utc = None
             if pubDate is not None and pubDate.text:
                 try:
                     import email.utils
                     from datetime import timezone, timedelta
                     dt = email.utils.parsedate_to_datetime(pubDate.text)
-                    kst_dt = dt.astimezone(timezone.utc) + timedelta(hours=9)
+                    dt_utc = dt.astimezone(timezone.utc)
+                    pub_datetime_utc = dt_utc.strftime("%Y-%m-%dT%H:%M:%SZ")
+                    kst_dt = dt_utc + timedelta(hours=9)
                     date_str = f"{pubDate.text} ➡️ 한국시간 {kst_dt.strftime('%m월 %d일 %H:%M')}"
                 except:
                     date_str = pubDate.text
@@ -69,6 +72,7 @@ def fetch_rss_news(gl, hl):
                 "original_title": html.unescape(title),
                 "traffic": "국가 주요 헤드라인 (속보)",
                 "pub_date": date_str,
+                "pub_datetime_utc": pub_datetime_utc,
                 "link": link
             })
         return trends
@@ -120,7 +124,8 @@ def fetch_and_update_trends():
                 "volume": traffic_str,
                 "original_title": trend_str,
                 "link": t.get("link", "#"),
-                "pub_date": pub_date
+                "pub_date": pub_date,
+                "pub_datetime_utc": t.get("pub_datetime_utc")
             })
             
         all_keywords = []
