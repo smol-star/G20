@@ -91,8 +91,37 @@ if page == "실시간 뉴스 보드":
     if not data:
         st.info("데이터를 수집 중입니다. 백그라운드 수집기가 실행될 때까지 잠시만 대기해 주세요.")
     else:
-        kst_now = (datetime.utcnow() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M:%S (KST)")
-        render_dashboard(data, kst_now)
+        from datetime import datetime, timezone, timedelta
+        kst = timezone(timedelta(hours=9))
+        now_kst = datetime.now(kst)
+        today_str = now_kst.strftime("%Y-%m-%d")
+        history_dir = os.path.join("hourly_archive", today_str)
+        
+        options = ["⚡ 실시간 최신 (현재)"]
+        snapshot_files = {}
+        if os.path.exists(history_dir):
+            for file in sorted(os.listdir(history_dir), reverse=True):
+                if file.endswith(".json"):
+                    hour_str = file.replace(".json", "")
+                    label = f"🕒 오늘 {hour_str}시 기록"
+                    options.append(label)
+                    snapshot_files[label] = os.path.join(history_dir, file)
+                    
+        if len(options) > 1:
+            selected_time = st.selectbox("⏳ 시간대 선택 (오늘의 과거 기록 열람):", options)
+        else:
+            selected_time = options[0]
+            
+        if selected_time == "⚡ 실시간 최신 (현재)":
+            display_data = data
+            time_label = now_kst.strftime("%Y-%m-%d %H:%M:%S (KST)")
+        else:
+            with open(snapshot_files[selected_time], "r", encoding="utf-8") as f:
+                display_data = json.load(f)
+            time_label = f"{today_str} {selected_time.replace('🕒 오늘 ', '').replace('시 기록', '')}:00:00 (KST)"
+            st.info(f"선택하신 시간 단위({time_label})의 뉴스 트렌드입니다. 실시간과 순위나 내용이 다를 수 있습니다.")
+            
+        render_dashboard(display_data, time_label)
 
 else:
     st.title("📜 G20 과거 뉴스 기록 보관소")

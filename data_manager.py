@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from fpdf import FPDF
 import requests
 
@@ -25,14 +25,29 @@ def load_current_data():
 def save_current_data(data):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
+        
+    try:
+        kst = timezone(timedelta(hours=9))
+        now_kst = datetime.now(kst)
+        history_dir = os.path.join("hourly_archive", now_kst.strftime("%Y-%m-%d"))
+        os.makedirs(history_dir, exist_ok=True)
+        snapshot_file = os.path.join(history_dir, f"{now_kst.strftime('%H')}.json")
+        with open(snapshot_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+    except Exception as e:
+        print(f"Error saving snapshot: {e}")
 
 def reset_and_archive():
     data = load_current_data()
     if not data:
         return
         
-    date_str = datetime.now().strftime("%Y-%m-%d")
-    month_dir = datetime.now().strftime("%Y-%m")
+    kst = timezone(timedelta(hours=9))
+    # Archive the day that just ended (if run at midnight), or same day if run later. 
+    archive_time = datetime.now(kst) - timedelta(hours=1)
+    
+    date_str = archive_time.strftime("%Y-%m-%d")
+    month_dir = archive_time.strftime("%Y-%m")
     save_dir = os.path.join(ARCHIVE_DIR, month_dir)
     os.makedirs(save_dir, exist_ok=True)
     
@@ -46,7 +61,7 @@ def reset_and_archive():
     
     pdf = FPDF()
     pdf.add_page()
-    pdf.add_font("NanumGothic", "", FONT_PATH, uni=True)
+    pdf.add_font("NanumGothic", "", FONT_PATH)
     pdf.set_font("NanumGothic", size=16)
     
     pdf.cell(200, 10, txt=f"G20 트렌드 리포트 ({date_str})", ln=True, align='C')
@@ -54,23 +69,26 @@ def reset_and_archive():
     
     pdf.set_font("NanumGothic", size=10)
     
-    # data structure we expect: 
-    # data['logs'][timestamp] = list of trends
-    # or just data = list of latest trends
-    for country, tr_list in data.items():
+    for country, info in data.items():
+        # info는 dict: {"gdp_rank": ..., "trends": [...], ...}
+        if not isinstance(info, dict):
+            continue
+        trends = info.get("trends", [])
+        if not trends:
+            continue
+            
         pdf.set_font("NanumGothic", size=14)
         pdf.cell(200, 10, txt=f"[{country}]", ln=True)
         pdf.set_font("NanumGothic", size=10)
         
-        for idx, t in enumerate(tr_list):
-            # Write wrapped text instead of cell
-            issue_text = f"{idx+1}. {t['title']} (언급량: {t.get('volume', '알수없음')})"
+        for idx, t in enumerate(trends):
+            category = t.get('category', '서브 이슈')
+            issue_text = f"{idx+1}. [{category}] {t.get('title', '')}"
             pdf.multi_cell(0, 8, txt=issue_text)
             
-            # Write 3-line summary
-            summary = t.get('summary', [])
-            for s_line in summary:
-                pdf.multi_cell(0, 6, txt=f"  - {s_line}")
+            pub_date = t.get('pub_date', '')
+            if pub_date:
+                pdf.multi_cell(0, 6, txt=f"  보도: {pub_date}")
             pdf.ln(2)
         pdf.ln(5)
 
