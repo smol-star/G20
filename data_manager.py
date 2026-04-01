@@ -23,19 +23,26 @@ def load_current_data():
     return {}
 
 def save_current_data(data):
+    # 1. 항상 메인 파일 저장 (최우선, 절대 실패 불가)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
         
+    # 2. 시간별 스냅샷 저장: hourly_archive/YYYY-MM-DD/HH.json
     try:
         kst = timezone(timedelta(hours=9))
         now_kst = datetime.now(kst)
-        history_dir = os.path.join("hourly_archive", now_kst.strftime("%Y-%m-%d"))
-        os.makedirs(history_dir, exist_ok=True)
-        snapshot_file = os.path.join(history_dir, f"{now_kst.strftime('%H')}.json")
+        date_str = now_kst.strftime("%Y-%m-%d")
+        hour_str = now_kst.strftime("%H")
+        
+        snapshot_dir = os.path.join("hourly_archive", date_str)
+        os.makedirs(snapshot_dir, exist_ok=True)
+        
+        snapshot_file = os.path.join(snapshot_dir, f"{hour_str}.json")
         with open(snapshot_file, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
+        print(f"[Archive] 스냅샷 저장 완료: {snapshot_file}")
     except Exception as e:
-        print(f"Error saving snapshot: {e}")
+        print(f"[Archive] 스냅샷 저장 실패 (메인 파일은 정상 저장됨): {e}")
 
 def reset_and_archive():
     data = load_current_data()

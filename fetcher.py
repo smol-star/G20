@@ -188,4 +188,50 @@ def sort_countries(data):
     return sorted_data
 
 if __name__ == "__main__":
-    fetch_and_update_trends()
+    try:
+        fetch_and_update_trends()
+    except Exception as e:
+        import traceback
+        from datetime import timezone, timedelta
+        
+        kst = timezone(timedelta(hours=9))
+        now_str = datetime.now(kst).strftime("%Y-%m-%d %H:%M:%S KST")
+        
+        print("=" * 60)
+        print(f"[CRITICAL ERROR] 파이프라인 예외 발생. Fallback 데이터로 저장합니다.")
+        traceback.print_exc()
+        print("=" * 60)
+        
+        # 기존 데이터를 읽어서 유지하되, 맨 앞에 "갱신 지연" 안내만 삽입
+        from data_manager import load_current_data, save_current_data
+        data = load_current_data()
+        
+        if not data:
+            # 데이터가 아예 없을 경우에만 더미 데이터로 채움
+            data = {
+                "System Notice": {
+                    "gdp_rank": 0,
+                    "current_rank": 0,
+                    "spike_score": 0.0,
+                    "last_updated": now_str,
+                    "trends": [
+                        {
+                            "title": "갱신 일시 지연",
+                            "original_title": f"Pipeline Error: {str(e)[:150]}",
+                            "volume": "시스템 알림",
+                            "pub_date": now_str,
+                            "pub_datetime_utc": None,
+                            "link": "#",
+                            "category": "시스템 알림"
+                        }
+                    ]
+                }
+            }
+        else:
+            # 기존 데이터가 있으면 last_updated에 지연 메시지만 기록
+            for country in data:
+                if isinstance(data[country], dict):
+                    data[country]["last_updated"] = f"{now_str} (갱신 일시 지연)"
+        
+        save_current_data(data)
+        print("Fallback 데이터 저장 완료. 파이프라인 정상 종료(exit 0).")
