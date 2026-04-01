@@ -2,9 +2,8 @@ name: G20 Trends Auto Scraper
 
 on:
   schedule:
-    # Hourly fetch at 5 minutes past the hour (e.g. 01:05, 02:05)
-    # At 15:05 UTC (00:05 KST), it will run both the midnight archive and the first hourly fetch.
-    - cron: '5 * * * *'
+    # 매시 13분에 실행 (정각 혼잡 회피, GitHub Actions 서버 부하 분산)
+    - cron: '13 * * * *'
   # Enable manual trigger from GitHub UI
   workflow_dispatch:
 
@@ -30,11 +29,11 @@ jobs:
           
       - name: Execute Background Scripts
         run: |
-          # UTC 15:00 is KST 00:00 (Midnight)
+          # UTC 15:00 = KST 00:00 (자정). 크론이 :13분에 실행되므로 15시를 체크.
           current_hour=$(date -u +%H)
           
           if [ "$current_hour" == "15" ]; then
-            echo "Running Midnight Archive Task..."
+            echo "Running Midnight Archive Task (KST 00:13)..."
             python run_midnight.py
           fi
           
