@@ -27,36 +27,38 @@ def summarize_rss_batch(bundle_dict):
     """
     init_gemini()
     
-    prompt = """
-너는 전 세계 G20 국가의 실시간 RSS 뉴스 트렌드를 분석하여 가장 강렬한 '유튜브 쇼츠(Shorts) 대본'을 작성하는 베테랑 뉴스 에디터다.
+    # 국가명을 프롬프트에 명시하여 AI가 동일한 키를 반환하도록 강제
+    country_names = ", ".join(bundle_dict.keys())
+    
+    prompt = f"""너는 GDELT 및 Google News RSS 뉴스를 분석하는 글로벌 뉴스 에디터 시스템이다.
 
-[입력 데이터]
-- 각 국가별로 최근 3시간 동안 수집된 주요 뉴스 헤드라인들이 제공된다.
+[출력 규칙 — 최우선]
+- 응답의 첫 번째 문자는 반드시 {{ 이어야 한다.
+- JSON 앞뒤로 어떤 텍스트도, 마크다운 코드블록도 추가하지 마라.
+- "안녕하세요", "요약입니다", "알겠습니다" 같은 문구는 절대 출력하지 마라.
 
-[분석 포인트]
-- 단순히 뉴스 하나하나를 요약하지 마라.
-- 해당 국가에서 '현재 가장 뜨겁게 논의되고 있는 하나의 큰 흐름'이나 '가장 충격적인 사건'을 중심으로 입체적으로 재구성해라.
+[국가명 키 규칙]
+- 반드시 아래 영문 이름을 JSON 키로 그대로 사용할 것: {country_names}
 
-[출력 형식: JSON]
-{
-  "Country Name": {
-    "headline": "한글 뉴스 헤드라인 (3단어 내외)",
+[출력 형식]
+{{
+  "Country Name": {{
+    "headline": "한글 헤드라인 (3단어 내외)",
     "hook": "시청자의 스크롤을 멈추게 하는 강렬한 1줄 문장",
-    "script": "쇼츠 아나운서 리딩용 대본 (30초 분량, 3~4문장)"
-  },
+    "script": "쇼츠 대본 (30초, 3~4문장). 첫 단어부터 사건 핵심으로 직진."
+  }},
   ...
-}
+}}
 
-[절대 규칙]
-1. 인사말 절대 금지: "안녕하세요", "요약입니다" 등은 쓰지 마라.
-2. 강력한 훅(Hook)으로 시작: 대본 첫 문장부터 본론으로 돌진해라.
-3. 한국어로 답변해라.
+[분석 지침]
+- 단순 뉴스 나열이 아닌, 3시간치 기사들의 공통 흐름이나 가장 큰 사건을 하나로 통합해서 표현해라.
+- 한국어로 답변해라.
 
 [분석할 뉴스 목록]
 """
     for country, items in bundle_dict.items():
-        prompt += f"\n### COUNTRY: {country}\n"
-        for i, item in enumerate(items[:10]): # 분석 질을 위해 최대 10개 참고
+        prompt += f"\n### {country}\n"
+        for i, item in enumerate(items[:10]):
             title = clean_text(item.get('original_title', ''))
             prompt += f"{i+1}. {title}\n"
 

@@ -5,3 +5,5 @@ deep-translator
 schedule
 fpdf2
 requests
+google-generativeai
+python-dotenv
