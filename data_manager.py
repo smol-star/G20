@@ -89,14 +89,15 @@ def reset_and_archive():
         pdf.set_font("NanumGothic", size=10)
         
         for idx, t in enumerate(trends):
-            category = t.get('category', '서브 이슈')
-            issue_text = f"{idx+1}. [{category}] {t.get('title', '')}"
+            # 구 데이터('title')와 신 데이터('keyword') 모두 지원
+            issue_label = t.get('keyword', t.get('title', '이슈'))
+            hook_text = t.get('hook', '')
+            issue_text = f"{idx+1}. {issue_label}"
             pdf.multi_cell(0, 8, txt=issue_text)
             
-            pub_date = t.get('pub_date', '')
-            if pub_date:
-                pdf.multi_cell(0, 6, txt=f"  보도: {pub_date}")
-            pdf.ln(2)
+            if hook_text:
+                pdf.multi_cell(0, 6, txt=f"  → {hook_text[:100]}")
+
         pdf.ln(5)
 
     pdf.output(pdf_path)
