@@ -64,10 +64,10 @@ def summarize_rss_batch(bundle_dict):
 
     try:
         try:
-            model = genai.GenerativeModel('gemini-3-flash')
+            model = genai.GenerativeModel('gemini-2.0-flash')
             response = model.generate_content(prompt)
         except Exception:
-            model = genai.GenerativeModel('gemini-2.5-flash')
+            model = genai.GenerativeModel('gemini-2.0-flash-lite')
             response = model.generate_content(prompt)
             
         result_text = response.text.strip()

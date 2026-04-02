@@ -108,20 +108,25 @@ def fetch_and_update_trends():
         ai_results = ai_processor.summarize_rss_batch(batch_dict)
         
         # 3. 결과 매핑: AI 응답 국가명과 실제 국가명 매칭 (완화된 매칭)
-        for ai_country, ai_info in ai_results.items():
-            # 정확 일치 먼저
-            matched_country = ai_country if ai_country in G20_NEWS_CODES else None
-            # 부분 일치 폴백 (AI가 "Korea"로 돌려줄 경우 등)
-            if not matched_country:
-                for real_country in G20_NEWS_CODES:
-                    if ai_country.lower() in real_country.lower() or real_country.lower() in ai_country.lower():
-                        matched_country = real_country
-                        break
+        for country_key in batch_keys:
+            # AI 결과에서 일치하는 국가 찾기
+            ai_info = {}
+            for ai_country, ai_data in ai_results.items():
+                matched = ai_country if ai_country == country_key else None
+                if not matched:
+                    for real_country in G20_NEWS_CODES:
+                        if ai_country.lower() in real_country.lower() or real_country.lower() in ai_country.lower():
+                            if real_country == country_key:
+                                matched = real_country
+                                break
+                if matched:
+                    ai_info = ai_data
+                    break
             
-            if not matched_country:
-                print(f"  [경고] AI 응답 국가명 '{ai_country}' 매칭 실패. 건너뜁니다.")
+            matched_country = country_key
+            if matched_country not in country_news_payload:
                 continue
-            
+
             country, (gl, hl, gdp_rank) = matched_country, G20_NEWS_CODES[matched_country]
             kst = timezone(timedelta(hours=9))
             now_kst = datetime.now(kst)
@@ -129,20 +134,26 @@ def fetch_and_update_trends():
             # 대표 기사 (가장 최신 기사)
             rep_item = country_news_payload[matched_country][0]
             
+            # AI 실패 시 원본 제목을 Fallback으로 사용
+            headline = ai_info.get("headline") or rep_item.get("original_title", "주요 이슈")[:30]
+            hook = ai_info.get("hook") or f"{matched_country}의 최신 주요 뉴스입니다."
+            script = ai_info.get("script") or headline
+            
             data[country] = {
                 "gdp_rank": gdp_rank,
                 "spike_score": len(country_news_payload[matched_country]) * 5.0,
                 "previous_rank": data.get(country, {}).get("current_rank", gdp_rank),
                 "trends": [{
-                    "keyword": ai_info.get("headline", "주요 이슈"),
-                    "hook": ai_info.get("hook", ""),
-                    "script": ai_info.get("script", ""),
+                    "keyword": headline,
+                    "hook": hook,
+                    "script": script,
                     "original_title": rep_item.get("original_title", ""),
                     "link": rep_item.get("link", "#"),
                     "pub_datetime_utc": rep_item.get("pub_datetime_utc")
                 }],
                 "last_updated": now_kst.strftime("%Y-%m-%d %H:%M:%S KST")
             }
+
 
     # 4. 정렬 및 저장
     country_list = sorted(
