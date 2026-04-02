@@ -12,6 +12,26 @@ def init_gemini():
         raise ValueError("[AI] GEMINI_API_KEY가 환경변수에 없습니다. GitHub Secrets 또는 .env 파일을 확인하세요.")
     genai.configure(api_key=api_key)
 
+def get_gemini_model():
+    """사용 가능한 모델 목록을 조회하여 최선의 모델을 동적으로 선택합니다."""
+    init_gemini()
+    try:
+        available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+        
+        # 우선순위: 2.0-flash -> 1.5-flash -> pro
+        preferences = ['models/gemini-2.5-flash', 'models/gemini-2.0-flash', 'models/gemini-1.5-flash', 'models/gemini-pro']
+        for pref in preferences:
+            for m in available_models:
+                if pref in m:
+                    return genai.GenerativeModel(m)
+        
+        if available_models:
+            return genai.GenerativeModel(available_models[0])
+    except Exception as e:
+        print(f"[AI Model Error] 모델 조회 실패: {e}")
+        
+    return genai.GenerativeModel('gemini-1.5-flash')
+
 def clean_text(text):
     """토큰 절약을 위한 텍스트 정규화"""
     if not text: return ""
@@ -63,12 +83,8 @@ def summarize_rss_batch(bundle_dict):
             prompt += f"{i+1}. {title}\n"
 
     try:
-        try:
-            model = genai.GenerativeModel('gemini-2.0-flash')
-            response = model.generate_content(prompt)
-        except Exception:
-            model = genai.GenerativeModel('gemini-2.0-flash-lite')
-            response = model.generate_content(prompt)
+        model = get_gemini_model()
+        response = model.generate_content(prompt)
             
         result_text = response.text.strip()
         start = result_text.find('{')
