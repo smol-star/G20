@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "달 탐사 재개",
+                "hook": "반세기 만의 인류 귀환! 아르테미스 2호가 달을 향한 역사적인 여정을 시작했습니다.",
+                "script": "미국이 반세기 만에 달 유인 탐사를 재개했습니다. 아르테미스 2호가 성공적으로 발사되며 인류의 우주 탐사 새 장을 열었습니다. 10일간 달 궤도 비행 후 지구로 귀환할 예정이며, 전 세계의 이목이 집중된 가운데 미래 우주 비행의 초석을 다지고 있습니다.",
+                "original_title": "Trump says Iran conflict ‘nearing completion’ as he seeks to calm economic worries - The Washington Post",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPTEd5Z191UktSanlzMFlhV3lJOHFYZG5tSkJtSkVBNXZpcmNoaWZnLVM1QUdXTXJEZUFZdW05UWRmbkx6UmRIcGxka2hZSERkLVJBNWZwVU5sRW9mUUlGY1hRZFJOUk5EMVFpQ1JJOTUxNG05aHVxUTZDWThZZw?oc=5",
+                "pub_datetime_utc": "2026-04-02T06:00:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:32 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "우주 강국 도약",
+                "hook": "미국 달 미션에 맞서 중국도 우주 야심! 혁신 기술로 자체 위성 발사를 준비하며 강국 도약을 꿈꿉니다.",
+                "script": "중국이 미국 아르테미스 2호 발사에 발맞춰 우주 개발 야심을 드러냅니다. '슝안 1호' 위성 발사를 예고하며 기술 혁신과 산업 통합에 집중하고 있습니다. 이는 시진핑 주석의 '정치적 성과' 강조 기조와 맞물려 국가 발전의 새로운 동력으로 평가되며, 우주 강국 도약에 박차를 가하는 모습입니다.",
+                "original_title": "拾光纪·从雄安看政绩观，总书记这样要求狠抓落实“定下来的事” - politics.people.com.cn",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tZldUVUhFMmNhMU54VEVWTHFvMzNFMVV4Q3NnUElPYnB6LXl5Z0VteGQ5MmhwdVBEOXduUFZLdkFNcDJud3F6WmxfMDlVbWROcTk2OVdlelJqVGs5WjF2YXV6S2lzVUNaendScHg4ZERSQQ?oc=5",
+                "pub_datetime_utc": "2026-04-02T00:34:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:32 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "유럽 안보 위협",
+                "hook": "트럼프의 NATO 탈퇴 경고와 중동 위기, 유럽의 안보 우려와 유가 불안이 증폭됩니다.",
+                "script": "트럼프 전 대통령의 이란 전쟁 종결 발언과 NATO 탈퇴 위협이 유럽을 뒤흔들고 있습니다. 독일은 이에 대한 강력한 비판과 함께 유럽 안보 불안을 심각하게 우려합니다. 국제 에너지기구(IEA)는 중동 전쟁으로 인한 유럽의 석유 부족 가능성까지 경고하며 긴장감이 고조되고 있습니다.",
+                "original_title": "„Artemis 2“ auf dem Weg zum Mond „Die Toilette kann die ganze Nacht über benutzt werden“ - Tagesspiegel",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZWRFTEZJT3BjRENVNlM0ZERZbVFCYXN1dG5PSmF0bmtjRzFCTm9tSWxLcTRnTno0RFRKQ0J2RjlWZWdKeUdhZlNQOWRfQ29Xb3laMTNtNWpOSU5qaF8zT0dnelZPS2JScURQU19IWWZxb3NZRUxpSXY4NVg2dldNd2VxUEp5anJVemZZNmxYM1paNnNBT0VJR0RsUndMSm93NEEyNGNyMnZKVDRkeFNITkhEaHRWNlJfZlQzZFAyQktpaHdvMUNvdjFuQUtCdw?oc=5",
+                "pub_datetime_utc": "2026-04-02T08:36:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:32 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "중동 정세 불안",
+                "hook": "트럼프 연설 후 이란 전투 지속 선언, 호르무즈 해협 긴장이 일본 경제에 그림자를 드리웁니다.",
+                "script": "트럼프 전 대통령의 이란 관련 연설 이후 이란이 전투 지속을 선언하며 중동 정세가 불안합니다. 일본 정부 내에서는 장기화 우려의 한숨이 터져 나오고 있습니다. 영국은 호르무즈 해협 회의 참여를 요청하며, 일본 또한 이 지역 긴장에 대한 대응을 모색 중입니다.",
+                "original_title": "マクロスコープ：トランプ演説に政府内から「ため息」、専門家は再び長期化懸念 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54THhHdVgzUGdlT041VzNwTVpWTnB0OGFHWjYwYUx4b2FUYnQ4VzdYN2pheWNxdGlzQUpnOHdfVkdOZlJwd285LW0zQjVwZFN6WF9EVEhTUi01ekNxeUFRV2t5djV3azcteldlY0liUGxqQ2lTTk16cw?oc=5",
+                "pub_datetime_utc": "2026-04-02T06:13:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:32 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "중동 갈등 파장",
+                "hook": "이란-미국 충돌 격화 속, 인도 경제는 유가 상승과 관세 면제로 대응하며 촉각을 곤두세웁니다.",
+                "script": "미국과 이란의 갈등이 격화되자 인도는 즉각 경제적 파장을 대비합니다. 석유화학 주요 품목의 관세를 면제하며 유가 상승에 대응하고 있습니다. 주이란 인도 대사관은 자국민 안전을 강조하며 상황을 진정시키려 노력하는 등 중동 정세에 촉각을 세우고 있습니다.",
+                "original_title": "AAP removes Raghav Chadha as party's Rajya Sabha deputy leader, asks House not to allot him speaking time - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcVI1ODlnZ0FydkRHdk5vOVdqdnRfV0U5QXVOcEs4a3d1V2FCX3dVUzh6RGEwamstUE1kTTRXUEc5Um1MWHB3a1VITGtxUUhwTWxnZkFZcFNOR0xmUklEeEx6eTBCV1p3SmF2MXIyeV9heE5rQ0ZMSF9wRGJnLWJibUlDVHZVeERyeUZNMFJxSm8zamcxSzlRWmlVYzQ4SjJtaG1fdERCdzduRG5Od0RvOGRvWjlkZmRvUHkxZ2lhTTBrSnlTU2VRYVVKNWdnZFg2LXN4TloybUFpUFFMRkNWRkdWSDdTaUxnSTEyc2hTSXA2eDZfeVFOQW80M0EyVldRR2kwZm1CVQ?oc=5",
+                "pub_datetime_utc": "2026-04-02T07:52:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:32 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "중동 위기 심화",
+                "hook": "트럼프의 이란 전쟁 옹호 발언 후 유가 급등! 중동 위기가 전 세계 경제를 강타합니다.",
+                "script": "중동 위기가 국제 유가를 끌어올리며 전 세계 경제에 비상이 걸렸습니다. 도널드 트럼프 전 대통령의 이란 전쟁 옹호 발언 이후 상황은 더욱 악화되는 양상입니다. 전문가들은 트럼프의 관세 정책이 이미 글로벌 경제에 미친 영향까지 분석하며 중동 사태의 파장을 예의주시하고 있습니다.",
+                "original_title": "Middle East crisis live: oil prices climb after Trump defends Iran war in address to the nation - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa0c3SGFpVUZSY3VDelh2UWp2WDdmMFRERmFISnhGejNxYXVKeG9FSVZPcTJ6UFpsQVJOZkdiLVZ6cFMzcjltS0tUU2JlSkxNZFFTQmdJV2ljQXpaNzN2bmFUNmJNTkIxTF8zV2dpTzdGLThqSUF4Q012Z0NwY010YWJ2VlJGV3k5ejRSRDNtVW9ZLUxDOWVkb3BEcFJxUUN4ZU9TV0o2SHJrM3hmTmYzOVpEZXRoNHkwRnRvbE84VUZLRHhkdU8yb29WMTFFMTRROEpRR1JyNVk?oc=5",
+                "pub_datetime_utc": "2026-04-02T06:09:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:32 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "달 탐사 아르테미스",
+                "hook": "인류의 달 복귀 꿈, 아르테미스 2호의 여정이 시작되었습니다!",
+                "script": "인류의 달 복귀 프로젝트, 아르테미스 2호 미션이 성공적으로 발사되었습니다. 이번 임무는 50여 년 만에 유인 우주선을 달 궤도에 보내는 역사적인 발걸음으로, 기술적 도전과 함께 새로운 우주 탐사 시대를 알리고 있습니다. 하지만 우주선 내 화장실 문제 등 예상치 못한 상황도 발생하며, 우주 탐사의 복잡성을 다시 한번 보여주고 있습니다.",
+                "original_title": "EN DIRECT, guerre au Moyen-Orient : selon Trump, ses objectifs militaires sont presque « atteints » ; le détroit d’Ormuz s’ouvrira « naturellement » à la fin du conflit - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTXVWbWpjZ1ptVXpOOG0tbUszT2h0TjVvS3hzaWJYSHNnNzctdldZR01nR3RJS2V1ZVdiUmFmVThJQV9FOFpmVkJhNnRIbldkbEhKN0FtemZWVXAtcnV0d04tWlU4NTZPNWVxNGxnZWh5WDNvb216QlhkTC0zQ01icHk1OVY3dy1GOG9KYWx2MnlkT2VYZ0hZQXd1NGNocG1xVW5FeGhwRDFLN0FuY1l5dVowMWNhczF5bW1GazBCYXV3TDNrVTNET2ZSeG8xVVBYUGg5RldYcUZwSTJqLUFMdHpJX1VhQ3hDd3lTREpVSkh4a243TE40eHZGbi1QQ244TEpBeGp5TXNUb242REJoWGxqR0c0aUtzaFA2ZXhHdktEY0hlX0xSYzBCUHlWOFlmUW4wX1pOZ0hNQ0xUUHo0M3ZNVUdyMkpm?oc=5",
+                "pub_datetime_utc": "2026-04-02T05:33:55Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:56 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "이탈리아 기상재해",
+                "hook": "폭우와 강풍이 이탈리아를 강타하며 다리가 붕괴되고 철도가 폐쇄되는 등 큰 피해가 발생했습니다.",
+                "script": "이탈리아 중남부 지역에 심각한 악천후가 계속되면서 국가적 재해 상황이 벌어졌습니다. 강풍과 폭우로 아브루초, 마르케, 몰리세 지역에서 다리가 붕괴되고 강이 범람했으며, 이로 인해 아드리아 해안 철도 등 주요 교통망이 마비되었습니다. 당국은 여러 지역에 적색 경보를 발령하고 주민들에게 각별한 주의를 당부하며 긴급 대응에 나섰습니다.",
+                "original_title": "Maltempo in Abruzzo, Marche e Molise: crollato il ponte stradale sul Trigno | le notizie in diretta - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQUh6SGRuN1dRaExhWnZBSS12X1ZDZ0dKSm82TlJiQTBTOURqSmE4azNsenl6LTNUSkpVU0dnSVFaWXVWcDhZN1JDN2J5OW16R0IxcjRlTnc3Q2IzdUlHMXBwRjhsSHBxTnBweHlZdzk4YUkxTjRtUFdXdnZaekY4REFDMWFwWTdnbkJGZWxVRHAyZkFuLTBGUm04cWpNSXUyYzR4UVVSSU5RRDZzOWEyT280ZU4zRE5ITnNFZFBKONIBxAFBVV95cUxOZWpqbjNtQTNUUWNXRXp2WWd5NmUtYTU1Tk10OGtwbmxsSTBfZEF1Wks2MGQ2SkwzalJzS0k3VDd2Nml3UTRUZDVGNEsxUVBWRjlnUndGNnJqTG4zWFFNekhCQnB6RHZDSXJLeTFwWTU1c2hybVV4dHkzbTQ4bDM4U2h1UWNvbDEzeUtSb05LNjl2R1UyMndkVXFrR19VZWladjFYeExtWjQ0XzZjcU42WUVqNGpCczVfcjJoUEJEY3BmNXZQ?oc=5",
+                "pub_datetime_utc": "2026-04-02T08:43:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:56 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "모라에스 판사 스캔들",
+                "hook": "브라질 최고재판소 판사 부부의 개인 정보 유출 사건이 전직 시장 아들의 개입 의혹으로 확산되며 정국을 뒤흔들고 있습니다.",
+                "script": "브라질에서는 최고재판소 알렉상드르 데 모라에스 판사 부부의 개인 정보가 불법적으로 유출된 사건이 큰 파장을 일으키고 있습니다. 이 사건의 용의자로 전직 시장의 아들이 지목되면서 정치권과 사법부 간의 긴장이 고조되고 있습니다. 또한, 모라에스 판사 부부의 비행 기록이 구속된 인물과 연루된 사실이 드러나면서 이번 스캔들의 전모에 대한 의문이 증폭되고 있습니다.",
+                "original_title": "EUA vão intensificar ataques ao Irã nas próximas 3 semanas, diz Trump - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnI2SzBxd0VMcnJvbXJnWmFaSEp2cGFqakU5SmRsN0lFcnBYZlVTbzl5RV9IZzRjSW91Q21NbEotMHRKZkxKQmdCd3Nqekw2bS1CUi1mdmZKVUpKTS1Wengtdi1Lc3VHSVQyU0NGSDY2N0lFVmtGbm1OZFZNRC00OXFhak1uTW1rVzhxLUhrQlhVaFJJMGota195bXdhZnkzd2ZRZXRzRnZBYjEyTTBnd05UcE1xckZn?oc=5",
+                "pub_datetime_utc": "2026-04-02T04:18:22Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:56 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "캐나다 방공 시스템",
+                "hook": "캐나다 연방 정부가 기지 가가운에 최신 방공 시스템 구축을 위해 1억 7,200만 달러를 투입합니다.",
+                "script": "캐나다 연방 정부가 뉴브런즈윅주의 가가운 기지에 새로운 방공 시스템을 도입하기 위해 1억 7,200만 달러를 지원한다고 발표했습니다. 이는 캐나다의 국방 역량을 강화하고 영공 안보를 한층 더 공고히 하기 위한 중요한 조치입니다. 이 대규모 투자는 기존 방어 체계를 현대화하고, 빠르게 변화하는 안보 환경에 대응하기 위한 캐나다의 의지를 보여줍니다.",
+                "original_title": "Trump touts military success in Iran, but offers no timeline on exit strategy in primetime speech - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmVCT3pfa0k3bUxmNU1nVDhrZVRYUEZXWGdHZmc0QUxSY1k2SG82eWVJYlhXNjdrX2dWTFFnOHdUanIxeDEtSG5sVUhJS1VXMm5qZkNXT1VNNExBRmhEQ2Y1YUxGbTJBRFNVQkV1R1JLS19TRUprUWk1a1p4RHA4dlo4YmlOejJlbUUzWlhuUF9yUUtFTVlTSmlyOVBLSHFyZ2d3My1FeEZzcmp3M0R6SFdHOC1XYmFUc01wWFNIVGxNZm5vbXZSOTZ1THFpVnM?oc=5",
+                "pub_datetime_utc": "2026-04-02T02:25:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:56 KST",
+        "current_rank": 10
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공격",
+                "hook": "우크라이나 드론이 러시아 본토를 강타, 주요 인프라와 민간 시설에 대한 공격이 보고되었습니다.",
+                "script": "러시아 본토에 대한 우크라이나 드론 공격이 잇따라 발생하며 긴장이 고조되고 있습니다. 우파의 정유 시설과 주거용 건물, 그리고 터키 스트림 가스 파이프라인을 운영하는 가스프롬의 압축 스테이션까지 드론 공격의 표적이 되었습니다. 이러한 공격은 러시아 국내 안보에 대한 심각한 위협으로 인식되며, 러시아 당국은 즉각적인 대응에 나섰습니다.",
+                "original_title": "Кабмин РФ ввел запрет на экспорт бензина для производителей до конца июля - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QUzRqc1l2a1EtZ1VUdkNLZ3FEMnJiNG9oanBpaHE1dlN4TmI0Y0xSUWJFejV4dEc2bFE5MWt1Y200cmtlc2lNODFaZUZ0NFlhM1HSAUtBVV95cUxOQXhzdU9ZRjVEZ0U0VzBWdThRUUhrVF9NcEIwVUREZFZuX0xuOFlxMEZzOHF5ajJEZElfYzdRZkNWbEh4QnFKaWZsRTg?oc=5",
+                "pub_datetime_utc": "2026-04-02T06:17:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:56 KST",
+        "current_rank": 11
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "멕시코 대규모 단속",
+                "hook": "멕시코 정부가 조직적인 갈취 행위에 맞서 대규모 단속 작전을 펼쳐 100명 이상을 체포했습니다.",
+                "script": "멕시코 정부가 멕시코주에서 조직적인 갈취 범죄에 대한 대대적인 단속 작전을 성공적으로 수행했습니다. 이번 작전으로 총 102명이 체포되었으며, 이는 해당 지역의 만연한 범죄 조직에 강력한 경고 메시지를 보낸 것으로 평가됩니다. 정부는 시민들의 안전을 확보하고 법질서를 확립하기 위한 지속적인 노력을 강조하고 있습니다.",
+                "original_title": "Trump anuncia ataques \"muy fuertes\" contra Irán próximamente - DW.com",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2JqNmFvWUpmdFllcFBQZU84Qi14Tk1UWXZLblBhTy1TR18xOWs0cDZJNk9zb25yMjdZVTlxVzBQcjZjN192VjZGeHpOX3NDRDI5VWFHcWZZNEJFMWlUNEExX3BJb3ctOWdRdVkzLUJFWDFnaXpxQnpkeUJMQjVkMC1KT3E1eFZVVXc5RzM5c1ZyTEdza01MMmZ2RmljdXoxcFktYnFNckdyN0ll0gGsAUFVX3lxTE9ZMFN4OUdqZ19CZU5ObjB6WEpXTmRoSzA5ZGs4aTBCVVJ2UWxJU1hGVVY4SDI0OGVKMTRWbjY4R2Y4RmZQSkM1SDZpbnh3Z2hHNWV0YjhENDJ5SzM5aDMtdHhZVTU4RG5MbS0xTklDTHBxYlJrMW5VTUhfYVRSSjVvVWJhQmlIUDZUMjNGZHR5RnkzTzkwQjlHcHRCV0RUQkVXRXMzUjRDRDJOZGM?oc=5",
+                "pub_datetime_utc": "2026-04-02T03:29:49Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:46:56 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "중동 위기 고조",
+                "hook": "이란-미국 갈등 심화, 유가 폭등 우려 속 한국 경제 비상!",
+                "script": "중동발 지정학적 긴장이 고조되면서 한국 경제에도 비상이 걸렸습니다. 트럼프 전 대통령의 이란 관련 발언에 이란은 즉각 강경 대응을 예고, 홍해 봉쇄까지 언급했습니다. 이로 인해 국제 유가가 폭등할 조짐을 보이며, 국내 물가와 경제 전반에 큰 파장이 예상됩니다. 대통령실은 국난 극복을 위한 여야 협치를 제안하며 중동 위기 대응에 총력을 기울이고 있습니다.",
+                "original_title": "“한국전쟁 3년인데 32일 만에 이란 파괴”… 트럼프, 장기전 우려 달래기 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzdyS3RuSXlNSldqM2s5aGFHbld5RnJNMm5aVFpfZmFJZFlRaUFrcmdQbzEtVzF4YU5wN1lIV0lPeWo4VEtNOGRud2FIR0QtR0VvRmh5VnFtUGZKdGhTLWx1Y2NuM2I0WWVGa0VxXy1tbnBGMFh4M0dBX185VE45SFlXdE5jTUNTVHhKM0NFbkhyWGY5WU11Ml8xS2ptZ9IBsgFBVV95cUxPZll0Ynk1S0ZFRE1Tb2FDY21uaTEyY29pU1duWDd4bzZELVpyMHFBbmw1b3Z5MkY5SUFKaXoxWjNqeWNDaE9mMkd1V09qWVV4VmZHVlBUVUlUY2dVMnpCZVZFREZPTlpEMmdvYmRYS2lPekIxS2hHMWtNRnl1bHc4ZHE4c3FFLWo1N1Z1VlZILWp2WXFaRllUSmd3QnYyU2VLcVg2TnhteHpUMlQ5RFNPZzBn?oc=5",
+                "pub_datetime_utc": "2026-04-02T08:19:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:47:20 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "이란-이스라엘 충돌 격화",
+                "hook": "이란 미사일 공격, 이스라엘 보복 감행! 중동 긴장 최고조!",
+                "script": "중동 지역의 긴장이 최고조에 달했습니다. 이란이 이스라엘에 미사일 공격을 감행했고, 이스라엘은 이에 맞서 이란 내 핵심 목표물 타격을 완료했다고 밝혔습니다. 사우디아라비아 내무장관은 이란의 역내 침략 행위를 어떤 명분으로도 정당화할 수 없다고 강력히 비난했습니다. 트럼프 전 대통령까지 이란을 '석기 시대로 되돌리겠다'는 위협을 가하며 전운이 감돌고 있습니다.",
+                "original_title": "ترامب يهدد إيران \"بإعادتها إلى العصر الحجري\"، وإسرائيل تستيقظ على قصف إيراني - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtNEdyZ1JtME8xVHhLSUUzMU1hSXE5ZDFQN0xxLTBmYmdCZ0syZmZUVmp6QUlEYmxKajZ2SklVU3NBMm9rdEJ3NWxnVTBYRm1sRFBxMHJPYw?oc=5",
+                "pub_datetime_utc": "2026-04-02T06:00:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:47:20 KST",
+        "current_rank": 14
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "말비나스 영령 추모",
+                "hook": "말비나스 전쟁 44주년, 전국이 애국심으로 뜨겁게 물들다!",
+                "script": "말비나스 전쟁 44주년을 맞아 아르헨티나 전역에서 영령 추모 행렬이 이어지고 있습니다. 주지사들과 야당 지도자들이 티에라델푸에고에 모여 기념식을 가졌고, 로사리오에서는 감동적인 전야제가 열렸습니다. 국민들은 희생된 병사들을 기억하며 뜨거운 애국심을 표출하고 있습니다. 한편, 경제난과 정치적 갈등 속에서도 말비나스 이슈는 국민들을 하나로 묶는 중요한 계기가 되고 있습니다.",
+                "original_title": "Los crujidos políticos que complican la economía - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSks4aC0wR3FEVzhFX2FRSThjQ0RCQmNGWGw2U0NyMjVkUXF4QUltVXR4bE9DVzFlX1NPNUk3MlJPam9GZEhIU1N2RFFnRS1JdDYxMXlVRlFFVVMyX1pRYUUxSDdoWGRzSWRQOEJ5Snh0NmFKcnR3dTloWF9ja2l3bERqMkdtTlREQ0oxQ2g0eWpoblR6TWwxSEkxYXBkU0k?oc=5",
+                "pub_datetime_utc": "2026-04-02T01:05:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:47:20 KST",
+        "current_rank": 15
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공, 군대 파견",
+                "hook": "치솟는 범죄율에 맞서 남아공, 결국 군대까지 투입!",
+                "script": "남아프리카공화국이 치솟는 범죄율을 잡기 위해 케이프타운 등 핵심 지역에 군대를 전격 파견했습니다. 이는 심각한 민생 치안 불안을 해소하려는 특단의 조치이며, 이미 고질적인 인프라 문제와 경제적 압박에 시달리는 남아공에 또 다른 도전 과제를 안겨주고 있습니다. 비록 막대한 해외 투자가 약속되었지만, 여전히 계란 및 가금류 가격 상승과 물 부족 같은 생활 밀착형 문제들이 시민들을 괴롭히고 있습니다.",
+                "original_title": "LISTEN | More than 2,000 buses to travel to Moria as JMPD sets up 24-hour roadblocks - TimesLIVE",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmJoUjY3UlNZUDY1RVFzckRuaHB6cW9RcElYR3doS0ZmVXZoeTRlaC1uRHpxMDU3eHpYRlYza09yNDNiU1Zjem43a2Utc25XTmMzOFhUX3Q5ZkJrOFBqSmJ2LUxMRjlvVXl0SFNtQzZ3V3JIR0dJN3BLR1JKUncybThvV3VQb0k3VGJ1cU5pVVgzc0xURS1PVXA2V251SjU5al82NTR4ZlhfTkI1SVRqbnlLSnJrcFdRR054d1hoRXI1eHZu?oc=5",
+                "pub_datetime_utc": "2026-04-02T08:01:12Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:47:29 KST",
+        "current_rank": 16
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "인도네시아 강진 경보",
+                "hook": "동남아시아 흔든 7.4 지진, 쓰나미 경고에 호주 전역 긴장 고조!",
+                "script": "인도네시아 해역에서 발생한 규모 7.4의 강력한 지진이 동남아시아 전역을 강타하며 쓰나미 경보가 발령되었습니다. 호주 당국은 해안 지역에 즉각적인 경고를 내리고 주민들에게 안전에 유의할 것을 당부했습니다. 이번 지진은 과거 쓰나미 피해의 기억을 상기시키며, 지역 전체에 비상 경계 태세가 강화되고 있습니다. 국제 유가 상승 등 중동 위기까지 겹쳐 긴장이 고조되는 상황입니다.",
+                "original_title": "Middle East crisis live: oil prices climb after Trump defends Iran war in address to the nation - theguardian.com",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa0c3SGFpVUZSY3VDelh2UWp2WDdmMFRERmFISnhGejNxYXVKeG9FSVZPcTJ6UFpsQVJOZkdiLVZ6cFMzcjltS0tUU2JlSkxNZFFTQmdJV2ljQXpaNzN2bmFUNmJNTkIxTF8zV2dpTzdGLThqSUF4Q012Z0NwY010YWJ2VlJGV3k5ejRSRDNtVW9ZLUxDOWVkb3BEcFJxUUN4ZU9TV0o2SHJrM3hmTmYzOVpEZXRoNHkwRnRvbE84VUZLRHhkdU8yb29WMTFFMTRROEpRR1JyNVk?oc=5",
+                "pub_datetime_utc": "2026-04-02T08:32:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:47:20 KST",
+        "current_rank": 17
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "레바논 순국 조문",
+                "hook": "중동 분쟁, 인도네시아군 사망 소식에 전 국민 애도 물결!",
+                "script": "중동 분쟁의 여파로 레바논에서 인도네시아군 3명이 사망하는 비극이 발생했습니다. 유엔 안전보장이사회는 이스라엘의 행동을 강력히 규탄하며 사태 해결을 촉구했습니다. 이 비극적인 소식에 인도네시아 전역은 깊은 애도에 잠겼으며, 자국민 보호와 중동 평화에 대한 목소리가 더욱 커지고 있습니다. 한편 이란의 이스라엘 미사일 공격 등 중동 상황은 더욱 악화되고 있습니다.",
+                "original_title": "Dewan Keamanan PBB Kutuk Keras Israel Tewaskan 3 Prajurit TNI di Lebanon - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTVjenZNSzBFOUlJaGxhQ3NQOHVRcDRBZWh0U1V6U0FOOG9OSlpWWWlFcE1udkUxT2wxU290NGNoRFQ2Nm4yTnkwTUZ6Z0duUEdrS0pPa2IxZWpfN0p1MGhFZkpPVWtXcGxrZ1JPV3JwVHRMOExpOENROXdwVXU3TkIyeFItWU11VWVaRk91OWNYVmxNWDI3UzFTbTVYa1piTHJhTm5TTGJoYUg1T2xRV0VnT3hxZjZsUko00gHAAUFVX3lxTFBZY0lEdmlmQWVkVUl1ZFRFekNHM3hWU1MyT0JnUWFydW56MzFRc25VRFV5RHBvRGswelJZaUY5MWhlVmhseDZZTkJkdXdFdG5Fdlg4dDd4XzA5MkROd3VocWZkSU1ybC1CWm16Z0VJRDhsWS00UXZ3WXR1d2Y5dE13b21JcTJFODUyalN6UlB4aTV6NWV4Q2dodWpwUzRSblVSTTdRTW01QTVvWXBONkdic3V5WFc5RE1RZWhsUHNrbQ?oc=5",
+                "pub_datetime_utc": "2026-04-02T02:57:24Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:47:20 KST",
+        "current_rank": 18
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "팔레스타인법 제정 규탄",
+                "hook": "이스라엘, 팔레스타인 겨냥 법안 통과! 튀르키예 강력 반발 촉구!",
+                "script": "이스라엘 의회가 팔레스타인인을 겨냥한 논란의 법안을 통과시키자 튀르키예 정가가 격분했습니다. 의원들은 로프 배지를 착용하고 항의하며 이스라엘의 조치를 강력히 비판했습니다. 이는 튀르키예가 오랫동안 지지해 온 팔레스타인 대의에 대한 심각한 위협으로 받아들여지고 있으며, 중동 평화의 불안정성을 더욱 심화시키고 있습니다. 국내에서는 조기 총선 요구 등 정치적 긴장도 고조되고 있습니다.",
+                "original_title": "İBB davasında kritik duruşma. Ara kararda tahliyeler gerçekleşecek mi? - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEdsWXV6SmdodDgzMDQ4VEthQ1JBeFg4bmpkRGxESzAxU1JLVk9UNUJReFhJMFR6STRCLXliZXYyYXgyREdFcy1tSGhjRV91ZlpuWTE2dndtVnhDNzc5LV9ScWpicmdHQU90WmJZSlMyelVvS3JmbXc0LXlobVZtZmRnaDh2SlgxVzllMnYxV1ZabHc5Y0xFM3FtMEZfMENaRVl3ZjB2YjlYdw?oc=5",
+                "pub_datetime_utc": "2026-04-02T07:30:00Z"
+            }
+        ],
+        "last_updated": "2026-04-02 18:47:20 KST",
+        "current_rank": 19
+    }
+}
