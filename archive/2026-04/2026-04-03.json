@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미-이란 갈등 고조",
+                "hook": "중동 긴장 격화 속, 미군 수뇌부 전격 교체! 무엇이 문제인가?",
+                "script": "중동 정세가 심상치 않습니다. 미국이 이란 민간 시설을 폭격하고 이란은 미 F-35 격추를 주장하며 전운이 고조되고 있습니다. 이런 가운데 국방장관이 육군 참모총장을 전격 해임하며 미군 수뇌부에도 큰 변화가 일고 있습니다. 트럼프 전 대통령의 대이란 강경 정책이 다시 주목받고 있습니다.",
+                "original_title": "Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone. - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEs0LUZwd2FyU2RTMHo0Wnc2Y01ySklIM0pPczNyd1lEc0ZXQ0hUSXdkakRJcGdmSFRDSGpTcUN4OHlaZk9TSnlzMldYdzRCV3RteFZ0Tmo0TVpaWEo5WXJMQ25nZzNJbV9PV0dhVFd1cDY4M28tdDI5TGctY0o3bzI4aE4yQ3VjMEJDZg?oc=5",
+                "pub_datetime_utc": "2026-04-03T03:17:47Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:27:54 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "반부패 수사 심화",
+                "hook": "청명절 추모 분위기 속, 고위 관료 낙마 소식에 중국 사회가 술렁입니다!",
+                "script": "청명절을 맞아 순국선열을 추모하는 분위기 속에서도 중국의 반부패 사정은 멈추지 않고 있습니다. 마싱루이 전 장관 등 고위 관료들이 비리 혐의로 조사를 받거나 당적을 박탈당하며 처벌이 이어지고 있습니다. 이와 함께 당국은 배달 플랫폼 등 민생 분야의 규제 강화도 논의하고 있습니다.",
+                "original_title": "首都医科大学举办校党委理论学习中心组树立和践行正确政绩观学习教育读书班-首医要闻 - 首都医科大学",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KeERpZVg2bXNERmEwNFdkZTRQVlI1NDVUTklndUduZ0FibXJoRGw0MEV5VUhBQllNQnBsdEhYVVlJQjZLMGZGRF8tbk9ZVzRZZGdkRnA3LV9SQmxnbzVHNGFpcDRMZTN4b3ZXeGR1ZV81cmFBVTFibmlHeHA?oc=5",
+                "pub_datetime_utc": "2026-04-03T08:49:12Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:27:54 KST",
+        "current_rank": 2
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "중동 위기 고조",
+                "hook": "이란, 미 정유시설 공격 및 전투기 격추 주장! 중동의 전운에 유럽도 긴장합니다.",
+                "script": "중동 지역의 위기감이 고조되고 있습니다. 이란이 쿠웨이트 정유시설을 공격하고 미 F-35 전투기 격추를 주장하는 등 일촉즉발의 상황이 이어지고 있습니다. 이와 함께 미국에서는 페트 헤그세스 국방장관이 육군 참모총장의 사퇴를 요구하며 군 수뇌부의 변화도 주목받고 있습니다. 국내적으로는 겨울 폭풍 '데이브'가 예고되며 비상입니다.",
+                "original_title": "M&S calls for crackdown on ‘brazen, organised, aggressive’ retail crime - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWRtNlo4TkJJYy1pVF83enhHZ2FFWUtyZnF4MXE5a3diNEc1YTU2S0l5UFByZUtXRUVnTkhnUVJQbENTNDQyYzF0ckljcTZfUVBqNk9lM1BjeHQtbVpBbnB4bS1hZHJsTHNDUjVOQXktTnNIcjBoaDBWZVl0aEZEbVZhSk8xRmZtNFNqLTU2aUJDYXZnSXlwZGpLRmlDRUtT?oc=5",
+                "pub_datetime_utc": "2026-04-03T09:42:00Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:27:54 KST",
+        "current_rank": 3
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "중동 긴장 고조",
+                "hook": "프랑스, 중동 분쟁 영향으로 테러 경계 강화!",
+                "script": "중동 분쟁이 고조되며 프랑스에도 긴장감이 흐르고 있습니다. 이란과 관련된 오르무즈 해협 상황은 물론, 파리에서 발생한 테러 모의 사건 배후에 이란의 보복 심리가 언급되면서 당국이 촉각을 곤두세우고 있습니다. 프랑스는 역내 불안정성 심화에 대한 우려를 표명하고 있습니다.",
+                "original_title": "Rima Hassan de nouveau convoquée par la police judiciaire dans une autre affaire d'apologie du terrorisme - France Info",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUI1UUNuWEtHeG1KMmtDVkJKQWRqdDJoWmw4V1I5VWVub3RSVDR6WjMtNlJnaGozX0tOanlrdVZSaVY3TEllTjZWWXZUek5POFRqMG5hV2EwVTJJQ0FRNDVGRzNNR0dUWGN5MVdCWUZwVHZSUmVLc0VrU3YwUHJaZTlOMTVSenF5b1VZRHZCZTN4QkUtMTM3VVVNTDQwbmk5emEtMTAxeXo2TTh4ZkZ2dkp6NXpmMUZ6WXFUQmN5MA?oc=5",
+                "pub_datetime_utc": "2026-04-03T07:40:31Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:16 KST",
+        "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "이란-이스라엘 격돌",
+                "hook": "중동 전쟁 확산, 이탈리아 경제에 치명타 예고!",
+                "script": "이란과 이스라엘 간 충돌이 격화되면서 세계 경제에 비상이 걸렸습니다. 이란의 미사일이 이스라엘 북부를 강타하고 F-35 전투기가 격추되는 등 전면전 양상을 보입니다. 유가 폭등과 재정 적자 우려가 커지며 이탈리아 정부도 비상 상황을 주시하고 있습니다. 국내에서는 '우나바머' 방식의 테러를 모의한 용의자가 체포되었습니다.",
+                "original_title": "Gianmarco Mazzi nuovo ministro del Turismo, ha giurato al Quirinale con Meloni - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUdZM3FjVF84ZXRQQlN0SUVIQmxYRVgwVHlFT2syNnI5eHh0OXJsOU9wUGhKRFdxSVppdklnQi1RX3FrVVN6c291bW1INmlURDkwMHpPcTNpemZkQjl1Unp1VEZybXYyd3dpRVR5U3ZsVWZkUzhLSTI3MlpPX3JTSnV1c2xLazZTRDBJOVQ4XzBxQVVOdS1ndEozRDNobUJpZEJWaEpfbDV3TVpMelHSAbMBQVVfeXFMTmFUVDF0Wnl1Y0hJYklSWUwweHJSRll0ZG9Jc1REYWw3Qm84dldrV25ROWZLa1BWODRiM3FvN200Zld6YUU2STNzQzMyd3YwQ3hnc0dHOWxCZXB1VkwtWjVEWTVtaTdfLXdKbk4zRFNwMTVDVW5uQjdWeFAtRW5JcnByZkxuR3Q2ZFlSaXNSY05HazNxVkJCSWdVU09DRzNSWTJ1SVdpb2QzOWtWbVhHRjE5Snc?oc=5",
+                "pub_datetime_utc": "2026-04-03T07:18:52Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:16 KST",
+        "current_rank": 5
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "한-프랑스 정상 \"호르무즈 해협 내 안전한 해상수송로 ",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "한-프랑스 정상 \"호르무즈 해협 내 안전한 해상수송로 ",
+                "original_title": "한-프랑스 정상 \"호르무즈 해협 내 안전한 해상수송로 확보 협력\" - 대한민국 정책브리핑",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NeGJYNzZZLUZGUGhBQTZIU2poZVY0Snp4NDgtS09ydFQxOXREdnFMalNCR084OGhmWGczeS1FckUzSlprcHNvdENjUWJSSFFqWHkzMmxFRmJ4SzhxUzlBTjJLSC1Ha0hLYW1zVQ?oc=5",
+                "pub_datetime_utc": "2026-04-03T05:48:16Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:38 KST",
+        "current_rank": 6
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공: 내우외환",
+                "hook": "부패 스캔들, 경제 정책 논란, 치안 불안까지, 남아프리카공화국이 총체적 난국에 빠졌습니다.",
+                "script": "남아프리카공화국이 부패, 경제 불안, 그리고 치안 문제로 몸살을 앓고 있습니다. 1천4백만 랜드 규모의 PPE 입찰 비리가 드러나고, 라마포사 대통령의 대규모 경제 계획마저 '마케팅'이라는 비판에 직면했습니다. 한편, 케이프타운에 군대가 배치되고 불시 검문이 예고되는 등 치안 강화 노력이 이어지고 있지만, 내부 정치 갈등까지 겹쳐 남아공은 복합적인 위기에 직면했습니다.",
+                "original_title": "Tragic outcome for conjoined twin after historic separation surgery in Limpopo - IOL",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmtjWUlzSy1EZnNOeUlsQXhVdG95TWp3dGhBdm1YMG1MdmN0ZkJyY0doMldvSlJRXzcwNUVJcWJnZnRhYlA3MG5LZ19MbjBZN2k5SDBCLXlJZlZoZi1KRC11bHV3UXljdjR3MUZZMk1jaXZvTGZLWVVXYUhaeExHODVSRVZ4ZmRtcmZTdVdLTlNRNFNDQ2NrTFUwcVlfeTRUcjE4SUV0Zk9IbU5RV2hmTFFoT1F4QlRVUjNEM1NSdnJqZkJv?oc=5",
+                "pub_datetime_utc": "2026-04-03T11:03:59Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:47 KST",
+        "current_rank": 7
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "중동 확전 우려",
+                "hook": "기차역 테러 위협부터 중동 확전 우려까지, 독일에 드리워진 긴장의 그림자!",
+                "script": "독일이 국내외 불안정에 촉각을 곤두세우고 있습니다. ICE 열차 내에서 방화 및 테러 협박 사건이 발생해 충격을 주었고, 중동에서는 이란이 미국의 '도덕적 붕괴'를 비난하며 확전 가능성에 대한 우려가 커지고 있습니다. 한편, 트럼프 전 대통령의 나토 재고 발언에 대한 독일 내부의 고민도 깊어지고 있습니다.",
+                "original_title": "Fahrgäste leicht verletzt: Mann zündet Pyrotechnik in ICE und droht mit Anschlag - Tagesspiegel",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdUFKUmoxX3kxWW4tbWprZ2xxd0c2bnV1OExzZ3pQMER1amx0TWstTm1mQzNlSFFQRkIzSTBmcEJ1enlPRmNyb3dLWnBJS0g1bU9RT2hld3hoQXhLdUI5SjRLc0NvbUhPdkt3ZW1ld3RDdFhhdmkyaDRuRl9GQmtvMTNZR0VpdHZ5RlJORFdBRURfRzhkNndmM2RCdWtvTm1zU0dza3pfRVNwTlkxNS1rWnVtd1NrWjFoWTBTTUhNWE5QM2VWNVpvekI4SUE2bV9NTUJZSFNULUFyaFk?oc=5",
+                "pub_datetime_utc": "2026-04-03T08:20:00Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:27:54 KST",
+        "current_rank": 8
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "중동 정세 불안",
+                "hook": "이란의 미 전투기 격추 주장! 중동 긴장이 최고조에 달하며 일본도 촉각을 곤두세웁니다.",
+                "script": "중동 지역의 긴장이 최고조에 달하고 있습니다. 이란은 미군 F-35 전투기를 격추했다고 주장하며 상황은 더욱 악화되고 있습니다. 이와 함께 미국에서는 이란과의 전쟁 위기 속에 육군 참모총장이 전격 경질되는 등 군 수뇌부의 변화도 감지되고 있습니다.",
+                "original_title": "国民・榛葉幹事長「撤回しても撤回にならない」 中道・小川代表の「女性天皇」発言巡り - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZjNhRnJFU3QwMGVjY3lTSjNGR21kdjZsUmt2b0c5VUh4VUIxaVFQMWVXQk5iWWZwVzg4eHgwTkJrd2s4ZklUUHVrMVQ3SEs3UkhTSnFDS05GVVZpdVJFYzRRR0dmQjZDc2k4RzVUa1lOXzViTVE?oc=5",
+                "pub_datetime_utc": "2026-04-03T06:41:43Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:27:54 KST",
+        "current_rank": 9
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "미-이란 충돌 심화",
+                "hook": "이란의 미 F-35 격추 주장! 중동 긴장 속, 미국의 군 수뇌부 교체에 인도도 예의주시합니다.",
+                "script": "중동에서 미-이란 간 충돌 위협이 심화되고 있습니다. 이란은 두 번째 미 F-35 전투기를 격추했다고 주장했고, 이에 따라 미국에서는 랜드 조지 육군 참모총장이 해임되는 등 군 수뇌부의 변화가 감지되고 있습니다. 한편, 트럼프 전 대통령의 고관세 정책도 다시 거론되며 국제 경제에 영향을 미칠 전망입니다.",
+                "original_title": "Raghav Chadha Updates: MP Says Raised Public Issues, Day After Rajya Sabha Demotion - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjFTNVFrTlBGc1ZubG8wNHNTWXZXNG1DLTJNQThhcGZoemR5dmJmVHBkSi1fSWFXWWJPaEpURzd4dUxjX0tvUnQtOWtGalZNU25sTG9HRXJiMUVKWXAzbTBUM19aZmZ5TEU5TzZFazIxejJoQ04yV2VnNDBTSVJmZmxNZ3JNX0o2aDVDRVI2dTZuRnBJVzZTSmFGVEtpem1fUWpJdEJlNU9PY1lVRm11YUxGeFVTWEdHVGsybXl3aHc0b0lkcmfSAc4BQVVfeXFMUFY2eXBpR1BWbl95aUh1OXlpZmU2WEhZcUxyUXBZUlRIVlBGVE9oeElYTGFBMmU1clpNR2dmWGRwa0JUSzZyLUEyTmZXMWlacGtMU192ZnR4c0NSNVBmdmJBNnFfZTdjUTE1ckV5cVZHdjJVTjcyeXNSMmdCT2FjRzNrai1WX0N4MnlJTC1ZaDcwSW5ycEZGak45ZkRqTk5qa2FjTjhKdl9SOE5IamcwSG1xLWcwd3NKdHV2UVRtQ2JIcFdZZElmSlkxbDdmbHc?oc=5",
+                "pub_datetime_utc": "2026-04-03T08:44:54Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:27:54 KST",
+        "current_rank": 10
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "호르무즈 해협 논의",
+                "hook": "미국 빠진 40개국, 호르무즈 해협 재개방 긴급 논의!",
+                "script": "중동 긴장 속에 호르무즈 해협 재개방을 위한 국제적 논의가 뜨겁습니다. 미국을 제외한 40여 개국이 이 문제에 집중하고 있으며, 브라질은 미국의 이란 관련 핵무기 언급에 대해 비판적 시각을 드러냈습니다. 한편, 미국 국방부 장관은 육군 참모총장에게 사임을 요청하는 등 미국 내부에서도 변화가 감지됩니다.",
+                "original_title": "Sem os EUA, cerca de 40 países se reúnem para discutir a reabertura do Estreito de Ormuz. - jovempan.com.br",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1I0eU9tTDFfYnJDbWJ1aUVTdmlHenQ4Snd0NkEwU0tZTGFhNHdsNlhIdUdtM2Y5dm11MkNXN0FUZFQzSEFhLThEUDNmLWxRWFZVZ1NTLV9kOExYRWdSSFJWUXdOMDRKQlh1SzNZZVRxWWJ2bHFpcFNXMk96R2pfNEl5cno1WlhuT3k0bHhYeEkyX0R6QXBGTkxzeGpmcXZrMDBFN3dOMmNwQ2c2cEtJWkxCWkQ5QmJJVlpidk9MQ0cwT2NxZFN1UFVYUQ?oc=5",
+                "pub_datetime_utc": "2026-04-02T21:45:56Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:16 KST",
+        "current_rank": 11
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "원주민 권리 논란",
+                "hook": "캐나다, 원주민 권리법 중단 제안에 거센 파장!",
+                "script": "캐나다 브리티시컬럼비아주가 원주민 권리 법안 일부 중단을 제안하며 전국적인 논란이 일고 있습니다. 누차틀라트 원주민 부족이 토지 소유권 소송에서 승리한 가운데, 총기 규제 프로그램에 대한 주 정부와 연방 정부의 갈등도 심화되고 있습니다. 동시에 보수당은 유류세 인하를 촉구하는 등 경제 정책 논쟁도 뜨겁습니다.",
+                "original_title": "Trump fires Pam Bondi as U.S. attorney general - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkY2UFdjbklxejBYUTJvVmVnd1A0WHdBcTRRUHQ2VzlJTXpZZXJpMm43b201V2c2Z3lxY09mMGhNY01uZUt3RzB5cHcyMzBadmtGS292TlBGRlY4eThZSjY3SGhUOTlLZUFReWVKWTc2S0xoc19RdS1LOURDM1ljRjdpVm5yR3ZadUJjQ19LQVliTUtpalZ3TQ?oc=5",
+                "pub_datetime_utc": "2026-04-02T21:06:04Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:16 KST",
+        "current_rank": 12
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "러시아 경제 활력",
+                "hook": "러시아, 유가 상승에 힘입어 경제 활력 되찾나!",
+                "script": "러시아 경제가 유가 상승에 힘입어 긍정적인 신호를 보입니다. 3월 유가스 수입이 급증하고 신차 판매도 31%나 늘었습니다. 한편, 유인 우주선 오리온이 달 궤도 비행에 진입하며 우주 강국의 면모를 보였습니다. 우크라이나 드론 공격은 계속되지만, 내부적으로 경제 회복세가 뚜렷합니다.",
+                "original_title": "В работе приложений Сбера, ВТБ и Т-банка произошел сбой. Пользователи не могут перевести деньги и снять их в банкоматах - Meduza",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDZpV1dGUE5Hb09MZUhiQlFrYTk5VkNPLTdrUlVac3EzVUpVc2ZZQktONVNfQ21maGExVGpUajRPaVhwUDd4VDlKV1B6ajBKdTVfeFQzTnk3VVFMSldJVzhPTEFpUGNvR2UwaUMxYlp2V3FSendLb2ZaU0RjaEFDaUlJdmNnS0w1bXdaSUdWRW9kajRXQThITXdHOHJCcVNoMWdLVkNtVGN4VTdnbUx0QWZ1YmU4OFNDRVpOdW1IQzF1NUppTlE4dVZnbHduZUhxUThSUWx4MTJWRDU3RmN4eDU0Q0pCQdIB6wFBVV95cUxQV1d5RFFPVHZEb2xFNzhVNlY1YlN6NV9aUkhUVjRmTXVzSC1ObG9nM3dZTy1GQ0FsdkNyS2dGbTk5Q0EyeFFrbmlLWW92cmZOdEl1aHh4S29UbGNQZWRCMjlnNUx4NTRvSWhNMDF0RllVcTIxSHpiSW1XcDhiY2dHYXJUa2daQ1NSdUQxWEVOYlhtMmNmOHRiZDRNM3ZobVR3TlFTcFY0cnJSRXZKQmszRHg1Vkw3NkF4N0tMSlVMSk9lX3p1SV9sbkU0b0ROU0JDMnhxdGcwd0IzS1h5NFQyYnFMYlYwUU9zNGh3?oc=5",
+                "pub_datetime_utc": "2026-04-03T08:37:00Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:16 KST",
+        "current_rank": 13
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "외교장관 전격 사임",
+                "hook": "멕시코 외교 장관 전격 사임, 미 정책 영향 촉각!",
+                "script": "멕시코 후안 라몬 데 라 푸엔테 외교 장관이 건강상의 이유로 전격 사임하며 정국에 파장이 일고 있습니다. 동시에 트럼프 전 대통령이 의약품에 100% 관세를 부과하는 등 미국의 정책 변화가 멕시코에 미칠 영향에 대한 우려가 커지고 있습니다. 국내에서는 의문의 ‘비타민 혈청’ 사망 사건과 국영 석유기업 유출 사고 등 사회적 이슈도 계속되고 있습니다.",
+                "original_title": "EE.UU. destituye a jefe del Estado Mayor en plena guerra - DW.com",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQenU1cE56S2VJQzFJSGl3ZnF4UERHdnpralNVUEhsWFhpZnczb1FjeFVyQWc4aUVyTGpnVHJTcDFfTzJCMFc0VW5xSzdnTTluVDJEdV9LUFZWaWV1Q0tPd3ZHc0duYy0yX1FWYWozZGg5TzVyeG51NzFDZ2thejV2cmJJbkhLRGE2aVAzUGNyb0XSAZABQVVfeXFMT3NRck5TTlA1X0FjVDZTQUM3bl9iWFlkaVZFTmZONkdEZFp5bnFoaGdZNXg0ZWlDZ3pic2hKbklfcnVWV0xtTEFheGs2eDlId1RObWh3WjhTdWVHMk9sbEZfNlY3ZFo0bnJiYXRjNVU5MklSNmR0VzRpV0lTVmc4UHRVdW1acVV2R0pKNjV0THJx?oc=5",
+                "pub_datetime_utc": "2026-04-03T05:20:46Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:16 KST",
+        "current_rank": 14
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "What Trump's 100 per cent phar",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "What Trump's 100 per cent phar",
+                "original_title": "What Trump's 100 per cent pharmaceutical tariff means for Australia - SBS Australia",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdjJKMkFNX2E3MXFhN0VET1JHYURPdjBuZkFSSnVsTTBCRS00cDQ2cTJpQ19ibkZTRUI5cEoxbGR2TWYwd2Zha0doeXJYMmhDMFB3c0JsclFzYkJYX0l5c3NLQzRVNWNPNWZDXzlrMkxlWS0yLWRJRjBVdFFMOTZ5b3ZEWWMweHVKaWVnV1hEYmd0Qlc0cGZNd0JQd1VaWkN5ODJPOA?oc=5",
+                "pub_datetime_utc": "2026-04-03T01:58:58Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:38 KST",
+        "current_rank": 15
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Kajati Sumut Peringatkan Kajar",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Kajati Sumut Peringatkan Kajar",
+                "original_title": "Kajati Sumut Peringatkan Kajari Karo Buntut Kasus Amsal Sitepu - Kompas.com",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYk9qemszcVhkY2g5eVRFV1JyQ21fdUhDQmFMLU83WENkSDRuNmlZdmprMmtBaVA5S0FPdmVyOHBpMHZOM1kydDh6WkVBRTJ6OGRGMjhKd3pKYWxHaDBwOUxKMHFYMDc3Z3ptQTNVOVJIOWxIVnE5ZDZyaFd3Mk1zM3VCc09ickIzNEhKTFNpcXJlanBzM05NclVmbWpYYmJVcktXLVQ5OEQ2XzZUU0RsNGNCMlo0QQ?oc=5",
+                "pub_datetime_utc": "2026-04-03T04:38:00Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:38 KST",
+        "current_rank": 16
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Son dakika... Milyonlarca emek",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Son dakika... Milyonlarca emek",
+                "original_title": "Son dakika... Milyonlarca emekli bu haberi bekliyordu... Üç aylık zam oranı netleşti - Bigpara",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUUQxeXVRZE1ZSTdNZWxaT0x5d2tUeTBMZUZsRGFwZTlKSk9ldHRoLWU2SGxIVkN0TzQwdjhjU04teWJ2RDh3cnNRRDVERl9rV1liVkZrcWRSZmtXbE8xSFpmajdOc1BKcWY1d1Ayd2dFMmR2OTJHNkJ0LXdmRFEyT3JJdlRvUGdCSV8zUGtVb0pkdDhud1hhQjlTMW9XUmFWMXpIUnlMNk1qQ09DQW5QUUpPbGdfQ0ZBeXpGUjdJNFpTd09FMUE1S0J6dVI?oc=5",
+                "pub_datetime_utc": "2026-04-03T07:07:00Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:38 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "الحرب متواصلة.. إسرائيل تشير ل",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "الحرب متواصلة.. إسرائيل تشير ل",
+                "original_title": "الحرب متواصلة.. إسرائيل تشير لتوسيع الضربات وشظايا صواريخ إيران تسقط بحيفا - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQcjZDMEZTb1VxbHlfTUxCQ1ZVMFdZRmNGblRsLVJYSHo4NUczaVlBR2gwajB3VzltTVRTS0Z6U0dDM0owNzJiZzdJLUhjNUFod25nWWl0bEhUTEgwRG1Ba09hcU01MEtVMzhnRGhxamxaQ1hkdkhpYkJvdEFtTEROSGlWLUNtMjJEM3YzUFI5MVY3VklSVHdObTFobVphWm9JMGhLR21NRVpwTl95ckd1QXB4V3ZDX2V0cnVmaExFcXlJa18tWmt0b1JUVE51Z3JhbHZpOTk5NGpLT0xYYmRPcG90ekhsN0xZUEN6S1k2VmJVbmFwZWJka0hLN0d3RjJkWlRZb2F5cUM0Z3ZCTnRLZldLY3BzM0ROUW1WLTF5WktSb0VzMmM0R0pKYjFfaWxQY21YTGs2RXVlajZoRENUc3dDU291VWh4dEtqdjdJUFRPUkNNemVrUENfNklqdUxBd01fd2NvYXpacXZTODNGM2NZc0Z3RW5NdTVuZ0NJVmNyVGtrZFNCOTRQUEh0MnBCWkVXMi1TSmxUQjJKeks5MFJqZXhGaExndE9CV2RxTklxNjBTTTBxQWpFY3dWTTZ3V3lzZkVoV1BEMXhjNFJGTXh6QzE5TEJfS0tPcTlZM1R3TGphVm1MZDdydjDSAfIDQVVfeXFMTi1hSTFNV1hweWtmb2RfcmFPNjg2VloyZ0g0VkpjRFcwcmw1cjl6MHZQYkdobVktY1MtbGljdF93LVZtX3pwZ0YweVR3YlptTFpQUUc5VTMzd2NSaF9wTFQ2N3ZKbGxRTWpiaVp2VFl4QlVSa3h3MDZ3cnFPaXc4RnBxcEN1QWRGajNpZkx3QmlITnQtVlFiZjBpV3g0LURFMnU0Z3BPbFJXcjZZLW1oRHhtRXVsOHlVUEVsSk9WZ3IzbThzMy1zODJQWlJGMWdBYVRRZm5OampwTXlLRXNJWXB3MldELXhlSnh1YXlad2t1RFpRVG1rNTZsXzZEY3ZfVlIxLWtpUU1pcEhMVDRJSmI2cUF0TGNSYUk4T1dxcjBLTGxIMU1XaVNaQUI5ODQyVjhXUU1IQkM4Vjk5Y1hGOG1tcTlhcDlJOW9oZkt4dlRISFJuUlNrYVFBbXRyZWM5eFJQTTFVOGZFdVRSajlZOU1tYmRYSFhMSXllVlp5Nzl2d3lrSUYzU0xXX1E4cHZaT2lRbkhGQVYzemZzRVJRZ21HODJtNkFVZ0FHV29ZNkxyWUV5eHRBU1RodXZpLTFqMnZqZkVCQXBUcnVVenhnR1A4VzVLWkJCX25Dbkh0Z2ZxZEJjX015OWtNZ3IxSDBuRFJB?oc=5",
+                "pub_datetime_utc": "2026-04-03T08:25:14Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:38 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "El Gobierno de Milei expulsa a",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "El Gobierno de Milei expulsa a",
+                "original_title": "El Gobierno de Milei expulsa al máximo representante diplomático de Irán en Argentina - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9STTF3YXhfM2stU1AzZVBfN0VjU0VteFJJVDg3aXhnMVRscmJTcjh1NUxmT2hnUXA1VjBhSjBkZ1Fza1FiMnJITUM4SEFKclpJdnF6QTJ5Um9YUjVGTFZVbWFpZll0cGtlN0s0ZzNVcUJVR2I0N09Dc09OY1FQcmJDaFpPTFVhbXlJT0RDdHlZWWlpOUpyTUNNZVdCYUlXWTNjZklPOXhxSFVJV1BCbDRtYVhJLXprQW1Kcnp5cGxsQ1FKbTdoRFp3?oc=5",
+                "pub_datetime_utc": "2026-04-02T19:24:57Z"
+            }
+        ],
+        "last_updated": "2026-04-03 20:28:38 KST",
+        "current_rank": 19
+    }
+}
