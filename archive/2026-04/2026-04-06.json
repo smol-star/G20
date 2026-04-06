@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 이란 압박",
+                "hook": "중동 정세, 트럼프의 강경 발언으로 다시 격화됩니다.",
+                "script": "트럼프 전 대통령이 이란에 대한 강력한 압박을 가하며 중동의 긴장감이 고조되고 있습니다. 호르무즈 해협 개방을 요구하고, 미국 병사 구출을 '부활절의 기적'이라 칭하며 종교적 수사까지 동원했습니다. 이란은 보복을 경고하며 전 지역이 불바다가 될 수 있다고 맞서고 있습니다.",
+                "original_title": "Trump threatens Iran with a new deadline: What we know about the war, now in its 6th week - CNN",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWM4VWRzdUFZSUhxbEJ6dy1DRkVuWkpiOXNuV2E0bjc0T0tybnQ4dE5LaEtXR2R5b19SNWtvWklOaTJ5Sm10SGpiR01VaEs4RTRmNy1MakRpdUVBWHYwczgtNUdUVVo1YmFiZUJxTHZYOUNNMXg2RDZZX19XT0trZm96WjVRTWF6dzRqblRXWGR5SzQ?oc=5",
+                "pub_datetime_utc": "2026-04-06T01:46:00Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:20:59 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "청명절, 전국 애도",
+                "hook": "중국 전역, 청명절 맞아 선열 기리고 봄 나들이 즐겨.",
+                "script": "청명절을 맞아 중국 전역이 열사들의 희생을 기리고 봄을 만끽하는 시간을 보냈습니다. 전국 각지에서 추모 활동과 함께 꽃놀이, 여행 등 다양한 나들이 행사가 이어지며 8억 명 이상의 인구가 이동했습니다. 베이징 시내 공원에만 200만 명 넘는 방문객이 다녀갔습니다.",
+                "original_title": "【家国永念】习言道｜永远铭记烈士们的牺牲和奉献 - 光明网",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUzdUZVVPdk9HSmFIWjY0MlVDNDdrR2tWekZYalBMa19uM1dlZWpsZVAzS0s4Wjlnc3ZMckhWd1lLWkFOOEIxSTFsRlZZWm91bjZMems4amhFLXBjTm5vOEhrTE9jZw?oc=5",
+                "pub_datetime_utc": "2026-04-06T07:37:00Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:20:59 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "이란-미국 충돌 격화",
+                "hook": "중동 위기, 실종 미군 구출과 이란 정보국장 사망으로 혼돈 속으로.",
+                "script": "이란에 추락했던 미군 조종사가 극적으로 구출되며 미국-이란 갈등이 격화되는 가운데, 이란 혁명수비대가 정보국장이 미-이스라엘 공격으로 사망했다고 발표했습니다. 도널드 트럼프 전 대통령의 이란에 대한 강경 발언은 계속되고 있으며, 중동 지역의 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "Neue Wehrpflicht-Regel: Männer brauchen Ausreise-Genehmigung – heftige Kritik an Gesetz - Frankfurter Rundschau",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnRnVXNPc0xmalZQbmJSM2lUR3dHRkFaLXhMd0k4a2ZNeGk1cl95QzZkWk9DeWhaNHlsRjVTRUExTlFPc3RhaGN4RGF3MW1tY1F6bEZlYlpGQ1JBN2JDd2tqczFfaENoS25fYkw0NkNEWHVya3lTcEstckFYZlBFMS1GVk9ramgtNWRqdU1oQTY4NzE4UXNFZzlfOVV2ZDROQXdHbHh4dWxJREs0LUE1WEFnRXBVNkRwWmlTVmtDcFJrYjUtVmhjbzFocGI3d0hv?oc=5",
+                "pub_datetime_utc": "2026-04-06T04:49:00Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:20:59 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "트럼프, 이란 최후통첩",
+                "hook": "미국 트럼프 전 대통령, 이란에 호르무즈 해협 개방 기한 설정하며 강력 경고.",
+                "script": "도널드 트럼프 전 미국 대통령이 이란에 호르무즈 해협 개방을 요구하며 7일 밤까지 최후통첩을 보냈습니다. 그는 구조된 미군 병사를 '부활절의 기적'이라 묘사하며 종교적 발언까지 동원, 이란과의 갈등이 최고조에 달하고 있습니다. 중동 정세는 다시 예측 불가능한 상황으로 치닫고 있습니다.",
+                "original_title": "トランプ氏、放送禁止語を交えイランに強い脅し　ホルムズ海峡開放の期限を7日夜に - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pSTM5UXhjYkRrSnExRVcxd196Y1hyRmQtVjNSd0FYMXZQTnNBRFdsRkVyQ3hpVTNKanMzRXVSWWk0SDVSVUw5Zlk2YVJLOEs3SVVxQ2MtZC1SeDRCaUlj0gFkQVVfeXFMT3Z5d1Y5bEk5eVZZTW1nYlpLV1FrLWNzRy01WmVaQ2F2eHZscmRSZnQ4OW16Q0VuMVBLRmdIaUR5LVRoWjZ6SjVZQVFXNVV4OWtfWDVTSHZ4aVJQUlJxOGtmODJmbQ?oc=5",
+                "pub_datetime_utc": "2026-04-06T03:31:58Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:20:59 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "트럼프, 이란에 호르무즈 요구",
+                "hook": "도널드 트럼프 전 대통령의 호르무즈 해협 개방 요구에 이란 '열쇠 잃었다' 반박.",
+                "script": "도널드 트럼프 전 미국 대통령이 이란에 호르무즈 해협 개방을 촉구하며 강경 발언을 쏟아냈습니다. 이란은 '열쇠를 잃었다'며 반박하고 있으며, 중동 지역은 다시 긴장의 소용돌이에 휩싸였습니다. 이란은 미국의 구조 작전이 이스파한의 버려진 공항을 이용했다고 주장했습니다.",
+                "original_title": "Donald Trump asks Tehran to open Strait of Hormuz; Iran says 'lost the keys': Where things stand after a - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUElwX2o1bUUzUnlDMUI0c216Rm5UT2pLem5nU1k5dHFSYmlVWTR5cEc3V0VtWkdBRW9rdUFpbEprQ25iZzNieExTV0k3enNTbGowdjhGb3g0S2Z4OEgyOGRBWlpBUDNwRTFBbWxLMUw2Q09ibm94RWNDUnNYLWluM2RnQ2JJbUVGOGR5ZFZaSExINWYweGxmWWdSMHpBYUZOclZfVXhaZlRKd0I1QlpLOXVaX2c5R0JObmo0bHR3Z3NiUHVZWjJaMEI2WGtQVkM1RlhDVDF1N0JtV2lJMG9pTzNjRWRiQVVRX1ZBb08wdWdjLWM1cW5BZzlDVnp2WUYyZkxGa2wwREZZRllvNnUwSGd3?oc=5",
+                "pub_datetime_utc": "2026-04-06T03:52:00Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:20:59 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "이란 미 조종사 구출",
+                "hook": "중동 긴장 고조 속, 미군 조종사 구출 작전 성공 소식이 프랑스를 강타했다.",
+                "script": "이란에서 격추된 미군 조종사가 극적으로 구출되며 중동 정세에 다시 불을 지폈습니다. 프랑스 언론들은 해당 작전 관련 보도를 쏟아내며 사태의 심각성을 주시하고 있습니다. 동시에 가자지구 상황과 우크라이나 전쟁도 주요 뉴스로 다뤄져, 국제 정세의 복합적인 위기가 부각됩니다.",
+                "original_title": "Ce que l’on sait de l’opération de sauvetage spectaculaire d’un aviateur américain en Iran - lemonde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOanNjTXZTb3lZUGE1THhvT1YtZ1VXWVlOQ196Y2M2bnVxRGV5cU03QUJvYXh0cUlNdlNWb0szMW1kZWFXM2pTa2lzczIzbTluckpoYlkzdnhXY3BzOEl0X2hiUGZyN2NQcTBibVQ3cWlBb0RmR3pBai03NVdrQ0dYbTZGMHY0TmdFbGtoWDVnLTZrWnU4N2cxX0pCdlg3S25DSE54SDZfMzg1S0pfQjZfR2RCS0dDdm0xQmxEdzgzcWpOTWtXT2U1YkhRY1NxbWNIVmZhME9CWlRQNk42Z0tseUs5V1h1OUp3bzZicU5kYUM3ZlQ3VTBr?oc=5",
+                "pub_datetime_utc": "2026-04-06T08:47:24Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:17 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "호르무즈 해협 위기",
+                "hook": "이란의 호르무즈 해협 봉쇄 위협, 세계 에너지 시장의 불안을 최고조로 끌어올린다.",
+                "script": "이란이 호르무즈 해협 재개방에 대한 단호한 입장을 밝히며 국제 에너지 시장에 비상이 걸렸습니다. 일시적 휴전으로는 해협을 열 수 없다는 강경한 태도에 2026년 에너지 위기 우려까지 나옵니다. 이란발 중동 정세 불안이 경제에 미칠 파급력에 이목이 쏠리고 있습니다.",
+                "original_title": "Guerra Iran, Teheran: 'Non riapriremo Hormuz per tregua temporanea' - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2ZmliUnM2RjdoUWRBZ0g2ZU82aXdWR2RIWXFweEEwc0txMVRWS1ZBTG54eVpLT3NVaXlzQ3BDNVRyZktVaFJuSU5lMGJGeTVIY0VvQlQ3UTZtTEVnS3pVQ2MyQ1pZWlgzQ3JHV1FMX2dlTHdKMGpn?oc=5",
+                "pub_datetime_utc": "2026-04-06T10:08:26Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:17 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "트럼프, 이란에 최후통첩",
+                "hook": "트럼프 전 대통령의 이란 향한 격한 경고, 호르무즈 해협 개방 요구가 거세지고 있다.",
+                "script": "도널드 트럼프 전 대통령이 이란에 호르무즈 해협 재개방을 강력히 요구하며 격렬한 경고를 보냈습니다. 이는 이란에서 격추된 미군 조종사를 미군이 성공적으로 구출했다는 보도와 맞물려 중동 정세의 긴장을 최고조로 끌어올리고 있습니다. 브라질 언론들도 이 소식을 비중 있게 다루며 상황을 예의주시하고 있습니다.",
+                "original_title": "Trump estende prazo para o Irã reabrir estreito de Ormuz - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmptTENJbFVUWG1oNWpWRFVUQk5lbVRGTnNMbjE0ZDNpQ3JoRndWaWlwWTRRUE5FeU9udWlPd2tacTlkN19ta3M5cERBclRxakxNQ0ZObl9vakxjWVNLMDRXUmtZWW5OUmZYWjBuZW4ybERIMU92MTFfTE4tUVN1RFhYcmU2ZzhjQTVZckdDNm04ak51Z1dvTGMySFZQZF9XWVRQVmVGWHM?oc=5",
+                "pub_datetime_utc": "2026-04-05T22:47:44Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:17 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "이란 미 조종사 구출",
+                "hook": "이란에서 격추된 미 조종사 구출 성공, 트럼프의 거친 발언으로 긴장 폭발!",
+                "script": "이란에서 격추된 미군 조종사가 미 특수부대에 의해 극적으로 구출된 충격적인 소식이 전해졌습니다. 이에 도널드 트럼프 전 대통령은 이란에 대해 매우 거친 언어로 위협하며 호르무즈 해협 개방을 압박했습니다. 캐나다 언론은 이 소식을 상세히 보도하며 중동 상황의 심각성을 강조하고 있습니다.",
+                "original_title": "Details emerge about U.S. military’s rescue of aviator shot down in Iran - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDBRYXFxeFBxd3VvYW82TzJVWmVwLXdXbmVpdU1Va2hGZFJnclZNbVFaZ1hEXzAwVlBESzliSXNRSGJkU1l0NGZHQjZYRWtmaEdrZnV6aG9fN2VMZnJyblhXNFBrX1ZUN1kzU3BtU05mVEwxR3VsR3lBUlNfbXplbDhDc09oZw?oc=5",
+                "pub_datetime_utc": "2026-04-05T15:08:40Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:17 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "이란-美 휴전 논의",
+                "hook": "중동 긴장 속, 한국은 이란 인도주의 지원과 휴전 논의에 적극적인 움직임을 보입니다.",
+                "script": "중동의 긴장 국면이 새로운 전환점을 맞고 있습니다. 미국과 이란이 45일 휴전 합의 후 종전 논의를 위한 2단계 중재안을 수령했으며, 한국 정부도 이란에 인도주의적 지원을 검토하고 선박 억류 문제를 해결하려 나섰습니다.",
+                "original_title": "“45일 휴전 합의 후 종전 논의... 美·이란, 2단계 중재안 수령” - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVpxNDFDWV9LMndZVDZsYmEwNEdaalE5NVp2ZmZ5b2VBTlJQakZKbVI3bDM5MGV6dFRMOXVkODdqam8zMnlGbkNvOXhTTnJkeHN2ZHFqaWhON08ybFUtQjhJMHcyWXRKMWVURG1ZY0libFpmblFPS0ktdy11cjBuNGRJTmZZUTJGa0JNYjB3Yzk5ZjlVZTFXSlpfWWNKQdIBsgFBVV95cUxNYWl4cTN4bXBGM0xtQ0c2cl81LURRSkdhdHRpUUx0dFo1cEVPV3kyOVhvYlVIdWt5RDczWkpuNFlHbkViUy14TjgyVFE1X3J5YkFjRUYwX1VMcTZHaWhDVzZCbDhCRzFmalBudkdmM2EwWUNJNDUwNndZYXJpTWZzN3FmRTlfczRQMC01dGxMNldsY0c5bkEwbGI3MVA5VmpIeDBHcHd3UExxN1lTNTM2bU5n?oc=5",
+                "pub_datetime_utc": "2026-04-06T08:49:00Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:35 KST",
+        "current_rank": 10
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "트럼프, 이란 맹렬 협박",
+                "hook": "트럼프 전 대통령이 호르무즈 해협 개방을 촉구하며 이란에 전력 시설 파괴 경고를 날려 국제사회가 긴장합니다.",
+                "script": "국제사회에 전운이 감돕니다. 도널드 트럼프 전 미국 대통령이 이란에 호르무즈 해협을 즉시 개방하지 않으면 전력 시설을 파괴하겠다고 경고하며, 이란 혁명수비대는 호르무즈 해협에 새로운 질서를 적용할 준비를 하고 있다고 밝혀 중동 정세가 요동치고 있습니다.",
+                "original_title": "Trump ancam Iran: Buka Selat Hormuz pada Selasa atau pembangkit listrik akan dihancurkan - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00c0dxcC1lamRBM05lU3pBaF9UU19qMlRuVnVXRHpiVEdzdmFhZGRzWGk2aWxwR0VqRFNDSXRRNzZvVnRydHhkUTI3eHI0cmoxODcyeF9FNTFEM05WOFU0YtIBZkFVX3lxTFAxUmtHOTVlTnFBZlNQS2J5NHRxUGp4UGlLQ0ZiaE41bXZ0VXdubXpoQmFXUklaZ1psamdkdUI1RENUM0NsOUZsVkxkMlZzV2R4ekxIcF9qdlBIUzJGMndBQ1N1NEpzZw?oc=5",
+                "pub_datetime_utc": "2026-04-06T00:49:55Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:35 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "이란-美 휴전 제안",
+                "hook": "파키스탄이 미국과 이란에 즉각적인 휴전 계획을 제안하며 중동 위기 해결의 실마리를 찾습니다.",
+                "script": "중동 정세가 새로운 국면에 접어들었습니다. 파키스탄이 미국과 이란에 즉각적인 휴전을 예고하는 계획을 제출했으며, 이는 호르무즈 해협을 개방할 제안을 포함합니다. 국제사회는 이 중재안이 복잡한 중동 위기를 해결할 돌파구가 될지 주목하고 있습니다.",
+                "original_title": "MHP, İstanbul il ve ilçe teşkilatlarını feshetti - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjByd2NXb2xUOUQzWmlpcnpFa0gwa3RUSHVkTnA0MXo2NDZyUm81VnhPazRTT0RKeVZtY1ZockxtZThEU0Z5QVZVQ01ZVUNicVVVQ2x5Szkta0NfeTFsalZIWHhsTGxZUlp6Ny1odGVhYm9FOHA1M0lwcmFURkY1TDlCWTlnY0ZYaTAwcmpuSWNUMkhidzNUZ0VoRkdnZw?oc=5",
+                "pub_datetime_utc": "2026-04-06T09:12:00Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:35 KST",
+        "current_rank": 12
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "중동 긴장 최고조",
+                "hook": "트럼프의 이란 공격 임박 경고와 이란 미사일 요격 소식에 중동 지역은 숨 막히는 긴장감에 휩싸입니다.",
+                "script": "중동 지역의 긴장감이 최고조에 달했습니다. 트럼프 전 대통령이 이란에 대한 공격 시점을 암시하는 경고를 보낸 가운데, 이스라엘에서는 이란 미사일이 요격되었다는 소식이 전해졌습니다. 한편 파키스탄은 양국 간 휴전 제안을 기다리고 있어, 사우디 역시 이 상황을 예의주시하고 있습니다.",
+                "original_title": "هل الساعة 8:00 مساء الثلاثاء.. سيوجه ترامب ضربته لإيران؟ - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPRXhqOVJ4YVZRWmk1b0RPSm11NFh3VTc3dS1BMExWREU5V0hPdnM1ZzVqVGloN2IzYURrbndWZzhjNlNFWUxxSmpmX3gxR0pQTFF2QW9HSGF3c0tNZHU4cTI4YUVMd0lDY1UwejgzX3lNMnYwaFpGUlBEeE5nc1hnQm1vQ1VSUjhTcWpDb3JBdGlrTVE0MUtXdU1YaFM4alJrem5ZcGFBRnljckVBTXZjOWU0TkhQemdUcjdlMXNUN2hVWWlVSy1sNEFXUm9PaENZeWJicHYxRFpXVXp1YlZjRVk4UnZRU09VTkdxcVlDQ200bGFPYlZTWmk5UUQxNDFLQzR1YV91ZHR6N3dPSnp4WFRaNUczRVRTZllCV2lLRDZYTmoyaW9jcWZ4MUl2UnVaT3hFZFltTTNEemRLQ3VqYlZSbEZ3bVZZdnZ1X0lSZDEwOWROZFkyNVJsTktHZXAtTjZOUUVZdHpXejlXR0N6aWpQWUJYeEhvV0hmbDJHc0Rjb0o5Z3dmOGZNZ0kyYWp2cUk1bllvOWE1QlhpUnfSAaMDQVVfeXFMUHd1NVJtT1loU0swLW40NHRmYTI0OHkyb1BjX011X004aFNESktQODB6MXFhMXRUbEhuWEo5OWN1bmxyNmszX0FyQlZrMjA4ZFNmZUZtSEdySjdvTVVEWjZmbGljak53d3NBNHozSUFtU3lrS09JRTZmWlJOSFUzZDFxaDVSeTU5Sy1KVFp4MDI0QjFJcEE5S0NuQ0FTWkhfRDhva0cydElvb3hkYjZta2ZvdmpqYTBYRHpjaVF0dGZHMVVBWmZYMWo2ZERCeDVXNFE2OVZnVllRY2l6Tzd3YXQ1UUJkNW1MUnVIa2Y5eC1CZzB3bUFjeDBMRmhEaWd6NG9pOVpZZFpSQU4yMmE5aHpYR1RVSlh6ajVWLWZCb0VkR0pYSmJpMkJqUmN2U2lMR2lNZXBoNzVRZGJMZ205MFdnTjgzeHMtcHA0dzFTTFZxdEtTamRsNjJyV0VjcFVmQzFrS0t3QUg5WFViQ0lfNi1NMlZBT3M3dnF2VGxLYkYwNXgycVh4SzhsUnMtVHBHT1VMTDhldUo3a2xJNkZoekFCdWs?oc=5",
+                "pub_datetime_utc": "2026-04-06T05:33:57Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:35 KST",
+        "current_rank": 13
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "미군 구출, 이란 보복",
+                "hook": "이란 비밀 작전 속 미군 조종사 구출, 정보국장 사망으로 중동 정세 극단 치달아.",
+                "script": "이란 외딴 지역에서 벌어진 미군 조종사 구출 작전의 전말이 밝혀지며 이목이 집중되는 가운데, 이란은 혁명수비대 정보국장이 미-이스라엘의 공격으로 사망했다고 주장했습니다. 트럼프 전 대통령은 이란에 강경 발언을 이어가며 '지옥'을 경고해, 중동의 긴장감이 최고조에 달했습니다.",
+                "original_title": "How rescue of US airman in remote part of Iran unfolded - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85MF9fZFNTU1RYb3BaalpSNkNRaGtaOHQ2c3Z6WVgwWG05d0VVOGNfOFoyNS02YXRNLXhCeFRyeEJ6QVhLbG9JaWFDRDFEVXpWM0lPdEtZSkpNU01k?oc=5",
+                "pub_datetime_utc": "2026-04-05T20:00:20Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:20:59 KST",
+        "current_rank": 14
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "이란 작전, 러 비난",
+                "hook": "미 특수부대의 이란 작전, 러시아는 '무모하고 불법적'이라 강력 비난!",
+                "script": "미국 특수부대가 이란에서 F-15 조종사를 구출하는 지상 작전을 감행했다는 소식이 전해졌습니다. 이에 러시아는 미국과 이스라엘의 이란 민간 및 에너지 시설 공격을 '무모하고 불법적'이라고 규탄하며 강력히 비난했습니다. 트럼프의 호르무즈 해협 개방 요구와 맞물려 국제적 긴장이 고조되고 있습니다.",
+                "original_title": "Горняков шахты \"Белореченская\" в ЛНР удалось поднять на безопасную высоту - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ta1BlVkxzVGZadXotMlZsUENzWkpxWjZETm04OFR1M2dtMnI0S0V6Qm5ETExxdmNPcENiNzQ3a2lqbWJ0Y1g2VVlZT0k0Y0HSAUtBVV95cUxON3dUdllLNUJORHI4ckhLXzRoNHpzY1pNTmR2T1Y2cVRTRnZfZTloalhZc1ZJR2RxMTZkVkVjMlZ2RmpRV2pUU2Z6cDA?oc=5",
+                "pub_datetime_utc": "2026-04-06T08:09:00Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:17 KST",
+        "current_rank": 15
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "전국 농민/운송 파업",
+                "hook": "멕시코 20개 주에서 농민과 운송업자들이 무기한 파업에 돌입, 경제 마비 우려!",
+                "script": "멕시코 전역 20개 주에서 농민과 운송업자들이 무기한 파업을 선언하며 물류 대란이 예고됩니다. 이들은 농업 정책과 연료 가격 인상에 대한 불만을 표출하며 강력한 행동에 나섰습니다. 이 대규모 파업은 멕시코 경제와 일상생활에 심각한 영향을 미칠 것으로 전망됩니다.",
+                "original_title": "Los agricultores y transportistas de México confirman “un paro indefinido” en 20 Estados a partir del lunes - elpais.com",
+                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXlUem9scmtoRkFfeGRfaUc1N2c1SEg3eDNTZnViQWFiRC1YbllTaWNrWkd2RUxHV1l1WkRuOXllOXcxQVk3RmVHa2d5MDB4aFdPVEFybEQ2d21ORkpHcXJOMXNpSGlrNnlVYWlGd3EyVV9Zd1RaemczX3VoWVZiWkZHczRFRUNRZXExVUtHZXM4OFRkWkFGRmhrTjY0M3ZSZnZ4dFJ1X3NHVTU5SjBSMi10cll6NzJVN0dvMGEyWkduOEx3RkVZUFVBX1V1SFNpbEMyWENxZjhCWUN5czVvNdIB9AFBVV95cUxPeHpBQzJuVTZCNDVma19UcE1kVC1oS0tjd0R1Qk1jSERyNGtWUVQ2R0gwOXFZck15TUIyN28zeDdRNldycy1LODlIVVNmQlRDZk03Y1ozN1ZNMy1ueEprczZZeHducDNGeVk4SVR6aGkwa1JhMUJBS05scm5LaVdBdnhTZlNHSFlqNnJJV04tY0Q3OWNzMEpmOWk1NXV2cXlGNEdPWlozYmxJMkFFWVY2dGR5ZzhrUnd0R2J2dnlmcmlnd0Vxc0J5cnhOSlkyeGEyMVEwZEVCTmF0WC1WOC02YnJGRld4OFJiOE5wRy00YXQtY1Bn?oc=5",
+                "pub_datetime_utc": "2026-04-05T23:29:13Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:17 KST",
+        "current_rank": 16
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "이란-美 대립 격화",
+                "hook": "트럼프의 거친 경고 속, 호주 언론도 중동 긴장 상황에 촉각을 곤두세웁니다.",
+                "script": "중동발 긴장감이 전 세계를 감싸고 있습니다. 도널드 트럼프 전 대통령이 이란에 호르무즈 해협 개방을 요구하며 전력 시설 파괴까지 위협한 가운데, 중국 AI가 이란의 미군 표적화에 기여한다는 보도도 나와 사태는 더욱 복잡해지고 있습니다.",
+                "original_title": "'It's not fair': Sons pay tribute to mother-of-eight killed in horror head-on smash - 9News",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTHZOZHhLWnpwazJ1MXpMYzlZMUIyc08yQjdIYXM1N2M4TndrSjZ5V2xCWXozTW0tYzRRamVXUWtGOS12YVIzRS1haksxTGhhcExhWTdoVVhZVzdDN3FUbnBwcU9ILURiaVRfZmt2Y3ZjT3FCeTZzOXllT1A0QVZDWUdycWNPejFIRjZxcjFUVTdHdWh0ajU2OXIwVTRZdUJlajZIeHVtMHdIa3F6alNySi16Q2NtaXQxdTJKSWpUamZwNWRyb3RIY3ZZT2dTX2JfMFZQalU2UDk1SmfSAXhBVV95cUxPVXlHREdJeFFyRUZLMTZDMTZLOHVSeGFlXzRhZ29IR2RQejNhdDBCaGdOc0I2dFZ0a2JwX0M4MHJoWUZZbWhCUlhsTEpYUWVjWlZIYzR2blNFWGIxVFZQX21LRkpJcWdiM3hBUVdWS1JDWVdObUduREI?oc=5",
+                "pub_datetime_utc": "2026-04-06T08:22:57Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:35 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "트럼프, 이란 재위협",
+                "hook": "트럼프 전 대통령이 이란에 대한 강력한 재경고를 보내며 국제 정세에 다시 한번 불을 지핍니다.",
+                "script": "국제 정세가 요동치고 있습니다. 도널드 트럼프 전 대통령이 이란에 호르무즈 해협을 즉시 재개방하지 않으면 민간 기반 시설을 파괴하겠다고 다시 한번 위협했습니다. 이는 지난 경고보다 수위가 높아진 것으로, 중동 위기 고조에 대한 우려가 커지고 있습니다.",
+                "original_title": "\"Van a vivir en el infierno\": Trump amenaza de nuevo con destruir infraestructura civil si Irán no reabre el estrecho de Ormuz en las próximas horas - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DYTZuSnZaUDRxWXlpNXZpZEVIeWtmdXdCQmdDVnY2dFU0UHhoRUdDbXRRZm9wanlST1BFaklMSzJqWndwaUhPRlR3akRScFVnNWNCY3FQQTNsa0nSAWBBVV95cUxQenJUUVIxN2puX2wwa1JadE56QUM0QU5DNVVLX0xuWUVCYWlsbm1mdWhIenU0MElBV240RGNTR2YzVmFHQ040WElXSDFxUXMtWmVMRDh2RGI0c004Y0VSNTE?oc=5",
+                "pub_datetime_utc": "2026-04-06T08:22:29Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:35 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "남아공 부활절 경고",
+                "hook": "부활절 연휴, 남아공은 안전부터 경제, 심지어 금융 범죄까지 다중 위기에 직면했습니다.",
+                "script": "남아공이 부활절 연휴를 맞았지만, 마냥 즐길 수만은 없습니다. 라마포사 대통령의 순례 방문과 함께 도로 사망 사고 경고가 울리고, 치솟는 유가로 이동 비용 부담이 커졌습니다. 특히, 휴대전화 뱅킹 앱을 노리는 신종 범죄까지 활개 치고 있어 시민들의 각별한 주의가 필요합니다. 안전한 연휴를 위한 정부의 노력이 절실합니다.",
+                "original_title": "Road deaths decline, but Creecy warns against complacency this Easter - News24",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX083WlBnRXRyZ3J6c0RoZTlhZ3JROFhkR3lYZHNXb3VZXzFTb0MxVGpsR1N5eDhLckJ5enJoRVlJd21MZU5fYmhyOWNrWFhWUWNDaE1BNmtVT3lqU05idkJLRlFHaTV0NmplWEdmX2FjaDh2QTlEaHpXY09lNGRHTnlxeUhVUFBmTU9FQXdkS21XTTJ1bk55MFpyaDZ5M1pQMGo1MDRwaER5OHV5SXlnMi0xaEI2cnROYWhzNFU1Yw?oc=5",
+                "pub_datetime_utc": "2026-04-05T17:04:50Z"
+            }
+        ],
+        "last_updated": "2026-04-06 19:21:46 KST",
+        "current_rank": 19
+    }
+}
