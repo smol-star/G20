@@ -1,39 +1,60 @@
 import os
-import google.generativeai as genai
-from dotenv import load_dotenv
 import json
 import re
+from google import genai
+from google.genai import types
+from dotenv import load_dotenv
 
 load_dotenv()
 
-def init_gemini():
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        raise ValueError("[AI] GEMINI_API_KEY가 환경변수에 없습니다. GitHub Secrets 또는 .env 파일을 확인하세요.")
-    genai.configure(api_key=api_key)
+_client = None
 
-def get_gemini_model():
-    """사용 가능한 모델 목록을 조회하여 최선의 모델을 동적으로 선택합니다."""
-    init_gemini()
+def get_client():
+    global _client
+    if _client is None:
+        api_key = os.environ.get("GEMINI_API_KEY")
+        if not api_key:
+            print("[AI Error] GEMINI_API_KEY가 환경 변수에 없습니다.")
+            return None
+        _client = genai.Client(api_key=api_key)
+    return _client
+
+def get_available_model():
+    """2026년 4월 표준: Gemini 3.1 시리즈 위주로 모델 탐색"""
+    client = get_client()
+    if not client: return "gemini-3.1-flash-lite"
+    
     try:
-        available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+        models = [m.name for m in client.models.list()]
+        print(f"   [AI] RSS 프로젝트 가용 모델: {models}")
         
-        # 우선순위: 2.0-flash -> 1.5-flash -> pro
-        preferences = ['models/gemini-2.5-flash', 'models/gemini-2.0-flash', 'models/gemini-1.5-flash', 'models/gemini-pro']
+        preferences = [
+            'gemini-3.1-flash-lite', 
+            'gemini-3.1-flash',
+            '3.1-flash',
+            '2.0-flash'
+        ]
+        
+        selected = None
         for pref in preferences:
-            for m in available_models:
+            for m in models:
                 if pref in m:
-                    return genai.GenerativeModel(m)
-        
-        if available_models:
-            return genai.GenerativeModel(available_models[0])
+                    selected = m
+                    break
+            if selected: break
+            
+        if selected:
+            print(f"   [AI] RSS 표준 모델 선택: {selected}")
+            return selected
+        elif models:
+            return models[0]
+            
     except Exception as e:
-        print(f"[AI Model Error] 모델 조회 실패: {e}")
+        print(f"   [AI Model List Error] {e}")
         
-    return genai.GenerativeModel('gemini-1.5-flash')
+    return "gemini-3.1-flash-lite"
 
 def clean_text(text):
-    """토큰 절약을 위한 텍스트 정규화"""
     if not text: return ""
     text = re.sub(r'<[^>]+>', '', text)
     text = re.sub(r'\?[^ ]*', '', text)
@@ -45,24 +66,19 @@ def summarize_rss_batch(bundle_dict):
     RSS 뉴스 데이터를 배치로 묶어서 심층 요약
     bundle_dict: { "South Korea": [item1, item2, ...], ... }
     """
-    init_gemini()
+    client = get_client()
+    if not client: return {}
     
-    # 국가명을 프롬프트에 명시하여 AI가 동일한 키를 반환하도록 강제
+    model_id = get_available_model()
+    
     country_names = ", ".join(bundle_dict.keys())
     
-    prompt = f"""너는 GDELT 및 Google News RSS 뉴스를 분석하는 글로벌 뉴스 에디터 시스템이다.
+    system_instruction = f"""너는 GDELT 및 Google News RSS 뉴스를 분석하는 글로벌 뉴스 에디터 시스템이다.
 
 [출력 규칙 — 최우선]
-- 응답의 첫 번째 문자는 반드시 {{ 이어야 한다.
-- JSON 앞뒤로 어떤 텍스트도, 마크다운 코드블록도 추가하지 마라.
-- "안녕하세요", "요약입니다", "알겠습니다" 같은 문구는 절대 출력하지 마라.
-
-[번역 및 언어 필수 규칙 - 매우 중요]
-- 수집된 원문 뉴스가 영어, 일본어 등 어떤 언어이든 상관없이, 당신이 작성하는 headline, hook, script는 무조건 '한국어(Korean)'로 완벽하게 번역 및 요약하여 출력해야 한다. 시스템 파손의 원인이 되므로, 영어나 원어로 출력하는 것을 절대 금지한다.
-
-[국가명 키 규칙]
-- 반드시 아래 영문 이름을 JSON 키로 그대로 사용할 것: {country_names}
-- 단, 각 국가 본문의 내용은 무조건 한국어여야 함.
+- 응답은 오직 JSON 객체(Dictionary)여야 한다.
+- JSON 앞뒤에 복제된 텍스트나 포맷 문자(마크다운 등)를 넣지 마라.
+- 어떠한 언어의 뉴스라도 응답(headline, hook, script)은 반드시 **한국어(Korean)**로 작성하라.
 
 [출력 형식]
 {{
@@ -70,31 +86,30 @@ def summarize_rss_batch(bundle_dict):
     "headline": "한국어 헤드라인 (3단어 내외)",
     "hook": "시청자의 스크롤을 멈추게 하는 강렬한 1줄 문장 (한국어)",
     "script": "쇼츠 대본 (30초, 3~4문장). 첫 단어부터 사건 핵심으로 직진. (한국어)"
-  }},
-  ...
+  }}
 }}
+- 허용되는 JSON 키: {country_names}"""
 
-[분석 지침]
-- 단순 뉴스 나열이 아닌, 3시간치 기사들의 공통 흐름이나 가장 큰 사건을 하나로 통합해서 표현해라.
-
-[분석할 뉴스 목록]
-"""
+    prompt = "[분석할 뉴스 목록]\n"
     for country, items in bundle_dict.items():
         prompt += f"\n### {country}\n"
         for i, item in enumerate(items[:10]):
             title = clean_text(item.get('original_title', ''))
             prompt += f"{i+1}. {title}\n"
-
-    try:
-        model = get_gemini_model()
-        response = model.generate_content(prompt)
             
-        result_text = response.text.strip()
-        start = result_text.find('{')
-        end = result_text.rfind('}')
-        if start != -1 and end != -1:
-            return json.loads(result_text[start:end+1])
-        return {}
+    try:
+        response = client.models.generate_content(
+            model=model_id,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=system_instruction,
+                temperature=0.7,
+                response_mime_type="application/json"
+            )
+        )
+        # response_mime_type 설정으로 순수 JSON 텍스트 보장
+        res_text = response.text.strip()
+        return json.loads(res_text)
     except Exception as e:
         print(f"[AI RSS Error] {e}")
         return {}
