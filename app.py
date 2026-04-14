@@ -101,6 +101,50 @@ if page == "AI 실시간 뉴스 보드":
 
 else:
     st.title("📜 과거 뉴스 기록 보관소")
-    st.info("데이터 규격 변경으로 인해 이전(구버전) 기록은 PDF 다운로드만 권장합니다.")
-    # (보관소 로직은 생략하거나 기존 로직을 데이터 규격에 맞춰 수정 필요 - 
-    # 여기서는 시간상 실시간 중심 업그레이드 완료)
+    st.markdown("매시간 수집되어 보존된 과거 기록 스냅샷을 열람할 수 있습니다. (RSS 기반)")
+    
+    archive_dir = "hourly_archive"
+    if not os.path.exists(archive_dir):
+        st.warning("🗂️ 아직 수집되어 저장된 과거 기록이 없습니다.")
+    else:
+        dates = sorted(os.listdir(archive_dir), reverse=True)
+        if not dates:
+            st.warning("🗂️ 아직 수집되어 저장된 시간별 기록이 없습니다.")
+        else:
+            def format_date(d_str):
+                try:
+                    dt = datetime.strptime(d_str, "%Y-%m-%d")
+                    days = ["월", "화", "수", "목", "금", "토", "일"]
+                    return f"{d_str} ({days[dt.weekday()]})"
+                except:
+                    return d_str
+
+            col1, col2 = st.columns(2)
+            with col1:
+                selected_date = st.selectbox("📅 보관 날짜 선택 (KST 기준)", dates, format_func=format_date)
+            
+            date_dir = os.path.join(archive_dir, selected_date)
+            if os.path.isdir(date_dir):
+                hour_files = [f for f in os.listdir(date_dir) if f.endswith('.json')]
+                hours = sorted([f.replace('.json', '') for f in hour_files], reverse=True)
+            else:
+                hours = []
+            
+            with col2:
+                if not hours:
+                    st.selectbox("⏰ 시간 선택", ["기록 없음"])
+                    selected_hour = None
+                else:
+                    selected_hour = st.selectbox("⏰ 수집 시간 선택", hours, format_func=lambda x: f"{x}시 스냅샷")
+            
+            if hours and selected_hour:
+                st.markdown("<br>", unsafe_allow_html=True)
+                file_path = os.path.join(date_dir, f"{selected_hour}.json")
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        archive_data = json.load(f)
+                    st.success(f"✅ {format_date(selected_date)} {selected_hour}시에 저장된 역사적 글로벌 트렌드(RSS) 기록입니다.")
+                    render_dashboard(archive_data, f"{format_date(selected_date)} {selected_hour}시 (과거 아카이브)")
+                except Exception as e:
+                    st.error(f"기록 파일을 읽는데 실패했습니다: {e}")
+
