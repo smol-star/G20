@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "Iran War Live Updates: Cease-F",
+                "hook": "United States의 최신 주요 뉴스입니다.",
+                "script": "Iran War Live Updates: Cease-F",
+                "original_title": "Iran War Live Updates: Cease-Fire Between Israel and Lebanon Takes Effect - WSJ",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VaUluTDBCR1Q1dzZHTnpTcXFEYXQ1U19iTDJsYWVBcnROWnAyUm5VanhlaVd4QTZmUmtyVWtMVzZjcE5SSkRSQlN0ZG1UaHhsX3hqbzg4dFdZYjh0U2RpZ1hIV3cyZw?oc=5",
+                "pub_datetime_utc": "2026-04-17T07:24:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:27 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "大兴区全民阅读系列活动启幕 千款文创、好书齐聚市集 - 人民",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "大兴区全民阅读系列活动启幕 千款文创、好书齐聚市集 - 人民",
+                "original_title": "大兴区全民阅读系列活动启幕 千款文创、好书齐聚市集 - 人民网",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45MHEySFZJazNFZHdSSF8zdVlYMXZoWnVwMWNMSDlKc3o4NllyczctdVNOVXlXR0oxWmdkdW9BdGZ2MEY4QTFPYnhFQWgtcUo4T1hJR2FIamxPSTdZX2hPZTNuMHk4X0ph?oc=5",
+                "pub_datetime_utc": "2026-04-17T08:02:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:27 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "京都男児遺棄 デマ根拠報道の台湾テレビ局がHPでおわび - ",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "京都男児遺棄 デマ根拠報道の台湾テレビ局がHPでおわび - ",
+                "original_title": "京都男児遺棄 デマ根拠報道の台湾テレビ局がHPでおわび - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GcmVpZnNxVlV6Z2RUUDFXaGQyQzl5NUthOVdJR1JlN2s2RkU3YnZwT2NpdzVrcWZ6SFEwQ3ZNdzZhUC1sejlKeExvRUxoWXB2ZTFORWVtUDVCd0NfY0R4MEZZb3VQbGo3?oc=5",
+                "pub_datetime_utc": "2026-04-17T09:45:59Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:27 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "Keir Starmer says it's 'stagge",
+                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
+                "script": "Keir Starmer says it's 'stagge",
+                "original_title": "Keir Starmer says it's 'staggering' he wasn’t told Mandelson failed security vetting - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aTEdzaHlQZzNJZV90OFI2MWVsSDBsNjB0OFZxSjNYYm9LOWYzYUlXQlZoeFUtUEtZV0MzbkpZX0RIbHI4M1VsaG83YzFReGV1MEl1RW5lNA?oc=5",
+                "pub_datetime_utc": "2026-04-17T11:38:03Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:27 KST",
+        "current_rank": 4
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "Sauna dupla, piscina aquecida ",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Sauna dupla, piscina aquecida ",
+                "original_title": "Sauna dupla, piscina aquecida e Spa: conheça prédio de SP que teve imóvel dado como propina por Vorcaro para ex-presidente do BRB - O GLOBO",
+                "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOUDdaQ095WEtMY2N1M2lZc3d1QzBJYk9zZHpWQWt2d0lrRllGNHdZcmNsMXVLeEhrbFUwSWxLa081Z3VPblRJbFRTdnp1UkRjLWg0SnozVEhSUzBxVFRmTzdFUGNZTWJKOUxycmwzeHdRcUx5bTYxREpUS3l2R092RnU3X3VzT0pRalpXUFNLZmpIQy03MUdEMlUxaW8wWlNCSnpnbWpqZTRQWERVblFKR1FrLUhzeE9FdWpZRk1uLUM5aENoMkp0VUlTTDhnMkdXS1ViQU5ZX3BKU1JLb2pZR3RQczF0UFVXdjZSN0taSm1pMDJpRmhYR1BNOWEyMUc1THQxZGFiVmJKVnpKR2RMLTdnbGLSAaMCQVVfeXFMTmMycjloaExRZHhXU01HVWFxWVowZFJFdHZiazRDMDUzNERkaGRJajlLOW9UZ1FDUnJFeFdOVHZYNjVCMVlzdWlGamF0cy1ZRlozanpZZ24wbGw1YThuTmZBT1VBRVVUdV91UFJQOE9MZlBlelI3Nk9yYnRyX2pnRlZwemI1YkwxQlFReFd2MHoxaHlYNTE4N2tqSHpvNlg0b0tWWXhSazIzbXlfdHNqdW9sazVuNDNYRURiZGNpNnRqNlJJbFptbDdNR2hVQm0wNDltWmZtT0hBSkgtTm9FMjJoSXN6QVNEZldlZURZY1RqS0R3X054UTBNTW9jSU5QeDloYUpJMTJDa1U3UGFVRXRvamtCNTNRTmFZQW9sVTdfNzVj?oc=5",
+                "pub_datetime_utc": "2026-04-17T07:01:48Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:36 KST",
+        "current_rank": 5
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "Derrame de hidrocarburos en el",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Derrame de hidrocarburos en el",
+                "original_title": "Derrame de hidrocarburos en el Golfo de México: Pemex separa de su cargo a 3 funcionarios - El Financiero",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT09mZG0zUEtCS1l3dWNEaGxEM1Nqdi0yNnQxUU1FcFEtcVItU3FDdE00b3Q4MkFubnVRNVJSTVJRSU1kZ3NKeFhnekVleTkwRjRPS0FoemppT3B5eXQxUkZMNkhUY3NMLXpkc1FNTUNJdjIzMUZQeVpTRzJOTm1XQjV3RG94WDF4aHB4Rk1jaUQ4NGdKRnBaS2lrTm85TmdMS2JCeFU2ZEJ3UVcwT2EyQ1lDSXd0ZThfaWpWT3RmNVBKOHEzTThZY0pQSHFRdEQwRWFxWTlkZnY?oc=5",
+                "pub_datetime_utc": "2026-04-17T01:13:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:36 KST",
+        "current_rank": 6
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Ben Roberts-Smith’s comrades s",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "Ben Roberts-Smith’s comrades s",
+                "original_title": "Ben Roberts-Smith’s comrades say he ordered them to execute unarmed civilians, court documents show - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWG8zNkw2VTNJMm9BMEhWa0M5VXNCU1prYWhoeGs3WW5zLUloRVRLY2UwQ1dRcW85cDdOVWVJZGxLQ1RpcUJINkh4YzFQNUdDRGhXV213djFfVi15YUszUnpfN2ppN2prbEhoQ1NqU28zejhIeDZnUVRPSTRwSFlkZW1pNm90ZkVGd1dub2I0VzVoc2hBNEREWkl5NUdZQXdzVDJfeVJxbFZqSER5N2tMbU9DOWFTenhUSktJVWp6WGNJb1V0UVNPQjFHLTNxUXRLZ1dIMUdvTnNFcE9ULVFVMmtBdE51d0ZzejFkRlQ0cm0?oc=5",
+                "pub_datetime_utc": "2026-04-17T10:56:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:40 KST",
+        "current_rank": 7
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "\"늑구(Neukgu)는 자유의 상징\"… 외신도 생포 소",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "\"늑구(Neukgu)는 자유의 상징\"… 외신도 생포 소",
+                "original_title": "\"늑구(Neukgu)는 자유의 상징\"… 외신도 생포 소식 집중 보도 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUpLaEFXSE14NUs5cDRuUXcydTZuTjFVMnNtT1o4UjlkMHUtbzRMQUY1bHJJM0xLd3ZtcUo5WkQ2X1d4LWIxRURGX2pkRWozMG1ENGJSUXhlNTMtOEdYU3BjMnEyTkt4OFE2OHJia0lqbjFNQ1RiQVN6X3daSUJmeHpSRlN1RldVMEJIaXRqX20?oc=5",
+                "pub_datetime_utc": "2026-04-17T10:38:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:40 KST",
+        "current_rank": 8
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "6,9 Ton Ikan Sapu-sapu Ditangk",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "6,9 Ton Ikan Sapu-sapu Ditangk",
+                "original_title": "6,9 Ton Ikan Sapu-sapu Ditangkap dari 5 Wilayah Jakarta Hari Ini - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFZ5b1NsWXJwMHJYYWJuRVlJdlI4dmJ4bE1YUVZ5MEtoY3FPUFRKa1RvWk9FYVFUd3o1ZU81blhHeVZyMWRXdGkwMl9FajMzZ1dQRHZTSFE0VlVjOEYyYUd3RGNFdGFQWUxQUndrNVc5VDd0cmhDLTRaUzdNdHR2TWJ3OHdHcWFxbTduSms4SHZ0VHI5Uy12dUtBMGRtdndCUXFnR3Zhc9IBrAFBVV95cUxNYnluMjUyaWhwdksxejlyRnF4WUpOYzBMTlpxY2EtbFROcTEyTTl2ZGxrV3FmRm1IRFA2ZG5rdWZXbzBCSGpwMHJHNTA5Mk1nejlGblMwaEotUHBVUkplVkJDM1J1Q0dDUVpLMXYtSDZpdjBjTXpsNGNjOG90Nnlxc0dKckR4dUN6Z2JXTDV4TnpacDdhNkkwWXc1NXBtWFplTHlGSlJFYVAxZkdq?oc=5",
+                "pub_datetime_utc": "2026-04-17T07:51:29Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:40 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Okul katliamı failinin babası,",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Okul katliamı failinin babası,",
+                "original_title": "Okul katliamı failinin babası, silahlarını sakladığı sandığı profil fotoğrafı yapmış! - T24",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWQ2Wl9IWU14RFVZWEdVR192RG9SYjVQYXEwUGQ1czcxZEJEaUEyQldtQk1jS1ppMXpudGQ3XzdBdDZNZlhoUjJNdGFYM3RvTlgzQmF4VUI1YzVBLXNxMC13QWhSWk91UVBQVjhNX29LZXl6aElMd2V0VnIyYTNyU3hpcXdXenp5NXRSSk9teHM0R2lTc082OUlRUEN0LXR4TVV3YV9LRW41SkJNZ1pGc21OWm9zSHhv?oc=5",
+                "pub_datetime_utc": "2026-04-17T07:57:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:40 KST",
+        "current_rank": 10
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "تفاصيل 6 بنود لاتفاق وقف النار",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "تفاصيل 6 بنود لاتفاق وقف النار",
+                "original_title": "تفاصيل 6 بنود لاتفاق وقف النار بين إسرائيل ولبنان - العربية",
+                "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTGUzdTZ0M1pUNW9fWGFjd3FNOFNQZkNtNE9EcVV4ZlZ0WnFOT3lfS0NzQmFMTDdnMjNCNXNlek1rXzI1b2hQamdwOEFDX3R2WS1VY3FnSEJUVGRHU0hZbm9Ra0JHdVFYM3VwVGg0N2VCYmY4Vm82LWgyQWRRUGhrUTE2RF90ZUlZNnRIaEY3dWVmQ2Jpc2JTLUtJaG1PckpzcnpMUU1zSFVfLXZrVmdPRDVraTRZQmR0QWE2b3d4R29zREZUWWVmWmQ1RUlJM3ZFVEhweTBaNm5mQkQzd2dEZXRHYVJScVJBTGsxUmw3bGxSQk5hV3J3YThYeEVYOW9ac255X3JRSDJkS0l1QnNtbmhBQ1U2Q3dGNklxS3dHWHlCZUNKSDJBVHEtcF9ONUhXZ1FaVXdfRE1lWk1fWGxhSndSVWJmeXRsZEdPdVVVb203M2E0cjE4WW1rNWwzTEs3TVNMZWFEOHZuOVFXVDZvVHpJMUpPb3FnV0UwZFZVSDFDUW1OUjRmdlNfQmrSAZIDQVVfeXFMTlRpYTJlYUJUU3AtWUxOVDVna2d4d1NDV25ES21RNHRrelZnOE9fSVJ1Y0VTaWxNNEN1T19WZmxKN091Y0JZbDdGVTBQYmE4c3pwOWNPeThhc3dWY3ByODdKdXJTTE5Yd0d1Z251cmZBTWtHOFZLLTVHeWVwVmRaaDV0UkxxT3B4WVBWX3MyNWdCa0FZbUk0OVFtT21kRnFLUXV3dWJSLUFsRS1SLWFOSGNhYTFDV1phUV96Y0VjZjU3V0RRdjNsRU52ZVJIcm5GblJaNUFQTDkwNUd1UlZCV1Q0WVotc3pvcUFrWjVhM1lVTjItd2l1azNzZ1ZUWmtRc01qbVQxRU8xOTFaVF9uNUJvOG83TmU0MS1VZXN6V2R3b25aaTd0aF9oX01PZmQxZExWRTNIQWJlOFI2dFd0YkpkS2E5a1NrOEFDeXd6YnR1V0ZkdWNPbVlTQ2FmWllyZzY3SWx2VEY4VXNZWVpnV1U1R2lRUmo4X0x0bTVhd0RFWS1hNXFNQlJGV0Q1OEtCRVpn?oc=5",
+                "pub_datetime_utc": "2026-04-17T05:48:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:40 KST",
+        "current_rank": 11
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "남아공 부동산 대란",
+                "hook": "케이프타운의 집값이 폭등하며 원주민들이 거리로 내몰리고 있습니다.",
+                "script": "케이프타운 시티볼의 부동산 수요가 폭발하면서 현지인들이 감당하기 어려운 가격대로 치솟고 있습니다. 설상가상으로 불법 점유와 토지 강탈 문제까지 겹치며 정부가 새로운 강력 대응 법안 마련에 나섰습니다. 주거 위기가 심화되는 가운데, 과연 치솟는 집값을 잡고 서민들의 주거권을 보호할 수 있을지 귀추가 주목됩니다.",
+                "original_title": "Roelf Meyer will disrupt right-wing messaging in Washington, says Ruiters - News24",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXNWaGx0dEVtQnlsazRlNnIyVTlFSWNEYUtMZFU2bFRfSlZWZ3lTZFphVlo5eFhfeGtEQmVzcWNDdzlkaW1zc1hFRjZwQlZ6cTRCRlFNS21vQVNvT01abzg2RkI4VmdxbGwtY1lNUjFFMEhEWHJrQW1hWXNVNVZRLWRYOWs2R3MwTHJETHgyRXRDZlFiYm1DYUZKdGppV2lKSWZidzJiQjlQVi14QzAzMTVzSmR5MFp2ZUE?oc=5",
+                "pub_datetime_utc": "2026-04-17T08:47:38Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:08:10 KST",
+        "current_rank": 12
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "Walrettung in der Ostsee live:",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Walrettung in der Ostsee live:",
+                "original_title": "Walrettung in der Ostsee live: Pontons und Material vorbereitet - Rettungsaktion soll heute starten - NDR.de",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2pKOUdid2Nrc0o1NFJuM3RFMldoalBRN2dCLVhWLXRrMGw2VkVxOUVBQk1QQjM2NWZoVkwtRnRMdlp6UnhGWXdVS3lTbFdGWkhWM3o5UGJVay1MMVZ4WWJLb1NFcWhJaFlVMXp3LXVNVTI3RVpsazhtWkRpSm5jTWdwbE1LYTlCNXZYZEN1ejQ0cTVoU0RSSEFwSGlTNC1ERlBuellxQmpRcWphaG1oS1V0TFZYMk1nZGhwYmFqQ3N6RkR5bEhPS2tfTkJyZ2U1WUlOZUdUMHV5Yms?oc=5",
+                "pub_datetime_utc": "2026-04-17T05:28:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:27 KST",
+        "current_rank": 13
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "Iran war highlights: Israel, L",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Iran war highlights: Israel, L",
+                "original_title": "Iran war highlights: Israel, Lebanon begin 10-day ceasefire; Trump signals possible Iran talks 'this weekend' | World News - Hindustan Times",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSGUwSlV1Sm85R2I2OEtUZHd6NDNWc3ljdFFITjR4T0o3Mm5Wb3dBa01zWTFVWklRM09Sb09JRUtuNlM2Qk53RjNzNmpSbFJwRk9xT2RCVnA1eG9CdUlUd3ROUGt6djJFaFZYSkNmWTl2LUp5OTN6NnZETDdYRFBNekE4TUpfTTZRekc1d3c2VFFlQTdmbU4yWndMejNvYnA0b0FsNk5sR2RFd0loNUNVbnQxdFhsbzdRSzBqc2JtOEJjUWZRcjRVVU16dFhkaEJOSkdLMy02T3l5dmVDRmt4NHI2dlpkcTdqR2tmNnpwVjlJMFI0aDZWdmxvYXpKNDR4dUkzVUhNS1MyeXl20gGSAkFVX3lxTE05d2V5RGtOMEkxNzRDYU1rZHRkYldBWW0tZGg3R2dfTnlRNjJ5RVpxS014aDQ0Q0pTS2Z0MExhNjZ0ZmNGenRGMjVCVnkzUVk2Slp2TjVNb0hNdF9zbkM0WU8xQWEyZEJpSVhMWVpuZkdKZ3VRWHc3QWZuU3NMWmJMbl9CU0JnZHJpYTlaR0tyVzNmeWhkRkVIX2lBQXBvZVRhc2FFLWhtMHhHck5DbFRJeVA5WFhMMzZyOVhBNHpVT3N2QkJZdDVJRGpSdm5YVEFaZDBYVEx0a1d6RlhqWi1CZFV0TlF1VVlxNWgxS3U5S2d2Rlo2VUFMQm1vUTJfZXJ6czBwZjB2OElRbnhIT2hZZ0E?oc=5",
+                "pub_datetime_utc": "2026-04-17T01:21:53Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:27 KST",
+        "current_rank": 14
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Tensions à Ormuz : la France p",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "Tensions à Ormuz : la France p",
+                "original_title": "Tensions à Ormuz : la France propose une « troisième voie » pour sécuriser le pétrole - La Tribune",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU25YV0oySTBYaGF2ZVliWi11eFhrb19UdDdBNktjS2pFMEw2clRURjZHcTUyTEFTT1U4U1pxeVRiUHhQZEdlazdKNVZCeFgxUWFFNmhVbGJkMGpoSGVQUkhKN3pYdGE3eE9MVlVjc09ib25IZVhaT2VoRDBTUjkzTlpiZFZXMnpFck83c3RHV05JbkhfMVpDVG5ENzE4V2FlV0hyRVpyaUVMVVJVUV9SMFhmcjUtMTNTNm1Xd2ZMdGlRT3BuMG41SHNrYmVQSlFnMjJmemVuQTFRN3hROVFjZ3RleURZQQ?oc=5",
+                "pub_datetime_utc": "2026-04-17T09:09:33Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:36 KST",
+        "current_rank": 15
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "Meloni con i Volenterosi per g",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Meloni con i Volenterosi per g",
+                "original_title": "Meloni con i Volenterosi per garantire la navigazione nello Stretto di Hormuz - Il Sole 24 ORE",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWpCdjFtQUlxYWJKUzdhSTlfR1NRTmRwNml6Mk43enFCZGc4RFBqZVp5RlM4Um9NYnBneFFmRzgxaVNaMGo4ZGRsQ1dpVlRuRmZqUDRfMGZpbmFFTXlIVnE1T3lmTUFncDBMd0dXSERWLXl3cFlwN1cyQXpFdERvVU55NVBUeDdldDcyN2hKcFVLVWJzdGJpZkZRZC1meHJvaUtpbkhyTmZxZnI2NW1uc2hHalNsWTNiVE0yMGdB?oc=5",
+                "pub_datetime_utc": "2026-04-17T09:52:21Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:36 KST",
+        "current_rank": 16
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Alberta government rejects com",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Alberta government rejects com",
+                "original_title": "Alberta government rejects commission’s proposed changes to province’s electoral map - The Globe and Mail",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQzNJUHpXNTVTb0ZpQlFXczZLbHc5MnNSZ29VM29KaGdoUUlyQUxEZ0xMaENWYlZ5RHR4QzBjYlE5RVpyV0F5dGRkOEZsVEFKUFFPeTN2SWZzQzl0aGZ6QllZRGoycjFYaTlSRE8zOXp6aTgxZE1QYVV3RGtUbWY2YkhTNVVWRjRNRkhKSGZsbTVHZkdSYm4wSjdnbW5VZ19rTHpVUUtoS3BiNXltR3R5M0FxOWU3QkUtWlVhMEJSVmxhQQ?oc=5",
+                "pub_datetime_utc": "2026-04-17T02:32:23Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:36 KST",
+        "current_rank": 17
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Голикова сообщила о выросшей з",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "Голикова сообщила о выросшей з",
+                "original_title": "Голикова сообщила о выросшей за год на 3% общей заболеваемости россиян - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fakh1VWhfM1VULWNSSHBzLXNsYTRLU1BSVzNsUkY4N3NtbnYxanZKV01fNHFXV2NhY0xtb0RkRzhNY0ljZW91UUUyWlZHSkHSAUtBVV95cUxNQy1hbG5uTUoxWDR4MlZhTnZCSmR3eXBVUU1jaWpjbF9PbXBXMV9JOHY0UUZ5RE15OTBDbkdGS1FONU1TN2V3MG1pUzQ?oc=5",
+                "pub_datetime_utc": "2026-04-17T08:48:00Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:36 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "🔴 Guerra entre Estados Unidos,",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "🔴 Guerra entre Estados Unidos,",
+                "original_title": "🔴 Guerra entre Estados Unidos, Israel e Irán, en vivo: qué pasa en Medio Oriente este 17 de abril - TN",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONUlXdGtmZzhuM2lNMFBqV1V2NmplZ1ByZ3lzRm1Meld1Nm9FeHp6amFQb05DQ2pDRzVQM3FVa0h1dnZOWGkyOGd1ME5yZnVQN0hTckFhRU5ITXEyTWFCOHZxNl8tSU0wZ0paazU1Ni11Y0xFQXJxSjNFa3BUOWp5TUdDV0lHdkcta3UwdHM4dlNqLWJYUUdxSm1GNmFzcmJZLW1pWjlBNnlDMEFSeGd6aUFsYm9FZDZKV3ZCeGg2ckJKeGx6SVRxcGpGb1RITDJITEHSAeYBQVVfeXFMUFJVUF9feDVzdW10eW9vejd2dTdPWkRVXzV5emx3TjQ5RTlsY2pIRXlwRDUyeVB4TU9iV0pRYWdxUkphanpjb05KWkNFRWRqcDRldUs5TTlvV1hMT0F3bm9YbjJxODB6bGt6Z1Y0di05WE11ZS1yQVlmRldNaGtNbEdSZWxGLVN1R3JBSHFiQXd5V1hRQmFFQ1JHNkdnSzdEczZQc29WOVpfNnpNSTc3UjZjTUxVN2xISnZrNEhEbWpIZU1XYWs2TldSMThHQkIzRHhkU1I1SXhLUlRnX0NZQ09CRnViTUE?oc=5",
+                "pub_datetime_utc": "2026-04-17T11:50:12Z"
+            }
+        ],
+        "last_updated": "2026-04-17 21:07:40 KST",
+        "current_rank": 19
+    }
+}
