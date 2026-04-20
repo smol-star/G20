@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "루이지애나 총기 참사",
+                "hook": "8명의 아이들이 희생된 비극, 미국 사회가 충격에 빠졌습니다.",
+                "script": "미국 루이지애나에서 8명의 어린이가 가정 내 총기 사건으로 사망하는 끔찍한 비극이 발생했습니다. 경찰은 현장에서 참혹한 현장을 수습하며 구체적인 사건 경위를 조사 중입니다. 아이들의 생명을 앗아간 이번 사건에 미국 전역이 큰 충격과 슬픔에 잠겼습니다.",
+                "original_title": "Iran says it will retaliate for US seizure of cargo ship as Tehran yet to confirm peace talks in Pakistan - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvSkdtSUR2SGswU2RHZ1czZXdKbGI1cjI0YVctaVRLUzBLMlZaOW5RSVhpekNmVHc4aFRDR2t3dkhLeWwxUm1LSXdVWkJwVlNlMmozQQ?oc=5",
+                "pub_datetime_utc": "2026-04-20T06:49:49Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:24 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 공군 특별임무",
+                "hook": "하늘을 가르는 운-20B, 영웅들이 조국의 품으로 돌아옵니다.",
+                "script": "중국 공군의 운-20B 수송기가 한국에서 제13차 지원군 열사 유해를 맞이하기 위해 출동했습니다. 이번 임무는 조국을 위해 헌신한 영웅들을 예우하기 위한 국가적 차원의 특별한 귀환입니다. 수십 년의 세월을 넘어 고국으로 돌아오는 영웅들의 마지막 길에 엄숙한 추모의 물결이 이어지고 있습니다.",
+                "original_title": "书香润京华 首届北京全民阅读发展研讨会举办 - 中国网新闻中心",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNWNDZ2tFTTZ1ZFFUak45TE4xMGhvRGw0MFFJYk5oQUVSYWMtNU9YMlFjRGcwX1hPeXdGLWQ3ZTVGbUNqSW1kVjQ4akhJWEZhVnh6NU1PVVlUeFBrdUZhckFKWWZlX3JrMVZN?oc=5",
+                "pub_datetime_utc": "2026-04-20T06:04:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:24 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "이란-미국 긴장 고조",
+                "hook": "이란이 미국을 향해 보복을 경고하며 평화 협상이 위기를 맞았습니다.",
+                "script": "미군이 이란 화물선을 공격했다는 소식에 이란이 강력한 보복을 예고했습니다. 양국 간의 긴장이 최고조에 달하면서 파키스탄에서 진행되려던 평화 협상조차 불투명해졌습니다. 중동 정세가 다시 한번 벼랑 끝으로 몰리며 전 세계의 이목이 집중되고 있습니다.",
+                "original_title": "„Zustand besser als befürchtet“: Tierärztin aus Hawaii gibt neue Hoffnung für gestrandeten Ostsee-Wal Timmy - Frankfurter Rundschau",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWY4aDZyX3JVbUZnYi1CaDhPMGF6M2hhUWI3WGFFTUlManNXSVpIZEo0YmxSUTlWQlpkZVJFYVIyYVZFQkUyc2NxZjlBczA5eEdkVnBWRHg4MW83cDdnLXhLbXJqNTU4RHU2X2QtejNpMXdtbDdSektjZ3hnSmZIc1pYUkx3V0otdUJneklOdG9ES3ZRSVVnMFhHSVFxT2Zya2lLT2NvT1h5M0k?oc=5",
+                "pub_datetime_utc": "2026-04-20T07:09:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:24 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "일본 전국 지진 비상",
+                "hook": "일주일 사이 6번의 흔들림, 일본 열도에 지진 공포가 확산하고 있습니다.",
+                "script": "최근 일주일 동안 일본 전역에서 진도 3 이상의 지진이 6차례나 발생했습니다. 특히 나가노현에서는 진도 5강과 5약의 강진이 잇따르며 주민들의 불안감이 극에 달하고 있습니다. 전문가들은 평소 철저한 지진 대비와 안전 수칙 준수를 당부하고 있습니다.",
+                "original_title": "イラン軍「アメリカ軍艦艇にドローン攻撃」報復を宣言 イラン革命防衛隊「戦闘再開なら数百発の弾道ミサイル発射」 - FNNプライムオンライン",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaR1c5WmxBUUJGakx2ck5DRzF1VjR2clRQaUNVVUhZdlVMY1JuRjR5NWdoLUNBc3BkTmVqWXlhUDkzM1ppYXp4WGFaaDJ6QQ?oc=5",
+                "pub_datetime_utc": "2026-04-19T23:34:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:24 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "인도 대형 폭발 참사",
+                "hook": "평화롭던 폭죽 공장에서 발생한 폭발, 23명이 목숨을 잃었습니다.",
+                "script": "인도 비루드나가르의 한 폭죽 공장에서 대규모 폭발 사고가 발생해 23명이 사망하고 12명이 중상을 입었습니다. 현장은 순식간에 아수라장으로 변했고, 구조 작업이 긴박하게 진행되었습니다. 이번 사고로 인도 사회 전반에 안전 불감증에 대한 경종이 울리고 있습니다.",
+                "original_title": "Iran-Israel war LIVE updates: Iran accuses U.S. of ceasefire breach, vows to 'soon respond' after U.S. destroyer hits cargo ship - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMFJoQnpObkFxQnNmZWNrWTA4MUZ4ZC1SN0c0enJpZlc1YUItQ3FrSzJRUmlWM3kwT0FYd0hiRmxWT3pGNV9jcHVlODliRlFWMHFnMkhkVFBYR3p2S3ViUjdMeVZVYW8tT21pM2kyTDhVdnZMa3FwNjFKWDJaa25IbGpNdmgzeThQSlQtck5ubDRKaTl1LWtQN2dQN2NCLTdFUm9hMkJkTXowN1JEZDAtV1pZU2Z3RXRqem1fNlRJYndvN2RDcHk4RVFVZFNpbW5KVGxWZdIB2wFBVV95cUxNS1JyblA5Y0hjLWw0bFBCdHBEWHFscWd4MnlmejMwYmZwWjRHc3QtU1NEOWp4R3ZKUFBQMjY4aGxMNHZENXBVeGxjaFRwZ1plUTJJR1pGY05WX0o1enV4eW1VNjdEV3hNeTdvMkE1QmV6MGZ2UkFsbDJBRE1LRkdOWmtvU1A5dUJGbG5xR2U1T1BqU1U3WEx2eTRQN0NTcFczZ0NYM21pZmRCZ1ZsdTNGS2tqLWVuN0ZDRXQwR3ZxS2F5NVhEcDdfNFRWaE4yTHRBbkwza2lVLXVpVTA?oc=5",
+                "pub_datetime_utc": "2026-04-20T04:09:14Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:24 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "일론 머스크 법정 출두",
+                "hook": "15개월간 이어진 긴장 끝, 프랑스 법원이 머스크를 소환했습니다.",
+                "script": "프랑스 사법당국이 일론 머스크에게 소환장을 발부했습니다. 지난 15개월 동안 이어진 치열한 조사 끝에 내려진 결정인데요. 과연 머스크는 법정에서 어떤 입장을 밝힐까요? 글로벌 IT 공룡과 프랑스 사법부의 정면충돌, 그 결과를 주목해 주십시오.",
+                "original_title": "EN DIRECT, guerre au Moyen-Orient : J. D. Vance attendu au Pakistan pour de nouvelles négociations ; l’Iran ne compte pas discuter à nouveau avec les Etats-Unis - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxONlc4eXJjbXBkblk1SlFhQ3dXVnROdVN4dkQ1TElQTVNyZ2lyTGZmYnlXYjhfU0ZGanIxc3FuZTNUZF9ZdU1rbjNueVl6Z3dwMUV3YkFVQTI1eEJyYXFBLTRkRm5uS1d4a0REc1lGdnZZWkZYZ045UHB3UVpfLUFVN1MtVnBEUTM5bkhaRzU4TTFWR1NYUnlZSDdwOERUMVFSRFZlNUpWaVdkNTZDNmZZS2lhaTFtY3lqNWtMYTYtRXpDaUVWODNKcklYZjloV1VLWno4SzZvb01MaEZwZzhjY2NRU0lQQXctaGt3cEZLcGtQXzVfUmNEWHptTWV6TkpnTGVma3dWREswR183eDhRMlNIZWxHLTROdGhXS250X0djN3VCZ2dUTGc1NUxFMHNQRXFsbnBWSW5lb0VuY0o1MlVTNHU2aVE?oc=5",
+                "pub_datetime_utc": "2026-04-20T05:46:33Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:29 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "파비아 흉기 살인 사건",
+                "hook": "평화롭던 주차장에서 벌어진 비극, 한 남성이 흉기에 찔려 숨졌습니다.",
+                "script": "이탈리아 파비아의 한 주차장에서 끔찍한 살인 사건이 발생했습니다. 사소한 말다툼이 칼부림으로 이어지며 가브리엘레 바카로가 목숨을 잃었는데요. 현재 경찰은 용의자 3명을 체포해 사건 경위를 조사 중입니다. 대체 무엇이 이들을 극단적인 폭력으로 몰아넣었을까요?",
+                "original_title": "Trump: 'Accordo o centrali e ponti distrutti'. Usa fermano nave Iran - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3hLOUh2UjRkODF4bmZFVVVPanJ4TF8wYk5fUmJDeGxzYnBiX0ZXc2JtMXNKRmlncHdwUkpsbl9QVkdDU3Vld3BMaFMwUnlwaGRVZFVDcWFFZHR4T0ZycjRLMTE5WlA4V1ljbGU0UTFWMF9uQmxwSWN4aXdvTVhEejhicW05NE94?oc=5",
+                "pub_datetime_utc": "2026-04-20T07:21:29Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:29 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Trump Says US Seized Iranian S",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Trump Says US Seized Iranian S",
+                "original_title": "Trump Says US Seized Iranian Ship, Blew Hole in Its Engine Room - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2tKYmduUFFRTk5zRGwyTTdQaE1iZFJqQjlJWGRNMUNsRXZTbFRqdjZ6UkdjT2J3V2YxWW1SOGNSZXViSWMxYmt3d0hvVG9fcmQxRjBBU0MxZFk3VklEeEUtSXplRldKbzBYS1pUejVvUVY5aFRROVhEWWdmVGpUa1RFeTRRb0h2OFFlUF8yanlBZTdGb1BwWms2MEZwSW1BdmlMbHhac1RvVTRIUDQxNHd5TQ?oc=5",
+                "pub_datetime_utc": "2026-04-19T19:35:41Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:29 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "투압세 항구 드론 공격",
+                "hook": "러시아 항구가 드론의 표적이 되었습니다. 사망자까지 발생한 긴박한 상황.",
+                "script": "러시아 투압세의 해상 항구가 드론 공격을 받아 인명 피해가 발생했습니다. 러시아 전역에서 100대가 넘는 드론이 요격되는 등 긴장감이 극에 달하고 있는데요. 끊이지 않는 드론 공습, 러시아의 대응과 피해 규모를 정리해 드립니다.",
+                "original_title": "Беспилотники атаковали морской порт Туапсе, есть погибший - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14S01tVEE1M0V2NEJGUFEzZktGM1VIb1dlS1ZNSjUySS1sS2tSam9NbUhLQS15S0xzYThma3RKaW1nYXMtalBOX05udGlQUzDSAUtBVV95cUxOYzhxY2drMEFtNWxwdnVsYUpSa01TRGFCWDBaZTZpNnNGWEFyTGQtR2dBMUZRdmVDT3hFdFctR2h3cHhXSUhfREhlQms?oc=5",
+                "pub_datetime_utc": "2026-04-20T03:03:09Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:29 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "치와와주 비극적 사고",
+                "hook": "마약 단속 작전 중 미국과 멕시코 요원 4명이 목숨을 잃었습니다.",
+                "script": "멕시코 치와와주에서 진행된 마약 단속 작전 도중 차량 사고로 미국 대사관 강사 2명과 멕시코 요원 2명이 숨졌습니다. 긴밀한 공조가 필요한 시점에 발생한 비극이라 더욱 안타까움을 주고 있는데요. 사건의 자세한 경위와 향후 수사 방향을 전합니다.",
+                "original_title": "Mueren dos instructores de la embajada de EE.UU. y dos agentes mexicanos en accidente tras operativo antidrogas en Chihuahua - CNN en Español",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1RFQUpmRDAzeXZEUTZ4R3dPS0pTTmFjdDBobjJBVDFIaWtpRF9tWlRIbjVTMXNLNnpCNElDbFJPa25aaHJudTZnZERiNjVibnhfMVpnSFI0aTI0SXJaVk5oWVowZzFkdWVPZUM3OV9BV2pGOUJ2LVFZXzJaVHE2amtRVWctTktkVXJPa0UyYXZsNDNON0FnLXlXS09NRi0tZ1pWZjRkZXNnUTg0MmRPUUNRYkcyMzVKSUNhd0l2c1hkSjlTU1FMS0FMbXZtd3c2WjE4U3J3TVVxZw?oc=5",
+                "pub_datetime_utc": "2026-04-19T22:08:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:29 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "호주 강 리버 코카인",
+                "hook": "호주 강 한복판, 카타마란 요트에서 발견된 200kg의 정체는?",
+                "script": "호주의 한 강을 항해하던 요트에서 무려 200kg에 달하는 코카인이 적발되었습니다. 경찰이 마약 밀매 현장을 급습하며 유통망 차단에 나섰는데요. 평화롭던 강가에 울린 충격적인 마약 적발 소식에 호주 사회가 들썩이고 있습니다.",
+                "original_title": "Middle East crisis live: ceasefire under pressure and talks in doubt as Iran threatens to ‘retaliate’ to US seizure of ship - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXJfU0lReTNDN3VUaUg3SGJQMTJuNXUzUzJzZ21QbFpRUFZROWNGY09MNy12VUU1djdRU2lmZHRMdWhDVkJ3b2N2ZUxMWExCSm4zTUxnUThkWWdFX2JxbExxbHRaaXZMY29BR0VJcDNWODgyRTdwN0FQdjhPWjZUUUFfS0VNUHR6dklXV1RPMWowREFzNk5vTzltNDc1VUNKRzBvTXNWU0pEVnU5M0tvTW9WZnVQRF91ZXdEa05hU1AyOEFxTXJHTg?oc=5",
+                "pub_datetime_utc": "2026-04-20T06:00:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:32 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "호르무즈 긴장 고조",
+                "hook": "봉쇄 위기 호르무즈 해협, 한국행 원유 선박은 무사할까?",
+                "script": "중동의 화약고 호르무즈 해협에서 긴장이 최고조에 달했습니다. 원유 100만 배럴을 실은 한국행 선박이 가까스로 통과했지만, 국제사회의 우려는 가시지 않고 있는데요. 에너지 안보에 비상이 걸린 대한민국, 정부의 대응책이 시급합니다.",
+                "original_title": "또 ‘위기’ 호르무즈, 통과 선박 딱 1척...IEA, ‘튀르키예 우회로’ 제안 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3oxTGkzS1Z3Rmp1LUYxS3ZkY0RMYUEzM0NUdzFFbmJLUUZ3TzNKNHNYaF9NbzdxcVQxMWE1QlpEWE9Ialp1SW9YMG5IS3F1c1RjamRlX1g2ZmdOQ1ZmQk9iM05qNG0tak11VE1sQnltakpSbUJQZkNfYVYzR3hGSkVB?oc=5",
+                "pub_datetime_utc": "2026-04-20T06:36:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:32 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "이란-미국 갈등 격화",
+                "hook": "오만만에서 터진 충돌, 미-이란 전쟁 전운 감도나?",
+                "script": "오만만에서 미군이 이란 선박을 나포하자 이란이 즉각 보복을 선언하며 긴장이 극에 달했습니다. 전 세계가 중동의 일촉즉발 상황을 지켜보는 가운데, 과연 외교적 해결책이 나올 수 있을까요? 국제 유가마저 요동치며 세계 경제가 긴장하고 있습니다.",
+                "original_title": "Giliran Iran Serang Kapal AS Usai Kapalnya Ditembak di Teluk Oman - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjlaYXl2NVBsMl9oOGN5aGhvUzh6Z3dSSzB6NC01UnhlN0dFYjN3MGZVM1VJb2h1M0gxc2RhcnhMRE9WZVpjWmhNODQ5d3N0QW5VWmpZOE9BbzF4QjdqemJNNG1LcGM0MmFYTllHRU43NHBwMWhGVHU5b0ZHNUJ2T0NGdmQ2TkdrTDNkUnFGVENTYXhVQmx3ZnJlWFJqNWw5Mkk3c0ZXM25DMk9oVXUwY2Z30gG3AUFVX3lxTE4xTGdRLUt1UWdSYmg5LVplN1pKVzM3d2dfZkJtX3VCRVlXMXZURXBoNVpSU0lyenNqNHRCOEJPVWwzTVJJUmdjUDB0YnJzUHd0cXZETUF6eEtuZ1VQZ0tZd2FUUXJTTURpS3F2VzlaRXFrcnhDRzlzVTVaTHB3Z2IwdWktWTlZTHZTbldHblE1Z25JVlI3NU5mc3E2cGFtYlExQ1RHWUhHWHRkNEk0TW11UUFRQ0MzVQ?oc=5",
+                "pub_datetime_utc": "2026-04-20T06:19:50Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:32 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "사우디 기상 경보",
+                "hook": "붉은 경보 발령! 사우디를 덮친 기록적인 폭우와 홍수",
+                "script": "사우디아라비아 기상청이 전국에 '레드 알람'을 발령했습니다. 기록적인 폭우로 인해 일부 지역은 학교 수업이 원격으로 전환되었고, 홍수 피해가 속출하고 있는데요. 당국은 시민들에게 외출 자제와 안전 확보를 강력히 당부했습니다.",
+                "original_title": "أول رد لجيش إيران عقب سيطرة القوات الأمريكية على سفينة إيرانية - CNN Arabic",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVFvUUM2SlAwSjgxUW9TLTFyN2lnX3pldmMzbzljYlUtcElmN0dXazVITjJpamxrYzFLZ3FOUDEtcHFuYUpiSm5hcEo4bG5lTmIyTk5McHI5emt2ZGtydVlYZVBzM0lVTnRaaXZSVm9zS3VKUjFnLTh3LWszY3plXy00NllzVGdYei1OU0JJMWcxUzIxaTJhV2RhVFptRjJEV1R0WFM0RlU4WUFZR1MxNzc3dFc3Y0VGeW5ydGxseTFqUjRyREk3VEpWa1FHZTDSAdoBQVVfeXFMUGI2NjdzRDZPa0FmVG5SU3NqemdSaXlmekJ2ejJVRUFYSHZSLUVUUEZlRTlGMVZRdzBhb09veXBjTHkwclNtTXdNQXRvbkdueFp5b0ZEdGZNSzN5Z09GUXg3MVlOT3JsaktlRmxuWVk5cFNiYlpMRHY3LW5JVmdoa3d3ZXBEdVZfRmhRaTZnNUJBVWNaVGR0Qk1aR2EySEFnaTE3SEFKTUJ4MHFNSFhtVFRTbU5PU1RoNmNSVTZ0RkkxbVk4NkNaYTBtdUxodFh5UTJwWEhNQ24xQnc?oc=5",
+                "pub_datetime_utc": "2026-04-20T04:33:56Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:32 KST",
+        "current_rank": 14
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 치안 비상",
+                "hook": "아이들이 보는 앞에서 벌어진 비극, 남아공의 멈추지 않는 도로 위 총격 사건이 충격을 주고 있습니다.",
+                "script": "최근 남아공에서 가족이 탄 차량을 향한 끔찍한 도로 위 보복 총격 사건이 발생해 아버지가 숨지고 어머니가 크게 다쳤습니다. 아이들이 지켜보는 가운데 벌어진 이번 사건은 남아공 내 치안 부재의 민낯을 그대로 드러냈습니다. 한편, 엠풀레니 지역에서는 160억 원대 '유령 차량' 사기극까지 터지며 사회 전반의 부패와 혼란이 가중되고 있습니다. 과연 남아공은 이 위기를 어떻게 극복할 수 있을까요?",
+                "original_title": "Road rage: Hysterical children watched as their ‘papaji’ was shot dead and mother injured - IOL",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0llcFVvS1J3ZnNQNV8zN1R1ZVVmcVlwSWUxZmhpWUNSRGR4Z19MTDFNMDh6ejNGRnJWbC04aVFPa0tHVFdSUTJIWmJFcGpKbGdrRFBaT00tUUtVQkZER09YUG9BbWY5WkhTTFc1WmlqN2I5QUZuNURhemVuVEJHM2twcWNpSjZVTW5XVGY1ckJqVU1xYTk3R0MxMk5HZnJxZGhMa1RST3ZtZXUtVUZZQXdGODFkeW1FN2M0b1MxbEpzQm9lTGhIdg?oc=5",
+                "pub_datetime_utc": "2026-04-20T04:26:48Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:34 KST",
+        "current_rank": 15
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "런던 도심 차량 돌진",
+                "hook": "평화롭던 런던 도심을 덮친 차량, 시민들이 공포에 떨고 있습니다.",
+                "script": "런던 시내에서 차량이 보행자들을 덮치는 사고가 발생해 한 여성이 생사의 갈림길에 놓였습니다. 현장은 아수라장이 되었고, 대테러 경찰을 비롯한 당국이 즉각 조사에 착수했습니다. 도심 한복판에서 벌어진 충격적인 사고에 시민들의 불안이 커지고 있습니다.",
+                "original_title": "The key questions Keir Starmer must answer over Mandelson appointment - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFNreEI3OW9MWXNfcHlxS3RDY28xaXZ6Ulo3U3pTRnV1RkJ5V3pRS3cta1NWUEQ0WVl2ekM2ZE92RlctanZIWVJJNnNBMFNiYTM4Tko3anlzZ0MtUGFzUFdzbE1iZnRYUk5xMFhuTkllaGo5ZmYtV1RjZGtQTUlMMUZPdlV0VE1Kcjhjd2ZoRWozaWlmV1NSS1dHOGQ1dVZfajJaU3I1djRIX1BFQ2swQVYtM25RSktGVnc?oc=5",
+                "pub_datetime_utc": "2026-04-20T04:12:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:24 KST",
+        "current_rank": 16
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "루라 대통령의 경고",
+                "hook": "브라질 루라 대통령이 트럼프를 향해 거침없는 메시지를 던졌습니다.",
+                "script": "루라 브라질 대통령이 트럼프 전 대통령을 겨냥해 '거짓말로는 나를 이길 수 없다'며 강한 자신감을 드러냈습니다. 최근 중동 긴장 상황 속에서 브라질의 입장을 재확인하며 정치적 대립각을 세운 것인데요. 세계의 이목이 쏠린 두 거물 정치인의 설전, 그 배경을 분석합니다.",
+                "original_title": "Lula diz que Brasil é um dos menos afetados pela guerra no Irã - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXRQcW1EaWZHdEtMYnREbG5lZ3dXUlZsbDhwSWFEMjZsY1dDVjlQOTl2QWFKcHRDdk5BNEFlTndGYkduSDlWY2RMdlZycHVFYVItOUFfaGR2enIwdFJLaURuQ2xURDNoM21oV1VacldzY29fWG1Rb3RmelFJTnFIdmN1X2tjczFhNDJfSDlCTFZ5MVdSMUxHRXFfbkpzcEFXTlV6ZVVISm0?oc=5",
+                "pub_datetime_utc": "2026-04-19T20:31:21Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:29 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "튀르키예 대규모 수사",
+                "hook": "우샤크 시청을 덮친 2차 수사, 25명 전격 체포!",
+                "script": "튀르키예 우샤크 지방자치단체에 대대적인 부정부패 수사가 착수되었습니다. 25명이 체포되고 주거지 압수수색이 이어지며 지역 사회가 큰 충격에 빠졌는데요. 행정 투명성을 향한 이번 수사가 어디까지 확대될지 이목이 쏠리고 있습니다.",
+                "original_title": "Gülistan Doku soruşturmasında tutuklanan eski Tunceli Valisi’nin oğlunun ifadesi ortaya çıktı - Medyascope",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmdyY0k3RnNqSnhvRHJ1VmZWY3V5MUZTQUVSLXd4azBuNHhVOENfVDNNQ24zRTFpSzZWZlBCUDdBVmF5NV9lSDh1bGpDTHdaaEdsOUUtYUxfeldrRFF6TUZrXzFjUzdnM19kUnVBNTlRdUppdlhZenJ0Q2ZtVkxBUmVYU2V5RmpzUzZ4QnJ3?oc=5",
+                "pub_datetime_utc": "2026-04-19T14:41:02Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:32 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "부에노스-텔아비브 직항",
+                "hook": "아르헨티나-이스라엘 하늘길 열린다, 밀레이의 결단!",
+                "script": "하비에르 밀레이 대통령이 부에노스아이레스와 텔아비브를 잇는 역사적인 첫 직항 노선 개설을 발표했습니다. 양국 간의 경제와 문화적 교류를 획기적으로 강화하겠다는 의지인데요. 남미와 중동을 잇는 새로운 하늘길이 열리며 큰 주목을 받고 있습니다.",
+                "original_title": "Javier Milei anunció que comenzará a funcionar la primera ruta aérea directa entre Buenos Aires y Tel Aviv - Ambito",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmEzZVAtMXRtOUwzb095OFYya1ItNlY0dk1XVno5UHJYR0U2c0J1WGlZQWV5UXhRcGc4OC1iQ050Y08wQVZILW1rUV9yc0F0TmUxSkNuQVBILXlZbVB4cmJWOWFsWGw3cmdwd0FrVGJseVdYR1VqamJXOEdqbFk5ZjhmMmtITF9kRTFzZG0zYXhPUnNBbnBhRFhSNHZ2VmlIZWphaVRjMTFPRG81RVNnekkzMks5dG9XOVFJZTdKbHBlTVNXTVppRFp4bU5OVGhPQ3dEOVhR0gHbAUFVX3lxTE5UV3VGTHQ2cU53YlI2Wm9aRUxLMUQ3UTNLUmNKZkNjNXozX2tiTVotQnpici04aTUyczlWSTUwaGhNbEFKTllXeXp1WjRQVWVxcHFqcVk4ZlJGVmV2TWpTWVlmSmt1V1I3RnVKTWo1LXdrZF9NaDVRc1VJdlhyRk1DX2hKTXVHZGxTMXl4c25wX3ZoUjRwX0dyM3R5QzRteExTakVaTnpxTkRGV2RIS2RNLWlUakdDdjRIZ2Z2c2NGanpQWFN4aE41QWJES3g0OUVRY2wxOHd0OWd3UQ?oc=5",
+                "pub_datetime_utc": "2026-04-19T16:28:00Z"
+            }
+        ],
+        "last_updated": "2026-04-20 16:30:32 KST",
+        "current_rank": 19
+    }
+}
