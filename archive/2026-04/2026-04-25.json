@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미국, 사형 집행 확대",
+                "hook": "미국 법무부가 사형 집행 수단으로 총살형을 허용하기로 결정했습니다.",
+                "script": "미국 법무부가 사형 집행 절차를 대폭 강화합니다. 논란이 되었던 총살형을 사형 집행 수단으로 공식 도입하며 사형제 확대 움직임을 보이고 있는데요. 인권 단체와 법조계의 강한 반발이 예상되는 가운데, 이번 결정이 미국 사법 체계에 어떤 파장을 몰고 올지 주목됩니다.",
+                "original_title": "Live Updates: Witkoff, Kushner set to head to Pakistan for Iran peace talks today - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaldEcGJmb245Z2ZkNVg1c05IaFBQNFQyZ0RJV0pvWDV5Umt5Rm1TRkNXLS14MTdFaUQ0Njk3RGtOdU9CVXVKQ3hybFItNTdnNDFkNGJIVGxNM0FBRXlqeGV2dEhmOE43Z2xDOFFpTXB4anprN1NnOHp5elVxWWR0emJfR2E2anNwX0otdlpYd2tBbXdSRTlrU3ZrSFpNX0xpN0kwNi01dWQ0MEXSAbABQVVfeXFMTmt1ZlhRX2lSeGlOOEI3NTBkbmV1a2tzdDNZdkNGdVZSNmlKbUM0NjQtbkRpaWRTdF90MEN1RG53bVI3MkFJOUItRDA5RUdjczZ4STNSeFdFN2FWS0U5VDhHbUlaM3plUl9YQXNQOXlZNnpDanZ2bEh1TS1tTUNUa1F1UDFpaDVkclRwMkhET2FMRUhfbUxva2pIQWFqSV93cEN0emxwakcwQkZLOUFEcGQ?oc=5",
+                "pub_datetime_utc": "2026-04-25T11:32:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:48 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "발전위 고위직 조사",
+                "hook": "중국 국가발전개혁위원회 고위 관료가 부패 혐의로 전격 조사받고 있습니다.",
+                "script": "중국 국가발전개혁위원회의 우하오 전 비서장이 심각한 규율 및 법률 위반 혐의로 당국의 조사를 받고 있습니다. 중국 내 경제 정책을 총괄하는 핵심 부처 고위직의 낙마 소식에 정가와 경제계가 술렁이고 있는데요. 시진핑 주석의 반부패 드라이브가 어디까지 이어질지 이목이 쏠립니다.",
+                "original_title": "【讲习所·中国与世界】习近平为义乌“换上一件大衣服” - chinanews.com.cn",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jMFRKVm9YZ1VYQ0JTN0Y4UWxfcEJkRk14aUpXREZrVGNHVGV5ckxoTFo4enhUcm9qd3lQZDF4N3F5WkxCcWpta3pkSER6OXM2UnJfYkV3WWdOLURKY2pXMGhCVlB2YnBz?oc=5",
+                "pub_datetime_utc": "2026-04-25T04:38:03Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:48 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Altersvorsorge: Merz bestreite",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Altersvorsorge: Merz bestreite",
+                "original_title": "Altersvorsorge: Merz bestreitet Kürzungsabsichten bei gesetzlicher Rente - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZ6YjYweENoR2pEQkFMMUhyOUNOblRGaFpqUlFzQmV3WkZrQTNZakV2eVI2bzF0TzR2cU5LaklIOURGMnZtX0pXSjdDZjFFbml1Qi1BTlJYUEszcEN3UzlnZDhibGcwN3hQaTNpbzBiUmdSNjI4U3gxU29uNkk3ZkZVZ3JHX1VSbERSakFTZTlXWnNnbk5KSG90Zw?oc=5",
+                "pub_datetime_utc": "2026-04-25T12:05:13Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:48 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "일본 연쇄 방화 사건",
+                "hook": "일본 홋카이도에서 버스 정류장과 리조트 시설이 잇따라 불에 탔습니다.",
+                "script": "홋카이도에서 버스 정류장 대기실을 전소시킨 혐의로 중국 국적 남성이 체포되었습니다. 인근 리조트 시설에서도 비슷한 시기 화재가 발생해 경찰이 연관성을 집중 수사 중인데요. 일본 내 외국인 관련 범죄와 안전 문제에 대한 여론이 다시금 뜨거워지고 있습니다.",
+                "original_title": "大槌町山林火災、懸命の消火続く 消防庁は12都道県への緊急消防援助隊出動要請を指示に切り替え - 岩手日報",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YMjRnMC1GX0cydnZFRmFwekllc3dYUGJjRUVwRmp4eGY3Mlk4aWFocmVWVnBfOEFOVDVKX2JrWm03OGcyR2pYWUcyT1dyQjlzQnIxLXVjQmlnSXpJVkNyWQ?oc=5",
+                "pub_datetime_utc": "2026-04-25T12:21:38Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:48 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "인도 정치인 팔로워 급감",
+                "hook": "인도의 Z세대 아이콘 라가브 차다가 하루아침에 100만 명의 팔로워를 잃었습니다.",
+                "script": "정치적 논란에 휘말린 인도 정치인 라가브 차다가 온라인상에서 거센 역풍을 맞고 있습니다. 최근 행보에 대한 비난이 쏟아지며 순식간에 100만 명 이상의 팔로워가 이탈했는데요. 소셜 미디어 여론이 실제 정치적 입지에 어떤 영향을 미칠지 인도 정가가 촉각을 곤두세우고 있습니다.",
+                "original_title": "Gen Z icon faces online backlash: Raghav Chadha loses over 1 million followers, flooded with hate comment - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNekNVTGFIc0dTZTRJWkN2c1N2eHZXSXFGLVByRkhLamlXSllJeXhDYVJmd1JHUU9GTEhBUVJvNkdfNlE4VTBkTTl1eGJtVXE2dW05ZWFEdzNiX1Frd1hqNlFPMzRtVmFOdUxrYUZfNWZJdVlXOU9OdlVsdE5lT3dBb3czQ2Y5MXpPREJPSnMwWDRKaVBMQUxsMGdPZ1Rzb0xVdUV3ZmdYZmJEbGtGOWdZTHlNU0gxQ1Nnei1zSzNtT1JxazNyTGwxMjRfSUxySUhYZlczU21qQXNZeDJGVjA0VEUzUllfU3B6SGYxSzJsVHNGTDEyOVRQR0pnbnJSTEJkNVNKSFZGWnVnSDl3eklhQXgxWUpEelVMMEE?oc=5",
+                "pub_datetime_utc": "2026-04-25T12:40:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:48 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "우크라이나 대규모 공격",
+                "hook": "러시아의 강력한 공격으로 우크라이나에서 7명이 사망하는 비극이 발생했습니다.",
+                "script": "러시아군이 우크라이나를 겨냥해 대규모 공습을 단행하며 7명의 무고한 시민이 목숨을 잃었습니다. 나토 영공 인근까지 러시아 드론이 접근하며 긴장감이 최고조에 달한 가운데, 영국을 포함한 서방 국가들의 대응 수위가 높아지고 있습니다. 전쟁의 참상이 다시 한번 전 세계를 충격에 빠뜨리고 있습니다.",
+                "original_title": "Iran's foreign minister in Islamabad for talks as Israel trades fire with Hezbollah in Lebanon - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oUGI2T3dFcXI0aVBtb3B4QnVoMEJMc2c0SW9lT0JtZ2ZUQWp4RVdYbENFV05HSkZmSEFPdktEOHdUdDRDSEFFM0Z3M0ZzT1ZackdtMA?oc=5",
+                "pub_datetime_utc": "2026-04-25T13:24:20Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:48 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "이탈리아 심판 수사",
+                "hook": "스포츠계의 충격, 심판 배정 책임자가 사기 혐의로 조사받다.",
+                "script": "이탈리아 축구계가 발칵 뒤집혔습니다. 심판 배정을 총괄하는 잔루카 로키가 스포츠 사기 혐의로 수사 대상에 올랐습니다. 공정해야 할 그라운드의 정의가 흔들리고 있습니다. 과연 이 수사가 이탈리아 축구에 어떤 파장을 불러올까요?",
+                "original_title": "Terremoto nel calcio: il designatore degli arbitri Gianluca Rocchi è indagato per frode sportiva - AGI",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHF3Wkx1RmppdGYxZWFRcDdhYTRCQVNqeTlmT0VwcG85c1hrc0xjZG42Mkx6SWZaaEllU3V5akRnekNqdEJRSkFwWjFmVEJhbWhWcTRQQkhLU0NPVlY1ZVRXWklPZGNCT1NReE03SWwxcjFtNHRKdUdfaFQwVTc1UDJEU2JMbWFj?oc=5",
+                "pub_datetime_utc": "2026-04-25T12:42:58Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:58 KST",
+        "current_rank": 7
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Chihuahua violó la Constitució",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Chihuahua violó la Constitució",
+                "original_title": "Chihuahua violó la Constitución y la Ley de Seguridad; aceptó agentes de EU: Sheinbaum - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1piTVFGVUR2QXpsMl9UNktrdmpBSzg1RGFKRUFwLTY2aTVNU1BKMG9GMEFlSnF3dFFpYUktZjFYQkpuRzBBYnQ4cUNHV3lkcmVVXzFaZHdncmFmcjBKX3d1TG1YQTBXNjlrUEdHbms3SzJZX3BKS3N6NE9OV3lUZUs5SkVGalVHVC1vdHF5TXdLUFd0Q09oeVNlZFlzSVZzUFBnMExrYktCNjRQakxPanBDdHRpaU1zWGtucFhuNW9maGhieW92MEhpOGF4aGtUVGlXLUJR?oc=5",
+                "pub_datetime_utc": "2026-04-24T12:59:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:58 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "시드니 도심 총격 공포",
+                "hook": "평화롭던 시드니 도심에서 15분 만에 3건의 총격 사건이 발생했습니다.",
+                "script": "호주 시드니가 충격에 빠졌습니다. 불과 15분이라는 짧은 시간 동안 세 곳에서 연쇄 총격 사건이 발생하며 시민들의 불안이 극에 달하고 있습니다. 경찰은 현재 범행 동기와 배후 세력을 파악하기 위해 수사를 확대 중입니다. 평화로운 일상을 뒤흔든 이번 사건, 과연 시드니에 무슨 일이 벌어진 걸까요?",
+                "original_title": "‘Racism is a cancer’: Indigenous leaders condemn orchestrated booing at Anzac Day ceremonies - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWV9yWV9SdXl2Sl9ZTENVcXFYcjRodUtjY1lIZE9Kblo0d3lhdFNfT25IcTlFUmVLSW01b1FkNm1rdXE1MEpDQ21uc1NWekxfcHhnNWdpNHJtSjhOd0I1X3piTjY0Z1g0emN3dEZrZmNWcTk3ZDk3eWpOQmszUzYxRTlaR2Q5VHVTZkV4cEl1RXhCMDdFT3l1Q0UzN2lLcVVha2k3azhJbFl4WE5NSU5NYzYwSEIyM2g3SUUtSDJDd3FmRWJkeGFScXdB?oc=5",
+                "pub_datetime_utc": "2026-04-25T08:00:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:41:03 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "트럼프 사형제 강화",
+                "hook": "전기의자부터 총살형까지, 트럼프가 예고한 사형제 부활의 충격적 실체.",
+                "script": "도널드 트럼프 전 대통령이 사형 집행 방식을 대폭 강화하겠다는 파격적인 구상을 밝혔습니다. 전기의자는 물론 가스 질식과 총살형까지 다시 도입하겠다는 계획에 전 세계의 이목이 쏠리고 있습니다. 인권 논란 속에서도 강경한 사법 정책을 밀어붙이는 트럼프의 속내는 무엇일까요? 지금 바로 확인하세요.",
+                "original_title": "이란 외무장관, 파키스탄군 총사령관과 회담… 종전 협상 조율 가능성 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWVQZnhmWWptSmVyUG8tYVlUOXRSTzZfaGpxbGgxWUhRVDdfZWZGZDE3RjRpdnhFT0lyTjFiR1hobHBmRVVCYzVBZndVMXRjVlFYNjRfRFcyTWI4TDlFSUNmN3JLRE1NTUJaekc4SzMwOVlreHlZSF9HQUlvdjRMbmJWdXNQTXB2TDJ6b3JXUEM1UldsT2RZTHhQT0xJdw?oc=5",
+                "pub_datetime_utc": "2026-04-25T11:02:35Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:41:03 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "결혼식 날 비극",
+                "hook": "축복받아야 할 결혼식 당일 아침, 신랑과 신부가 숨진 채 발견되었습니다.",
+                "script": "터키의 한 마을에서 결혼식을 앞둔 아침, 신랑과 신부가 안타깝게 세상을 떠난 채 발견되어 충격을 주고 있습니다. 행복한 미래를 꿈꾸던 커플에게 도대체 무슨 일이 일어난 것일까요? 현재 현지 경찰은 정확한 사인과 사건 경위를 밝히기 위해 수사에 착수했습니다. 비극으로 끝난 그날의 진실을 추적합니다.",
+                "original_title": "SON DAKİKA TOKİ İSTANBUL KURA ÇEKİLİŞİ: TOKİ İstanbul kura sonuçları nasıl öğrenilir? İşte sorgulama ekranı - Uzmanpara",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2pWV1FvTHYwSGxJdHZDRTNhOVJ3N0ExdFcyZ004TVdST01VRmV3OVFZNDFJQ0Q4MmNIb3VCNk5MeURZSE93WFlqNFd0TTFrTTRLVV9FMnR2Vnh4cEVpb1FnQnFpcUR4RTBieDVnNUFPWWx4UmJaZEdTeGdPNUwwVm4yaGRKWHViSU51N2FkV1JVX3BvXzI4WUROUEtmNjlGN2t0aW1idnpfZFZ5WFAxWi13Y2kwTWE4UE1wMzln?oc=5",
+                "pub_datetime_utc": "2026-04-25T11:38:10Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:41:03 KST",
+        "current_rank": 11
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "아르헨티나 노동 개혁",
+                "hook": "노동법 개혁안이 통과되면서 아르헨티나의 근로 환경이 대대적으로 바뀝니다.",
+                "script": "아르헨티나 정부가 노동 개혁안을 전격 시행하며 사회적 파장이 일고 있습니다. 새 법안은 초과 근무 수당과 고용 규칙 등 83개 항목을 포함해 기업과 노동자 모두에게 큰 변화를 예고했습니다. 경제 위기를 극복하기 위한 정부의 승부수가 될지, 아니면 거센 반발에 부딪힐지 귀추가 주목됩니다.",
+                "original_title": "Malvinas: los isleños le respondieron a Trump ante la posibilidad de que EE.UU. le quite el apoyo a Gran Bretaña - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX3hoSnRjay1faXMtRmdFUzlIQTVFbXQzWXNrTUNlSU5YcWEwRW9VazFzdjItNGJCaVNkUXpKZHFyd1pEMWQ5YnhfMEFhYWp3U0hYQm1IS3Y0TS1acEg3cll0RDU2UUU2Z0tNUmNtTF9ld0F1TGVjOGQ0bEtsYjBNU1pZemRhZGljS2dCLVFiOW42UktONFNSaVEwdjFFNGxvcFUwS0JvaER5eW9SaXQ5UnVRNXhvLVlfOGNMV2RGWFJIZ05oQ2VKNnQzUkUwcmRpbDNiai1aaUdXQjc0RzdB?oc=5",
+                "pub_datetime_utc": "2026-04-25T11:09:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:41:03 KST",
+        "current_rank": 12
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "프랑스 작가 탈출",
+                "hook": "끝없는 모욕과 위협, 프랑스를 떠나려는 작가의 고백.",
+                "script": "유명 작가 부알렘 산살이 프랑스를 떠날 결심을 했습니다. 계속되는 살해 협박과 모욕에 자유를 억압받고 있기 때문입니다. 표현의 자유를 중시하는 프랑스에서 벌어지는 안타까운 현실, 이 사건이 던지는 메시지는 무엇일까요?",
+                "original_title": "Ukraine: Leonid Kindzelski, le héros oublié de Tchernobyl - RFI",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlF4bVY0UUhIS3NOX1hTeHg3MWM5bTdxZE1seXR3TXVPbUZFSk9IU19YNm5laXV6NjZnbDdYQ2hXd0VlNHh5Y0xlMkVIVllZR1lOZjdLOEVBM3d4amNkS183MTM5Tm1sWDNXTE85ZkctX3JmVlJUcEk1MFlxREdIQkE2bkRObVBIVU5zS3U3b05NcUJGQ1VaSXBBVnUtRXNPUTgzT2M0MlY4Uk9VOE4tT1Z1aldDOWVPNk85d2xRWQ?oc=5",
+                "pub_datetime_utc": "2026-04-25T05:11:22Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:58 KST",
+        "current_rank": 13
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "브라질 노동 개혁",
+                "hook": "주 6일 근무제 폐지 논의, 브라질 노동 환경 바뀔까?",
+                "script": "브라질 의회에서 주 6일 근무제를 폐지하자는 파격적인 논의가 시작되었습니다. 모타 의원이 이끄는 특별위원회가 노동 시간 단축을 본격적으로 검토하기 때문입니다. 노동자들의 삶의 질이 개선될지, 브라질 사회의 뜨거운 감자로 떠오르고 있습니다.",
+                "original_title": "Zema reduz críticas ao governo Lula e mira STF - Estado de Minas",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXRIMi1USzM5MGFtTjJ4ZF9xV0o2OWtEcHZsemszdGVOcGQ0M2MtWjY1MVM5VDhZbDc2SE1Vd205Tm9yQ0RVaklvelhMelpZelN2aHhVWGZxYnVsTU1fQWx1UV9lRlRreFlIMDktaWJOM1BidUxaczhTNFZOa2JqMVRteno2TEcwUkxjT3BxM3R1eWRaYnFkcy10WlRyWGPSAaQBQVVfeXFMTjBaY3JkSjYyRlNsS2pQbHNBeTRpWkJ1Z1NpcDBYSFFJTzUwdDhhSVQ3ZjhlMllFZGxmOUpJNXYxLWk5ZDhYZnZsSGNPUFlodUtXTWxvUU14bks4cmJyZEdhVWRYeC1KempOOUl3ZXBBeUVGTm5DWWdBb09seWFKWWdRb19RSE13TmpLbUJJQk8zMFlmS3lYeFdfbXA5MG5rUXlSejk?oc=5",
+                "pub_datetime_utc": "2026-04-25T05:00:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:58 KST",
+        "current_rank": 14
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "캐나다 폭설 대란",
+                "hook": "멈춰버린 고속도로, 캐나다를 덮친 기록적인 폭설.",
+                "script": "캐나다 앨버타주 고속도로가 폭설로 인해 완전히 마비되었습니다. 쏟아지는 눈으로 도로가 폐쇄되면서 운전자들이 고립되는 등 비상이 걸렸는데요. 당국은 추가 폭설을 경고하며 이동 자제를 당부하고 있습니다.",
+                "original_title": "Driver in Humboldt Broncos bus crash granted last-minute reprieve - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN29VU0NINHpJSGlDbXpsR0lhUllxN1BueTZ6eHFod1B3T3BtbWlneEU5YWJMU0dnNHFTaHRzbnVlR1VJYjZka3lnTlVNRzlRTHo0OHJad1RMTHNiLVJXWk1Jc0dEOWEzY2VUdFZiVXFkWm1yOEZYUVhmN00yemtqaGdSLUxXd2xESHZGLWRqVW82Nk4wM0JNRmVWeUV5RmdRMlZUaC0zYTRVODBXTVZfRTM4WWlaRnJBRHpxekVuMlVLWkxaeFE?oc=5",
+                "pub_datetime_utc": "2026-04-25T11:24:15Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:58 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "러시아 석유 재앙",
+                "hook": "화재 후 내리는 검은 비, 투압세의 끔찍한 환경 위기.",
+                "script": "러시아 투압세 지역에 화재 이후 '기름 비'가 쏟아지고 있습니다. 전문가들은 빗물 속에 섞인 벤젠이 강력한 발암물질이라며 주민들에게 경고했는데요. 화재의 상처가 환경 재앙으로 번지며 주민들의 불안이 극에 달하고 있습니다.",
+                "original_title": "Алиев заявил о \"прекрасных возможностях\" у Баку и Киева по совместному производству продукции ВПК - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYOXpaaGh6S2pVcC1xOHh6eVdqcW1RbWpEY1l6c0hXWGMwRWFHMV9oZHM4aXViU3VrSjVRU3lUM0paT1hYN2ZHd2F2TEhjZ9IBS0FVX3lxTE9zZTZPUE1jeU0tajhad1BjQXRZU1Bmek5ORkFxczdzeFQ5bWpNSHN0R0R1bVp0UFVwQUxSaFduQWNTalRweEtCeGphaw?oc=5",
+                "pub_datetime_utc": "2026-04-25T10:14:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:40:58 KST",
+        "current_rank": 16
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "이란 호르무즈 도발",
+                "hook": "호르무즈 해협에서 이란이 이스라엘 관련 화물선을 나포하며 긴장이 최고조에 달했습니다.",
+                "script": "이란이 호르무즈 해협에서 이스라엘과 연관된 것으로 의심되는 화물선 2척을 전격 나포했습니다. 이란 국방부는 호르무즈 해협을 자국의 요구를 관철하기 위한 카드로 활용하겠다는 입장을 숨기지 않고 있습니다. 중동의 화약고가 다시 폭발할 조짐을 보이면서 글로벌 물류망에도 비상이 걸렸습니다.",
+                "original_title": "Negosiasi via Pakistan, Menlu Iran Tolak 4 Mata dengan Utusan Trump? - CNBC Indonesia",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1lUMVRBTExkejFMZnNpc1VkTmVyWGhmaUx0NkZ5Z2FiUEtJZ2pCRHBSVHNnanI5X01saGNwbXZoMjhTY3Zubk1sMFNNYnFTOTVVcjRSS1BlbnZfUkhOdGlkOVJGbEtPdFFEWEVqZmczY3BxOVlmSjRYT2xtRnhCMTJiVVMxM3N3d0g5SGtJMExzaXlVdTN1cFJ5eGlQcHQ4QWhqcnZ4eWNIYnFaSVpGSmg5ZXRzcXBSb2lQbDlFOXJuMEHSAcgBQVVfeXFMUGlFUHRWY1hBYUlfQjNUNkk5bHg3b18yaUl2X2FHTk5NTmJZUHBwUVZTRi01UDQ1Q093SFNwbFZyQzFNcXg3c2lBZmZOM2MzNzBPeThkNlI1Z1JqeVRqUnJpMXJhcHRpUEl6S0V4UnN5Y3hTOG5nNWR6ZVB6U2tyV3hQZTg3OFA0UWc4SC1JQUFVcWVhZ0NXekJVUVhydEhhNWczTE5aSmV3OXRldnBPT3pLSHl3eDRjSHJkOThuQnlRM1ZvV3NIcUM?oc=5",
+                "pub_datetime_utc": "2026-04-25T03:00:00Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:41:03 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "사우디 경제 대전환",
+                "hook": "석유를 넘어선 미래, 사우디 경제가 1.3조 달러 규모로 급성장하고 있습니다.",
+                "script": "사우디아라비아가 오일 머니 의존도를 대폭 낮추며 경제 체질 개선에 성공했습니다. 포브스에 따르면 사우디의 비석유 경제 규모가 1조 3천억 달러를 돌파하며 다변화 전략이 성과를 거두고 있습니다. 무함마드 빈 살만 왕세자의 강력한 리더십 아래 사우디가 중동의 새로운 경제 허브로 거듭나고 있습니다.",
+                "original_title": "إغلاق شبه تام في إسلام آباد قبيل محادثات أميركا وإيران - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPZ1JpdENBZDN4MEJGNW14UGwyZUppQ0Jkc25zSy1ETmJiZWpyblZfLXpHbnFjNldrMHZ3bGc5NGdoWWV6bHU4WmcyVlA3LVlmbklsYVdLOUdmUmRrdlRmQThNNWowemZuRFl3N2JZdWJ2SFFadEVVYXF6azQtR0VBcXlTZzhaOVZPeENiV1RELWZ2R3NGaGtLMEo2MUw1UUpobmJpSThVcFFER0IyeDBPVUduQmtUaFRYdU1XRjdDcVRlTXdQcnlKamRfelNLeEhPdVhlaTBLc0hmWUZLNEFSUHlrWjZnRlBpLUNSVWwxTW4yWFFyX0FKXzVibVBpaEp3eEdPeVhLbnc2RHE4QmhGMnd5RjQzYWF5U2VyMElSY3V6Snk4WTF6c0J1WTZFb3NKbjd3SGZycUdReGZEQzd2Wm5wQTQ4WnVPQ09odHJERFlibFp1c3NpVkowclhObUFQd2wtRTl5RUZUZTRKM3plNmh5QlZlMTRUYTJfRFc1NFZkTnZjSi0yekdUU3FQalRoSjNaUXYzSVBkZmJJa29BddIBpgNBVV95cUxPNWgzNXRiODRYZFFvNDloMDl5enhqbDFzLXc1U0RFajgyWXpJek1UX0pJTGtwdWVLMl9zRkxBb3h2MkV5dDhSbkZHQzcyTEtrQi1FVlEzVkVDdnBRYnJjOTFYeVk5ZTkxcHZGTXNiY05BbmtsUnFleDMxbC1hNmlicFhFeFk2UEpOTXBNbjlrRG5qNWhMdUxIZTZzNjFNcFRtZ1BXcXNaS253U2VUdWI3RnBSbnJVbmtoLW12WVJBYkhHU1hpOW9sYXYxbW9KcmdpdGRhdlBockN5RGktX1o2YmgxWklFZk9ZQXpqN2lUall6Y0lhRXgyVXZYZWFRS0d5RVZ1d0F2TjFrY3Jod0xDTVkyazZUSGRTTV9lT0o1M1R2M0puQm5VUjlsWWUwdmlGOS1FbkJGdkdEOTU2UjdmYWxNQk5TNG5WZTd1b0hvOFlfOTVyZlFmU1l0TlBaa3JVTWJQUkwxTElFMndldGdYdDFPQXFVandic3p1Zzgzc1hfSFk0QUtUdzc4UzBCTjR0ZlpWaFlvWEtsS3llR1QxR2dhVmVwUQ?oc=5",
+                "pub_datetime_utc": "2026-04-25T09:11:44Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:41:03 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "KZN 7명 집단 장례",
+                "hook": "평화롭던 마을을 공포로 몰아넣은 납치 살인 사건, 그 비극의 끝은 어디일까요?",
+                "script": "남아공 콰줄루나탈주에서 납치와 살해를 당한 7명의 피해자를 위한 대규모 합동 장례식이 엄수됩니다. 이 비극적인 사건은 지역 사회에 큰 충격을 안겼으며, 최근 해당 지역의 민주주의 후퇴 논란과 맞물려 시민들의 불안이 커지고 있습니다. 정의를 바라는 유가족들의 슬픔과 함께, 치안 부재에 대한 당국의 근본적인 대책 마련이 시급한 상황입니다.",
+                "original_title": "Mass funeral planned for seven victims of KZN kidnapping and murder - IOL",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnUwV0xwSEdJMUxweUQ3QWp3WnYyVDR0enJOMUg1Y0lWaVZlS3lQdF9UOHhPZENfbjNPSmVFMVRZV2FOVm8xUjdTWjFuZ2lSY01RaTYtVkhIVl9KWVh6M00yMFdncUJVTTF2QWNVbGhSd0pOcXc3b2tHVEItX1V0MGRUODczNjAxb0llaDh5VzF6UHp2Skxjd2p2WEl2Vk9MZlFPMllaTnlvOTlIcm1maUNBdTJXUQ?oc=5",
+                "pub_datetime_utc": "2026-04-25T07:38:01Z"
+            }
+        ],
+        "last_updated": "2026-04-25 22:41:28 KST",
+        "current_rank": 19
+    }
+}
