@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프 행사장 총격",
+                "hook": "백악관 출입기자단 만찬장에서 총성이 울렸습니다.",
+                "script": "트럼프 전 대통령이 참석한 백악관 출입기자단 만찬장에서 총격 사건이 발생해 현장이 아수라장이 됐습니다. 다행히 트럼프는 무사히 대피했으며 용의자는 즉시 현장에서 체포되었습니다. 당국은 이번 사건의 배후와 범행 동기를 긴급히 조사하고 있습니다.",
+                "original_title": "Live Updates: Trump safe after shots fired at White House Correspondents' Dinner; suspect in custody - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWlyQXBNblZqQXFMUTRHM1lVdXFIWVRkOFoxYTBCN2FXWGdRLWtILU4xMVZadGFvaVJyRW54YVg3WmRtUGJ5ZjZhQmN4M2RuLTlwamNNS3cyT1Y5NzVfSXFQbGMxWGhMVzNlTXRKaDhqSWNpMmhIcGxnRUZpRDlYaDRqTmFPcG1yUUljR3g0Y0wtajBDT1F6OUlsVFlSWFgzVklncS1jWTg?oc=5",
+                "pub_datetime_utc": "2026-04-26T10:19:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:42 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "트럼프 만찬장 피습",
+                "hook": "평화롭던 기자단 만찬장이 순식간에 총격 현장으로 변했습니다.",
+                "script": "백악관 출입기자단 만찬 도중 발생한 총격으로 트럼프 전 대통령이 긴급 대피하는 사태가 벌어졌습니다. 중국 언론들도 이번 사건이 미국 정치권에 미칠 파장을 주시하고 있습니다. 현재 범인은 검거되었으나, 사건의 구체적인 경위는 여전히 베일에 싸여 있습니다.",
+                "original_title": "宁夏兴庆区发布全民阅读工作计划及“书香兴庆”年度服务清单 - 中国日报网",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CekIwUm1tS21iTXpidEMxSGtVMEVYSkxRTFZOSFo2bFBHWTdwaVVmT0hzTmdVOGNRZWFNNFc0THJGZWU1R25SM2JpeHZ4RjhKNjJOYmFrUDFsaTZtS0Zma0pGdlNGNl82UEoyV3BfeVRQZG5WTU4wSDNjTk4?oc=5",
+                "pub_datetime_utc": "2026-04-26T05:19:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:42 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "트럼프 만찬장 총격",
+                "hook": "기자단 만찬장에서 발생한 총격, 용의자는 교사 겸 개발자?",
+                "script": "트럼프 전 대통령이 참석한 만찬장에서 총격 사건이 발생해 큰 충격을 주고 있습니다. 체포된 용의자는 교사이자 게임 개발자로 알려졌으며, 정부 관계자를 겨냥했다고 진술했습니다. 일본 내에서도 이번 사건의 정치적 파장과 보안 문제에 대한 우려가 확산되고 있습니다.",
+                "original_title": "トランプ大統領が出席の夕食会で発砲音、拘束された容疑者は教師兼ゲーム開発者…「政権関係者が標的だった」と供述 - yomiuri.co.jp",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tVENWVDEzb1YwaWZlYkZ6UDg1TVpBYzAzZ3p3d3Bfakp0WXBIQlFBdkRkNUdSOFEyaE1xV3RLb043WnNUdXJsVzg3Y0p5Q2JBa2NHRjBfWlNkRmwyeXVaQUJB?oc=5",
+                "pub_datetime_utc": "2026-04-26T10:54:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:42 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "트럼프 겨냥 총격",
+                "hook": "기자단 만찬장에서 트럼프를 겨냥한 총격 사건이 발생했습니다.",
+                "script": "미국 워싱턴에서 열린 백악관 출입기자단 만찬장에서 트럼프 전 대통령을 겨냥한 총격 사건이 일어났습니다. 검찰은 용의자가 트럼프와 행정부 관계자들을 명확히 표적으로 삼았다고 밝혔습니다. 전 세계가 이번 테러 시도의 배후와 향후 미국 정국 변화를 예의주시하고 있습니다.",
+                "original_title": "'Trump and admin officials': Acting AG reveals who was gunman's target at WH shooting - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU1R6Si1LeGlJRVRMVVRwVUNTRmZfbDE3OW9JcDU5QTRUTlB3ZEVqaTNJQ1lRTjNqVVdlU05IXy1RaFlxbGZib0M2ekNwNTZuVFFkNHozWUZnVTRvdVhpM0kwTDk1RlJFNWVnYkJyeFpadEdhd05TRXZBdnFJbHdUd1ZkVDZlS0trM2FOUGl5MG9RcTZPdzBFcng2UGR3ODc4Yk9uWWpHbG04eUdKV2NsUk1QOVp2VnQtbEF5ZFRCWWR6cll6b1ZIUzJxV1BmVGFSVlloa1BfUUFDenZUeHAzQy1iTjctVGc?oc=5",
+                "pub_datetime_utc": "2026-04-26T12:50:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:42 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "트럼프 행사 총격",
+                "hook": "워싱턴 만찬장에서 발생한 총격, 트럼프는 무사합니다.",
+                "script": "워싱턴 힐튼에서 열린 백악관 기자단 만찬장에서 총격 사건이 발생해 영국 왕실의 미국 방문 계획에도 비상이 걸렸습니다. 트럼프 전 대통령은 무사히 대피했고 용의자는 구금된 상태입니다. 이번 사건이 향후 미국과 영국 간의 외교적 일정에 어떤 변화를 줄지 귀추가 주목됩니다.",
+                "original_title": "White House correspondents’ dinner shooting latest: Trump unharmed and suspect in custody after attack at Washington Hilton - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUG1ucWhuZ0FsWVVVOWN6cUNfSEcyOG5tekJLd0RySFVJWHdBZTloQVBsTmVGUkdaRUNkYzBOS1pBNGNDallfdlpNYlNad0dTVDFMSlV4RUhUODZCQ204M21LM3V3VjVfMmJlclJkSXRSRS1rbDFkSklFQ1lTUlp6TWtRWnhzNjJwZjZGM0pacjZ3MjdMLUZiTXMzenJLaEJrX215ZUg5TXRfaU9hRFRucVZlZVdIdmJ0ZXVac0t0aDJmdEFBUUlPR3dsOU94eEQ0NGRDZmZHOHk?oc=5",
+                "pub_datetime_utc": "2026-04-26T10:32:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:42 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "트럼프 행사장 총격",
+                "hook": "트럼프가 참석한 갈라쇼 현장에서 발생한 충격적인 총격 사건, 지금 전 세계가 경악하고 있습니다.",
+                "script": "워싱턴에서 열린 트럼프 전 대통령의 갈라 행사장에서 총격 사건이 발생해 현장이 아수라장이 됐습니다. 용의자가 즉각 체포되었지만, 이번 사건으로 미 정계는 다시 한번 큰 충격에 빠졌습니다. 트럼프 전 대통령은 무사히 대피했지만, 배후와 범행 동기에 대한 수사가 긴박하게 진행되고 있습니다.",
+                "original_title": "Qui est le suspect des tirs au gala de Washington avec Trump ? - 20 Minutes",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblc1WVB3Vm1JZjZSZTd4MVVydXZTcElrRHpqblh2Y2pfZUhCRktobHdabDJqNE9JdmMxa2F1YUR6dUI1VTdNaWd1c1daOEEwRXh6Z2xQVXdmamJyOWZQRVUwYzdQNUVXVlVIVngxSHB6VVlZVkRqcWFhSk1CUnZkYjM5Q0o3eGNVdlR0VVdRcS1tMVdjc0wzXw?oc=5",
+                "pub_datetime_utc": "2026-04-26T10:43:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:46 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "트럼프 갈라 총격",
+                "hook": "평화롭던 트럼프의 갈라 만찬장, 총성이 울리며 현장은 순식간에 공포로 뒤덮였습니다.",
+                "script": "워싱턴에서 열린 행사 중 트럼프 전 대통령을 겨냥한 듯한 총격 사건이 발생했습니다. 31세의 용의자가 현장에서 즉시 체포되었으며, 미 당국은 이번 사건을 행정부 인사들을 겨냥한 조직적인 공격으로 보고 있습니다. 다행히 인명 피해는 없었지만, 미국 내 정치적 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "Spari a cena Trump, fermato 31enne. Ministro Usa: “Obiettivo membri amministrazione”. LIVE - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTU4MkZaQTB3S0RyX1lsajY5SlRJZ19OME9ySlRjY0Y4akE2bVlrTmVJalhxdWFObGl3YjA4MGVkZHFJck5zME9ndlVmY3hOQW1pRTl6OFlHTEgweGVoY0dvM1VxSkd4SHB3a2hsY2hIZmx6akd6SWFibVFPTEE5UjRKRk9XZ0J2UHVORUhNaVJQV2I1ODVB?oc=5",
+                "pub_datetime_utc": "2026-04-26T13:37:51Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:46 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "트럼프 행사장 테러",
+                "hook": "트럼프가 참석한 만찬장에서 벌어진 긴박한 총격전, 현장 상황이 실시간으로 드러나고 있습니다.",
+                "script": "트럼프 전 대통령이 참석한 워싱턴 만찬장에서 무장 괴한이 총기를 난사하며 경호팀과 긴박한 대치 상황이 벌어졌습니다. 트럼프는 경호원들에 의해 급히 대피했으며, 현재까지 알려진 부상자는 없는 것으로 확인됩니다. 당국은 용의자를 체포해 구체적인 범행 배경을 집중 조사하고 있습니다.",
+                "original_title": "Trump é retirado às pressas de jantar após atirador abrir fogo contra segurança; o que se sabe até agora - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fNmcxUXRxVnBPaXM5Z3B2eUp1S2Q4M24yNXg3UmRkeFNaSlVuSWVHT0FfbHNfM2lSd3kxM0FWVW1odXh4UWdrY2NZMHUxajJSNVQxNDNXMUNjdXhueWQyNUxB0gFnQVVfeXFMUHpxVmo4dHJlLWRnaTJWTF9Ha0VIY3VGb0ZKS0J6SjJUczlfUWNpMWNDWm5WYk44TFNZOUhfR1QyeVZjbU0zNkFfbllfYTlRMC1TY2w0Tkh2RXVFa3dHcnl6WlR0NHllYw?oc=5",
+                "pub_datetime_utc": "2026-04-26T09:41:23Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:46 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "트럼프 피격 위기",
+                "hook": "트럼프 행사장에서 터진 총성, 용의자는 누구이며 왜 이런 일을 벌였을까요?",
+                "script": "트럼프 전 대통령이 참석한 백악관 출입기자단 만찬 행사장 인근에서 총격 사건이 발생해 미국 전역이 술렁이고 있습니다. 용의자로 지목된 콜 앨런은 현장에서 즉시 제압되었습니다. 사건 직후 트럼프는 무사히 대피했으나, 미국 정치권은 이번 사태가 가져올 파장에 촉각을 곤두세우고 있습니다.",
+                "original_title": "Who is Cole Allen? What we know about White House press dinner shooting suspect - Euronews.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDBXMW9SaTlfM0FVRmZqX1FnelNERkczWXZjdmJrMGNydldBaU5Tb1RnNFo3V3pGclhpcFpiOFdadlhCTU5ISEFSdDVzQlN5TzFKcmhIMTM2b1dCblVZN2dNbDFKQ3N5V3Q1SFJza3VIN25uVUFOY0RlbGhoZ1FiSTdkQWs1WTVUdmpyNkt2ZFp1ZGNoT0wxNW1hbHFDMUtFMFljRHdRZGNFVjJQVTZVWU1yWjM?oc=5",
+                "pub_datetime_utc": "2026-04-26T10:32:53Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:46 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "트럼프 만찬 총격",
+                "hook": "트럼프가 참석한 만찬장에서 총격이 발생했습니다. 현장은 순식간에 혼란에 빠졌습니다.",
+                "script": "미국 워싱턴에서 열린 트럼프 전 대통령의 만찬 행사 중 총격 사건이 발생했습니다. 용의자가 행사장에 총기를 난사했으나 경호팀의 빠른 대응으로 트럼프는 안전하게 대피했습니다. 현재 범인은 체포되어 조사를 받고 있으며, 미 당국은 이번 사건의 배후를 파악하는 데 집중하고 있습니다.",
+                "original_title": "Более 2,5 тыс. кубометров нефтепродуктов убрали из реки и с побережья Туапсе - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HczBZS1BTZ0NyQWt6Y3NHUmZfZFpSdVZZVFljeUtPcVVFRFRwdDBqanZHQldIR0lCcW1LTERhczVvVHhDbloyaUpSTDVaT03SAUtBVV95cUxNMEN6VWR4RTFMMTBlaDU5MFNMMkg3cEJLeTc0ejNYbDNRczBNM1dkR2JXa2x2ZFE0M0c5bmVSSjI2MkwyQnEzemN1Mjg?oc=5",
+                "pub_datetime_utc": "2026-04-26T09:09:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:46 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "트럼프 저격 긴박",
+                "hook": "단상 위로 덮친 경호원들, 트럼프 암살 시도 현장 영상 공개.",
+                "script": "유세 도중 울린 총성, 트럼프 전 대통령이 연단 위로 급히 몸을 숨겼습니다. 경호원들은 즉각 인간 방패가 되어 그를 보호하며 현장은 아수라장이 되었습니다. 전 세계를 충격에 빠뜨린 이번 사건의 배후와 경위가 지금 밝혀지고 있습니다.",
+                "original_title": "총성 울리자 연단 위로 후다닥… 트럼프 앞 막아선 경호원 화제 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZy1LQ0pTdmRJSlhEd1NXTGc2QUZ6Tm85RmsxYnM4cHVqZUxhUFBXM3JzVzFBZ1RncE51YjJLakFfOUxIVWFTLUk1QlpKNEIwcFNRR3hPNzBTalpJNjJzb3lSak1oRjA3NjFDZnpaV2RqOWhEZUpjdnV5YzNKRXVzN2lrYlFQQTNKLUtvUTNYX1JKQlpFS2Z5STBybDhiQQ?oc=5",
+                "pub_datetime_utc": "2026-04-26T11:34:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:49 KST",
+        "current_rank": 11
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "Muncul Usai Penembakan, Trump ",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Muncul Usai Penembakan, Trump ",
+                "original_title": "Muncul Usai Penembakan, Trump Bilang Presiden AS Pekerjaan Berbahaya - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQblBvNG5ja05uQWNFUFdmSno2U0txRkFFM2ZEejdjVGwyc2Vnc3pOam16Q21CUl8tTDZUTjk3ZEZHWGJ0SnMyUmFFaVBmTXg5SUtlVXllbEY1WEkzNzhCZGFBWEI3dlY1QThmVkttV1Y1T0I1MU9wWmwyemJrN2JaXzlINW16U2ZhOEItMV9fLUF6TF9xNUxWMVVJWmM1VlA2UkVnaFNzRy1lU3dJdUVwUXNhc1jSAboBQVVfeXFMUE95M2VBQThvTEkteExBWEotVzFVcEYyWXNYSWpzbW1qZDBvY0NpQmNQbnZzOTAwQ0QtWmFCS3M1T3Jpa0pSOWY0a3BkMU4yTVNlaWhWVWhMTk1jMFpaNWNsSWF3OS1iUTZKY2U5a2MyVlpJRldmRXlmanIzY3ZINlRBd2djSjFScU03bUhoLWFsbmRmMmJRcHJZNUFFNmtzOVBkVmswVG40bHVEb1hpMVNuMndRdE02ejN3?oc=5",
+                "pub_datetime_utc": "2026-04-26T04:11:38Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:49 KST",
+        "current_rank": 12
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "터키 전역 기상경보",
+                "hook": "25개 도시 강타, 터키 전역에 내려진 황색 기상 경보.",
+                "script": "터키 25개 지역에 폭우가 쏟아질 것으로 예상되어 정부가 황색 경보를 발령했습니다. 갑작스러운 기상 악화로 홍수와 시설물 피해가 우려되는 상황입니다. 주민들은 안전을 위해 기상청의 최신 공지를 반드시 확인하시기 바랍니다.",
+                "original_title": "ABD Başkanı Trump'ın katıldığı programda silah sesleri - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnVCV0RHZkU0N0Q2Z3VFUEY4TGR0VkctUUFLOGh0aldtRGdNbVRtNFduQUlMS2lUbzdRMlYwYnNZTUFvMWxXOFpZWWROZ1M2amIwN1JnVkZsYlJmdVBVdTctOFU4RWJCTEEyRGJYVzRJZEJrSkFBS21ONk5nSW9SUzB1MFVkbDJNMGpKN0M4eXJYczAySGUxMmZ4bmxoakU2b3BXNQ?oc=5",
+                "pub_datetime_utc": "2026-04-26T00:45:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:49 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "사우디 관광 대기록",
+                "hook": "관광객 1억 2천만 명 돌파, 사우디가 세계 관광 지도를 바꾸고 있다.",
+                "script": "사우디아라비아가 연간 관광객 1억 2천만 명이라는 역사적인 기록을 세웠습니다. 관광 지출액만 3천억 리얄을 넘어서며 세계적인 관광 허브로 급부상하고 있습니다. 비전 2030을 통해 경제 다각화를 꾀하는 사우디의 야심찬 도전이 결실을 맺고 있습니다.",
+                "original_title": "ماذا يقول حساب \"لينكد إن\" عن مهاجم \"عشاء ترامب\"؟ - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPWlpJUThjTktVMFJ4eXV6UGwzVFdvVEJUSUU1YzczSXpLc1hsdG9wRHRseklmNGxxcGowRFJ3YXlrbFFISzVDVTduWi1qUjVxRFRfX1NSeExRVDlISWpPNnRnRlcwZTlvX3BxckJSTmxuVzdNUnNLbThXSjR5UlJ1eXdDUl9TbGh3RkJZVzhkR2dxMFRnRVlBSmx2Rk9xWXBTWGZ2YnJaNzFiUjh5Tm5CdGpYWmhkSW96T0dzZnJuaFhhTGh6OTloVk5KaWZ6RmQxd0FOVmQ1clNlRVRxUXV2ZVZZYzRpamZJbGhOX28zSjRrWlJaWElkVVRrM1BScXR6dGpCOXF1YUlOaWxjeE80cE1aNUdrNmJvbmFuajd2QjZoT05nRlQ1VmFvVjRCMTJjZ2xZVVg0TV9aOU5jSmwzNTAybmJPQUXSAcwCQVVfeXFMTkRlbDFxRXk5LThlV3ZGcldEeTNZcXJ6V0JzWDM0c2psMEZsdWoxcXZJQUd5RHRraHNjVDRIRjgwT1dBc1VFaEx6aUJjYjhlbHh1UndfdVlxNDVyUzRRbnJaWmhLV1NhR2h4bXctVWNPcnhPaUUtbmpDQWd0VGlTRTczOUxMcUZGWmdYdkZGYVQzVFBBM2sxTkJ5R09HTUVKQUh6SEJsYk1PQ1FEQjhuZVVSZ1JCOW1PXy1kWXVrXzlZdmV6X3dWeEJ0OEJSSEVGZkN1Z3FQNWs2cTkzUmhuZXhWWUxtZWI3VWJzb2dyVFVjcU5yTjl1bVZwTmYyVXNzLWFUZVI0ckJqcEdGQTNKNGlDbHNLOThRNlA5LW5rcV9teDB5YWpfWmk2LVl2MG8tR3pMNTVkVFZwUi1adWZBUWpDMHdSSEZwUUc1a0g?oc=5",
+                "pub_datetime_utc": "2026-04-26T12:21:52Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:49 KST",
+        "current_rank": 14
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "포클랜드 영유권 재확인",
+                "hook": "영국을 향한 아르헨티나의 단호한 경고, 포클랜드는 우리의 땅.",
+                "script": "아르헨티나 정부가 포클랜드 제도에 대한 영유권을 다시 한번 강력하게 천명했습니다. 영국과의 해묵은 갈등 속에서 정부는 영토 주권을 절대 양보할 수 없다는 입장을 고수하고 있습니다. 양국 간의 긴장감이 다시 고조되고 있는 가운데 국제사회의 시선이 쏠리고 있습니다.",
+                "original_title": "Disparos y evacuación de Donald Trump: qué dijeron los medios internacionales sobre el ataque en la cena de corresponsales - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTUU4bUhmbzRtQmxLb0xnWUZJNlQ2bkZvZjdIR1h0MldSWXA4b1Utc2cwTjk1TkNFeGYwanJmQjFFZ3ZmdXpyTDhLM3lKdlNNVDhhc2lMNGkzSGUyR0RrdFJSWWEwMmVmaWZOTGppM24ta1dBdktXbkR3eWF5SnVrdVNRN09ib1dXTW1iQWJFQm4td2tYaVV5aWQxNnd6dGtaQzNaT3AzaWRqU1ZaVGE2aHEyRzUzVk5ILTNDUEo3cVA4WUQtUWZ2RVB6dW9TUV80RTNF?oc=5",
+                "pub_datetime_utc": "2026-04-26T04:24:59Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:49 KST",
+        "current_rank": 15
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "트럼프 총격 사건",
+                "hook": "기자단 만찬장에서 들린 총성, 미국이 다시 충격에 빠졌습니다.",
+                "script": "트럼프 전 대통령이 참석한 갈라 행사장에서 총기 공격이 발생하며 전 세계가 주목하고 있습니다. 독일 언론들은 이번 사건이 트랜스아틀랜틱 관계와 현지 정세에 어떤 영향을 미칠지 긴급 타전 중입니다. 범인이 체포된 가운데, 보안 취약점에 대한 논란도 커지고 있습니다.",
+                "original_title": "Bestürzung nach Angriff bei Gala mit Trump - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjdmNzdWSVNrRnFhR0tLTEdBa1JLaDN2U1BXOWV4Skczd2JLbkppV0pMSFJxUU1OcnEzdER3eGpvdTZNcHZFVnB2ZzJSUjVLRDM4ektPV2d3U2tqcG9hRWpUdHVydFNNWFkwc0xIQVNLajlUZTFhM0wzTmQ3ZEFiTXlnNnp1clpIaXhQNU12Mi1KRlBqeUFIeUhadDI?oc=5",
+                "pub_datetime_utc": "2026-04-26T12:33:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:42 KST",
+        "current_rank": 16
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "트럼프 긴급 대피",
+                "hook": "트럼프가 참석한 행사장에서 발생한 총격, 긴박했던 대피 상황이 공개되었습니다.",
+                "script": "워싱턴에서 열린 갈라 만찬장에서 총격 사건이 발생해 트럼프 전 대통령이 긴급 대피하는 소동이 벌어졌습니다. 행사장에 침입한 무장 괴한이 발포하면서 현장은 극도의 혼란에 빠졌지만, 다행히 트럼프는 무사한 것으로 밝혀졌습니다. 당국은 용의자를 즉각 체포하고 철저한 수사에 착수했습니다.",
+                "original_title": "Evacuan a Trump por tiroteo - El Norte",
+                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fMXNMWVNkYmNheV8yNGg5TXd2aHpvdzdPMnozaUFydWxYY1NKa0dkRV9BanJTNzdZMWk5WEpTR3RqN2NIZXYzam5MVnpqX3dRLU9fSEN5UkxrTnBUd3dNeGZoLU1pQW5nN0lBNktB?oc=5",
+                "pub_datetime_utc": "2026-04-26T12:00:00Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:46 KST",
+        "current_rank": 17
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "멜버른 화염병 테러",
+                "hook": "평화로운 멜버른의 밤이 화염병과 공포로 물들고 있습니다.",
+                "script": "최근 멜버른 유흥가에서 정체불명의 화염병 공격이 잇따르며 시민들이 공포에 떨고 있습니다. 경찰은 조직적인 범죄 가능성을 열어두고 수사를 확대하고 있습니다. 도심 한복판에서 벌어지는 이해할 수 없는 테러 행위에 당국은 비상 체제에 돌입했습니다.",
+                "original_title": "No Acknowledgement of Country at Anzac event attended by Qld premier - abc.net.au",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlFTUXdnZnFoaTFUcDJsaXNFdS1uZlZwU25BSUNYVU9lTExXSlJQTG9RRWlFdjhnR09zbW1wdEh6MXhhWVBTblJTMEpQUDMyMUlNUlk1X3VkMXhILWhpVmNZV0pFQzRxUmpOdm1oLUU5dS0zckU3Qk5DRGFkTU9vSXR3QXN5cTRQY0t1MW90SktwV0RnUGt3bVp1aw?oc=5",
+                "pub_datetime_utc": "2026-04-26T04:19:46Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:49 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 비극적 연쇄 살인",
+                "hook": "7명의 가족이 한꺼번에 납치되어 살해당한 충격적인 사건, 그날의 진실을 추적합니다.",
+                "script": "최근 남아프리카공화국을 뒤흔든 일가족 7명 납치 살인 사건의 장례식이 엄수되며 국민들의 슬픔이 극에 달하고 있습니다. 단순한 애도를 넘어 사건의 진상을 밝히라는 목소리가 커지는 가운데, 지역 사회는 씻을 수 없는 충격에 빠졌습니다. 경찰의 철저한 수사와 함께 범인을 향한 공분이 전국적으로 확산되고 있습니다. 정의가 실현될 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "After G7 snub, a full schedule will keep Ramaphosa away from Africa-France summit - News24",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGtFWDhTOVRUTGp4UGtnZ0ctMGprZndWYXY3ZS1SVW5SWkVIWVgyQUJMUUt6UVdPd09BNUhVankwZ3ZxTVRkM2ZsN2xkNG5ZR2ZRVXpmS25ta0JsUWF3TzZpcGxmRHFzcUdYR3ZWRWdpam9RWU90TDl3T01BclgwS01uUVFPbGRhS0cwaERmWDlxWjU5LUNfQ3V5YVAwQ3lxSUdxZkVRd19ITDViaHdDQ1NWazJWby1qMDBhZHFoc2dCQXZP?oc=5",
+                "pub_datetime_utc": "2026-04-26T12:23:30Z"
+            }
+        ],
+        "last_updated": "2026-04-26 22:42:51 KST",
+        "current_rank": 19
+    }
+}
