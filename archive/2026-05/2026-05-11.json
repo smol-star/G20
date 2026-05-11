@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Oil prices jump after Trump di",
+                "hook": "United States의 최신 주요 뉴스입니다.",
+                "script": "Oil prices jump after Trump di",
+                "original_title": "Oil prices jump after Trump dismisses Iran proposal to end war - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeEduVHJVeUVialhUMFRNYTNiUl92bF90d2pfNEJNa29TVEJMaHhERllmbFVFOWdmaGJOU2w1c1FwR2JqNFVzY09jbXZtXzZ6VGhlbXN3d01LUQ?oc=5",
+                "pub_datetime_utc": "2026-05-11T09:01:41Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:38 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "外交部介绍美国总统特朗普访华安排和中方期待 - 新华网",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "外交部介绍美国总统特朗普访华安排和中方期待 - 新华网",
+                "original_title": "外交部介绍美国总统特朗普访华安排和中方期待 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNEp0c1h3YmxrTHFvdUpKbXl6WG9xa1NpQzhCb1piNTVodE1GM0lWQTJycmZVSjJWc3VfNkszQ1J0aEN4RWxUUEwtaHNzdWpiTzVBSXpqS1BvWTBuQ21EUWFFZXRYakQ5THM4TkdCUzlzUU9pSU14aGNaVmlmVnc?oc=5",
+                "pub_datetime_utc": "2026-05-11T08:54:30Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:38 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "トランプ氏、イランの回答は「全く受け入れられない」　戦争終結",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "トランプ氏、イランの回答は「全く受け入れられない」　戦争終結",
+                "original_title": "トランプ氏、イランの回答は「全く受け入れられない」　戦争終結に向けた米国案めぐり - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wT0N6c2JtX0l3MWpxeEpXbzhydTU0SlZGLWVDcFpQYnN2TzJKekhnNGkyR3JKVllQR09OdDBmU1ZjXzJzUFdwOG14YUptc0pSVlJRd1Q2V2xKcWEwSkZz0gFkQVVfeXFMTmVSVmxBRzBrWW9hZmtDQ1BYdlVzX09OSkNRSjVDTkdYNkZxZ1E4Vm1rbWpPdjd5RUZmejlxSjFxVDhPR0FCd1FvdXd6aTh6NXdoTU80ZDRVLW50ejNrTFJKcUZLNg?oc=5",
+                "pub_datetime_utc": "2026-05-11T03:11:21Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:38 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Iran war: PM Modi urges Indian",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Iran war: PM Modi urges Indian",
+                "original_title": "Iran war: PM Modi urges Indians to work from home, limit foreign travel - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dEdSQ3h0d2x3Z3lNc0hwaFVXd3pDNUxtdzdfSmN4VEo4bU1mczZOZV9HdVV2dVJHTGRoNGpxZFJoV0NXVUZxeDZuckM2ckF3bWNTWWcxbHdndw?oc=5",
+                "pub_datetime_utc": "2026-05-11T07:13:41Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:38 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "Starmer giving major speech as",
+                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
+                "script": "Starmer giving major speech as",
+                "original_title": "Starmer giving major speech as he tries to convince Labour MPs to back him - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjTU96RXNfUklwY01ibHRwRG5oQ3ZaSkdrZ0pxdWY4M214N3VpTHFhdWliYjAzYWRtNU1yTTZZRzhPZFRzajVmcHVxRk5RaDBBZ2lYNQ?oc=5",
+                "pub_datetime_utc": "2026-05-11T09:57:35Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:38 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "한타바이러스 비상",
+                "hook": "이탈리아가 외래 유입 한타바이러스 공포에 휩싸였습니다.",
+                "script": "최근 이탈리아에 입국한 미국인에게서 한타바이러스 양성 반응이 나오며 방역 당국에 비상이 걸렸습니다. 이미 프랑스인 여성 환자를 포함해 22명의 접촉자가 확인되어 추가 감염 우려가 커지고 있습니다. 여행객들을 통한 전염 가능성이 제기되면서 보건 당국은 긴급 대응 체제에 돌입했습니다.",
+                "original_title": "Hantavirus, positivo americano sbarcato. Peggiora una donna francese, 22 i casi di contatto - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNlF6aGIxWEhyd0xpVmktTFFReDJmV0Y4MUJMVGVteHJDRnF3dFh1OTItOENyeE9Bbi1ScDNKVkVodUZRY2pFdFY5bERkQVdPclJoSEhIZXpqQ09mRGt4TDI4TlhmUmxNbHpkTGIwRXg1d0pBZzZCaTlIXzZPd0tHZk1uMktEZndRaFVCS1FiNjU5Q0xnUVRRQzB3Nzhydw?oc=5",
+                "pub_datetime_utc": "2026-05-11T08:53:17Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:53 KST",
+        "current_rank": 6
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "러시아 정전 사태",
+                "hook": "악천후가 러시아 유그라 지역을 덮치며 도시 전체가 암흑 속에 잠겼습니다.",
+                "script": "강력한 폭풍과 악천후가 러시아 유그라 지역의 전력망을 강타하며 여러 도시와 마을에 전력 공급이 중단되었습니다. 갑작스러운 정전으로 주민들이 큰 불편을 겪는 가운데, 복구 작업이 진행되고 있지만 기상 조건이 나빠 난항을 겪고 있습니다. 러시아 당국은 비상 대책을 마련하며 복구에 총력을 기울이고 있습니다.",
+                "original_title": "Россиянам открылся люксовый безвизовый курорт за границей - URA.RU",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5OHFxUXU5TU5GUXg3X2dMYzR3TkgzU0JvcmhQMEJLejQ5Zi04VVVJalJDTldaVHVtbmlTeDJvV0lTa1daUmJj?oc=5",
+                "pub_datetime_utc": "2026-05-10T22:42:00Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:53 KST",
+        "current_rank": 7
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "멕시코 폭풍 경보",
+                "hook": "이번 주, 멕시코 전역에 기록적인 폭우와 우박을 동반한 강력한 한파가 들이닥칩니다.",
+                "script": "멕시코 기상청은 11일부터 13일까지 50번째 한랭 전선이 유입되면서 전국에 폭우와 우박, 강풍이 몰아칠 것이라고 경고했습니다. 특히 일부 지역에서는 쏟아지는 폭우로 인한 홍수와 시설물 피해가 우려되는 상황입니다. 외출 계획이 있으신 분들은 기상 정보를 반드시 확인하고 안전에 각별히 유의하시기 바랍니다.",
+                "original_title": "Lujosa fiesta de XV años de hija de alcalde de Chignahuapan desata polémica - El Universal",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDd5SE84ZjYzTEVrMlpvcFl5RDVWbmpURy1PSDFiNUxSOXpIVGVOTU9IV093dWFZZWFRSGxLVFYweFJ5VmFIaXFyTmFLTS1GcG16UnhmS3lWdTNPak5kcFpfLUx3WEgxYmR5a1F5bkF0a21PenM3WWhKX21jNmFkVDJhQmRPYjdtbjBUM1QyR1pVeWZxa2lOeTdUOEVMRUxxWUFGUHZtQ1I5VlNrMXNRSk9YM29sbWJUQUg4WUJqMFRZNzc4ZUUzNXVoM3g4TVZYaEhDckdwQdIB6wFBVV95cUxNSlIyTTA1QktQbVhWRzRGN0NTM1lDQzRlYU12TnhqUm5sSUdmV2duVFBURDJWcVF0eFM4QVMxbXBjUFZhTV96UU9lS0FhNUhTVUlTSzN4XzJaSDVBYVNRdUZBN0hyUWZPYWxQUXQyYmZnVjFLbVdsbG53djJXTUFRVWM1RXBCajdTRGtqODVfOVpEOUw4NWdmN1I1RHhUZlR4MFJWWl9IeVVJZS1PSWNMc1hNZnQ0bXI0Q1ZuWkIyc2ZHQUN1SEdhVmp0T0gtRjh2TnVCUHZ6aFlUNDEwMnZDODVjYkJYcUxST0Jr?oc=5",
+                "pub_datetime_utc": "2026-05-11T02:34:00Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:53 KST",
+        "current_rank": 8
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "나무호 피격 사건",
+                "hook": "이란의 기습 공격인가, 미·이란 갈등의 도화선인가?",
+                "script": "나무호 피격 사건을 두고 전문가들이 이란군의 돌발 공격 가능성을 제기했습니다. 미국을 향한 역봉쇄 압박에 이란이 강경 대응으로 맞서고 있다는 분석입니다. 일각에선 이란의 장기전 전략이 본격화됐다는 관측까지 나오며 긴장감이 고조되고 있습니다.",
+                "original_title": "전문가들 “나무호 피격, 미 역봉쇄 압박에 이란군 돌발 공격 가능성” - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrd1NLZlQwWGl3eU8wd1lGYkJ4azVtWXlRdzRVQ0wwV1RPUGtjclR2aXZQVHJGOVRHWVI3M3BkMUZvTFZ1VEliaGNPaW9Lc2RoaEszd251MFZOM3VnOWJWZGlzczNPOEhlRnNnVVdIUll3R3Qw?oc=5",
+                "pub_datetime_utc": "2026-05-11T07:20:00Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:02:00 KST",
+        "current_rank": 9
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "가짜 성지순례 사기",
+                "hook": "성지순례를 미끼로 한 파렴치한 사기 행각, 결국 체포!",
+                "script": "메카에서 가짜 성지순례 서비스를 제공하며 돈을 가로챈 일당이 사우디 당국에 붙잡혔습니다. 드론까지 동원된 추적 끝에 밀입국 시도자들까지 현장에서 검거되었습니다. 성스러운 순례 기간을 악용한 범죄에 당국은 강력한 처벌을 예고했습니다.",
+                "original_title": "ترامب لـ \"أكسيوس\" عن مكالمته مع نتنياهو: المفاوضات مع إيران مسؤوليتي أنا - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxPYXVRamRZWnIzS2gwaktSMzgzNVYyYS1WSUlZZUJaOGRaNUJ0R1J2MU5BMjU4eFNHMnRvS0Z3YjRySlJObTYxRFM0QmFjcjFZQzdYY09tVUZhM1E1eG12UDVkNFhVRzdTV01QR2h0dVBMamhoMmVqSWhIdHcyTGpkZXNXZE80N25XYmlWZFZJcEprNUEycFlfNWFoX3V2SEozOGw3TlV3ek56NE9lZEFaalR4UEtOdGZROEJMWFkwWU5LTFcyTGNzRXBjLVhEbGtSMVBjT213ZURDdG1OWTl0VzhFeGFkNHVhb0dva3M0djRXamFRMHlWcmgwcU9IS2hfTnRMbmNjcjMyTThSZFpiTjgtdmdWRmxJd3BfV1Vyb0FqOG9TOFA0eVJocmNRMi1TdDR4dkt1cGt6SWdkdGVJNTV6b0VrVDlTaGhoeUFaWTZJNzEwWHFHRERvOEhOWUp0blFVN3BVRFhacTN6S1pxZC1vTlhzR1hCVnRaS0JOV2JZNW05a0R0d0xZSU9FbVhZbkdHVy1kT0FKY2VJUE45ZUptTHZNVzhmLVYxaWV1bFJyQkZPTzVoc195Z2pBX2lFdDdYOFpHeFc2aDZfMUVQRlVCX25HSVhKS2lreVVoZUMwV1lzdkNiRkJRbEIwREUyZWVjS3lFMWNqTkF2QWRybHpOdHo2VFhsS3ZEalFscWY5M0dEODlCX2tOUkpLcnRkZWtkYm4yNkV5SFpZd0t0YThRMkNsVmlnRjRNRmdGNF9UWXBZN29IaklxdEhIOTZ1Y0pVTWlvYlhmV3BUVDZJWEdWRHVkb2FCM2piV1paZ0vSAfYEQVVfeXFMUDdwOHR5NmVJRVFGUDEwcFdHNGJmOVFoMVBxdGZWX3ZITW1TbVR6UVB3ZnpSOGhtZW9aQVppdmJLZnBDdkRYcHpyVE42MExsUzZ6SFBiMWFUc1FFcFVMTk0tX0JNZnl2SGNFRkZoMTJfX1d0VExuQmxCcjViX1VPTERYRmh4VjFXWXNSZGlFS3dIOEZNTnR6NS04Rm1JZE4tWGl3OG5XY1o1aHhELWk2ZVFoNUZVSTBNbGQ0R3A0cnFibU1KR0ZDMEgzV0FxaXh2Q2VvRDlsUWR0cHRsUHktWGh4cElKM0NOTjJ3UW9lc2s5dzUxZXJBUlM1X1dLVnRmY05hellTVDlOcmhWd2VRMFdtQkliRXdQZEEweDdETlJkNVMxYjljQXhCbzJGaWtJS1ZxQW9ENTllQmluVUxVVlU4NDhPT200dHF6NjhveW5HVVdhUU9fY3B0WndUcXNpZkYwdmlTS2prMFh5WFBpY2R1QzJId01EMzdkVXk4QU9nMC1POEljd0VXV2N1b3kteW9EdGxKcnJSNWxlWmswX0w2WG1iYVA4dng1bWFsX0RqR3M4VVRmNHVwN2l6ZFhibmxMWlpXdzFaeDJaRDJ0amhiYmJYOGRIc3hzd2I2eW1JWTJrVzI2dlFpTGJaNEtyOHlGSW1SbFE2cGpsZmhDUTlKQmlVMHhNNzEzXy03cGo4b0lKYWNTcjFDTUIzeTdBQ0xCTXdna2h3MFZGLWFKSk9xTjlfSWFfTGpkN01kNDZ1cFVnS1pUa1ZPNEotUVJqSm5id2dXbUI4MUk1UWZ6Q0NUcEtQanVPZ19rNTlfdWN0WnZWXzFR?oc=5",
+                "pub_datetime_utc": "2026-05-10T20:11:00Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:02:00 KST",
+        "current_rank": 10
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "의문의 시신 발견",
+                "hook": "전 비서관의 압류된 아파트, 그곳에서 발견된 시신의 정체는?",
+                "script": "키르치네르 전 대통령의 비서관 다니엘 무뇨스의 압류된 아파트에서 시신 한 구가 발견되었습니다. 오랫동안 비어있던 공간에서 나타난 시신에 아르헨티나 사회가 충격에 빠졌습니다. 경찰은 현재 사망 경위와 신원 파악을 위해 수사에 총력을 기울이고 있습니다.",
+                "original_title": "Milei se mira en el espejo de Adorni y Bullrich apunta al entorno Karina - Cenital",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdW9DRHRCOUF4cm4yVFFtd2hCbWRMYmY2Qnh3N29UaThGeWlXYXZwVTdNdm92RUl1VHBYUXE5VzN0cmZTLWR3ZmhHalVMRDhZb0Jfa1NXdmlVQlBROHJhTmc1aHNfX3BDX01EZEVfaWdfUXN2ZUlKMW1WcVVRMHM2WHFPR3ZzRUtPOE1zd2NvSGpqOFNXZUpPdw?oc=5",
+                "pub_datetime_utc": "2026-05-10T11:02:30Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:02:00 KST",
+        "current_rank": 11
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Passagier der \"Hondius\": Franz",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Passagier der \"Hondius\": Franz",
+                "original_title": "Passagier der \"Hondius\": Franzose zeigt während Hantavirus-Evakuierungsflug Symptome - Ntv",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa00ySFBESmh3OWJYUDM5MkdLRlZaMDVsVGlhbDVidk9OS3kwME1mWENmN01nWDVzZ00tNEV5TkpSanRIbVR5Q1AtbVViSm4tTUh1cFlmc0xka3oyby1hWmc3MkdnMWJha3FyVGlMcWxpZGoxTy1JOVNnNnRRWVZwTWZ3ckN4U2g1dEhlbnhYSWc2SS1PT0hUTE1ESDFlb2hZazdLSWJpYnI?oc=5",
+                "pub_datetime_utc": "2026-05-10T18:26:10Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:38 KST",
+        "current_rank": 12
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "프랑스 방화 참사",
+                "hook": "평화롭던 프랑스 리옹 인근, 끔찍한 방화 사건으로 2명이 목숨을 잃었습니다.",
+                "script": "프랑스 리옹 근교 데신에서 발생한 방화 사건으로 두 명의 사망자가 발생하며 지역 사회가 큰 충격에 빠졌습니다. 경찰은 즉각 수사에 착수해 범인 추적에 나섰지만, 아직 구체적인 범행 동기는 밝혀지지 않았습니다. 평온했던 일상을 파괴한 이번 비극에 주민들의 공포와 분노가 커지고 있습니다.",
+                "original_title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran exige la «fin de la guerre dans la région» et le déblocage des avoirs gelés - Libération",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVGtLRWlPcjN1MkpOQ2FqWDBIQndfUExGVjZYdGVRcXRqQXZMSWpicmZsVEhqYm1RR2YwMlZJRWxuaTdibVJFX2xjd1B0T0Ryd3lZQnF6ZUltNEVaZlczV0tWbEozZnpRSF9UWVlRRjJhcnF5LTltV2stUE1FTG9jbm1SWTVuSjZ0RU01Zk40TkN5NFdrbXgyejVKbmd0ckJsaFRqbGVtbW9vUjF4LUNpNE1STTR6ejdLNWUyeUx3X3VRdUl0SklxMVhtRmdHNF8wajFGbmxEckpHbWhKWkE4dmdWUHRhdVMxcHc3N1pqNUhUUXRoVDBDWTA2NA?oc=5",
+                "pub_datetime_utc": "2026-05-11T05:31:00Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:53 KST",
+        "current_rank": 13
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "브라질 한타바이러스 사망",
+                "hook": "브라질 미나스제라이스주에서 첫 한타바이러스 사망자가 발생했습니다.",
+                "script": "브라질 보건 당국이 미나스제라이스주에서 한타바이러스로 인한 첫 사망 사례를 공식 확인했습니다. 쥐의 배설물을 통해 전파되는 이 치명적인 바이러스에 대한 공포가 전국으로 확산되고 있습니다. 당국은 야외 활동 시 각별한 주의를 당부하며 예방 수칙 준수를 강력히 권고했습니다.",
+                "original_title": "Oposição fala em ressuscitar debate de anistia no Congresso, após Moraes suspender Lei da Dosimetria - O Globo",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMG9oV29DOWgtQnpSNkYxWHNSTEhjT0JldUdKaEd1U0lqXzJZYk1SUHZfWDF4U1U4Z01yeXBYd2xaTGNqbTB1a2pvVC1uRmZ4RkJoNFJXNHBkdmFpZUQtX0VZUTlYOWtGc1BoMXAzTWVtV2VkZEJUMU5QZUtsMWtpVjFCRl9lRmxRT055VFljanN6MGNTTVlKRTZORld3TW9YU2tNUEVqQXNMUXg5eU9UTFRUNFRXMFVtMkJjMDRUMmwydEpEdUVVa3haNTJJRXpxNFN2N3pjOHZ1dkZVREVKYmUycGlaRGhJcGw00gH6AUFVX3lxTE9hYTBNd01raUF0QWI1SnhLUEZuX2V5UUJxZ3hta2RpZzZvelh2eHN5cDFobFowVlNDa29fcnUtTEMxVHZ1cHd4eTA0cUdPa2duUTRQVjVvZmd4UzJsbmdnRmVUUVdDMkotLUZsVFFtMWthd1hUaXpIbVJkS1lzNmVVY0VSeEl5ZG1ydFJNTVViNjhaWnIyTG56Qm16Rk45ODlVVFdPQzF5ZEtBNnc1c0JNUVJfOWhJb2tWRENNZ1NKTlR3cnUyY185Q2pNcWR0QWFVaXN5QUgxNVdkdFJIVmRaN0Z0b0lLZnZiTkdQV2JLcWd3azB0NWlhVmc?oc=5",
+                "pub_datetime_utc": "2026-05-10T20:29:35Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:53 KST",
+        "current_rank": 14
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "WestJet accused of tricky mano",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "WestJet accused of tricky mano",
+                "original_title": "WestJet accused of tricky manoeuvre to deny dozens of passengers compensation after flight cancellations - CBC",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3ZsUUJiaDNxM2ZMSzRQZF9uYWt6bkVlTktBQThtNWs3WU9FSTIwbHJjRjhvWVZlNER3VFdDejl0aTl4bzBQWmhOM0dfRzRaMGpnX2paYWNfUzBaNHd0RGdBRXo0RE1sQWdnX0NaQjlmWUVveTAtQnhqb3hOU3NwaHAzRW5KNWhV?oc=5",
+                "pub_datetime_utc": "2026-05-11T08:00:59Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:01:53 KST",
+        "current_rank": 15
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "도박에 빠진 청년",
+                "hook": "22세 청년의 비극적인 죽음, 도박이 앗아간 9억 원의 전말은?",
+                "script": "18세 생일에 계좌를 만들었던 한 청년이 불과 4년 만에 9억 원을 탕진하고 세상을 떠났습니다. 이 충격적인 사건을 두고 호주 당국이 대규모 조사에 착수했습니다. 온라인 도박의 위험성이 다시 한번 도마 위에 오른 가운데, 유가족들은 비통함을 감추지 못하고 있습니다.",
+                "original_title": "Body found near Lake Cargelligo believed to be alleged triple killer - Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWdfVGlxenVJbWQ4QXRzWG5VcjYxajJCeTdQdl9OdE5rajZPeWN1VGdySEpyZnR1S0tibEZzMnZXaVhBMWZTcjlOLXdrLXRaQ3pSZnNxT1YwVkp5OHh3Ml9uanJKc2tpRmE2NW81MU5pSkNyQVRaOUItb2FzTHpUNlFvclpLck44Q2d0VzRiSUVudDg?oc=5",
+                "pub_datetime_utc": "2026-05-11T07:28:35Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:02:00 KST",
+        "current_rank": 16
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Ada soal Kompensasi-Selat Horm",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Ada soal Kompensasi-Selat Horm",
+                "original_title": "Ada soal Kompensasi-Selat Hormuz di Proposal Iran yang Ditolak Trump - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmxrOGx2TC1uTnA0R1ZZQmNvLW5WT1BYSVNIRU1EVTkxVXhJV2lsN3FmOF9mWV9Ob3JTa1Bsc1lxbExHVzFZZXU5Vl8xRDF4ZnRfN1JwbUxwb2ZaUzBWSzRFbWk1WXhTTElQdmVQVTJtcFpzbm1nRGJSYkd5ZV9HM292RXZ3QURDbC1BaUxDTGFxVGY3S1pvUnh0T2FrQkt6QnE4MklLbW9PZ19qSjVacG9hZnlsUdIBuwFBVV95cUxOR3RIUmJONWFvYldvbXVXd1JObTdSNnh3bXRydHhDQ2kzZ1BDU2I5MzlPbE5pWlBDOUE1ZHcxcE9ybklxUl9kSWUzVExmbU9scTYtalU4bUkwdDV2V2VlOXdveHJHM09HVUQweFRGUkI5LVVyOGZXZl9PNTZDeEhDbnlLdVMxenF0WFFJYl9KR2hyQl9Iai1kQ0VtMjN6eFZkY0ZzbEU0Z29vV1g2ODNsRmZtNWpKbVQwY2Rn?oc=5",
+                "pub_datetime_utc": "2026-05-11T04:47:19Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:02:00 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "무히틴 뵈제크 자백",
+                "hook": "터키 정계를 뒤흔든 20만 달러 뇌물 스캔들의 실체는?",
+                "script": "무히틴 뵈제크가 전격적으로 자백하며 터키 정계가 술렁이고 있습니다. 자신의 아들이 오즈귀르 외젤에게 20만 달러를 건넸다는 의혹을 인정한 것입니다. 이번 고백이 향후 정치권에 어떤 후폭풍을 몰고 올지 귀추가 주목됩니다.",
+                "original_title": "Kraliçe Mathilde Küçük Brüksel’e uğrar mı? - Sabah",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXpRUVlXQXpYMWpoeUg4aHNRdmhsRVdyVHNZMG80bWlOdVJBbXdEdjBrSzQ4b0RCbFNiQUV6OHN1TE43SVZOQi1HS1dyRERJODdjUm1oR0VXOTZ0Ul9tTVJFbHFnakVuZGVCaUNYYlJDUGpKYmtNRlhFR3hib3lGeHlQR2Vud0Yxb3ZiOEhsbkNJTkVaUXBpNXJVMGRZU1nSAaIBQVVfeXFMTUdwcUItLUlkWC1LbnplckpKUDNSbjJiVUs4NWtKbjRuWWFSYlk5N0NzU0VqWVlpc1hLdFhvSXppUnZsczNYWXhMT0RGcDVjSFlBQ2xwSDhfNl9pNmJLMjR3ZEhfcGVWanNoTkVWYVZ0aU5JYlQxUWVWX2llb0NwN0ViOVNlQ1ZMYk9qSVpHQUVEaU0zNFZGMXNBblR5bXpOay13?oc=5",
+                "pub_datetime_utc": "2026-05-11T04:00:18Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:02:00 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "케이프타운 최악의 폭풍",
+                "hook": "남아공 케이프타운을 덮친 역대급 폭풍, 지금 현장은 아수라장입니다.",
+                "script": "케이프타운에 발령된 레벨 8 폭풍 경보로 도로가 침수되고 주택 지붕이 날아가는 등 심각한 피해가 속출하고 있습니다. 강풍으로 인한 정전 사태까지 겹치면서 시민들의 고통이 커지고 있는데요. 당국은 추가 피해를 막기 위해 주민들에게 외출 자제와 안전 확보를 강력히 당부했습니다.",
+                "original_title": "Severe storm hits Cape Town: Roads flooded, roofs blown off as Level 8 alert remains in force - IOL",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXZiNE0xN0x6S1VfbDNjMlVZSjlSSEcwRzVKOUNOU282b2xfWEVlYVJCY1JYVWFPZGRZdHRhWmtQNEFkTEpMMEt3X0g0UEVEOHk4bXZvV3BQVGw3X1VCTVZRa1pLczU2ZnhjamtMUEdxd245dFBXQlRaWkpRcTRPTWVQZU9MZXpHeWhDNDh2MUV0amZGQW1TTlhuUlY5OEhxWVRUeXVUUV9Kd2tlclJmSjU3cDNCV2Q1cjRUbXJkUjV1RFVSMHc?oc=5",
+                "pub_datetime_utc": "2026-05-11T06:59:08Z"
+            }
+        ],
+        "last_updated": "2026-05-11 19:02:09 KST",
+        "current_rank": 19
+    }
+}
