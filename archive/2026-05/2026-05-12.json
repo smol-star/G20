@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "미-이란 휴전 위기",
+                "hook": "트럼프가 직접 언급한 '생명 유지 장치' 상태의 중동 휴전, 과연 파국인가?",
+                "script": "트럼프 대통령이 현재 미-이란 간의 휴전 상태를 '생명 유지 장치'에 의존하고 있다고 밝히며 긴장이 고조되고 있습니다. 이란 측은 물러서지 않고 끝까지 싸우겠다는 의지를 보이며 중동 정세가 살얼음판을 걷고 있습니다. 미국과 이란의 대치 상황이 전 세계 경제와 안보에 어떤 파장을 불러올지 전 세계가 주목하고 있습니다.",
+                "original_title": "Live Updates: Iran vows to fight on as Trump says ceasefire is \"on life support\" - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzYzTG4zZ2JxVUxURG8yVi12eWhQa1FiX0VsQ3RPWktva1lOdGxxdlNuWnRkZDNPcEphcnFwdkttTGx6RUpSV3BaOEJHVGhYc0pFN1I5czNTbVlCMVpsU09pX2J5dmJXWVBHYjlYbzFtb0d6US1DaWZQOTBOSEl0ZXpfYVhmZTMyTFJsSGNDMzhFNF9YNWfSAZsBQVVfeXFMT2Y3U3AtR2VPWVppeS1Dellyb1gwMWpTelk4bHJMVlVTRkNldUpubm5adWZ1VGJneUhpeF9LOFI5eTZqTVhXRVNSQmwzdUtvcXFocElLeloyRmFleDEySndfVnNxWUpHSE1CaHRQWnN5NUN2bGNCd2xHVzRmV3hDalM5bGtKaDZNUExfOXNNR2Q2cVVDeG5tNWpWeTA?oc=5",
+                "pub_datetime_utc": "2026-05-12T08:12:00Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:28:41 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "중미 관계의 시험대",
+                "hook": "트럼프의 중국 방문, 과연 '표면적 휴전'을 넘어설 수 있을까?",
+                "script": "트럼프 대통령의 중국 방문을 앞두고 미·중 관계의 향방에 전 세계의 이목이 쏠리고 있습니다. 양국은 무역과 외교적 갈등 속에서도 서로의 실리를 챙기기 위한 치열한 기싸움을 벌이고 있습니다. 이번 방문이 단순한 '표면적 휴전'으로 끝날지, 아니면 실질적인 관계 개선의 돌파구가 될지 국제사회의 관심이 집중됩니다.",
+                "original_title": "元首外交为中美关系领航定向 - chinanews.com.cn",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pSmc2SmhSX2xWSmc4WmNmak9OVVV4dmk2UEF5SDZidWNjSnhyaUtDalBWcGhTbUJYS2d1dURabjktY29EMUsyTUpQV214cjEzejR1NUw1S295c0pXeUZ3WkEzeGNncDJG?oc=5",
+                "pub_datetime_utc": "2026-05-12T05:15:43Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:28:41 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "ハンタウイルス 9人が「アンデス株」、感染疑いは2人 WHO",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "ハンタウイルス 9人が「アンデス株」、感染疑いは2人 WHO",
+                "original_title": "ハンタウイルス 9人が「アンデス株」、感染疑いは2人 WHOテドロス事務局長「さらなる症例が確認される可能性」 クルーズ船から乗客下船（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bzZjR2NvdDU5czRmY1hoZU1BaGRQRFVQWlltR0VSa2dTRGh5NF93VVZNdEM5Zld0OG9Sc3FCdnFYcVhBREkzSFVUaW1pVTVzXzVNbmtLWDRpSWxPTlhsNWtSbUFHSkdPYllQQ3NPc0lxck9PVkNvbEZVbzdBUUU?oc=5",
+                "pub_datetime_utc": "2026-05-12T10:10:42Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:28:41 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "시험지 유출 파문",
+                "hook": "인도를 뒤흔든 대규모 시험지 유출, 결국 국가고시가 취소됐다!",
+                "script": "인도의 주요 국가고시인 NEET-UG 시험이 조직적인 시험지 유출 의혹으로 인해 전격 취소되었습니다. 수백만 명의 수험생이 혼란에 빠진 가운데, 인도 중앙수사국이 즉각적인 수사에 착수했습니다. 교육 시스템의 신뢰도가 땅에 떨어진 이번 사태에 대해 인도 국민들의 분노가 들끓고 있습니다.",
+                "original_title": "NEET-UG 2026 cancelled LIVE: CBI to probe paper leak allegations - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSVZrTFZVQVBfMXVoUnc3dlRLNUNscWRfYTJnU21PYllySDhFZzJURVk4d1JoRkZ5OTVTbmVrZWFlRHFXXzJiclFDcTk2V1JqRjktcnlMMWVKcUZNb25XVTVYSzZOalRqejRtdS1YUXN4aUFvWmtGOUVBQ2wwTHNDMk82S2ZqQ2FHT1c0Y3ZNZzRkQjVvVS1vbFlOc2xadDkwWHd2M3ZaZFNBWnRVN3A2X25sVnZzYlRmYjZwVUo0NVhhTUk2Mkd0bF8xOXl3ZGdxWTNlV3JRWFQwZDVSVVMwMnhDenlNd9IB7AFBVV95cUxPcXRRZWV1T1dOVzkzcnQyQXhINHhCR2xVSExwQ0UwTkoxWTN1eGJmQ1lJb2NCN3VtNHh4MVRaVFE1X1hVQVo5XzlkMk4weTg4cGxNTEgtdjBpVFcwTmtKVm1SZVVJNEdmcmJLMGxnWllCRFFNSVpuMThVVUEwUkZlZEtQdGduNUxFYnBiYU1TUE1lc0I2THc5dnNVV1pfM3hTTUlPMm5IdlVIOXNyN0Zrd2YzUjdoNFc5LV96OGExTUktR2h0Q1VMTW5mSy00M3dObFk1bkV3SW41Sm9ZWU14bHdtalN2VW5wcERUVg?oc=5",
+                "pub_datetime_utc": "2026-05-12T09:24:26Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:28:41 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "스타머 총리 위기",
+                "hook": "사임 압박받는 스타머 총리, 영국 정계의 운명은 어떻게 될까?",
+                "script": "영국의 키어 스타머 총리가 내각과 정치권으로부터 거센 사임 압박을 받고 있습니다. 총리는 사임하지 않겠다는 뜻을 분명히 밝혔지만, 당내 반발과 정치적 불확실성은 최고조에 달한 상태입니다. 영국이 리더십 교체라는 대혼란을 맞이할지, 아니면 스타머 총리가 정면 돌파에 성공할지 전 세계가 지켜보고 있습니다.",
+                "original_title": "Keir Starmer allies voice support after cabinet meeting as PM defies calls to resign - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iYjI4UG13Wm5VTGF6SVBkWWRvQTN4SFctREZDMVl2S0VfRDBLSnJ1YThrWGlWelhWckJueEhHZWVHLTlnS3FYaFp2Y2lVNENRakNSeQ?oc=5",
+                "pub_datetime_utc": "2026-05-12T11:14:37Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:28:41 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "루브르 테러 음모",
+                "hook": "프랑스 루브르 박물관을 노린 충격적인 테러 계획이 적발되었습니다.",
+                "script": "교통 검문 중 발견된 단서로 루브르 박물관을 겨냥한 지하디스트의 테러 음모가 드러났습니다. 프랑스 당국은 즉각 보안을 강화하고 수사에 착수하며 긴장감이 고조되고 있습니다. 프랑스 전역이 다시 한번 테러 공포에 떨고 있습니다.",
+                "original_title": "Hantavirus : le cas contact du Finistère est « en cours de transfert » au Centre hospitalier de Rennes - Ouest-France",
+                "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPM1QxbkdtdkdoVkhabjVERjNqWm1YUnlpSzFxdE9NNTk4V2I1NjVsM0VfRkt4NDdGRE1RaFBDaDh4aVVvYjdZNE5wMDQ3MjdGS0hfckV2S3ZKekFYak1fdG0xcDc4VDlMbUhrUjVSdldHdXRXdTV6aUtISmdXUWZTY3ZJNURrZ3hJcnMydG5EZUV0T29wSWRVelRFdzh5ZzQxbm16MndMY3pZd1lVNTVXVWRIUlVwOWRTdkl0WkJsa0xzUmVpc3lIMUtNZlR6UmpSTC1fMDJ5c2lVYW1OR2wtWDNtaDM5LU1ILUxITENBb1dSU0xLXy1fUnlTRzFXbi11dmVnc0VnYUpLbTNCN3hsaGswMlN6bkpNcWcyVE1Hc3U5Q3AxRUE?oc=5",
+                "pub_datetime_utc": "2026-05-12T08:25:46Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:15 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "이탈리아 대규모 파업",
+                "hook": "이번 주 월요일, 이탈리아가 멈춰 섭니다.",
+                "script": "기차부터 버스, 학교까지 이탈리아 전역에서 대규모 파업이 예고되었습니다. 시민들의 이동과 일상에 큰 차질이 예상되는 가운데, 정부와 노조 간의 갈등이 최고조에 달했습니다. 해당 날짜에 외출 계획이 있다면 반드시 일정을 재확인하세요.",
+                "original_title": "Prato, accoltellato nella notte un 23enne: è in gravissime condizioni - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81a2xHekVNVXZyVmhEY3JtUXF0MjRsOURSN29aMjdtSkpCOFlPX0FZY1pPenNybXlzNGY1UGh3eEhleW42UlVZaVNVb3ltbEFKdnZpZGNIclh5ZG15TTd1ZDZlSWRCRFVwVlFGWjlFNEt4aEU?oc=5",
+                "pub_datetime_utc": "2026-05-12T09:18:06Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:15 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "범죄 조직 인터넷망",
+                "hook": "브라질 범죄 조직이 마을의 인터넷망까지 장악했습니다.",
+                "script": "리우데자네이루 내 37개 자치구에서 마약 카르텔과 민병대가 불법 인터넷 서비스를 독점하고 있습니다. 주민들은 울며 겨자 먹기로 범죄 조직에 통신비를 지불하고 있는 실정입니다. 국가의 통제력이 미치지 않는 치안 공백 사태가 심각합니다.",
+                "original_title": "Explosão em SP: Sabesp e Comgás vão pagar R$ 2 mil a cidadãos afetados - CNN Brasil",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTlR6c2hDWi1NY3NaRkpHYUczeS1zNG1keTZLWEJkbDFGVnV3a3dtYWxKem40ckMteGR0WGlIRjNHdTdRR1NzdFNDa0hvRGl1TktMU3FwSWlNMkRXNmcyY2c2Y21pbXdOcWxJT1VUN1pHaVJXeWd1M201cWQ1Z1NDY19jRFBWTllQMkhUMWhaNmJ5RzRtbXFNVll6aUVIZENibmVENlBlQjd5dWQ5dEVWajRmV29Kd1RqTGc?oc=5",
+                "pub_datetime_utc": "2026-05-12T02:18:23Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:15 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "Boys are falling behind in sch",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Boys are falling behind in sch",
+                "original_title": "Boys are falling behind in school, and some experts say it starts in kindergarten - CBC",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91c00wZ09hUGpIdTI0VkZhZmVZeUM3bEpvNjBob2JmclA1ckkzOTA2UkVVaHVjbkxNTXRyVDIyampKX3NNaFhuSmpZcG1SMk5kX1NQVU84U29mRkNLalNPWGlGeE1TOEZ3aEFMZTdhc3B0LUUyX1cyd0FR?oc=5",
+                "pub_datetime_utc": "2026-05-12T08:00:00Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:15 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "학교 내 총격 사건",
+                "hook": "러시아 쿠반 지역 학교에서 10대 학생이 총기를 난사했습니다.",
+                "script": "9학년 학생이 교내에서 총기를 발사해 동료 학생 2명이 부상을 입는 충격적인 사건이 발생했습니다. 현장은 즉시 봉쇄되었고 수사 당국이 정확한 범행 동기를 조사하고 있습니다. 학교 내 안전 문제가 다시금 러시아 사회의 뜨거운 감자로 떠올랐습니다.",
+                "original_title": "В Оренбурге взвыли сирены - Новости Оренбурга Orenday.ru",
+                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sN2djR2JhWFdUajdHNTlHWWJGY0picUVCWnB0dUNnNUFpWTQ0WnRqaDNsdzRPV01jbWs1akJLZWhRaDJZUV92Nmd1Ylo?oc=5",
+                "pub_datetime_utc": "2026-05-12T09:41:01Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:15 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Budget capital gains tax chang",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "Budget capital gains tax chang",
+                "original_title": "Budget capital gains tax changes and negative gearing reform explained - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRlhsY1ZDNmlibk1TVTZ0RzgySVVBQ0JzTUFzWU1oN3BERkt3a3lMdW9uTV9fX3lmOTVsRXVHNllxZW9QSEVWWnEtamRoc0dSX3kwclV0NXJXaV9zM0l4SGlYQUVNQ3pNQXk1R2NiTVJtYUItclZOLVItTUZCaHZXa1dUd293RjRTVUxLYU9hN2daS2ZzT2d1WUp1WFVfUzItX3NxLWlWX3JZSkc5YkluZmZqRmhHT1hmVFI2YXI1X0E4UXFSZ2NaTXJNQXM0cTg5SDdUbFJjZzlVS3lFWTBCSlVadjhxbFd5N0xCdGx1Y21KdWQ1Mk1rNlhEckMzYjktQzdnLUVTZEdUemZKYkFraEhMN3lFR2l3?oc=5",
+                "pub_datetime_utc": "2026-05-12T10:50:00Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:27 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1",
+                "original_title": "‘언론사 단전·단수’ 이상민, 2심 징역 9년... 1심보다 2년 늘어 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3dhQWdhUjR2dzEwMThva0VwdEc1c0JFUUVSMHVyeFNQdFFwOHN3bWU0TGlzcWxteXo3ckdXQzFTbFF1OHl2X0xSSGJSMXZqRk1EMUd1bXVaVGFpam5lRDFDTVk5azZjVTNxc3RJdHRrNW1YbFVQamlKbll0ZjFTOTZYWFdzNzQ?oc=5",
+                "pub_datetime_utc": "2026-05-12T08:16:09Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:27 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Pernyataan SMAN 1 Pontianak Us",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Pernyataan SMAN 1 Pontianak Us",
+                "original_title": "Pernyataan SMAN 1 Pontianak Usai Jawaban Cerdas Cermat MPR Viral - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnNNaDBUSXdKN2VUVV90aEdjVkZ1UTlITkxDeDVjbDU1MTNmQlF4ZFRIZko2RHA4Z3ZERUEtM2cyN2xTVGtmUXNvZFIxaEdYeUM1VnBlNUQyTko4MDZaQnNwYzV4Z0NXWlVRMU14QWUxeE1XOXhZMWV0MkJpUUd3UjNMckRpVC1qcVBFNjZiRHlMNXVEUmxpNzBVYW1WX1FVUFdITjI3Y9IBrAFBVV95cUxNb2ptd0djZjVfMWF5bFk4Umx6MWI0THh3TnpIdkx4WTIyMm1uSm5FNWxEd0psTlNxelRib2ZrSlZSazZPelRQWEpwa3RKVXVNamdDdVo0THA0Z1doWEVxYkdUa29kVmp6U2lsVDBoUUZ5TzNVZmQ3VFgyUVlubVA4T19wWG9uQ1V1VnpBRlJNWDVzYi01S0V1UXYtOXNwTm1ZejdWRDY5cG1lalpI?oc=5",
+                "pub_datetime_utc": "2026-05-12T04:41:57Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:27 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Adalet Bakanlığı'na 15 bin söz",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Adalet Bakanlığı'na 15 bin söz",
+                "original_title": "Adalet Bakanlığı'na 15 bin sözleşmeli personel alınacak - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWZVbjUxZGI1SzF4UkVpVEo1Ti0tQnRhRjc5TWVIX0Mzbk9lQTh5bmNrODU3V2pibHNHWGVkUmdKYVc3VzRKMHZwWjZteGUwYkRuZjFqQW11Z1A2S2Qzd0ZmcVlubkhpbnk1RWI1UDBRUW1CLWRudDRacXdnR3NqcWZjdFU3SEdTN0F5ZU1oUE9jMURSekdINkFzQzNlU0c5a0NrcG1DRQ?oc=5",
+                "pub_datetime_utc": "2026-05-12T08:28:00Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:27 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "لا حرب ولا اتفاق.. ترامب ممتعض",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "لا حرب ولا اتفاق.. ترامب ممتعض",
+                "original_title": "لا حرب ولا اتفاق.. ترامب ممتعض من إيران وقاليباف يتوعد - العربية",
+                "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQa0JFTGVBclRSakdGR0lkaDVTblVaNUp6TGJNNDNydlhtTXROekRqSjUxaUZQTW1lZWc5NVZ1TU1EVXRaQ005ZmZWd2NxYlFUSWRQTmpqeWpUMW91WWw5Q2doX19qUHJaUWIzN0dlSXhCbnhUYXB2bS1wSUZCZTJrLUZHTWdMbGVqd0xsR25aVXdWazRsWDBuTEVKY0gwWXdXVi1JWElBMVRtSHMzOVJYdno5RlRFZXBwVXZsSWdtMV9OOGJCa1l6SDBsdXdBUGxCRjd3TWxTQ1ZQT0xKZEIxNk5UaWVmbVg1akN6bE5TdGxoUFhZczUzcE5EakpCZUtRM3NIMllBeFpzM0FfQnhhdXBVUFBDdzdQN2NiZjFIWXI2Y3RoMzJEUC1XZVhKakxYbWlmRkVNQ2w5Y2pTTXFILXdBX2FvMGZ6RWlVaHJIaHpKNWVqRzVyUHFQOFNzRV9lellOUFVsQi1MUlZRYm9ORUpIbFBDZkJVVl9MSlVmXzFJcjZsMWQwSjJhcXJodXZ1S2x6ekRmbldfVDN2VjNyN01fMUM4eURfcVJkRU5XTTNIS29TZ2JiS9IBvgNBVV95cUxPQ1oyN3RheldyNmdPa0NoRE9odE5MWVQ4SmhXRDFhVVBxMl9fMi1JcTktdjF5TXN3MU0xNk5TSERpVE82Y2hjeE9IRTMtQTBmbllmQXFkNkVwanlBeVdkcnVmQTVXVmM4R1NnWWNKX2JIVHVrQjJtbTNGa0pjbEo3YjM3N3pUdmpYWUhxc2pBMFZvczIybjFzR2l2dFdnT0VfdXlOWkx0c1ZhdXctV19relVNaWhUclVJbW1QU0ZvN1ZWYmtqUlBObVVXSmVfcmxUVjA5cUxwWThDQzRHNVF6QjZNZU03T2kzOUpLWWxzSDFfWlRUQnd3WHlBSjdTYnJ4ZkJvMUczOGxNUVBIQ1psT3BXb2FpeW9HbGtZa05VWnpaeU1LTm5JNnliQXA1X2FyWHhEVlNXRDVDY3F1NEYwOUJzbW1TcjRuUnhHbXVBZHkwR0N0R1hneVk3ODVrd0NiVWJlVzNZdlYzN2RILThNX3VDTm9lTzVNQ2hMbFFmclc0UUg0ajh4UDBGYVZtRUJJTExTa1RNREYxLTFxNmZZckFiak9XY3pFMlJLRHZRalg1SG1zOG56SUxrNUJ5QQ?oc=5",
+                "pub_datetime_utc": "2026-05-12T03:59:00Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:27 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Marcha universitaria: a qué ho",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Marcha universitaria: a qué ho",
+                "original_title": "Marcha universitaria: a qué hora es, los cortes de calles y puntos de concentración este martes 12 de mayo - TN",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3hULXVBckM0UTdTOUxEREhLN3BZZTJlLUpDMk5DX293QTZpRFdjT2dJLXFDWkVqOXIzT29jN0c0bjkwbF9OSXhUalhJaEh3aDU5OGt6aTBrTGotY1hkWm9zOUxOT0hGdkVnSzVBOEJsSmM3dVZ1Mk5VTnRmZG90XzQwZnBuMkYyTVlMVjh2eENFOXgyM0pUZ0tuUFI0YWVLd0dhRXpZczRULUd2c2NyYW93TjJWTk1nSVk2SUJoNUNGNTJSYnFtSklvalRJcjlFLWtQYzhnLUJ6QUHSAe8BQVVfeXFMTWdaY0diWUJBbXdJUWV4b1VaRm91dGZUbjlaN1FNeV9LT0VtS1d6RFltZTQ5OGw4d2tpQ3FEbVdYV1d4alI1R1VOeUZlOE5GWDlKRHNHalYtWkM4d2g5U0xOTFpJV1Q2d2QtcllKLWEzOC1nanB1UlBlWWlQNFBreGZEZnpaTldqajJvR21QTDY3Q0Vab2d2ODNZOXYtVXJVUDRMeTJOdFFnVENMRjF2TmhGV2NCdzFQclpGR1U1TWZOQV9tRGN5Ymd4NWEzcWxRUTJpZkUwek5hejMtZDlvUHRZdVhHTFZreEFsRVZBRlE?oc=5",
+                "pub_datetime_utc": "2026-05-11T21:23:16Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:27 KST",
+        "current_rank": 16
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "메르츠 총리 흔들",
+                "hook": "독일 의회를 뒤흔든 메르츠 총리의 발언, 그 후폭풍이 거세다!",
+                "script": "메르츠 총리의 거침없는 발언이 독일 의회 내에서 거센 반발을 불러일으키며 정치적 위기를 맞고 있습니다. 야당의 비판은 물론, 내각 내부에서도 총리의 리더십에 의문을 제기하는 목소리가 커지고 있습니다. 독일 정치권이 극심한 혼란에 빠진 가운데, 메르츠 총리가 이 위기를 어떻게 돌파할지 귀추가 주목됩니다.",
+                "original_title": "„Das ist Blödsinn!“: Kanzler Merz spricht und der Saal rebelliert - Tagesspiegel",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa2pwR29RRkc4UG8wR0EwYjdZNHBCUXZ4WnNWSVYyX3R1VWJVLUxMTzkzWlZnNkd5Qm9vd1liTUN4bHE0Vlh1S0pZb2FjdWF4N1dHZEhUdEFNX1JXdHQtUmVvTHBnYjB6QV81bzBBTHU3LTRxZC1mQ3QyZkZkTjRFQTJCS19tZzZMNFMxSEZ0Vnc3ZXJieUYzZzRCWThIVnJ5RTVMYklLZHZTd2loR21ONWNJT2NRWTllSm91SkJROEV1QUpGVWZuR0pnVUk?oc=5",
+                "pub_datetime_utc": "2026-05-12T09:07:07Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:28:41 KST",
+        "current_rank": 17
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "정유공장 폭발 사고",
+                "hook": "살리나 크루스 정유공장에서 거대한 폭발이 발생했습니다.",
+                "script": "멕시코 페멕스 정유공장에서 폭발 사고가 일어나 최소 6명이 부상을 입었습니다. 당국은 현재 상황이 통제 범위 내에 있다고 밝혔으나, 인근 지역 주민들의 불안은 가라앉지 않고 있습니다. 정확한 사고 원인과 피해 규모를 파악하기 위한 조사가 진행 중입니다.",
+                "original_title": "Explosión en refinería de Salina Cruz deja 6 heridos: ‘Evento está bajo control’, dice Pemex - El Financiero",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnc0aFYtVmNFUjFYX2hqSTRXODRYRHZRaHJ2RnlpcVh0bTR5Vnk2dnhfRW9kMGkzZXZpNzBSOWY3bTdlUnlXb1BVMHM3dlRkNV9OcDhfbmdzU081ZkQ4OFpEcUR6NlZmSG9YcWJtY2VHbHpIeFZUbW1ZY1VLc1hpNzNiTlV3NDJGdDNFVFlpLXJKc2ZRbGoyd0E5MzQ1MnRRbUJkM2xWVlhfVkJnMlpGQmVsVW9RLU5PTVhPV2J6bHNkMkxJTGpPOVdZUElMWnNMN2d6czlrVk50WnExelE?oc=5",
+                "pub_datetime_utc": "2026-05-12T04:46:00Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:15 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Taxi boss Joe ‘Ferrari’ Sibany",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "Taxi boss Joe ‘Ferrari’ Sibany",
+                "original_title": "Taxi boss Joe ‘Ferrari’ Sibanyoni arrested on extortion-related charges - News24",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaHB1UVQ3cV9uc1dwX2daRVh4WnJYUzMxV3ROaUw3bUNHaVh3cTZrQmJZZXR3RVFySjdybDFGWnQ0U3A4Z2xJaFFBbUcwbXJybExjUGdzZXBldkdBRlZneHNrZUtzVWZJdWRrY3Q2R3h3VHJTXzhZcmtiUy1DZmNaTFlNSENpVnp5N2dxRE1HZ2hmWks4M0w5M3R0cGxaSEpocEJyRGhtNUY2Umg2Q1ZiSEc4RW1CV19Iel93RFR0Sm5xNXNiUWtpLW9CQkh1X3oy?oc=5",
+                "pub_datetime_utc": "2026-05-12T07:12:16Z"
+            }
+        ],
+        "last_updated": "2026-05-12 20:29:39 KST",
+        "current_rank": 19
+    }
+}
