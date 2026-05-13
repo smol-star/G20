@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "트럼프, 중국으로 향한다",
+                "hook": "이란 긴장 고조 속, 트럼프의 파격적인 중국행이 시작됩니다.",
+                "script": "트럼프 대통령이 미·중 정상회담을 위해 중국으로 전격 출발했습니다. 호르무즈 해협을 둘러싼 이란과의 갈등이 최고조에 달한 가운데, 이번 회담이 국제 정세의 판도를 흔들지 전 세계가 주목하고 있습니다. 과연 두 정상은 어떤 결단을 내릴까요?",
+                "original_title": "Iran War News Live Updates: Trump Heads to China, Tehran Tightens Grip on Hormuz - WSJ",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLSmMybjZnTjlNeUVzYnFOOTZvR21BTzJjSjk5cFVqdHZITkhFYllKS2IwWkw3aVo2NnNsejhuZnFYeUUtV0t3NEtTb3dQVlF3aWQydzJlbWU2WEdIMi1GMHdwZTNvMkE?oc=5",
+                "pub_datetime_utc": "2026-05-13T09:34:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:10 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "미·중 무역 담판",
+                "hook": "정상회담 직전, 서울에서 열린 미·중 무역 협상의 결과는?",
+                "script": "시진핑 주석과의 정상회담을 앞두고 서울에서 미·중 대표단이 긴급 무역 협상을 시작했습니다. 양국 간의 경제적 이해관계가 얽힌 이번 협의는 향후 글로벌 무역 질서의 향방을 결정할 핵심 변수가 될 전망입니다. 회담 결과에 따라 세계 경제의 긴장감도 달라질 것으로 보입니다.",
+                "original_title": "长平观察：谈判之前，特朗普应看看前两次如何被耍 - DW.com",
+                "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQkxGTWxHbEFJLVdGWEdwZFdlMTkwU0lYLVhnSUJ0d3IxTy1GSEdBcFJyWlU1Vnc0NENrNVZERXVoQzJvbkRGaU1uUF9KUkswMEVxbEgwcDItZUdzTGlpMkMzS1lvT2FxeTRqd2E4ZU1ySDVGa2M5ODdXNzllTzVnbE5NUnNnVWlOLUhUOFVTVGQ4U0pQUVItdmJzM0U2SmJfdTE5bTM0TEF4T0YxSUFoMmY5LVFKMzM2VVlYT3hYNWJJV09XM2NjZmpCWUZHZjVUbjQwUG1Pam9BajkwYkFEQ0xNUTJNTVFYakRPSTB3amwyUkpIelVQck1LQVMtM2tUMXJtaEhiMjNkY0RlYW1IVUphbFZ6eHNMemlXeTJTSXBXX01EbWJ5YmNtdHR3YUtxeXJZSmRYV0hsM0dZRDAyM29sY0HSAcQCQVVfeXFMT1NzZk5ObE9TaVRMdDdTWTFZMTduQm5ZODBkT1JscEpyZlhuM05oUjFlM3VDVU5rRXRnUnliY2pKMEplSkdNTUNqVzNMTW40a0podXpicDRMV2JYLWxuYmJwSmdxdFBlZTJhcEFfNE5nWEJlRzY0TnloY2VjbDFOMjVKS1dWQlFXLU9salBGZE1EaVhkUm8xN1BSWXotMktHSXZyazBJdjRGNUpab0l3VTFkT05YMGo1c2lnRkd0Z3kwb2tScUVKMzIyLVdRbENmTEc1dWZyTXZCeVhndjhOajByNUNhdWREeHIyT3d2MGdUM01hTHltOTdGLW14VklsNHF0UnBld0pvTlVUSjhtZ3FzMERhVFdITzFJd212Z3hXc1pJQmJKbFp4OWV1YlNGMExtZEJIb3ZNYkNyb0xnbkhoSi16?oc=5",
+                "pub_datetime_utc": "2026-05-13T10:23:35Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:10 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "독일, 난방법 통과",
+                "hook": "독일 연방 내각이 새로운 난방법을 확정하며 에너지 전환에 속도를 냅니다.",
+                "script": "오랜 진통 끝에 독일 내각이 새로운 난방법안을 최종 승인했습니다. 탄소 중립을 향한 이번 결정은 독일 가정의 난방 체계에 큰 변화를 예고하고 있습니다. 에너지 효율과 환경 보호라는 두 마리 토끼를 잡을 수 있을지 귀추가 주목됩니다.",
+                "original_title": "Donald Trump in China: US-Präsident sorgt schon vor Abreise nach China für Unruhe in Asien - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR2gyOU9sM0pLXzQ1QldqWW9IbnA0OVFmWG5IZXgxU1dGdy1xLTFRTzZyMy1MRXM4S3ZEQlVtWEExSGdIalJiRzNFVVBzX0xwNUNSZWVjcUpoZHo4Z25TdlNSZy1ZQVZhWURXaTdVYXlTRHJSb1oyV0x3Z0hYeDN3Rm96ZVoxRWZTR2ZNRVBtem05Qjc5SmlhVkR5VDQtUkNmTXpJanhUZw?oc=5",
+                "pub_datetime_utc": "2026-05-13T09:08:06Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:10 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "브라이튼 해안 비극",
+                "hook": "영국 브라이튼 해안에서 발견된 세 명의 여성 시신, 수사가 시작되었습니다.",
+                "script": "영국 브라이튼 해안에서 세 명의 여성 시신이 발견되어 경찰이 긴급 수사에 착수했습니다. 갑작스러운 비보에 지역 사회는 충격에 빠졌으며, 당국은 정확한 사망 경위와 신원을 파악하는 데 주력하고 있습니다. 추가 소식이 들어오는 대로 전해드리겠습니다.",
+                "original_title": "Wes Streeting leaves No 10 after planned talks with Keir Starmer last less than 20 minutes - UK politics live - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmNvUWpEeXM1NVhEeG10RHF6VXltcWhRRXZFOERQMTVPeW1oVEcxcnJha0JKb2M2U3JvNzFyVTJTejBNWlMybmczbGRFeVdfYzZ0aXpKcGVNQnVPdElxV3B4U21YTmU2YUs0NDFhNzgyWWNCdWNrQ3hrZkF0eFIyTmY3ZXNUbWZZWllwRTRkWklmaVJXNUpELU1Tb0VYa21kQWthU0czaTBvb1hEUzBvTEFTRUY2UmVtY05TN1dWdThKZmRpMFQydW5aclZLRWZfM1FuQUxqUVJsLUNmTmhkWE1rdC1HbGM?oc=5",
+                "pub_datetime_utc": "2026-05-13T07:41:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:10 KST",
+        "current_rank": 4
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "트럼프 타워 무산",
+                "hook": "호주에 들어서려던 첫 트럼프 타워, 왜 '독성 브랜드'라며 폐기됐을까요?",
+                "script": "호주 내 첫 트럼프 타워 건설 계획이 결국 전면 취소됐습니다. 개발사는 트럼프라는 브랜드가 가진 '독성' 때문에 사업 추진이 불가능했다고 밝혔는데요. 부동산 시장을 뒤흔들었던 이 결정, 과연 호주 경제에 어떤 파장을 몰고 올지 주목됩니다.",
+                "original_title": "Capital gains tax and negative gearing benefit the 1% and this chart shows it - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWIyV2ZpRC0xRXBBNC04RFpwdUQtRDJ1MUN3dDNyb0lPNkpwdldraEJPWVlNU1psUVpSVndjTER1ZWxPQzNKNy1GZjdWSXdseVVVLW1adnpHVU15NHRRTzhiaW5feDgwaWk0cVNSaFJMQ0Z5SmI5eTl2M0JfbmRtT3V6bHloSFNmenduQ0trQXJoaUVYSnVjTk55OW9iOGU2OVFaVGNuMllDWUZ4WjRYRjRqN0lld0F2M3QtMTU0eWctVnZ3d2dmRWY0dw?oc=5",
+                "pub_datetime_utc": "2026-05-13T07:32:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:30 KST",
+        "current_rank": 5
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "음주 자율주행 검거",
+                "hook": "술 마시고 '자율주행' 켜면 안전할 줄 알았나요? 경찰이 30대 운전자를 붙잡았습니다.",
+                "script": "만취 상태로 테슬라의 자율주행 기능을 켜고 도로를 질주한 30대 운전자가 경찰에 검거됐습니다. 기술을 과신한 위험한 질주가 자칫 대형 사고로 이어질 뻔했는데요. 자율주행은 절대 음주운전의 면죄부가 될 수 없습니다.",
+                "original_title": "李대통령 “김용범 말은 ‘초과세수 배당’… 초과이윤 주장은 음해\" - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMng5cnVkczhlV1VXSXpxUkRhRVNVY0RQRkRDVk9hMlpXZmlfWUZRbjBqRXVYZTVLaDlhcnVzb3lwMURSNzRmNktMMWlVUF9sU29xU0FzcjAxS0pJbFk1UHV0MTdtZ2dyUFhKMlVWeFczcG5Ud2ZqaFEzUDg3RkFFTXgzZUtOdHdiUTVRRzl3NlE?oc=5",
+                "pub_datetime_utc": "2026-05-13T08:34:14Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:30 KST",
+        "current_rank": 6
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "나디엠 18년형",
+                "hook": "인도네시아를 뒤흔든 충격적인 소식, 나디엠 마카림에게 징역 18년이 구형되었습니다.",
+                "script": "한때 교육 개혁의 아이콘이었던 나디엠 마카림 전 장관이 법의 심판대에 섰습니다. 검찰은 그에게 징역 18년을 구형하며 엄중한 책임을 물었는데요. 인도네시아 정계가 이 파격적인 구형 소식에 큰 충격에 빠졌습니다.",
+                "original_title": "Ketua MPR Beri Teguran ke 2 Juri Lomba Cerdas Cermat 4 Pilar Kalbar - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1oxTHU3U20tUWk5TUZMZlNrT2dmLTJuVDMzaTVUeVRtdDBhX1hyUU43SmQ0Nno0YTRKV2JJaDdNQWN2cERVRXRrd2h5VGZORjZQRDFCNkRYQ25hRDNnU2ZIT3pDTXJscVdOUXc3cWNibWtZZ2c4OEh6VVhDR0dQR1FDancweURfSGtuTG9jYUNKSi04SE53T0RkRGJmd2dJSXg4NXYwZnBPbEXSAbABQVVfeXFMUGc2TzgtMkthY0UtRVFkb2hwRjAzZnRfOHhVa1lYd0J2NDVoUnJnWTZwcU1uVGJWWGNYdDUwTTJaMHkyS21HTC16R01ndzFaN0NmVXlsUlBWU2RHWmMwbV9qam1wcHpFS0FJSmJkRk9KZ0hQRjlpTkMya205RFJxMjJQYndsaGZyeGZjNWVkal8yYV9jaXFhcjF3ZjRMcWpUbnkxOXdJVjhEUGFvdHJYVEc?oc=5",
+                "pub_datetime_utc": "2026-05-13T09:20:52Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:30 KST",
+        "current_rank": 7
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "부동산 시장 개편",
+                "hook": "사우디 부동산 시장의 게임 체인저, '빈집'을 가진 자들이 대가를 치르게 될 전망입니다.",
+                "script": "사우디아라비아가 부동산 시장의 새로운 공식을 발표했습니다. 빈집을 소유한 이들에게 강력한 페널티를 부과하며 시장 정상화에 나선 것인데요. 국가 차원의 강력한 부동산 개편이 사우디 경제의 판도를 바꾸고 있습니다.",
+                "original_title": "زيارة ترمب للصين.. هل تشكل بكين وواشنطن تحالف \"جي2″؟ - الجزيرة نت",
+                "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZWpDNFJLUm9kYkxETVJzUk1fZFN0MXNHM2tyeHNaTmtwemRBWnJ6aHJlSEVPZ2ViVnE3bFQ4ckIyaTZWbEJQNDI1NVJva2tvRnVQbnZ5YTNmS3RnTDg4cFlUMG9tWWVJMTdWRUQ1MW5vLXJFQ2g5WGdSTHVwZjZnTUdRMjdEOFRZSnU2d21ZdnR0cDBnanpFZklLb0FlXzgyWDMyMTF1U0xfSm9YWkRKTjFIdDRycHg3WGUtaEhIS3FhVU9weEs3aVVWajM3dV80czliVW9hNEpLV0lHRUJIcFB4WnN5dE1SWVNvM2drQklMZHNYcFlhZGZyWHVqR05oZzZ3YTRTbDBZdDRfd1ZGanUxRktuV0t5YVE1Sm43azhQY0tXdktDSkFIcHlNd0dBaGE3TjY5NldDci1tZ2tyalc1UlpSN1B2WHdOd3lFckx5ZVnSAdgCQVVfeXFMTUZFckNuc011ZVZKajEzeWtGVGp4ci1GU2VUVzIwTmJzekVxQVJHQkNoSU5wQi12ZWxfSG52cjlneFRqT1VlR0w0MGNDN3p2VFh4ZzFxMkhLTS1nU3JRZlFxQnBad0tXWC1XekQ4djdaYlNJdTk4aEdCeklzOHVsUlVmOWhFMUFYR2J5Z2hlamg2ZXJ1RExmNlo4MUNOVGtDYkRGbDhzZk5EeHBHc20ybkstTzM0OXJBNnhObF9iaVFYamlucnZZaEZidC1lemxiVUhON0FHMzV3UlVScjcxaTF0UTZGMGlCMHBmNlZXZU5iTjVjNGdpLXdhc0FvdVJodTRCV21RVjlzY2VUQW9obkVBUGFTbUdFRExzRVlncmJhWThDazdJT1JhTFlBV3pSLV9WSDg0WXZRMkJ2ZktGUjY3R3RxeWFBVTdsd2lJMGhUQi1maElzbXM?oc=5",
+                "pub_datetime_utc": "2026-05-13T09:17:08Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:30 KST",
+        "current_rank": 8
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "UPDATE: 11 arrested after poli",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "UPDATE: 11 arrested after poli",
+                "original_title": "UPDATE: 11 arrested after police bust R100m drug lab in North West - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmFTcU5zaG5mbC1tc05ONUd4OVhOZDRKVDdid0gxblF0ckpVbzNxb3pfVFBXeEVYU3ZPalp2YXBtTk5qb1BuQjFMenJrMU5jR3dUdGFscjZaNzZwSU9WaXo3OERxZGJjYUFVem9fNFdCb2hjT05feDVMSERNU05reVpIX3lqRmI5QkdwWEdDRHJYUEF0MmdoZTZsM05mWlRyN3c?oc=5",
+                "pub_datetime_utc": "2026-05-13T10:17:10Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:31 KST",
+        "current_rank": 9
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "미·중 정상회담 주목",
+                "hook": "일본 외교가 미·중 정상회담의 대만 문제 논의에 촉각을 곤두세우고 있습니다.",
+                "script": "트럼프 대통령과 시진핑 주석의 회담이 임박하며 일본 내 전문가들은 이번 회담의 핵심이 '대만 문제'에 집중될 것으로 분석하고 있습니다. 동아시아 안보 지형에 미칠 파장이 클 것으로 예상되는 가운데, 일본 정부 역시 대응책 마련에 분주합니다.",
+                "original_title": "首脳会談に向けた米中の思惑 「中国の狙いは台湾だけ」＝ＣＩＧＳの峯村氏 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41VkVQdW9sRFFKamVPTXBSVk9zXzNUWDEzZVI4SExfWDBfa3dqcWoxQXRJVUdGQnJQTzUxQUpQZFdiZExWaENwQmw5bndZR09LZXZvMTBOc2dlb2VJMzNfbmFLeG1iMlJ0Y0psU2xhdFV6dVRNQlNWMnJGWjdNeFU?oc=5",
+                "pub_datetime_utc": "2026-05-12T22:16:01Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:10 KST",
+        "current_rank": 10
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "모디의 절약 행보",
+                "hook": "이란 전쟁 위기 속, 모디 총리가 과감한 에너지 절감 정책을 선언했습니다.",
+                "script": "이란-미국 전쟁 긴장이 고조되자 모디 인도 총리가 자신의 차량 행렬을 절반으로 줄이며 에너지 절약의 솔선수범을 보였습니다. 정부는 수입 규제나 재택근무 강제는 없다고 밝혔지만, 국가적 위기 상황에 대비한 긴축 기조가 강화되고 있습니다.",
+                "original_title": "Prateek Yadav death case: UP police at BJP leader Aparna Yadav's home, seal husband's room - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWnBObV8zVTFpMFE4RXRJeWFyUHhZczd5WW1JU01qTmp1ZXlxZFd2UjBuMGRxalNnbFg4QTBuOEhjZXRMTHR2VG9RN3l5Tkh2R2pwLUxTdElobXNXLV9vSnJBczF1aTV2YVgzdm1KbklmTzhscGdVS0p3U0ZaazZlYUFpUVVXWTZnY0h5UG5rME9reGJGeWlKUE0yTU5PUWlVdmJuOUl1ajBtRTVNRTNsZ2NxbDk0aVpMeTgzYTZCUkVlQU1hOElyQ19LZUpVRnIzdGpUTHdOZzhHd2dHMy1jMTVxNjAyanROQzMtalczc18wX00?oc=5",
+                "pub_datetime_utc": "2026-05-13T05:48:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:10 KST",
+        "current_rank": 11
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "보르도 유람선 비상",
+                "hook": "유람선 안에서 발생한 의문의 사망 사건, 지금 프랑스가 충격에 빠졌습니다.",
+                "script": "프랑스 보르도의 한 유람선에서 1,700명이 격리되는 사태가 벌어졌습니다. 탑승객 중 한 명이 사망하고 집단 장염 증세가 나타나면서 당국이 즉각 봉쇄 조치에 나선 건데요. 전염병 확산 우려에 현장은 긴박하게 돌아가고 있습니다. 정확한 감염 경로와 사망 원인을 밝히기 위한 정밀 조사가 진행 중입니다.",
+                "original_title": "1.700 personnes confinées dans un paquebot à Bordeaux après un mort, une gastro-entérite suspectée - BFM",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcWxrazdINzdtMlN2VEktZkxrY19XUndkd29vM2c2VmNKaGlYUUpsdVJ6ZVZhLVk4N3dDa0l6N0NLSm1Mb0p4VW9rRWRsdnJjT1hrcUp4UTYySW50ZHdOb1cwNTZnZ191S01BMGctdkNNY1lzajk3Xy1kdXFzQm1sTGQxMzhfcHlWOXFvcFRyVFVzTHB4SldiM2l6RFVtelhIMkFMVVg4eVppTDB0dmljR0FCOFRCZjZPSHlBdmMtTlpGQjFMVUpmY0J0MzUzdFJDdTlZWDVLQld2QzB5NDZF?oc=5",
+                "pub_datetime_utc": "2026-05-13T10:37:22Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:26 KST",
+        "current_rank": 12
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "경찰 부패 스캔들",
+                "hook": "VIP 정보를 팔아넘긴 부패 경찰들, 이탈리아 전역이 발칵 뒤집혔습니다.",
+                "script": "이탈리아 경찰관들이 기업인과 유명 인사들의 개인 정보를 불법으로 판매하다 적발되었습니다. 무려 30명에 달하는 인원이 가담한 조직적인 범죄로, 이탈리아 치안 시스템의 신뢰가 무너졌다는 비판이 쏟아지고 있습니다. 검찰은 이들이 어떻게 민감한 데이터에 접근했는지 철저히 파헤치고 있습니다.",
+                "original_title": "Il foglio buttato da Sempio e raccolto dai carabinieri, il giornalista Nuzzi: «Era un appunto per me, altro che prova» - Corriere Milano",
+                "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPRldXUGMtUWRFM1BSaUlSQVQ2RFJKNnJSd0ViNUdmSWY5OEhEVXEzcGJLQVpHM3k0ZkloNTEyNDVzaGZWNE1SX1Z3c2hYZWM4elNucWFNbjJDLXhlOUIzdHpoWjhNVDhtZm1ucXpWT29LLU5wWjdNbU9EUlFucGoyRmd2Nm1ZaUZscFhuT3F4MWFFc1FuVlh3ektFX0JwdnJkVUtWS3F0WUVrSG5WZ0RETWVmZzdRMHloWkZNa0h2VEQ5MGRVaUVtbEwxTkh3UHBia19iVTBCRkVES0lHWmxEV05iZWJ2VUNnTmp6ZVhYU3drbG9fT2k2dmZRbEdJanRVWEk1cVpmOG5TOG5idk9OR0U5eC0yQ3locVRqRjJzbkdaVHQ1NzNhODRjNmttN0xjY21QWWNiWHpScTRvaFc0Tk9vUdIByAJBVV95cUxOMG9pSU1sVGNENWxza2J4RTEzWVpWRzBQTUF2QUhuTDEtQUpxUlZjYlBoTGJVclMtdFZyVnZiT2tBSVNhMlhJTXg1cGlybkVRMDExNUtQYUd6WlNfVHh2TUZNd1BIa3lDamF5OFByWFpYQ252YVVMckJDbkNGUC1OQmxNWkVodGhubWw4cHRKYmZPSnJ0RFhUbkFQbEVFa2NXZVRJc3RxQ1RNajBKaHo2TXNlNFFta1FTelA5RnhwaU5OOTN1ZGl5STlCX2VLMkFKal9Ca0ZRZTdaTWtEWktrNDdUZkNnaTNNclY1OS1udzVOc3JUd3Q5bkEtZm0yckNwS2htYWk2bmdhRWt2LUViRWU4V0FDOUNkdkJnWFllOU02NUtfSG95Y01PNmU0Z1cwY3BrMWJDNU1UOUxReGpPV3QteHNwX1hR?oc=5",
+                "pub_datetime_utc": "2026-05-13T06:22:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:26 KST",
+        "current_rank": 13
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "범죄 수익 몰수",
+                "hook": "범죄자들의 돈으로 범죄를 잡는다? 브라질 정부의 파격적인 결단.",
+                "script": "브라질 정부가 범죄 조직의 수익 일부를 직접 환수해 치안 강화에 투입하기로 했습니다. 이는 갈수록 거세지는 범죄와의 전쟁에서 승리하기 위한 극약 처방인데요. 루이스 이나시우 룰라 다시우바 대통령은 이번 조치를 통해 범죄 조직의 자금줄을 완전히 끊어내겠다는 의지를 밝혔습니다.",
+                "original_title": "Defesa das urnas, climão com Alcolumbre, Michelle ao lado da mulher de Moraes: tudo sobre a posse de Nunes Marques no TSE - O Globo",
+                "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNV8yeVgyNmQyZVM4QlFxUzNKcFFuampKNXBwNTduc1hTUjVGT3VIOVRKdllQeDlBaS00Ykw0N25XLTkxMlJVZFB3Uk4xTEtvNHVHVlVTUTVkZC14NXZNNVVSclZkV2tFYXBfeUN4cE01UTNRWWVkWmxlRWc0a29Ocl9rNUY4MzlJbVpMd3dRQjQ5MFgtekdqdXdmSU42R2lzVVNSMmZKY3ZDOGVWU0R0aG1vLWNrX0JKWW1GZzAtN3pSdmRsb2FwVDJhdDZPNHNVWENHbnZQa29uUjNWckk0eW1sZ2l6RFNMSlBtQlJoWXh0bE84enBCSkVOMUVUdWRRcTVBb0pXTmPSAZcCQVVfeXFMTVFiaDFsUm14OEx4RGhmSG9MVEduR2ZLcjVjSkFwVzVVLVU1QkY5NDctcTlGcVJEWXZCUHhmQVl0RXY4UXF6N3FZY2xXaVFLUlBlOVpOaUoxZWZxOEo1MkUzNzNDQzNHWjJrUmtaenQ3Q0ZXR0NYb2JQRl9yMzdXeTVJR1FLWENNc3E3MXltalJ3QzFQejhpaFQyVnRVRmJRVUZLOGRTUExDU0R0eWp0SW1QY3dWRkhJOXNuZnV0RHc2d2NLWV80YWhWeEZPSzB0RDRENTFLQkM2WXpycWJLWWZYWC1JUVQyaVJoVVp4Z01WVk9panRpU1V2V1UyT1Q1WU5KNDU3a1k0SnVlQUZhQWVEeDE1MTZV?oc=5",
+                "pub_datetime_utc": "2026-05-13T06:30:35Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:26 KST",
+        "current_rank": 14
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Fentanyl ingredients entering ",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Fentanyl ingredients entering ",
+                "original_title": "Fentanyl ingredients entering Canada via Vancouver en route to cartel-run drug labs, U.S. DEA boss says - CBC",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHlyUXhfM2J4SEI0NURaN1V4c2oza2RqVW52TFdWSVpoS2Y1eFRQcFJ6Y05OY0VLNk9HTkFsdHpJZjFKOFkyQmtHNUZRNnpxUlpQNWs2SFV4UTJJNzYtN3V0RlNJQlk1V3JXd0xnUDJaMDZmRFM5QXRCdThxQ1pMOW42d0NXbFgtZDRtUDlySF9aX3RiWXpUM2FXZ1drdw?oc=5",
+                "pub_datetime_utc": "2026-05-13T08:00:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:26 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "300대 드론 공습",
+                "hook": "러시아 전역을 강타한 300대의 드론, 공항과 학교가 폐쇄되었습니다.",
+                "script": "러시아 주요 지역이 약 300대의 드론 공격을 받아 큰 혼란에 빠졌습니다. 공항 운영이 중단되고 학교 문이 닫혔으며, 곳곳에서 대형 화재와 인명 피해가 속출하고 있는데요. 러시아 당국은 즉각적인 대응에 나섰지만, 공격 규모가 워낙 커 민심의 불안은 극에 달한 상황입니다.",
+                "original_title": "Бывший замглавы Минприроды РФ Денис Буцаев объявлен в розыск - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6RWtlOTNBMlhqSHdNZ2o4QXdyRzdDWkZKdG82dUpDbnNodHRfUmQtYmJTZGczLTY5bVBvYW5vNVdwQmtpQ0hBUWVhc0VqM3fSAUtBVV95cUxNR2ROTEd5aFNIU0gweTMzbW43aGRRVnFreVZzV3pnNnlBUDc4Zy1vRENYeW9CckJFQ2V1WlZpQTBnbmdrV01nWUJBeUU?oc=5",
+                "pub_datetime_utc": "2026-05-13T07:26:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:26 KST",
+        "current_rank": 16
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "치와와 CIA 논란",
+                "hook": "멕시코 검찰청에 나타난 미국 요원들, 주권 침해 논란이 불붙었습니다.",
+                "script": "멕시코 치와와주 검찰청 내부에서 미국 요원들의 활동이 확인되면서 거센 정치적 폭풍이 일고 있습니다. 야당은 이를 주권 침해라며 강력히 비판하고 있고, 현직 주지사에 대한 탄핵 요구까지 터져 나왔는데요. 멕시코 정부가 이번 외교적 갈등을 어떻게 수습할지 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "Confirman presencia de agentes de EU en Fiscalía de Chihuahua antes de operativo - El Universal",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNzJiaVhGbllfal9wNE5Cd2xibWtGQW1Pa0tGOHUzLVhpZzQ5eUtENGpWdDNYLV9HbTNtV3U2WXVnRGxpSE9uaHJJVzNreTBrX2VzMWpzanozeTR6VmEySnozamZZT0RHRjFGZVZlczBDYkR1a21iUGhCLUtqV0gyREV2dGw5cVRBTDJzOXRTTUlaamdYX2llM2lLTGRpQVVReWtwbzFRTjNmR3Z1aDlPRDZOMFdxTE5Xdjk4YTBfdFA1R1N6Qk9lYThUdGhPcV9UeHZn0gHnAUFVX3lxTE9xZHF6U1VBZ2VoMV9aWHdfOXJieUtnRTczekN5MWJaY09Hd0VhTHZpYUotWmZvZnJqaXFPaG9KMmtVVGlIRDR5S2QwMXRtWmlGWWdjMWFGSU12UXMtVzB0VGN6ZDZCSDlvOGdzc1BDSFd2bWpKNEZMU3FhZ1dCQTl3TXpiNmN4bllfUEloYTIzeGRaMk5NdUdoUzYxVTJrWmJqMnBQMzlTUEVRcmoySmNKanpXdmVaX05tRHpteEtiS04yUHNGdjVyZnJBZ3pQdVNEMTVnMDhzbFNmOV9LWUVlSnh6Tl9KVQ?oc=5",
+                "pub_datetime_utc": "2026-05-13T00:00:00Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:26 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "안탈리아 부패 수사",
+                "hook": "안탈리아 시청이 발칵 뒤집혔습니다. 대규모 부패 혐의로 25명이 한꺼번에 체포됐습니다.",
+                "script": "튀르키예 안탈리아 광역시를 향한 대대적인 부패 수사가 시작됐습니다. 경찰의 급습으로 관련자 25명이 전격 체포됐는데요. 이번 사건이 정계에 어떤 후폭풍을 몰고 올지 현지 여론이 집중되고 있습니다.",
+                "original_title": "SON DAKİKA | Özkan Yalım kirli para trafiğini anlattı: Özgür Özel’den ‘paraları mavi valizime koy’ talimatı - Sabah",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1FYdGQ3RWJBeEVkRTQ5bkhmUlFlOXlTcFZQak9ndDdWczFFWDJ0emF5M2hlSldMc0FBb1BjMUxwaVVrV3psQ2RmenNKMlNjLTYtaFFoQ3JLWk5OZHUtU19KdG5hMS1VOUJKLTB0aFU3dDlKX2gxNFM4MVFpQ0U1SV9sVi1lRzJ1ZF9BTERxMGc0cTB0NFBENEVwdGJOSEpzYzVFVWM0ckxDM0FURmZhd0pWNU9FRkxmSUZraW1IMU9kbnFqdWlNa0hsZWwxU0g1RFlNZzllTmpjM1NYR24w0gHiAUFVX3lxTFBjX2tmdUNqdVdNSjB1d1NBSThTaUFfSHlKaWdTWmhuWHdXRWNjVGVMeHVVWEF5UVhVbjNmclhFMmtuLUlRQUtRa0lFeDNuc2RZTjdfVVoweTZJYTdTZEcwMEVCRVplZmYyZDFVWk56MXdBUnNuQjVNbWNObGY5UjUzLUNieEM3RlZjMTlldFAzd1hQTm5zRGlFZGVKMWN5UERGZG0zUXZ2aFdXMTdOSWNWbW55UDZnX29yT0c2SVAzSUlkMURmcGdTWDZiTmZzbFJqSlNrekU5Z181V1Q4NkFPRWc?oc=5",
+                "pub_datetime_utc": "2026-05-13T03:18:43Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:30 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "밀레이 지지율 하락",
+                "hook": "밀레이 대통령의 지지율이 흔들리고 있습니다. '아도르니 사건'이 정권의 운명을 바꾸고 있을까요?",
+                "script": "최근 아르헨티나 밀레이 정부가 큰 위기를 맞았습니다. '아도르니 사건'이 불거지며 핵심 지지층마저 등을 돌리고 있다는 여론조사 결과가 나왔는데요. 대통령의 국정 운영이 최대 시험대에 올랐습니다.",
+                "original_title": "La OMS recomienda cuarentena y aislamiento para evitar la propagación - Página|12",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkdZbkI5VERCbHpPcjMwWjA2MzF1cm1iRERhNTZwQzlTaC1rc1M5bnRleUlHZTFlem54eHo4a1U1eW5TRmQ0U3puWnZidXQ3NTdINGU5a2ZlLV84cVlGWU5LWlFBcEFQdU92SmxUZHo1Ykd3aGNjSV9MXzZjcGZaOVVQVElhc1JSeTk4ajRydW15aFlmWUpLa3BvZ1dUSWpkeXNHbmVPT21vMlptUXc?oc=5",
+                "pub_datetime_utc": "2026-05-11T19:36:54Z"
+            }
+        ],
+        "last_updated": "2026-05-13 20:39:30 KST",
+        "current_rank": 19
+    }
+}
