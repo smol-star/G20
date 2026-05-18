@@ -1,0 +1,325 @@
+{
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 남부 폭우 비상",
+                "hook": "하늘에 구멍이 뚫린 듯 쏟아지는 폭우, 도시가 마비되었습니다.",
+                "script": "중국 후베이성 징저우시가 기록적인 폭우로 인해 도시 기능을 일시 중단했습니다. 도로 침수와 내수 피해가 속출하며 정부는 즉각적인 비상 대응 체제에 돌입했습니다. 기후 위기로 인한 극한 호우가 중국 전역을 강타하며 시민들의 안전이 심각하게 위협받고 있습니다.",
+                "original_title": "以馆为桥联世界文脉赓续润龙江——2026年“5·18国际博物馆日”黑龙江省主会场活动在齐齐哈尔启幕 - hlj.xinhuanet.com",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbk1qRGpFZFY0a1REMXpqNndYSXlobk1MbzZLcV9XU1pPTGpQbWdlZ25aRkVSOUtLa0xjQnZfLVRJbVlCcXpWSjJSekc3YTBXUjAwZjkyWWZXMnNQMHlzQXhtZUZsRkVSejZmcmM0VzJHbGE1Ry1xbW9aVlZ1ODVuUHFWZw?oc=5",
+                "pub_datetime_utc": "2026-05-18T08:29:09Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:02 KST",
+        "current_rank": 1
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일의 안보 비상",
+                "hook": "전쟁의 공포가 유럽을 덮쳤습니다, 독일이 100억 유로를 쏟아붓습니다.",
+                "script": "독일 정부가 민간 방어 강화를 위해 100억 유로 규모의 대규모 예산을 투입할 계획입니다. 러시아의 위협과 안보 불안이 커지면서 벙커 확충과 자원 비축이 시급해졌기 때문입니다. 평화롭던 독일 사회에 전쟁 대비라는 낯선 과제가 최우선 순위로 떠올랐습니다.",
+                "original_title": "CSU-Chef Söder bei „Caren Miosga“: „Das ist ja auch lächerlich“ - Tagesspiegel",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFVDMk93RXpJX3Y2MGIydGl6R2pmOWdMVFE4SWktLXBIRnZJYVpzT2pPSmx6bDg4eTQ0ejhZTjhHajAxY0ZmMG5MNlMzVFY0LUtkWU1kNjh4czM5dGI3UTI3ODFBVmZkOHFkQWl6RWZKUUl6R3ctYkVQQmFreEtLTTUyYWtteDNYSFF6bHR2alk5Ni00WHNTb0xwck81aUctUmRwVXpONjdYdXQw?oc=5",
+                "pub_datetime_utc": "2026-05-18T04:39:36Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:02 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "일본 전국 폭염 주의",
+                "hook": "5월에 35도라니, 일본 열도가 벌써부터 찜통더위에 갇혔습니다.",
+                "script": "오이타현 히타시에서 올해 첫 35도를 넘는 맹렬한 더위가 관측되었습니다. 5월 중순임에도 불구하고 전국적으로 고온 현상이 나타나며 온열 질환 주의보가 내려졌습니다. 본격적인 여름이 오기도 전에 찾아온 이른 폭염에 일본 열도가 바짝 긴장하고 있습니다.",
+                "original_title": "栃木強盗殺人、指示役容疑の夫婦自宅近くに高級外車…高校生に貸し無免許運転させたか - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xT29XQktkNXg0TmlkSGd2VUpoNUlKaDVfTjVycDFLcXVQZE1GQVlDMnJhRG1MRTFYWm9VYkx1YUU5SnJrNjZXdGtKYWcyT1Z1dDZXYkJoQXBHeklxRDVaVVdGU3VqZw?oc=5",
+                "pub_datetime_utc": "2026-05-18T06:00:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:02 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "영국 9일간의 폭염",
+                "hook": "영국에 찾아온 뜨거운 여름, 28도 폭염이 예고되었습니다.",
+                "script": "영국 전역의 기온이 28도까지 치솟으며 9일간의 기록적인 폭염이 시작될 전망입니다. 갑작스러운 날씨 변화에 영국인들이 해변으로 몰려들고 있지만, 한편에서는 철도 파업까지 겹치며 이동에 큰 불편이 예상됩니다. 영국 기상청은 시민들에게 건강 관리와 폭염 대비를 당부했습니다.",
+                "original_title": "Revolt Against Starmer Revives UK Debate Over Undoing Brexit - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR25QbUlYaXF1emRWSzZrRU5UNGc1ZVlmWWY4WmE3U1dMcHpjVkV3OTNYd09TVlFxRlFtQjZfU1pQejFzbEJ5Z0I1elJ2dVY4TGtQdG04eFViNnlkTG1Pc1BCd0Ruc0tvRzFZT25aa3dIUlo3cklOaXM0YW83VkhfVU5hTmZQeGFjTHZ3Nm1POFZZam1CVXRzSFI2UG9PWTVVT2l1aVBpTlBEZUFMZFJvLUZJZGQ?oc=5",
+                "pub_datetime_utc": "2026-05-18T06:55:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:02 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "요다 갱단 소탕",
+                "hook": "프랑스 마약왕 체포, 범죄 조직의 몰락이 시작됐다.",
+                "script": "프랑스 마약 조직 요다 갱단의 우두머리 펠릭스 빙기가 결국 덜미를 잡혔습니다. 잔혹한 범죄로 악명 높던 그가 체포되면서 프랑스 치안 당국은 조직 와해를 기대하고 있는데요. 마약 범죄와의 전쟁, 과연 이번 검거가 판도를 바꿀 수 있을까요?",
+                "original_title": "Un des plus gros narcotrafiquants, ennemi de la DZ Mafia, plusieurs fois condamné... qui est Félix Bingui, chef présumé du gang Yoda - France 3 Régions",
+                "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVWJPTHVzOEZCSUlVQWx2eW5Eb24yazQ4eXRocUFhZm94cVlsTTI2X1VscVlHWTZpempxX1ZZcVU0ZW9oOURTcXI0dlBOZ0tZaGRkeHdtWGg1ZkJOTHBZZlpBX0M5SmhJQUdFY3dkNll0WXJrc1Rkd3BiSHFOVmRjQUw2elVBTnhiMkRiZGdYNEdNQV83RTUzbGlUYkV0X3JlNlNnOGhDMmFXYkE0QTU2VUczQUY4XzFZcnlKNmdMeWpRMnVDV1p2S0p3azl4SVFVYkxzNjQ2LXNyOFR6cVJLSUU3WDBld3NpS3VvV1BrczJEc2gxMks0TFhISTkxSVV5S1luZFVlV3ZGQndWM0xqN1lsdTN3NlJNamVxUndDdVRUemhrZ2pTYUtkVndDNWszVUpYRHJSUXU5WTcyOGtEaTF0Z2hoc2RNM0dfMnUzbzU?oc=5",
+                "pub_datetime_utc": "2026-05-18T04:00:14Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:06 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "전국 총파업 예고",
+                "hook": "내일 이탈리아, 교통 대란이 현실이 됩니다.",
+                "script": "이탈리아 전역이 24시간 총파업으로 마비될 예정입니다. 기차, 버스, 지하철 운행이 중단되면서 시민들의 큰 불편이 예상되는데요. 노동권 보장을 요구하는 이번 파업이 이탈리아 사회에 어떤 파장을 몰고 올지 주목됩니다.",
+                "original_title": "Italiani morti alle Maldive, fonti locali: individuati i quattro corpi. LIVE - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmUWlqZnZoTmc4NEF6MXJ0Z1BNMVRobzhhYTRSRE1MRXdvcHJHajVVM0hiZ3BQV2g3RldJSzZITU9EMTA1eXBpdWJzSGJlX0JTN05Sd3RPU0lJbkt3YkxadnVpNEMtZG4xc3U4MkJLSmVoTVJfajdSY2lvQzI?oc=5",
+                "pub_datetime_utc": "2026-05-18T10:36:18Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:06 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "한타바이러스 비상",
+                "hook": "크루즈 여행 중 감염, 한타바이러스가 캐나다를 덮쳤다.",
+                "script": "캐나다의 한 크루즈 탑승객이 한타바이러스 양성 판정을 받으며 방역 당국에 비상이 걸렸습니다. 치사율이 높은 질병인 만큼 추가 감염 우려가 커지고 있는데요. 여행객들의 각별한 주의가 요구되는 가운데, 정부의 대응책이 시급해 보입니다.",
+                "original_title": "Thousands attend America-themed prayer rally in Washington - DW.com",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZVdiWl9jSFRYa1ZoS2loZVlmcVFmRVZab2pHa3VjeFc4V3M1WGw4LXBubTBXR2tTT3JIWVVUbENuY19yd1RHbEFMMmdxWjNuRDFhQTA5YkItRDlwR2pCM1pocU1RcEVEQWQtRWhEWXRYMFJwcGNGU0VuTnpwNUh2WkFxSEY0XzNCZ21aUkZ4d0NZT1VfU3gxeFYyVdIBmwFBVV95cUxNUG84dmZsemM5MTY1R3lGd0FISTl6SUx0N1p5ZG9hZjh5UUJrRUNaMTVsc01hbnNObl9Jd3JrWTAxLW5tbGtiSVNXc2VzeDBOdXB6Z0EtLXFJT01TMmw5dG5EeW1za3NuU1djdnNuSEFUcVJmSlpCUGw0b1U3VXRJWEx6OXlSQjdHVm9YS0tEVUxET1ZDR0tKdDNXVQ?oc=5",
+                "pub_datetime_utc": "2026-05-18T01:10:31Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:06 KST",
+        "current_rank": 7
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Maestros en México anuncian hu",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Maestros en México anuncian hu",
+                "original_title": "Maestros en México anuncian huelga indefinida en la antesala al Mundial de Fútbol 2026 - CNN en Español",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWZaQVpEM1ZZMERxR1cxd1lReXNPVHUxU01IUXBUWFlPVUR4T0dQNzZ2cnBIY2lEamMtQU94QTBoMGNyUWhfeUpLaUxJQzRRdV9lNklkRVk2ajdIVEV1VzJpOHhFS1RBMFNTcDNqeTdFeHNpUWJnS1NOSXM3azhfTDhmTy1hcVl5UFV1ekNJTUsyQkVQZjIzV1VNM2Zra2t0clJQMlVVS1dsZzRTVXY2Sw?oc=5",
+                "pub_datetime_utc": "2026-05-18T00:26:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:06 KST",
+        "current_rank": 8
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "온라인 도박 비상",
+                "hook": "인도네시아의 온라인 도박 자금 규모가 무려 286조 루피아에 달합니다.",
+                "script": "인도네시아 정부가 온라인 도박과의 전쟁을 선포했습니다. 2025년 한 해에만 약 286조 루피아의 자금이 도박으로 흘러 들어간 것으로 드러났습니다. 통신 당국은 340만 개 이상의 불법 사이트를 긴급 차단하며 서민 경제를 위협하는 도박 근절에 사활을 걸고 있습니다.",
+                "original_title": "Usai Serahkan Alutsista ke TNI, Prabowo Tanya Purbaya: Dolar Gimana? - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDRkNVdlcEh1aTExMDJuRXZBbDdnVmdiUGcySVlFQzV1aWhwWDdwSmVsV3VKaXhITElDMzllTkRheTR0VHlzTkFPNTluZEJ6OE5hck45aUdTQW1nbG5RczJXYlVFekRwVWtFZWlMTFFpS2ZmbnF6SC1vcTlFQkVSU0g2ZDkxVmhvWXhyQllCU3lwaW1vdTJ1eWo5SW9VUGNUcE9JMHB0N3XSAa4BQVVfeXFMT2RfMzVHblBzOXZfajA0YnRQQWUwSE9ISHUwckVfMlphUjlaR0ZLYkl6czVCVmNqaWdQYVFzMlpFR0tOeHVZUEEtdTBJNF9iTXNYSWQ5SmZwcnVMblJyMEVTMTJiRHRxZzY4SHNsUi13cHVaNkZLUmJQZjlXWXN3dXo2elU4MWVwX0IzYXdTTGFNMEkydmpoeVBDSmV2U0RPR1d3S3Q1R1E2VHVMS1R3?oc=5",
+                "pub_datetime_utc": "2026-05-18T07:09:05Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:23 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "이스탄불 대규모 검거",
+                "hook": "이스탄불 시청을 겨냥한 전격적인 작전, 57명이 무더기로 체포되었습니다.",
+                "script": "터키 이스탄불 수도권 자치단체(IBB)를 대상으로 대규모 공권력 투입이 진행되었습니다. 이번 작전으로 관계자 57명이 구금되면서 정국에 긴장감이 감돌고 있습니다. 야권은 이를 현 정권의 정치적 압박으로 규정하며 강하게 반발하고 있어 파장이 커질 전망입니다.",
+                "original_title": "Son Dakika: İsrail Sumud filosuna saldırıyor - Sözcü Gazetesi",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNFBlaTQ1WWlBSTYzZGpXS2hVcXotNEpOV2Z4a2MxTENQNWZINEp0RER1cm1weXo3Mk1sQlIzWGJBci1GWXhPb3J4TUxab1V1VkhKU0o5WHVNTFZQbVlOWV8xU0lxMUlrVnN1X085NUMyT0oyV0xKVEZvTVlrTGFBeUR3?oc=5",
+                "pub_datetime_utc": "2026-05-18T07:48:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:23 KST",
+        "current_rank": 10
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "이라크 드론 격추",
+                "hook": "사우디 국방부가 이라크 영공에서 넘어온 드론 3대를 격추하며 강력 경고했습니다.",
+                "script": "중동의 긴장이 최고조에 달한 가운데, 사우디아라비아 국방부가 영공을 침범한 드론 3대를 즉각 격추했습니다. 사우디 측은 이번 영공 침범에 대해 단호한 대응권을 보유하고 있음을 분명히 했습니다. 주변국들의 도발이 이어지면서 지역 안보를 둘러싼 불안감이 더욱 고조되고 있습니다.",
+                "original_title": "ترامب يحذر مجدداً طهران.. ويلمح لضربات من كل حدب وصوب - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPaGFJZmg2WGUtdFhTTTRraF8tV1Q1RUZBeUVZclhyODc1Q2NXRHo5NzhvS3Fib2RYRnNOT3RKTmVlOThha25BUjNNSU5wcHFTTXE0UE8ydnlkQjBTd3k3cDZQX3R3M0hsZkNBMUhVeFRoM2x2YVJXSm9pMUVaRDFERXYzNXFyaXJySjlHWEFDS19VSkpvSXVKQTdmZkRNalM5ZW1yUDFlTUpkUFRnS2V1cnFMN1BDYkRWOUpVajdfYUVMVEtQUWxVTVV5aVIyYW1fY2FxR1htTWlldV9yUU1zaDJGNWVidDVaTkhyTE9Xczg2NkJYVkE3cU43N04xQ3V6cVA5dmtZSjVKbVBvQ3ktekJKRG40UE5YcVZqMjk0em5MLXNPN1U1SFdtUGw4ZjlTSWtlRzV3Z253U19hU2puSGtHNjVIYUJieGJSQk9jek1zLWNQMzVXNUxXR0x4T21FTFNXVkdyUHNRa3RGZmJGOEdObWU1SEZVMjNxUzNTSEw5VDVZYlJDWmJzUDN6cHV5YjVHd1ozVWg3dzZRUDMxcVNKN1NXWnVScHRLOVhQRzducjVEMnhsWGZYSDk4NHhZOEQ1bS1DNDdQTi1LRGdGV2lKamRUQdIB2wNBVV95cUxPNV9jcXk0Q242MGpfQkVNcWJWUjJhU1ZVdTN2cDBONVhHTkpyVXhabEstWWRLQ1psYnl4MXdSaVFScUxyQlJZb1Y5Y0ltVVR2VWRydjNTZnpLV2lPT2pvWWJLX3dweHE1MGc4NTBkd18wbTlmUUE1UXhZMVl3Q2hwdzA3VFN2MGJiOGQ2UTlaOWJSX1dmQ1BtVFpRMGktVE1nNjhLaWNDbXdwaXZiUHJsX29kYnhOeFp2YVdlcElxd1lwbXlWdkdkWEhtd0ljVTF2Q2VDTjQwa1JWbmhhZ0R2VXN0RUhfYzg0NWlRbkpDQV96ZUxPQWhrS0lrRmo3MWJZMTlUZ2ZneDMtRjdRc2NfVUVJb0JrQkxzaWlSa3VnQnRwY0lfVXFtZ04tR2VCZktJT2NLcHd4ZTJPb2xMY2ZfMy1nNWlTWnNJRVo3Vk1NczNud1QtT05jRkJhMUZZQmpiVk41Zzhhalh1bmhJa0VSODdSSktZSTJLUmZ6aGVHQTlDeXRPNXJxMWg4dGpTSDROM3ZfbjF4NVVWWGZkanctN2tUbXVpOVFsdTFOdWlZTWUwTWQ5NTlFX3hsRlpaeExlWFRUUFJDc1NoWnk0cGVWdW5ScUJ0YzBOTmM4?oc=5",
+                "pub_datetime_utc": "2026-05-18T03:37:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:23 KST",
+        "current_rank": 11
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "남아공 국가 위기",
+                "hook": "범죄와 물 부족, 남아공이 지금 벼랑 끝에 서 있습니다.",
+                "script": "최근 남아공 전역에서 연쇄 총격 사건으로 사상자가 속출하며 치안 공백이 극에 달했습니다. 설상가상으로 가우텡 지역은 심각한 물 부족 사태로 19일간의 단수가 예고되어 시민들의 불안감이 커지고 있습니다. 라마포사 대통령의 강력한 경고에도 불구하고, 국가 의료보험 체계의 위헌 논란과 정치적 혼란까지 겹치며 남아공의 앞날이 안갯속에 빠졌습니다.",
+                "original_title": "No warrant of arrest for Mkhwanazi, says Idac - TimesLIVE",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWN1N2xFTFgxSkFQR0dsSlBkOXlLRWtBQzRvbjlqUEhjRnUzQkdYSTh1bHM4UEwxQ2dUNDNtZWFtNXdsQXJ2WUdVb2J1dHVpWnRGVUsydXY2RzVybWlvU3BLZnZva2ZIOENjd0hvX01yWTFtdllfVTZzejlzVExjVGd3c1hleEJFdnoweGpWTGdiZzE4QUZaYUFQVmllYkRWVmRtUA?oc=5",
+                "pub_datetime_utc": "2026-05-18T04:35:04Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:24 KST",
+        "current_rank": 12
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 70.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프의 대이란 경고",
+                "hook": "중동의 화약고에 다시 불이 붙었습니다, 트럼프가 최후통첩을 날렸습니다.",
+                "script": "트럼프 전 대통령이 이란을 향해 '시간이 얼마 남지 않았다'며 강력한 전쟁 경고를 보냈습니다. 최근 UAE 원전 드론 공격까지 발생하며 중동 긴장이 최고조에 달한 상황입니다. 평화 협상이 교착 상태에 빠진 가운데, 과연 세계 경제와 안보가 어떤 파장을 맞이하게 될지 주목됩니다.",
+                "original_title": "Thomas Massie unfazed by Bill Cassidy's defeat in Louisiana - Politico",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUU2QnRMNlNGbU1SUGJTejZuVURTczF6RW1zc2o5WEU0WlVVTjg3NkZVY0NvcFFIVGVGQkZZNlpLc2p2d1NabDVqRkhhMnhrMTNCZDNFejlBRER3LVRScGNtX1lRLTdFc2gwTDlhY0djWEk0NjZhVzVvQ2pfSWFqcUZFZ3VyOTZoWTVaTV9NSQ?oc=5",
+                "pub_datetime_utc": "2026-05-17T15:01:29Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:02 KST",
+        "current_rank": 13
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "How a teacher in Rajasthan's S",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "How a teacher in Rajasthan's S",
+                "original_title": "How a teacher in Rajasthan's Sikar discovered the NEET paper leak | India News - Hindustan Times",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNV9mOE9tMk5TLWJaQTFxeUFjZ2NUSVR5aGxZOHc2ZmV1SUpTSnhUanNxOEhic0lzbkNFM0JlUlpwaDZFdmV6TnBGcEsyRXpSSGRqVFRqbklyT2FtSnZNalFwLVZveV9JRldQdFM1VC1mWV9jbDNpZ1UzUE1Jc2dhUlJoY0VTWV9vY2o4dDBzMHNJQTFRSDluMkhFeW9rcXl6NUpZVlEwQVVXZUk4dDIzdTh5SUdUaV8zNlEzZkdhZkNQVlMwNVlfVGNmS1hVLW9TdG5pa2ZfLWVPM29mQ2VnOWJJQlNrN3NjMjNZclU3aFZXa19pWkhyd3lQdmZ0QnJzeVNZ?oc=5",
+                "pub_datetime_utc": "2026-05-18T08:46:08Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:02 KST",
+        "current_rank": 14
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "룰라 지지율 변화",
+                "hook": "선거 5개월 전, 룰라 대통령의 성적표가 공개됐다.",
+                "script": "브라질 대선을 불과 5개월 앞두고 룰라 대통령의 지지율 향방에 정치권이 촉각을 곤두세우고 있습니다. 최근 공개된 데이터폴랴 조사 결과가 향후 대선 정국에 어떤 영향을 미칠지 관심이 집중되는데요. 브라질의 미래를 결정할 민심의 향방을 지금 확인해 보세요.",
+                "original_title": "'Não é caro para os padrões de Hollywood', diz Eduardo Bolsonaro sobre investimento de Vorcaro em 'Dark Horse' - O Globo",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaUgwRVFnX0ZDNEFZeS1UNkUzMk5kTlF0MUdTdkNsa0VpeEtmekpDY2xwTTdCU1hBbHdRM2ZSVXNpbTNLd0Z6cUpzZV9mcEoyMTJJNElJd2FtSkdnQmhYWHdfanZfdGVKeGJaT0xwd0xEWktCdElNSjhEd2Fybnl4NXB4dmFtdDdRZ0Z4THB4Rk1sLVZYM0Z5N0Q4NnBRbkVPaGJWMF9ncmVuZlg5RkN0QTdhYmpDU3daVVRUeXR2V2lJTWxJUTNUdHRHMEU0RWRvT0cyTVlkMWowdC14TEpSQ3dfWU9JNjZlYjBJNlFZbEV0eXUwWHY40gGGAkFVX3lxTE1WWEJtV3NYVUVTVF95dG1VcGE2VHVJal84RlU4b29uUWRWTllzTW5CUl93NThCbTNHTG5USktneTVUZS1WVXJNMUNhcFFEWFNsVmo5aXdXVGcxNnUzMTJpbkQ3TkdUUi1KWEdTSTlmVThYTnkxNF9vbFA5X0d1SUI4VmQtN2xCNGl1S3NkZjBtXzV3SllqOVEyNFFSZWoyNnY3WHhqXzFmbXNLeloxMS1ZaHdoQ1U1LUFCUjlhNzFQNlBJLVQtbGFBcjZsOGt2S3MwZ1R2alM5VkRwZ3lxbTBjV3RTMTZDN0RUYThxc1FWcWJranQ1cGM2SFlseUN1MEZ3cnowNWc?oc=5",
+                "pub_datetime_utc": "2026-05-17T22:40:49Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:06 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "모스크바 폭염 주의",
+                "hook": "이번 주 모스크바, 30도를 웃도는 기록적 폭염이 찾아온다.",
+                "script": "러시아 모스크바에 월요일부터 이상 고온 현상이 시작됩니다. 도심 기온이 급격히 상승하며 시민들의 건강 관리에 비상이 걸렸는데요. 기상 당국은 이번 폭염이 당분간 이어질 것으로 내다보고 있어 주의가 필요합니다.",
+                "original_title": "Правительство РФ продлило запрет на вывоз лома драгметаллов еще на полгода - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzR2lKU1RjNXo1RHp6WDdzTHJyU2ZIaVdzTUY4RHJiTGJsOFM0eFVraExhc2JHUWNXRFBiZ1ViRUtmYUZhZ1JrU0NQN3dSSzRKM3fSAUtBVV95cUxNSGtoVmxmd1IyN0RJWXZBSko3dWx2OTNTV1ZReERGcjFlZDVWMG1EOGlKbmtObGRSQ3R6UFpsT0I1SElUUElTbWVIYmc?oc=5",
+                "pub_datetime_utc": "2026-05-18T06:10:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:06 KST",
+        "current_rank": 16
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "불법 담배 급증",
+                "hook": "호주 내 불법 담배 유통이 폭발하면서 경찰이 압수품 보관 장소 부족으로 비상에 걸렸습니다.",
+                "script": "호주 전역에서 불법 담배 거래가 급증하고 있습니다. 경찰은 쏟아지는 압수품을 보관할 창고가 부족해 심각한 운영난을 겪고 있습니다. 당국은 이 거대하고 조직적인 불법 시장을 차단하기 위해 총력을 기울이고 있지만, 공급 속도를 따라잡기엔 역부족인 상황입니다.",
+                "original_title": "Treasurer says 'death tax' claims are a scare campaign, 'pure and simple' - Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjNPdGZ0LWpXUXBhWEU2dG1ld0ZScWQ1QWtHMlhIc2NLV3ltZ2ozR1BwbnJ6dHJsZk5MNElkMkJIUEdJMGJzY2xoTXhncWVCMWRYWHBScVRFbzhzM01mVGJaU2VfX0JsQlVyRHMwZXkxNkt0dGhsTmphN1k3TDJOUTU4Sl9RWnU2SGJBa09FV09ybDF4WElCSUloWnR6cGNYS3lfTWIzY0k0ZDVw?oc=5",
+                "pub_datetime_utc": "2026-05-18T05:53:10Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:23 KST",
+        "current_rank": 17
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "스타벅스 탱크 논란",
+                "hook": "5·18 민주화운동 기념일에 '탱크'라니, 스타벅스의 이벤트가 거센 역풍을 맞고 있습니다.",
+                "script": "스타벅스가 5·18 민주화운동 기념일에 맞춰 진행한 프로모션이 공분을 사고 있습니다. 이벤트 명칭에 '탱크'라는 단어가 포함되면서, 당시 아픈 역사를 조롱했다는 비판이 쏟아진 것입니다. 결국 스타벅스는 사과문을 올렸지만, 선을 넘었다는 소비자들의 분노는 쉽게 가라앉지 않고 있습니다.",
+                "original_title": "[단독] 김건희 ‘무혐의 보고서’ 날짜 고친 ‘막내’ 검사, 미국서 소환 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UUpMakpmREwyZkw5TXU5WUFHVEpGNnJNaUlybzhxNEFwaC05cXhzcXhvN1V4REtwS19xRVdrdWNFWVBLSDdBdGM1TWFnOEtOWHNEMVQ1X2JuUzQ1ZzZBc2RocW5vbkltN1B6NEJucXptQQ?oc=5",
+                "pub_datetime_utc": "2026-05-18T08:22:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:23 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Riesgo Manuel Adorni, efecto c",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Riesgo Manuel Adorni, efecto c",
+                "original_title": "Riesgo Manuel Adorni, efecto cascada y las dos crisis de Milei - Letra P",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMEdCM0Z4bjIya0daRXhLZzlEVUxnSnhBSGFxSTZvdFNIbkFXajBPa3ByNVVieklSME40TTl1VXkwUFNHQVdBSGg5b0pBNnEzeUtxU0NuN1R6OV9GN3k0ZzQ0VXhLY2xmWDJzODg1YXUtcjU1LVVhSk52Vk1KeV9SalFYY3AwN3BUQktYbG9XTDUwUEw3b0NNUEtsWFlaUU5IZEhzbXA0dnVsSTdW0gGyAUFVX3lxTFAzQTdZMHNsM2NSNDdOSzlfNHJnWV9pVDhpWHlBMV9FZV9adS1CcTdOUld0SmxKVE1ETE5BTzV1U19nckcxaEV5dXBoVFd0eUxGWGFrVmxFRDZGZDRCbGV1QlB4X1lkTldvRHhUS0Q5bWM0dUZhek44UDJjUTFpbk45N3lndGp4dmRFNTNjeEV1VXREV1hWSUdFbmN0RUFRdE1ubDlYZDRtWXo0NFRLVDM2eEE?oc=5",
+                "pub_datetime_utc": "2026-05-17T10:00:00Z"
+            }
+        ],
+        "last_updated": "2026-05-18 19:43:23 KST",
+        "current_rank": 19
+    }
+}
