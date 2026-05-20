@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 세무조사 면제",
+                "hook": "트럼프 전 대통령, 세금 문제에서 완전히 자유로워졌나?",
+                "script": "미국 사법 당국이 도널드 트럼프 전 대통령과 그 가족에 대한 미결 세무 조사를 면제하기로 결정했습니다. 이번 조치로 트럼프를 둘러싼 오랜 사법 리스크가 사실상 종결될 전망입니다. 정치권의 반응이 엇갈리는 가운데, 이것이 대선 가도에 어떤 영향을 미칠지 귀추가 주목됩니다.",
+                "original_title": "Massie loses primary challenge in victory for Trump - Axios",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0c3lwZHlIenF5S1F3X3o5QXpTY0t6N0lQeDVDUFQwVTYyRFZPeEItcnd3cy1WMV9jYXphVkxyMHN5NEJWSDVIOVBYXy04ZHlSSnFqVzA1S0k1Rk9ZdlZ0M3pBLVgxRUxUMnhhMkVKdjQ3WDA0N2NFdXh1MA?oc=5",
+                "pub_datetime_utc": "2026-05-20T06:05:15Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:29 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중·러 밀착 가속화",
+                "hook": "시진핑과 푸틴이 만났다, 서방을 향한 강력한 경고장인가?",
+                "script": "시진핑 중국 국가주석과 블라디미르 푸틴 러시아 대통령이 베이징에서 정상회담을 갖고 양국 관계의 결속을 과시했습니다. 두 정상은 에너지 파이프라인 건설 등 협력 강화를 약속하며 서방의 견제에 정면 대응하는 모습을 보였습니다. 세계 질서가 진영 간 대결 구도로 빠르게 재편되고 있습니다.",
+                "original_title": "张汉晖大使在《人民日报》发表署名文章《元首外交掌舵领航 中俄关系乘风破浪》 - 驻俄罗斯大使馆",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jQ3BxTUEyeEc5MC11U0FZRTlBcjVCdnRxRl85QjlUOGlMTERaQkhsaDN5RW13OTB1b2dockJvRzRjOHd4enRQYmVSSGpOVjZlMEJnd2w4M2k1eHM1eTA4V01tX25kREtfNURGcTM5dC0yR3F2?oc=5",
+                "pub_datetime_utc": "2026-05-20T08:45:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:29 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "독일, 대중교통 파업",
+                "hook": "독일 전역 교통 대란, 발 묶인 시민들 어쩌나?",
+                "script": "괴팅겐과 하노버 등 독일 주요 도시에서 대중교통 노조의 경고 파업이 확대되고 있습니다. 출퇴근길 시민들의 큰 불편이 이어지는 가운데, 노사 협상은 좀처럼 돌파구를 찾지 못하고 있습니다. 이번 파업이 독일 경제 전반에 미칠 파장에 정부의 고심이 깊어지고 있습니다.",
+                "original_title": "Zollstreit mit Donald Trump: EU will Zollabkommen mit den USA umsetzen - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYSjdmMjR4WndDRXlHNnN3a0FJNlplclVsSV9KdUdYck1aX1dLQkprSThRVkxzSnNUdjlpaWJVbElSSExhdGRBWVdwZnB0Qm8xRGFEQ0t3OHJWSkl1NkpSYndWU1ZuRjdjWUg4ckVhaTVWRmlhWXFsVFdUSmFsQQ?oc=5",
+                "pub_datetime_utc": "2026-05-20T01:35:19Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:29 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "習氏とプーチン氏が北京で会談、関係強化目指す－トランプ氏訪中",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "習氏とプーチン氏が北京で会談、関係強化目指す－トランプ氏訪中",
+                "original_title": "習氏とプーチン氏が北京で会談、関係強化目指す－トランプ氏訪中直後 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zT3JZcW1IbU03NHllUTJkT1VGOFZUV2lyeWh0dTFhOE0wMk9LZ1ptbUd1QXoyWGpHT0ZHZ0REczdiSEdDRlZwakQ5RzNDRUJvWDhGYndLZWktakd6eDdXd2hIZ1lnMWhDQjhhX25RaHBCcDB0RXhN?oc=5",
+                "pub_datetime_utc": "2026-05-20T04:06:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:29 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "인도, 48도 폭염",
+                "hook": "기온이 48도까지 치솟았다, 인도가 겪는 생존 위기",
+                "script": "인도의 일부 지역 기온이 48도를 넘어서며 사상 최악의 폭염이 이어지고 있습니다. 당국은 오전 10시부터 모든 외부 활동을 중단시키고 주요 시설을 폐쇄하는 긴급 조치를 내렸습니다. 기록적인 더위로 인해 시민들의 건강과 일상이 심각한 위협을 받고 있습니다.",
+                "original_title": "PM Modi meets Italian PM Meloni, visits Colosseum | Live - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONEhXcHVseW5nNzVGd1poTk93Nm1JbWZadWhDS2ZQWEF2ZDRoakNnNTFKaHBqX3hfVF83c2E3aUoxU0dzcG9mcjBMQWlCYWFZdkRFTGEwS0kzdlNFUnp1ZzVmWnc0ODc5aFQxazY3QXBWNmxVcEVwbkZQREtyR1JEbFF0clAyTTBuZDlCNm1oRWx5ZmNrRXplaTE1S3R4NTh0cm1lNmVCSE9VQdIBsAFBVV95cUxPNk1pWF94V0FuQXJ6UURLanNKZWRtX2tHanVVUDF6cDJ6MkNuNUtoNVQyWFhuU2ZYb2NLc1ZDQktScVQwdkFuUTRSbURyem1MVHVyUHZGckpVTkJxRmhPN0VMTjBfTnBHZzdKTkE3bzFZVmtTbWczakpMc1lZa2dra0cwRXhwZUkxQmRIc3dwazg0aTAzc2JXOUswN1dmemNFdi1uMzVlTEN6TDllRGtXNQ?oc=5",
+                "pub_datetime_utc": "2026-05-20T07:15:55Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:29 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "몰디브 다이빙 참사",
+                "hook": "꿈같던 휴양지에서 돌아오지 못한 두 사람의 비극적 최후.",
+                "script": "몰디브 해저 동굴에서 실종되었던 이탈리아인 다이버 조르지아와 뮤리엘이 결국 시신으로 발견되었습니다. 구조 당국은 당시 다이버들이 착용한 장비와 상황을 바탕으로 정확한 사망 원인을 조사하고 있습니다. 동료와 가족들은 깊은 애도를 표하며 사고 수습에 나섰습니다.",
+                "original_title": "Maldive, recuperati i corpi di Giorgia Sommacal e Muriel Oddenino: “La prof aveva la tuta corta” - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXJZb0tnMUE0eTUxdGZ5Sld1cjhfUmJfWFV5UWFZZDBFaDk0R2xNRXFydUxpay1rWHhpR0JETnY5UkVNS1hZTGhqSjcwWXBFRU11S2wyY1hOcEtPTEJwenVJb25aSjF0YnRDX2RWSlVmcVk1RzFwMUdzVllvLXEwYWNuaWM4TmVpSzlfTHNERlpJYlZBMTZyZlBWUUpRRzc4NW00?oc=5",
+                "pub_datetime_utc": "2026-05-20T08:08:32Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:33 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "폭풍우 경보 발령",
+                "hook": "하늘이 무너질 듯한 강풍과 폭풍우, 온타리오주가 비상입니다.",
+                "script": "캐나다 온타리오주 남서부 지역에 파괴적인 돌풍을 동반한 심각한 뇌우 경보가 발령되었습니다. 기상청은 외부 활동을 자제하고 시설물 관리에 각별히 유의할 것을 당부했습니다. 갑작스러운 기상 악화로 인한 피해 예방을 위해 주민들의 주의가 요구됩니다.",
+                "original_title": "Vladimir Putin arrives in Beijing for state visit hot on heels of Trump - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUZpdXRZME9XUjdrTE1IVFhpcVk4djJZeXVDSmk5Zm42cjA5Q3ZXRDVPQXFwT25nWnJqMDBBMkNVY2p4M05PMTFnSGwtVnZjeUdmSTVBSXZOQ1R0dE14amdobTVvS3BNNUc4alFFTVg5UkVaRDZydFBLUjFOVGNGMzRsYnVpdTd4N0QyUndsNzFqeThKWGJfNExoaWRFX3hDWGlzZ1ZWRQ?oc=5",
+                "pub_datetime_utc": "2026-05-19T13:24:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:33 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "중러 밀착 가속화",
+                "hook": "푸틴과 시진핑, 베이징에서 만난 두 정상의 은밀한 밀착.",
+                "script": "블라디미르 푸틴 러시아 대통령이 베이징을 방문해 시진핑 중국 국가주석과 정상회담을 가졌습니다. 양국 정상은 경제 협력과 전략적 파트너십을 강조하며 강력한 결속을 과시했습니다. 이번 회담으로 국제 정세 속 중러 관계가 더욱 공고해질 전망입니다.",
+                "original_title": "В Пекине состоялись расширенные переговоры Путина и Си Цзиньпина: главное - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGVmWm4wZUdaWGpNdTdOUGoxUms0R1dKcDhPeGtJWTQ0b0JjSTJYaHVRdGJUYVVyVk1UMmRBSkNyVG9VVEhaMXEwUFZnNTJ5RkxINnRZdXJXc2hFN0R5dFdoT2g3SmZ3SGI1U2IxUlhkNTNjZ0E3TkI4OHZKX2h3dGJ0SmpoZzRuM2hkVzc0azJwTDZRY2JZ?oc=5",
+                "pub_datetime_utc": "2026-05-20T06:39:48Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:33 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "캔바의 경고",
+                "hook": "호주 스타트업 생태계가 무너질 위기에 처했습니다.",
+                "script": "호주 노동당의 자본이득세 개혁안이 스타트업의 혁신을 저해할 것이라는 우려가 쏟아지고 있습니다. 글로벌 기업 캔바마저 이번 조치가 기술 생태계의 성장을 가로막을 것이라며 강하게 반발하고 나섰는데요. 과연 정부는 경제 활력을 지키면서 세수 확보라는 두 마리 토끼를 잡을 수 있을까요?",
+                "original_title": "Labor denies CGT reform will ‘kill startups’ as tech giant Canva warns of stifling innovation - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0tuV0ZPOVV5Vkp2N2tGMzJ0elEzbTdvVFhVS2F1c0lFYU9VSEotd0g5Z2lxbWdUaWZrT3FNaDhCM29tZDlRRjdJVnBjX18yUTM1bTlRQngwVEF4c2tGeGl3NW9JTk9sdVFRQmxBV1lzcmFEVjhOMm1MU3hQREFnLUlEUFBaRm1XVVd1clJTX0o5MVFFblJyN3NIUGN1NFdVX1RhMkRSV3R1NWV5aFc4US1heUJ0MGpQbE1BU2NjdmNIRU9BbjY0cFh0a0xpNndqN2Nr?oc=5",
+                "pub_datetime_utc": "2026-05-20T07:47:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:48 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "이재명, 이스라엘 비판",
+                "hook": "한국인 나포 사건에 이재명 대표가 작심 발언을 쏟아냈습니다.",
+                "script": "이재명 대표가 이스라엘의 한국인 나포 행위가 도를 넘었다며 강력히 규탄했습니다. 특히 네타냐후 총리에 대한 체포영장 검토까지 언급하며 정부의 단호한 대응을 촉구했는데요. 한반도와 중동을 잇는 외교적 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "李 \"이스라엘, 한국인 나포 도넘어... 네타냐후 체포영장 검토해야\" - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0czNk9aNkU1ajhnY2RpTWUtR3J1VExhak56ejdTWHc5QW1XdENQRnJ0RnR3eXBFekNsWlRXTUpaMFVZc3YzekpsR19aLVExa0dWRWRhdldIUk5mc1llai01TGV5SWUyM3RhNDk1bHZvRnZWSUhjemZzUWRTZTM3WnpHSHA4RWJn?oc=5",
+                "pub_datetime_utc": "2026-05-20T07:24:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:48 KST",
+        "current_rank": 10
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Gestur Prabowo Cari Kopi di Po",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Gestur Prabowo Cari Kopi di Po",
+                "original_title": "Gestur Prabowo Cari Kopi di Podium Curi Perhatian Sidang Paripurna DPR - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmlnUlFFV29Fb0hQT29tRFc3RlhKS0lWMmtZNGx3Z3RxVS1Ia3VqMXhoM0V1ODRlTjI1eFpzMUJCWmI0aXdMN1BNVkprd1FIV3h5NlRYbTVwRDZQSlR1VWFOYzNkYmhiYWtFT0ZHNmpvNU5zOHJMV0tnbVgtaHFteF9OaTZhbklfeTVDcGdsaWd1bmlDU0tQWVhVSUlELWQ0LVVHUDl6a1NRVlhfOXBj0gG0AUFVX3lxTFBBNFNXLVNsT2dxU1NOaGhSRzRZMV9JcFlPVE1aX05RVzV2eHdKWGFLRlJYQnYySENGV2hoM1JUT2psaVUweWdwNFFXTWt3NVJQWFc0V2Q3X3Bxd2JLcExsdHRmY3kxUnlEZFhEeGlvaVlKQnBqRHotUlNtS0pNS24xZkZVTmdJOXc4dkRYalNNbzlLNjN3Q0F0eU1OdWhNVG1ZeDFDcml3cnlyYlQzcXZlOGdaUg?oc=5",
+                "pub_datetime_utc": "2026-05-20T05:09:52Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:48 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "말라티아 지진 발생",
+                "hook": "튀르키예 말라티아 지역에 또다시 강진이 발생했습니다.",
+                "script": "튀르키예 말라티아에서 규모 5.6의 지진이 발생하며 주민들이 긴급 대피하는 소동이 벌어졌습니다. 최근 잦은 지진으로 인해 튀르키예 전역의 불안감이 커지고 있는데요. 당국은 현재 피해 상황을 파악하며 추가 여진에 대비하고 있습니다.",
+                "original_title": "Malatya'da 5,6 büyüklüğünde deprem - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMG0xelZWM25VMWI3UE9IcDc1cUpGdUR3bDZWZkpSNmE3Vk9UbnE2RGp5eEpYOG4taW4xdkhRQWJZQWljN2UzeVlTU1ZmQWN0aTkxOWp0MVpvWXUtMzJpN1dnbjZ0cUpTNS0yQWlzMUFfVU5IVGF5b2R0b3pSVHB0aWluWWVWQ1JwenRz?oc=5",
+                "pub_datetime_utc": "2026-05-20T06:02:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:48 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "범죄 활동가 피살",
+                "hook": "남아공의 정의를 외치던 활동가가 자택에서 총격으로 사망했습니다.",
+                "script": "범죄 척결에 앞장섰던 타토 몰로산퀘가 자신의 집에서 괴한의 총격에 숨졌습니다. 지역 사회는 큰 충격에 빠졌으며 경찰은 즉각적인 수사에 착수했습니다. 정의를 향한 그의 목소리가 사라진 지금, 남아공 내 치안 불안이 다시 한번 도마 위에 오르고 있습니다.",
+                "original_title": "BREAKING | North West crime activist Thato Molosankwe shot dead at home - IOL",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVdQLWxCZmhBTmk4M0VwUTRDcU4tUnBxMDJDSklKQ0d0TTZzUG9fSWVBbnN5cHByWWdVVkwwMUhJVHp0UzRCVWxhNjUtWnhmV0RSQ2pSbnFkWmdfR1Q0ZTlhMDFlNGgzWkVTbFFnWW0yYUswN0c2bG5wS2xBZDlOU1JBRHozVVR6bjRfYVBocVdkWEQ0WldJaTFGenEyNUlpay1IbV82c2xJd08xSjlHd3h0QUE0LV93TGdiT25n?oc=5",
+                "pub_datetime_utc": "2026-05-20T08:29:05Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:51 KST",
+        "current_rank": 13
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "영국 물가 안정세",
+                "hook": "치솟던 영국 물가, 드디어 한풀 꺾였다?",
+                "script": "영국의 인플레이션율이 에너지 비용 하락에 힘입어 2.8%까지 떨어졌습니다. 고물가로 신음하던 영국 경제에 모처럼 긍정적인 신호가 나타나고 있습니다. 하지만 여전히 높은 생활비 위기 속에 정부의 추가 대책 마련이 시급한 상황입니다.",
+                "original_title": "UK loosens Russian oil sanctions as fuel prices rise - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41NjFHdUpPUlJYMW1wOVlFT3dkVlBoNXlqSC1Cd3U5WGhkYjNTSXpYMW0xMjFrQ1dHTjNKNS1fSnFiWXBjX1k5WFZXQXNEZWZ4VVRVUGw5UC1YWlNy?oc=5",
+                "pub_datetime_utc": "2026-05-20T01:58:01Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:29 KST",
+        "current_rank": 14
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "툴롱 참극 발생",
+                "hook": "평화로운 아파트에서 벌어진 비극, 온 가족이 추락했습니다.",
+                "script": "프랑스 툴롱의 한 아파트 13층에서 여성과 세 자녀가 추락해 숨지는 안타까운 사고가 발생했습니다. 현재 경찰은 정확한 사고 경위를 파악하기 위해 수사를 진행 중입니다. 갑작스러운 비보에 지역 사회는 큰 충격과 슬픔에 빠졌습니다.",
+                "original_title": "Droits de douane : les Européens s’entendent pour la mise en œuvre de l’accord avec les Etats-Unis ; Ursula von der Leyen salue un pas vers « un commerce transatlantique stable » - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVlBLVHc0VjJrSlRWMEFnMWRBMGhBVG0zanFiWnJfY1p4ZDUyN1Fzb1NWQ2E3UUxfMTE3MjZIek53MnV3ZmY3WmhLVTRPQTBqaklNX0hxa1NVb2Z6X2w1QnJ5emRJdC1DRVdkZ0NqdVZsN2dUU21Tci04U0g4U0JNRHhRVTFvYmEwLVhFMlV0Z2Vlemt0UVRodTByWDl2NUxZemYwSGg4U0RXOTJfVndKVktmVjNNUGpMbUVsUHR3Wkd0NHVRaHhZdGxSUkpRdFo2X1d5anRrRzZwV3o3MERKV0NTUEN4OEJteVI0MkctZ3Q3Z3FpUGdfa3c3Mk45eDlsemRxNGlmR1UzcE10?oc=5",
+                "pub_datetime_utc": "2026-05-20T08:33:58Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:33 KST",
+        "current_rank": 15
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "에볼라 확산 경고",
+                "hook": "전 세계가 다시 긴장합니다, 에볼라가 예상보다 빠르게 퍼지고 있습니다.",
+                "script": "세계보건기구(WHO) 소속 의료진이 최근 에볼라 발병이 예상보다 빠른 속도로 확산하고 있다고 경고했습니다. 감염 경로 차단과 긴급 대응책 마련이 시급한 상황입니다. 보건 당국은 추가 피해를 막기 위해 국제적인 협조와 방역 강화를 촉구하고 있습니다.",
+                "original_title": "AGU pede ao STF suspensão da Lei da Dosimetria, que reduz penas dos golpistas do 8/1 - Brasil 247",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2R5S296RkZPSlpKX29ZdUE3SEtoTVp6STduanZCN2EwaU9DYUFyaERQUHVqUFgtMWRod3pRT005c2JjNy1LaG5PZWJNX2FsNk9HcWpTSGRZUlpoTUc0SGV3X2Q1a0g3MTVseFVfTVgtV1gyMVhfT19NMXNjNmp3dFU4dUJNNTVqUF9WLUtvQ1lfTW9pOVNqR3ZvYVdrLWZlcnpiRjFRRXJVV21kLUpCVF8zRkNXSldrYngxbW8xajdRTlU?oc=5",
+                "pub_datetime_utc": "2026-05-19T17:44:01Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:33 KST",
+        "current_rank": 16
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "멕시코시티 침수",
+                "hook": "쏟아지는 폭우에 도시가 잠겼습니다, 멕시코시티 비상사태.",
+                "script": "멕시코시티와 에도멕스 지역에 내린 기록적인 폭우로 곳곳이 침수 피해를 입었습니다. 당국은 9개 자치구에 비상 경보를 발령하고 긴급 복구 작업을 벌이고 있습니다. 계속되는 악천후에 주민들의 안전이 위협받고 있어 각별한 주의가 필요합니다.",
+                "original_title": "Sergio Mayer renuncia a Morena alude motivos personales - El Universal",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzhmUk1JMms3ZGZJZ2M1VDZGeHhkQUhyTTQwcjRHZkZaN2dWbUNLaGhNVllITkRSbGwwQmgtell2QURyeVdDazBNNmViOVpKQzR6Qm9UMDltMldhSkJzcDEzVWdYbDZnejlJWjFrMUpHQ0VuLWh5Z0xzanF4NjNTdU1XRHZZMTdKYVB3aVRSTnJqV3RjS2lWU1Bn0gGuAUFVX3lxTE5CUXJwTTZZYVJ6MmoxTEtVZ19ybGJBeDZqVjF4NFJVa3B2NmFaUnJDX3YxOXNrWV8wU2hxNU16dDZKNE8zMUtjZDRRMml1NGJOYUV1N29zNUl1MHgwZG9hRE51aXhtR05OWGRWYXNvTEtjdENCT0tHVFZoSzBVLWtsTHE2c2ZWS05RSGIxVm1PdWhoWkYtYlh2UFk0b1NrMnR5bUg3UndXU0p5ZEtMZw?oc=5",
+                "pub_datetime_utc": "2026-05-20T04:36:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:33 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "압바스 시대 황금",
+                "hook": "사우디아라비아에서 역사를 바꿀 보물이 발견되었습니다.",
+                "script": "사우디아라비아 고고학팀이 압바스 왕조 시대의 귀중한 황금 유물을 발견했습니다. 이번 발견은 당시의 경제적 번영과 문화적 수준을 보여주는 중요한 증거가 될 전망인데요. 사우디의 역사적 가치가 다시 한번 전 세계의 주목을 받고 있습니다.",
+                "original_title": "بوتين لنظيره الصيني: نصر على عالم متعدد الأقطاب - العربية",
+                "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOdlBrM0hNZEZ5N0hJSGVTS2RpeGZLX1hiUXNWT05USVE1UVczN21yUENyeEZZa3pRV2RKazlzc2hyanNXYjdDdGY0SDJzZTlnXzJ5U2Q2TFFoa2lId0pINHh2STRhRVZYbmZWcUhoOEtIUy1WWm1TamV4WTVjU1hPZ0VOazRURi14c1htRDlCMVZxMnU1RlVZeUk5X0pZNkFPZHdpeW1XaFVWTk5hRDhHQXluVEFsMHFEQ2hvSlZLck9zdFEwcm90UnJJX294cGZCWEVsR0U4dU1HVGxGRFR0ZVkzbk1jQmVfN2VjU3o0Snc3RGJrTUY4MDZFM3AtUXdiNzdhOERqNU1Nd1NaamdvYmlaUzd5MnpMd2hKZ05Zcy1FS01SQVZKel90UDlnUnpTMkp2ejNiQWpIOUFyWjI0bGE4MnRiLTZ2eC0tM19iM1hCMzloUVdUUG1IYkNjekxxLXVKXzh0Z052eGdISEZnQ1F4M2NBRlFNN0ZOYVVIUzBBVVgwVVVPSEl2dTNtaFhlTWJienBpbW81QWJkWVpoUy1oZlrSAaoDQVVfeXFMTy1WOUwwb2hZcG5GQ0g1bFpFdFB3RkdTcWhYVks3bFV5a1JKV3Z0engxdGNqR08tNTlOc1NIQjdRUDI4WHV0OW5ZaEdKSmgzSGNLZkVRMW1fMXA3eDhZTlVTc292bUc2Q1hoR205YWViLXFRZ01DbUhYMWx6RG8tUFM1dzFGVVptY09YS0hmNUozUklkZUpJanhVNDIwZkE5NTlYQjlISWRRNzlrVGR2c0ZzTmxabHRQLVRWdHpmZWpCZW9OcUVYSEFWZ0ItQTM4OXcwUndROXJERkNHdWRCY1FuSVB0dHBOQ1dZVl9DODBMOWhOWHY0S1RsZU5sM2g0WXdNbHZWcnNOd19NcTNiazA3MW1Wa2lDb0VoZGxVbVNWVnplVzJTVXpJbjR0VThSTnJNc25HSUZfby1rOXAxd05lNVEzd3NPNkhIcVY5cnNCTkxRNVNrX1pLVHVhZ2hYOE4tZ0pvbXp6cjNyeVZwZXJDS0UtLWtWUHJFQTNIR2oxVW81ZjhLRUZidHNzWVN5b1VsX0gzVWF5MmNGSEhYR3hIV3M5ZXJyNzFn?oc=5",
+                "pub_datetime_utc": "2026-05-20T06:41:42Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:48 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "정부-대학 갈등",
+                "hook": "아르헨티나 대학가에 긴장감이 감돌고 있습니다.",
+                "script": "아르헨티나 정부가 대학 재정 지원을 둘러싼 법적 분쟁을 끝내기 위해 새로운 협상안을 제시했습니다. 하지만 정부와 야권, 그리고 대학 간의 갈등은 쉽게 가라앉지 않고 있는데요. 과연 아르헨티나의 교육 재정 문제가 이번 협상으로 해결될 수 있을지 귀추가 주목됩니다.",
+                "original_title": "Santiago Caputo vs. los Menem: qué controla cada facción en el organigrama de poder libertario - Letra P",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWdHVWp1Yk43OGZEc1U4dEhiRW5uS3hIbUxNek1QUERMTVRzaC1UclRHRWJUV1ZJd3JKektWOEZ0M2ZUQVRUNGttdkpoelBXWkhDbGpMX0xFOTZmaXpseFUybXRUSjFrQzVuR2hhYktVT2Q4Zk9WUG5HTVVsY19MbDBWbFBCbVFHZjRVYWViZzR1YXUwT2lMUlM2dFVzUmQ2ME9DZUltVHFMd1drd0lNUjJrd3l2ek53RFRBdW9iaEtYcExqSGhJUFZB0gHPAUFVX3lxTE56YkdfSldhdHdUY2gybHZVRXJjdlM4OHJxOFJiUlFhUS1jOFlHYTVVM2dwVk1vS3U5ZUtiLVZ2aFJqeWh4LVM2c0hEMUZPbmxDT1g1aWNucUdueVRTaVRHNk1abGE2clp0UVJ3cFg3OERmbXdid0tBZGJ6NVFwRUdiakRPMDkySmEwTUlmWG1SbXJ3TzR5ejRuT0wwNFVWVUI5MEhPUjN1NzF1ellOUEdxUkcxdHE4engxRnVkMk9kZF9Pa1pYWHZlT2praWo1TQ?oc=5",
+                "pub_datetime_utc": "2026-05-19T17:50:00Z"
+            }
+        ],
+        "last_updated": "2026-05-20 18:55:48 KST",
+        "current_rank": 19
+    }
+}
