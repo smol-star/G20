@@ -1,0 +1,325 @@
+{
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 내 폭우 비상",
+                "hook": "중국 광둥성 일대에 쏟아진 기록적인 폭우로 도시 기능이 마비됐습니다.",
+                "script": "광둥성 장먼과 카이핑 등 주요 지역이 쏟아지는 폭우로 인해 전면적인 공장 가동 중단과 휴교령을 내렸습니다. 선전시 역시 경보 수위를 높이며 시민들에게 외출 자제와 안전 확보를 당부하고 있습니다. 계속되는 기상 이변에 중국 당국은 긴급 대응 체계를 가동하고 피해 최소화에 총력을 기울이고 있습니다.",
+                "original_title": "俄罗斯总统普京访华期间两国元首会晤成果文件清单 - 中华人民共和国驻大阪总领事馆",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90VzhQelo2Q2MzM3BHT0JsZWtuWEIwMm1jNExuVWFmMVJ6X24tVkcxaEtPUFBKcTVBc2ZnZzJtMXZRRE9oRjRESnJFbUVHZkdCbndyYnhMTU1wYmZicHEzcWJScnk5UzM2MU4tbldJUlNmUEEtZGFZNUhibw?oc=5",
+                "pub_datetime_utc": "2026-05-21T02:06:00Z"
+            }
+        ],
+        "last_updated": "2026-05-21 13:47:18 KST",
+        "current_rank": 1
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "10대들의 위험한 도주",
+                "hook": "경찰관을 차로 치고 달아난 10대 소년들이 결국 재체포되었습니다.",
+                "script": "일본에서 경찰의 검문을 받던 10대들이 경찰관을 차로 들이받고 급발진해 도주하는 충격적인 사건이 발생했습니다. 피해 경찰관은 차와 기둥 사이에 끼여 3개월의 중상을 입었습니다. 잇따르는 10대 연루 범죄에 일본 사회가 공포에 떨고 있습니다.",
+                "original_title": "トクリュウ一員か、職務質問の警察官を急発進ではねた１０代の２人を再逮捕…巡査長が車と柱に挟まれ３か月の重傷 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pa0l3OC1qU3R6NzNCY1hVQ3hvcUxFVDllSDVaWWY1VE5uSC1JT1Rqai1YWk1BVHVhaFY2UEEtWTRlbTQtbWhwVFdNWEpxY0lxdDlibnJ4MXpocGo4TDh6bGpmVTJjUQ?oc=5",
+                "pub_datetime_utc": "2026-05-21T07:00:00Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:11 KST",
+        "current_rank": 2
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "델리, 역대급 전력난",
+                "hook": "인도 델리의 전력 수요가 8,000메가와트를 돌파하며 사상 최고치를 기록했습니다.",
+                "script": "인도 수도 델리가 기록적인 폭염으로 몸살을 앓고 있습니다. 전력 수요가 8,000메가와트를 넘어서며 올 시즌 최고치를 경신했습니다. 살인적인 더위 속에 시민들은 전력 공급 차질과 정전 공포에 시달리고 있습니다.",
+                "original_title": "T.N. Cabinet expansion updates: 23 Ministers take oath; Congress joins Vijay-led Cabinet - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDhOcG0xa3kzTVpNRTdraEZnNDdveTJUaDZ1SUcxT2prZjdqa2h0U1RxOE9Zc0t2SW5ITEM4SVlhLXF2Yk5NNXhSUVNCT0QxYTRUQXZCMzRFSjl3NXBjVDdKWHJ6anUwYUg1NHMwTG5wVGdDWGpJc0JqbWgxQzhfaDl6NVFOTGM1MUJ3VURydEpRaVNxbkNJRDNWbkVVX29wUHI0YndQeUItZkpONE44a3VJVTVzX2k1RGxsVmpuZ0tNRFYyai1XeVprU2p6NWpKZ21KbG9XSWN3c2I3SXpB?oc=5",
+                "pub_datetime_utc": "2026-05-21T07:06:22Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:11 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "버스 기사 피습 사망",
+                "hook": "런던 배터시 다리에서 버스 기사가 무차별 공격을 받아 끝내 숨졌습니다.",
+                "script": "런던의 명물 배터시 다리에서 발생한 버스 기사 피습 사건이 결국 살인 사건으로 전환되었습니다. 피해자는 공격을 받은 뒤 치료를 받아왔으나 끝내 사망했습니다. 런던 시민들 사이에서 대중교통 안전에 대한 불안감이 최고조에 달하고 있습니다.",
+                "original_title": "Children in England to be offered free bus trips this August - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55TUZodElRYl9OeVR6aUY3WnRDeTFzYmZUXzhiMG9iZkQ0NUJyMEYyZW9BXzlFZ3hMS29rVC0xamtRN0RkWGJ3a1VpandFakhkb2JSRzgtZVoyM2JB?oc=5",
+                "pub_datetime_utc": "2026-05-21T02:48:03Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:11 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "프랑스, 금지 농약 식료품 차단",
+                "hook": "프랑스 의회가 자국 내 사용이 금지된 농약을 쓴 수입 식품을 전면 차단합니다.",
+                "script": "프랑스 하원이 국민 건강을 위해 칼을 빼 들었습니다. 프랑스 내 사용이 금지된 농약을 사용해 생산된 농산물 및 식품의 수입을 전면 금지하는 법안을 통과시켰습니다. 먹거리 안전을 강화하려는 프랑스의 행보가 주목받고 있습니다.",
+                "original_title": "Flottille pour Gaza : la vidéo des militants européens diffusée par Ben Gvir met en lumière sa politique de mauvais traitements des détenus palestiniens - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdmYwUlI4SVAwa0I2Ujlpb25ZT0htdnFmT3gyTTFHWUU1UVdoaEdFWl80U1BQbTFUMFNLZlJrMFp4RTV6U1FNcDF5V3pOTUZqSFEwTzR0Skw3QnVWUm1SeXhiR3BObUFxdDFfcm9xaHo3UlRqWkpwa0hGallYZG1zOFdVdlBtd29TTHhCMUFSUlFnQTY0Z3F6cldjM3p1Zm9hZDY0QkpDc1VhemZjcnVrOXNOQzBwNHZ2WHNqUEpCVTFVZFlOZEZZLW1tQ2wwYjk0NV85elFSMVNWLTVDbTZSM2Izd2tOeloyQW1EclNwbmxKTV9ZX3h4U2lTY2I5c24yRUNGR0JYQ2xoZ19hQ2x4UHFYcXZ5RVV4Yi1yX1VfSVl2Rm1qbXVZejZ3cFRCWEdPeEd0YkkyNlFkMTJsMUt2MUgwMjJ6X2swOTBDVFFETVhnT2NJ?oc=5",
+                "pub_datetime_utc": "2026-05-21T03:28:46Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:11 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "이탈리아 16세 소년 사망",
+                "hook": "아이스크림 하나 먹었을 뿐인데, 비극적인 죽음이 이탈리아를 충격에 빠뜨렸습니다.",
+                "script": "이탈리아 카소리아에서 16세 소년이 멜론 맛 아이스크림을 먹은 직후 사망하는 안타까운 사고가 발생했습니다. 평소 우유 단백질 알레르기가 있던 소년은 새로운 맛의 아이스크림을 먹고 급성 쇼크를 일으킨 것으로 추정됩니다. 현재 당국은 정확한 성분 분석과 함께 사고 경위를 조사 중입니다.",
+                "original_title": "Flotilla, Mantovani: 'Noi picchiati, con manette e catene' - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vaFBYSjItUHkyM1k3X3JMYVQ2MVQzczFRTWJNb0tkN2pDMjRiUVpUY0JQVjJPaTV2SlhibEdpQlhmdE9HbDRmY3M1QjRSOGtRSEVSWVllREdUUkJrQ1h3ZmVibDkzSjJXOWMyNA?oc=5",
+                "pub_datetime_utc": "2026-05-21T09:51:16Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:20 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "브라질 이상 한파 경보",
+                "hook": "브라질 90개 도시가 얼어붙습니다, 역대급 한파가 몰려오고 있습니다.",
+                "script": "브라질 기상청이 전국 90개 도시에 극한의 추위를 예고하며 긴급 경보를 발령했습니다. 특히 플로리아노폴리스를 비롯한 남부 지역에는 강력한 온대 저기압이 접근하며 기온이 급격히 떨어질 것으로 보입니다. 시민들은 동파 대비와 건강 관리에 각별히 유의해야 할 상황입니다.",
+                "original_title": "PF rejeita delação de Daniel Vorcaro por falta de informações relevantes - Folha de S.Paulo",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUZqQzdMV3BtR2hJWjhoZUNxejBQMjdoRU1Nbm85eENDLWg5bXRJSHJuaW02Wmdhd1ZWa2JrRUluTjYtemQ5ZkJmeWlORzk4STF3UWxXbFFuQWNzUzA1V0xyN1pkdGZvQU8xTEk1LS1hMVo0VXI3TC1WdmExVk9fTGo3aEo4RXNWV3NheXdMNXRIaTlPdTg1VlF3WWx1NDdVZ2xWOG1MeXPSAa4BQVVfeXFMT0R0QWdwUW5SalhUVWpzbjNmdElxZU03ZG1zM1JvQm9SejRwa3pwT2dZQXl3cl9IRzFlMDNVQmY4ZFJsYnRuck5CZzk5SjRZekN0anlVVkliVW9WVHJlM1Fua1pFMWFtajNEaVF5ZVdkd1pZdXZJelVXVDJkejg0TG40ckV2UUN0ZDhVcXh2ZXp1aU55dk5zaHNZZV9WVVFNLVQ5ci1wdURiSFBOMUdB?oc=5",
+                "pub_datetime_utc": "2026-05-21T02:05:00Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:20 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "캐나다 최대 마약 검거",
+                "hook": "캐나다 전역을 뒤흔든 사상 최대 규모의 마약 단속 작전이 성공했습니다.",
+                "script": "위니펙 경찰이 캐나다 역사상 가장 큰 규모의 마약 밀매 조직을 소탕했습니다. 이번 전국적인 수사로 수십 명의 용의자가 체포되었으며, 지역 사회 내 마약 유통망에 큰 타격을 입혔습니다. 경찰은 이번 검거가 마약 범죄 근절을 위한 중요한 전환점이 될 것이라고 밝혔습니다.",
+                "original_title": "Committee vote on Forever Canadian petition stalls after UCP press release pre-empts decision - Edmonton Journal",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZ0doTy1mLWNXcW9fNW05WGFqMGpoMWg5MkhzLUE3Y09FTlY2NzlaS3h0SzJjUFBaa0trVWo5LUQ5R05jNXBldlVvWWVSdFd6dDBpRXhYSkNkcFdlRmxrSTlJZXp1RzZXUnFpcW5yMlg2LVpaYVpVQUtOYWVTa0lnZks5REJqT0VaRXU1MEVMYWFkczFaMTJCNjZmWDZfY1EzOWdyZ1dqeVZNT2dFOHdYbEZZUG1XbF9ET2hUTlJ6WGxJNUd6bFdXU1hRYUFNWnd3Q19ZeWQ5YjhHcnJoamlVTkRsYllVTV90NEw3OFRMZl9LVU0?oc=5",
+                "pub_datetime_utc": "2026-05-21T04:01:05Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:20 KST",
+        "current_rank": 8
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "탱크데이 파문 확산",
+                "hook": "국가폭력 모욕 논란, 대통령까지 나서서 엄벌 경고",
+                "script": "스타벅스 '탱크데이' 행사가 광주에서 거센 반발을 사고 있습니다. 대통령은 5·18 등 국가폭력 피해를 모욕하는 행위에 대해 강력한 응징을 예고했는데요. 지자체까지 나서서 관련 상품권 사용을 금지하는 등 파문이 일파만파 커지고 있습니다.",
+                "original_title": "스타벅스 탱크데이 파문… 광주시, 주관행사에 상품권 사용 금지 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2FuLVg5bzIwOGFYTHZvTlNyalZGdm1rTGY1TWNvd2ZVV21Sdm5rUk9rbVh0UEJzSV9KUVo3M3ItWU1EQWt2Nnp3OUhnNUhyU011emNIdE1KMUZlWEJQYUJTRnlHcHJkTGw0UVVYSE43LUM2bTRFRjZmWXdGd0tLOU9vTVVvTjF4MWV1OWZtY28?oc=5",
+                "pub_datetime_utc": "2026-05-21T07:27:50Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:24 KST",
+        "current_rank": 9
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "인도네시아 팜유 독점",
+                "hook": "국영기업 통한 팜유 수출 일원화, 말레이시아 웃는다",
+                "script": "인도네시아가 팜유 수출 창구를 국영기업으로 일원화하는 대대적인 개편을 단행합니다. 정부는 자원 관리 효율화를 주장하지만, 시장에서는 말레이시아가 반사이익을 얻을 것이라는 분석이 지배적입니다. 인도네시아의 이번 정책이 글로벌 팜유 가격 시장을 어떻게 뒤흔들지 주목됩니다.",
+                "original_title": "Ekspor Sawit Bakal 1 Pintu Lewat BUMN: Malaysia Untung Besar? - CNBC Indonesia",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1lCRXA2YmVBbFgtMlpwWnhDZ194T2NKNVhCSkYxdUs3RldIQmNYbVdRZEYwM1NaRkFZV2t5UF80M2JPS0FGcHUyUDVpSWs3VV80aG9yVXhFdkRCQW5VcmFuRFdMWnd0bXlGVGx0cDkyaXRxUGc1QklBY3BxbHFJek40UFpWNFVMWTRzVUdaYXNUcmZoMGk2M1d6R05jR1F1S1ZiZ09QWXFlR0h1VW5pSFV1bFk4WkVVNHpzVEE2ZHh5QQ?oc=5",
+                "pub_datetime_utc": "2026-05-21T03:45:12Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:24 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "호텔 총격 비극",
+                "hook": "평화롭던 호텔 로비가 순식간에 총격전 현장으로",
+                "script": "터키의 한 호텔 로비에서 무장 괴한들이 충돌하며 2명이 숨지고 1명이 중태에 빠지는 참극이 벌어졌습니다. 평온하던 호텔이 순식간에 아수라장이 되며 투숙객들은 공포에 떨었는데요. 경찰은 정확한 범행 동기와 배후를 찾기 위해 즉각적인 수사에 착수했습니다.",
+                "original_title": "'Adeta fışkırdı' Her taşın altına bakıyor: Gram altınla yarışıyor - Finans haberlerinin doğru adresi - Mynet Finans Haber - Mynet Finans",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHB4Sk56N2tRQmdMdThlZElCSGpObmk4aTdsRUpiR3RQeTdGSTVJVDFHTGYtLUlLQTctSXBBdVJadGtrXzBQQjRuamNBbmYzbVlMWUF6aVBkU3FHaDZKX19vOG05YWc5TXM0RzVhY1dCMTYycHVQSms4U1k1VmxXekl3OGdQWXNHcVJHVGRIdXMybjl0N0Z6NkR3UERSdXVPWVdyaThSQjZXUDNFbm5LZWpR0gGkAUFVX3lxTE5xa0RTeERuVjhMeEhxYVJoRV9TeFp1VDY2R3BJT0hKY0hfZ3dXbWZmbWVfeTd5MGRGRndNWEYzSUxxbFRaeHIyRGxDOU9iS2U1ZjFNTGhyWFBsMjBaVEZGY2t0bS1QTGFTYUIxbEViMnBwVDRjeTY2anZLNHFZQXVHQUplaEVTMjFDaGVBaHFfbEFhZ0wwZGk3X0tfZFdkSUYzVHZY?oc=5",
+                "pub_datetime_utc": "2026-05-21T07:30:17Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:24 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "이란 유조선 압류",
+                "hook": "호르무즈 해협 긴장 고조, 미 해군 공중 투입 작전",
+                "script": "미 해군이 호르무즈 해협에서 봉쇄를 뚫으려던 이란 유조선을 향해 전격적인 공중 투입 작전을 감행했습니다. 트럼프 전 대통령이 이란과의 협상이 막바지에 다다랐다고 경고한 직후 벌어진 일이라 중동의 긴장감이 최고조에 달하고 있습니다. 과연 이란이 어떤 대응 카드를 꺼낼지 전 세계가 지켜보고 있습니다.",
+                "original_title": "استهجان دولي لفيديو بن غفير والتنكيل بنشطاء \"أسطول الصمود\" - العربية",
+                "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNVFdhWU56cGM0eDlWcUZKQTlDcjBLRmlaSzRHUHZ5RXVBZ3V3NVpQUlFSc1NFUzdHRk9NR1luT2JyRF9GaVVtTlctYlRkMG9yZnVxR3B0WmN2NjEtcjN3bEhsSWFxdzZSMmJSdlpXLUZNMEtlR0xqM2hKVnFFLXVVNHowd2FyNUU3QnM1V1JRM1JxLUtBMW04dGh5ZHEtN1o1Qm5FUENPV2pld0ZGcVN3bDQtRGNyYTU3YkZJcVgzOF9HcDBhbm1ldWY5OGowejJxbzN2NWozYzdYb1FLdzFrQUFEQmtJeDFNTFRjZXZmc1h2Skk3djYwZEUwNmFrS1pjZHlsRFdsRFM3XzhVT3E4UW00TjhETmZDU2RuLW1vbEVvN0JmcWljNkdnOVhyZURfZUY2MU9IdUtSQmJoWDBXRDdlOXJ1eUwweG94TGVmN2pCSFB6MGdtVmdTbEwtbmZjdmhPaUo0VDNYY1RpMlBzc1RsTDVrazFvOWZ3bHVhRHB6WWpqUEs1T002TWFyS0tQN1VxVVVrQjcwRzltOEVJbHlicmJQaHhKYTlRTE9IclhOOG9meGtHQVRnRkRTazNvVlhmaUlGcjc1NXJLbHlDWlI2Q191OUtaR1kzZ0Q5Y3FCOTlBLUtGR1pyNlo3Y2FPZE83emFYT3BLZ1d4RXJPUXRsdE1GZTcwWEUyTDdad9IBlARBVV95cUxNeXVpRnl2SGp2WjQtLTJIMEkxcDBoUEpMTjBudkEwRXdVcVdIcXQwT3hXLVQ5R2hYNENISDVodjNYdGFBb3AtQ2FfRVFLZXpzRklBZkh3ZUhkdnAxVDVyc1FEQWhkcTJaZ0ZNWlVOak5xSDNrdVNESGRJSGRNazYxZnlPZklWMVNJNFR4Mzd0V3l1VU15MUVhTWt4aGRQWDNtOFZjUzh2SUVwYmsyaXMza09uWE9GbERhWHFkN2NSMmFtYU9BMkN5ZG1JTDJWOVN4aV9nUkRsV29ndThnX1BZS3FtZnNlTVE3VWstR1RLOUdiUVQwbGJrWjRtNElXa3Bud0loekpDNzJ4Z2NVNGt5a0Nqdnk2WllDQ3dDUTQyTGE2ak1qbENFQ1JUaXVXeGNsS1lWa2JHbTlYeFNRTGlVcUdJREEySWtFMkRoZm1tTlBjTVMyX085ZXJ0WUNmOFRBWllMVXBVTGhVdjRGa3IxSFI5TFAwU0dFRTRJYS1FS1FqTF81cEs3Y3BKRzRKWEZmdFBmRTl1cm04R0VkdmRDU0ZyN0tVOHVtblZFUFhSdEZaaGFjNWhEb01OMXViRlJrSjJ5MDJOMEJhUFpEVV9TOFVJLW1iVE45czBUeG1iWU51MlF0Z3I5OGh2ckhnT2gwT1l5a05aTHcxODZPZXJfc3FrVUdHYy1ES2ZleUFEeG44ZWR0?oc=5",
+                "pub_datetime_utc": "2026-05-20T20:27:00Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:24 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Ramokgopa wants Eskom to take ",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "Ramokgopa wants Eskom to take ",
+                "original_title": "Ramokgopa wants Eskom to take charge of Joburg’s failing electricity revenue system - Daily Maverick",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTGR5em42QmZCc2FDei1LNWtiQVZxUXd3UktKUzVjVzNBUUpxcmQxWUtuY0hvZFFDSm1FTmhvRk1ucmhwRUh0MFRXRWtyVUQ1S2FsRmQ0XzAtZXhBODlMcWs4ODhIQkREc0lBUzdrMHNjOHRtZkYwNzk0ZnpZTjJwNlFQU1hRU01aNmpGVHdfelR2a3lFRHl2RG9hM1JmbGZ0WWJuNXlacjhFSk5MX1lGZkJWTE0zQ0VIUFlFOHpCZ3BVc25zVnRYTGdIc2ZVdw?oc=5",
+                "pub_datetime_utc": "2026-05-20T19:57:31Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:24 KST",
+        "current_rank": 13
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 70.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 2조 원대 복수 펀드",
+                "hook": "트럼프와 그 지지자들이 18억 달러 규모의 '무기화' 펀드를 조성하고 있습니다.",
+                "script": "트럼프 전 대통령과 1월 6일 의사당 난입 사태 가담자들이 대규모 자금 마련에 나섰습니다. 무려 18억 달러에 달하는 이 자금은 이른바 '정부 무기화'에 대응하기 위한 용도로 알려졌습니다. 정치적 보복과 통제권을 향한 트럼프의 행보가 미 정가를 뒤흔들고 있습니다.",
+                "original_title": "'I'm not greedy': January 6 rioters and Trump allies eye $1.8 billion 'weaponization' fund - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODJnbUY1ZlRTRmlvaFZTRzhjV3VJV1o2U0ZmQ3NVc0p4bFZqQ0x3UXMxSjc1aXRJZi1rcUtFYXVUazVHaURXRTZ4MHR1ZVRXaEhmV2dtSzB3RzFkb3FuMHNWWC1oQmV4LTFVUUs4WVl5YlF3WHlVNGlhMGhOYVBHZGZ3QXhURW5OdWZWbGtFeG1qZ3NvWnVjVmJuemR2dEpoLUd1dGVyQVlJdDFwLUlzQW41NEUxb0FEYVJCSzdtMzdMMWxVdlFoVXM1OA?oc=5",
+                "pub_datetime_utc": "2026-05-20T22:12:29Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:11 KST",
+        "current_rank": 14
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Für einen Moment sieht es nach",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Für einen Moment sieht es nach",
+                "original_title": "Für einen Moment sieht es nach Beschlüssen aus - dann wird klar: Es ist eine Ente - Ntv",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVRxYVBLTXo5dkEtR1o3R1pXSUFuYUJvUmh0Nm4zZXBoTnJXOGNXcHJUU3lYY0JiNE51bzMxNTZhbFZaVnVwOGptbUkzclBNRmR6ZlJmZkJXRUx6WVBpc1FRSDQ3ZFZXSVhVYTlBWFZEUkl6WGZnSlR4UUllOVFVUkl2TE5jOFFNdndCWm1MMkZ3SExqRkRDNUw4TVN4RE1BN2c?oc=5",
+                "pub_datetime_utc": "2026-05-21T08:40:00Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:11 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공격 피해",
+                "hook": "러시아 시즈란 지역에 떨어진 치명적인 드론 공격, 2명이 사망했습니다.",
+                "script": "러시아 시즈란 지역이 갑작스러운 드론 공격을 받아 2명이 숨지는 비극이 발생했습니다. 동시에 국방부는 핵탄두를 벨라루스로 이동시키며 군사적 긴장감을 최고조로 끌어올리고 있습니다. 현지에서는 잇따른 드론 공습과 이상 기후까지 겹치며 불안감이 확산하고 있습니다.",
+                "original_title": "Два человека погибли при атаке беспилотников на Сызрань - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ncGtBdU9YS1c1d29nZTFtZWV2SzRTVURMajRnU0RiX3ZQS0tKWGIzVEhGUWpqZkQtMFAzRDRYNTEwcVh3WUdqUy1oRjR4eDTSAUtBVV95cUxOR2lZX3J1VHFiLTFRaUVXaVBLRzJOcUVMZ1J3alF4Q1V0T3VfWUt2MlJWZ3hDcG1RbHFoblpiMTA0b0k0X1FUcWpMMkU?oc=5",
+                "pub_datetime_utc": "2026-05-21T04:49:00Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:20 KST",
+        "current_rank": 16
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "멕시코 살인적 폭풍 온다",
+                "hook": "강력한 열대 파동이 멕시코를 덮칩니다, 토네이도와 우박에 대비하세요.",
+                "script": "이번 시즌 첫 번째 열대 파동이 멕시코에 상륙하며 심각한 기상 이변을 예고했습니다. 전국적으로 강력한 폭풍과 함께 우박, 심지어 토네이도 발생 가능성까지 제기되어 당국이 비상 태세에 돌입했습니다. 외출 시 기상 정보를 반드시 확인하고 안전한 장소로 대피하시기 바랍니다.",
+                "original_title": "Detienen a alcalde de Atlatlahuacán y ex presidente municipal de Yecapixtla, Morelos, en el marco del Operativo Enjambre - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ1VHQUJ6MmR4cVBrcmJ0Y0NBRXF5SHNKNEdtdU8wOUhxNTZkcVN5MlN5U0pQbDlUU1hXdmtDX2pWLWZLUXRNS1F2QWZyQ1VJN2JpMlRSellmVEhvWkZ5WWZjYUUxOWhaRnhFcDdCZnRnX0p2VHJVQUptaGczcElZOXJ0WEhkendBV0xkR05CNlFWaVhaX2dRTDYtRzRWSmFBSkl1aGFfYTYxOXpIaGo1QjJUb011T3dQellEVjlsZFVQNl9tc0VNNG4zbTc0bEhFRUFqbmJSWjhib1l3eWNfQkZEZnYtQXFtbjBoZnNRNnRVMXlFc0pkdnk0eWJORWs?oc=5",
+                "pub_datetime_utc": "2026-05-20T14:11:00Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:20 KST",
+        "current_rank": 17
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "Olympics Minister stands aside",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "Olympics Minister stands aside",
+                "original_title": "Olympics Minister stands aside after electoral commission makes referral to police - Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcE0zZGo3c0ItLWh3WlpNb29MQXY3Z1JJUmgxalljRnNTS1J0SWRwaU15OGtETElQNGREdlFJWG4waF8tenpUVWdDRUU3MEkxNUlEN3J6ckFtUF9YWkpnMDloX1F3dGUtWUVWWkhIVnhXWW1wSUlCSTNDRlpzZEQzbDdCNkV4UVBmMEs0Vg?oc=5",
+                "pub_datetime_utc": "2026-05-21T07:07:37Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:20 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "밀레이 보건 삭감",
+                "hook": "의료 예산 630억 삭감에 분노한 시민들 거리로",
+                "script": "아르헨티나 밀레이 정부의 보건 예산 630억 페소 삭감 조치에 시민들이 대규모 반대 시위를 벌였습니다. 공공 의료 시스템 붕괴를 우려하는 목소리가 터져 나오는 가운데, 정부의 긴축 정책을 둘러싼 여야의 갈등도 극에 달하고 있습니다. 경제 위기 속에서 의료마저 위협받는 국민들의 분노가 폭발했습니다.",
+                "original_title": "Una multitud repudió el recorte de 63 mil millones de Milei a la salud - El Destape",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEFVQ0x4NU5EcndMT2JZeDF5Qmo5MzhkalE1XzdSZWhCSlhxa2lwNFY3YmhQUThVNm1YMDF3Q1lBNS1Jajh4TktYZE8tOF9VZDVDZUlGUkx2X1lwdHVQV2ZWUmFoMWFvWHdKdmZEREUtYmQ4SldDSFZuNzAyNVJwZGRVSUJldFBGb0p6RnFPbUpfWEJhVTJGUHdUZzJha1J1dWhycXZXRkh1N2J4UXdoaVJuenYzeFJ1SWfSAboBQVVfeXFMTUhBVUNMeDVORHJ3TE9iWXgxeUJqOTM4ZGpRNV83UmVoQkpYcWtpcDRWN2JoUFE4VTZtWDAxd0NZQTUtSWo4eE5LWGRPLThfVWQ1Q2VJRlJMdl9ZcHR1UFdmVlJhaDFhb1h3SnZmRERFLWJkOEpXQ0hWbjcwMjVScGRkVUlCZXRQRm9KekZxT21KX1hCYVUyRlB3VGcyYWtSdXVocnF2V0ZIdTdieFF3aGlSbnp2M3hSdUln?oc=5",
+                "pub_datetime_utc": "2026-05-20T20:05:35Z"
+            }
+        ],
+        "last_updated": "2026-05-21 19:05:24 KST",
+        "current_rank": 19
+    }
+}
