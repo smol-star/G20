@@ -1,0 +1,325 @@
+{
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "대만 무기 수출",
+                "hook": "미국의 대만 무기 수출 중단 가능성, 미·중 관계의 새로운 변곡점이 될까?",
+                "script": "미국이 대만에 대한 140억 달러 규모의 무기 수출을 일시 중단하는 방안을 검토 중인 것으로 알려졌습니다. 중국 외교부는 이에 대해 강력히 반대하며 기존의 단호한 입장을 재확인했습니다. 양국 간의 민감한 군사적 갈등이 향후 어떤 외교적 파장으로 이어질지 귀추가 주목됩니다.",
+                "original_title": "专访｜俄中媒体交流拉紧两国民心相通的纽带——访俄罗斯天然气传媒控股股份公司总经理扎罗夫 - 中国一带一路网",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fcUJFb201R1c5ZW5SVER4bXZMR2luQzVIWi1ic1BSakJoTUxOM0dEVU1KMGhyT0FUV0RicXRtbGdlTlcwNVliSWs2WVlJa2FDX1o3d0dXTQ?oc=5",
+                "pub_datetime_utc": "2026-05-22T09:26:53Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:45 KST",
+        "current_rank": 1
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 영공 침범",
+                "hook": "독일 영공에 정체불명의 드론이 출현하면서 긴급 전투기까지 출격했습니다.",
+                "script": "우크라이나 전쟁의 긴장감이 유럽 본토로 번지고 있습니다. 독일 영공을 침범한 드론으로 인해 전투기가 긴급 출격하는 등 안보 위기감이 최고조에 달했습니다. 나토의 대응 체계가 다시 한번 시험대에 오르며 유럽 내 불안감이 확산되고 있습니다.",
+                "original_title": "NATO-Außenminister beraten über Neuordnung der Aufgaben - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41RHpwalZ6OVNkQlJRSE5TT3pFSWMzanB6ZnpfVDJfQndWOEtQQWlrOE5pS3RaREpOQnFyb0lLMlFTZTJ6cGNCaTNQd2lVNFEtM05BSFdPLUowQTBTX0tSRHR0NDgweTZkWGdDV3pubmpleG5hU0NZ?oc=5",
+                "pub_datetime_utc": "2026-05-22T01:53:00Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:45 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "트럼프 대만 발언",
+                "hook": "트럼프의 파격적인 대만 총통 대화 의사, 일본 외교가 충격에 빠졌습니다.",
+                "script": "트럼프 전 대통령이 대만 총통과의 직접 대화에 적극적인 의지를 보이면서 외교적 관례를 완전히 뒤흔들고 있습니다. 일본 내에서는 이번 발언이 미·중 관계는 물론 동아시아 안보에 미칠 파장을 우려하는 목소리가 높습니다. 기존의 틀을 깨는 트럼프의 행보가 일본의 외교 노선에 어떤 변화를 강요할지 관심이 쏠립니다.",
+                "original_title": "辺野古転覆事故、死亡した船長を刑事告発 4年間で6回無登録運航か - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nS3JmWlRHM016dnpXbVVkSUlVVk9wSkN4NnVQRVBDLUVwNm4zaDBXVTRjOGMyNnFESFhqUmR2UlBvSWVZVGQxblgzN1B0Z2R0Y2M5YjlWUUo3ckZLR0Mwa1ZIZnVMN2M?oc=5",
+                "pub_datetime_utc": "2026-05-22T08:52:05Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:45 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 폭염 경보",
+                "hook": "영국 전역에 뱅크 홀리데이 폭염 경보 발령, 기록적인 더위가 찾아옵니다.",
+                "script": "영국 기상청이 이번 뱅크 홀리데이 연휴 기간 동안 기록적인 폭염이 이어질 것으로 예보하며 경보 등급을 격상했습니다. 예상치 못한 고온 현상으로 인해 야외 활동 자제와 온열 질환에 대한 각별한 주의가 요구됩니다. 갑작스러운 날씨 변화에 영국 전역이 긴장하고 있습니다.",
+                "original_title": "UK weather: Heat warnings upgraded as parts of UK to be hit by bank holiday heatwave - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VcHRONHJ4ZUZLM0dtcmN2S3diaXNzQmtQWVNSV211SkxqMTI3M1VGNkNJT2NMRlNTZUQzekltQnYyZGU5bURlYU9nam1WVDVFTVBwMEh1QQ?oc=5",
+                "pub_datetime_utc": "2026-05-22T09:42:47Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:45 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 아동 실종",
+                "hook": "포르투갈 길가에 홀로 남겨진 두 아이, 도대체 무슨 일이?",
+                "script": "포르투갈의 한 도로에서 두 명의 프랑스 아동이 홀로 발견되어 충격을 주고 있습니다. 현재 아이들은 위탁 가정으로 인도되어 보호받고 있습니다. 경찰은 아이들이 어떻게 그곳에 혼자 남겨졌는지 정확한 경위를 조사 중입니다. 부모의 행방과 사건의 진실에 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "Les deux enfants français retrouvés seuls sur une route au Portugal ont été placés en famille d’accueil - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYWh1Z2ZHVFl4WmN1azdZSmxxN29ZUFM0dWo4X3FXeGstVGNWNjBlbVN1OWpyalJTSlJLSGxWQ3Flc05WUldNSnBYMTltUVN3ZVZTa1Z6WWl6V2dVU1dacUw1d1Nxd0NJR2hCV2FuUjh0eVg4UmFTcTZOa1djdU5XUEdUUHRCSDBkR3JRdThTVUttZW5pTWhZekNNazVpZGdwaG0ydkM5TGZFZHlIaHlacWdkYmRjUHFtaW9hTHJ6eWdhVWk0bXk4ak1lblAyUngwRVBYNl9wWUcxX1ctZDU1ZG15d2FoY081b0twLUREZWRIeGptOFpjSnJ2V3VGcURy?oc=5",
+                "pub_datetime_utc": "2026-05-22T08:29:49Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:49 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "슬로우 푸드의 별",
+                "hook": "전 세계 미식의 아이콘, 카를로 페트리니가 남긴 유산",
+                "script": "슬로우 푸드 운동의 창시자이자 미식계의 거장 카를로 페트리니가 우리 곁을 떠났습니다. 그는 단순히 먹는 즐거움을 넘어, 지구를 살리는 지속 가능한 식문화의 중요성을 설파해왔습니다. 그의 별세 소식에 전 세계 미식가들과 환경 운동가들의 애도가 이어지고 있습니다. 인류의 식탁을 바꾼 그의 위대한 여정을 기억합니다.",
+                "original_title": "Addio a Carlo Petrini, fondatore di Slow Food e Terra Madre - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4S2xLbzJGT09qbDBpenNlQ3RVMTlqT3duUUtORFV1U3pPdkIwWVR4TzdNakxhMDF3ZjNVblNVLS0zZm9kMmVGZk9LbDNzdmtTOGtXZDkzbVdBZGxDQ1ZJTGE0N1N4V3lfblE?oc=5",
+                "pub_datetime_utc": "2026-05-22T04:29:04Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:49 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "캐나다 금괴 탈취",
+                "hook": "캐나다 역사상 최대 규모의 금괴 도난 사건, 배후는 누구인가?",
+                "script": "캐나다를 발칵 뒤집어놓은 사상 최대 규모의 금괴 탈취 사건, 그 배후에 에어캐나다 직원이 연루된 것으로 드러났습니다. 경찰은 오랫동안 해당 직원을 추적해왔으며, 이번 사건은 치밀하게 계획된 범죄였습니다. 공항 보안 시스템의 허점과 내부 조력자의 결탁이 밝혀지며 캐나다 사회에 큰 충격을 주고 있습니다.",
+                "original_title": "Alberta’s referendum on a separation referendum elicits bewilderment, concern - Global News",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU294SXpnbHdaLWpyS0RENnpBU1pBd05YUU5XS0ZWeVJFNDBiV1hEOW1XU1FWTVEyQmc4MWxfT2dhU0h6dF8xVlYyeXpDcUVmOEZrd1c2SDN3c0NVNFJfY0JVVmlfNFJ2SHN6V3FORkFieFpYNThFdmVLNlk0RkJxZQ?oc=5",
+                "pub_datetime_utc": "2026-05-22T02:57:49Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:49 KST",
+        "current_rank": 7
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "관저 이전 의혹",
+                "hook": "대통령 관저 선정 원점 재검토, 그 이면엔 김건희 여사의 방문이 있었다?",
+                "script": "대통령 관저 후보지였던 육군참모총장 공관이 기재부로 반환까지 됐다가 갑자기 원점으로 돌아갔습니다. 그 결정적 시점이 김건희 여사 방문 직후였다는 의혹이 제기되며 파장이 커지고 있는데요. 과연 관저 선정 과정에서 어떤 비공식적 개입이 있었던 것인지 정치권의 공방이 뜨겁습니다.",
+                "original_title": "“점심에 8명만” 광주 스타벅스 ‘썰렁’…사과문만 덩그러니 [현장] - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNFREcWtQUEgxR1J0dXl3T21YQjFrcXVHYy1hZEZYRlN1b0lrWDhieXVadVJtbXIyWFFOU2hLdUZTVmRVZzFUekd3a3JCUG9wNWlEdVdqelpQX0puMXlfZA?oc=5",
+                "pub_datetime_utc": "2026-05-22T08:25:00Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:59 KST",
+        "current_rank": 8
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "Menlu Israel Kecam Perlakuan T",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Menlu Israel Kecam Perlakuan T",
+                "original_title": "Menlu Israel Kecam Perlakuan Tak Manusiawi pada Aktivis Flotilla Gaza - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3UtUkgtQmd2ZVFDa3RsZVVUT2pWUzNPRnVadHF3ZUJFclZWU2NhLXp3emMwc05vRUh6aG56cllDdk1fb2cwRF9DOHJYTG9lZ2paR1owZ1djdnZWR2hQX093ZTVwdF94YmI5SG4wd0tubXNFRTZoYU1MekVhZjRzcjBRemRIekstS1pGZkpjWVItem10VnVUbVFBZVNEa2JpZktNNkRua1VUYnJKd3J2dVdBNW5oaGvSAbwBQVVfeXFMT0RFU2o5RTJQVU1HMmxRTGZPSEhIcV8tYUx5SDhveFhidVAwbUFqbnRGaWhBa200OTZ6aFBjSEVtTXhibFVKSWVYMUp0bW52SmFTak03VWNuQ1NoWkl6emt2OTM3NS1kZjB5cVI5ekMzekZyb0FoQ2VSTmkyMmpsdTZlOVhORU40WUhDUGI3c0JRYnl4bEtYOEowdzE4RWJkMndlakluV1dyT1VNTTRRNnFjeVRkSTVHWWxrLWw?oc=5",
+                "pub_datetime_utc": "2026-05-22T03:11:51Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:59 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "이즈미르 동물 학대",
+                "hook": "쓰레기통 속 발견된 33마리의 고양이 사체, 이즈미르가 충격에 빠졌다.",
+                "script": "튀르키예 이즈미르의 한 쓰레기 컨테이너 앞에서 무려 33마리의 고양이 사체가 발견되어 시민들이 큰 충격에 휩싸였습니다. 단순히 길고양이가 죽은 것이 아닌, 고의적인 학대 정황이 짙어 당국이 즉각 수사에 착수했는데요. 잔혹한 범죄에 대해 강력한 처벌을 요구하는 목소리가 높아지고 있습니다.",
+                "original_title": "'Mutlak butlan': CHP'de ne olabilir, Özel ve Kılıçdaroğlu ne yapacak? - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10U0s2c081ajdKM3h0LUhGUDNvbXVZRE40WWF1ZWxsTV9HODJQR0VaQXRvZ1hKN0xFT2lUb3Z5U19VVkV2T0hjcGxZMGhSU1JkWFc5Ui04N1NMWFlX0gFiQVVfeXFMUDFLOHZPSkJGVXh1aUpzaEJwd0RBbzk2dDBJVVJTOVlwTElrWXBiSlNZek9nX3h5NXc0anRZSjlROEdvRmMtUUY4YXRVOXRLeTdfZ2xub1U3UzBkRDFCV1VDM3c?oc=5",
+                "pub_datetime_utc": "2026-05-22T00:04:02Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:59 KST",
+        "current_rank": 10
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 국가 재난 위기",
+                "hook": "16일째 암흑에 갇힌 주민들, 남아공에 무슨 일이 벌어지고 있는 걸까요?",
+                "script": "남아공의 가든 루트 지역 주민들이 16일째 전기 없는 삶을 살며 분노하고 있습니다. 인프라 붕괴 조짐이 곳곳에서 나타나며 남아공 경제의 심장부마저 흔들리는 국가적 재난 상황입니다. 정치적 갈등과 행정 마비가 이어지는 가운데, 과연 남아공의 미래는 어디로 향하고 있을까요?",
+                "original_title": "Elections 2026 | ANC Western Cape eyes comeback with mayoral candidates free of ‘scandal’ - News24",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZnNoUGFUenM1VkRmeTRmRXFURk5pcXRmME5rbWR4S0JMajdoNWVXNElhZjRwT0dvMms2cHY3MElWeENVZ2Y3NXhUMWZWX1hXcjJleHpNclRMMkRJNmJLanNVOENLbGpPRWgxZlgydl9UUVlFWkxNQ3hDdUNRaE9iQ1VqbWhnQmhpU0NjaVdHbVRDdDZXVFE0Z3NkQ0hzSUpQY2p6S1BEdE5hVXBmQkpmUFpxN1lVbW5DYjJlVlA0R24yeXJscmJYUGJVcw?oc=5",
+                "pub_datetime_utc": "2026-05-22T02:47:08Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:52:03 KST",
+        "current_rank": 11
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 70.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프 파병 결정",
+                "hook": "트럼프의 파격적인 폴란드 파병, 유럽 안보 지형이 요동치고 있습니다.",
+                "script": "트럼프 대통령이 폴란드에 미군 5,000명을 추가 파병하겠다고 전격 발표했습니다. 이 결정은 이란과의 긴장 고조 및 대외 정책 변화 속에 이루어져 국제 사회의 이목이 집중되고 있습니다. 과연 이번 파병이 유럽 내 미국의 군사적 영향력을 어떻게 재편할지 전 세계가 주목하고 있습니다.",
+                "original_title": "Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money - The Washington Post",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3dZT0ppTUFmUUVyYmh1UVVBbm0zc2p3dUpHeEVLd0dtWjFqVEJYX041RWZXeHUtYWpQaEVyajlkWjR4RklCMXZGUjBGVG8tRWZVM2VXVExVT0ZaaElMNVdTaG9hV2xNbmt6VWRiZFZrTW5tRWRiZzJUR0xnRzl6SXpzQlRtNm9vNWFWNEZ3SGdwYkx4RGc?oc=5",
+                "pub_datetime_utc": "2026-05-22T04:01:18Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:45 KST",
+        "current_rank": 12
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "인도 대입 논란",
+                "hook": "인도 교육계를 뒤흔든 NEET 시험지 유출 의혹, 정부의 해명에도 논란은 가라앉지 않습니다.",
+                "script": "인도 국가시험국(NTA)이 최근 논란이 된 NEET 시험 문제 유출 의혹에 대해 시스템 외부의 유출은 없었다고 선을 그었습니다. 하지만 전국적인 반발과 의구심은 좀처럼 사그라들지 않고 있습니다. 미래를 건 수험생들의 분노가 인도 사회의 공정성 논란으로 번지고 있습니다.",
+                "original_title": "Twisha Sharma death: Ex-judge Giribala Singh gets final notice - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM3RSWDdoTkhmcEdOWXFDV2UtOHJlUmtLcTMtNWtkdDlaQURtS2MybWFPdFhnM0swNjIwbERCRDJNdWZLemhkUkdEalZiOUlDUG04S0JLSDJNOU5rN0M1MFJqa0ZVTHpGTGtGVUJFUGxKRXhEY1N1V2hVOUN1UWR6cjVwZ3JVMzZmeWJzeS1pdzd4a1JvOWpEQ2ZGQlgyT0o0cTYxUWc3VHZiU19VQUN5Wlh4dkdWVENuN1BaSllaU3hEakNBWERxTGpBcjl3VW5zME9nR0Y0OHpoTXZzcVlteXJhVE1vZHc3Qm5MMEc4NE4wYlFCdkpj0gH-AUFVX3lxTE5ZZmROckhocFlPQmQyTlU1WlhqZG1BeC03Ukg5cWpXdV9BVEhHMEViZzlhVFJSN2xlcWdZRWowajNzLXVRMENaLVM2VzZBMFRtUlZTdldKSE1CX3QzY0w4QlRub1lzSDQ4N2FzbzUzR0xMRkR3SW1ydXVtSUxXZGxxNDJ4MEFUaG1kTDFHb0t1Q3hUNXF2b0RHcGdIaW9mUjFtQlliMmphb0Nua3FlbWNvNnpsZThHSHRHWENYcm1INVVLTUYtaUhyT3dlRFViNFhXVHhWeWd4eGk1bWlRNUhQZ2tsWEVQVXp5OU1oakllLTJmbGNMT205cEtOLVVn?oc=5",
+                "pub_datetime_utc": "2026-05-22T07:21:16Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:45 KST",
+        "current_rank": 13
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "볼소나로 정치 위기",
+                "hook": "브라질 정계를 뒤흔든 볼소나로의 정치적 입지 변화",
+                "script": "브라질 정계가 볼소나로 전 대통령과 관련된 논란으로 뜨겁습니다. 측근들의 이탈과 정치적 스캔들이 겹치며 볼소나로 진영의 영향력이 급격히 약화되고 있다는 평가입니다. 여론 조사와 정치권의 움직임이 심상치 않은 가운데, 브라질의 차기 정국은 대혼돈에 빠졌습니다. 과연 그는 이 위기를 극복할 수 있을까요?",
+                "original_title": "Alcolumbre rejeita ler requerimento para instalar a CPI do Master - CartaCapital",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3p1eEVlYlpmNHAtX2V4VUFCT21WTHFSZTlZQUlUWVVmczdwM3ZuWDZQZS1iSjlPV05MNlZhMkpuTUttTVdFWEZUYlA2bENoNXJ3QXlFeVpEUkd0dV9xaFRfUkpIZ1NVcWp5ZnZHNkYxN2wwSEhVV2RCZmNYVmJoSnlpRkVwY3JhWklUa0xvazRaSGZrNGM4M2xNeG5yeVE5MXJqaTY1ZDJ3Z1JtR1QtS2R3?oc=5",
+                "pub_datetime_utc": "2026-05-21T17:24:00Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:49 KST",
+        "current_rank": 14
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "모스크바를 겨냥한 계속되는 드론 공격, 수도가 멈췄다",
+                "script": "러시아 수도 모스크바가 연일 계속되는 드론 공격으로 비상입니다. 주요 공항 운영이 제한되고 시민들의 불안감은 극에 달하고 있습니다. 러시아 국방부는 피해 상황을 집계 중이며, 연이은 드론 침투에 방어망에 대한 의문도 제기됩니다. 긴박한 전황 속, 러시아의 대응에 전 세계가 주목하고 있습니다.",
+                "original_title": "Омбудсмен сообщила о четырех погибших при ударе по общежитию в ЛНР - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BVUtKeXZScHV5WnZ3cU5wUXNXZVNCZDZsNWU5cWdNdWVndWU0SHE1UnVCN2RndEdfUjduSndHNVFOa0FuLVFxbTBLdmNqWm_SAUtBVV95cUxPVWxwRVZ5M2NoMWpmREJrNkZjZUJOYjJKTlYyTDN5Y2R5eXhvM2syRWVPcXczZWpMWlZrTENFV0N4WTRreDFodVJCS0U?oc=5",
+                "pub_datetime_utc": "2026-05-22T08:28:00Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:49 KST",
+        "current_rank": 15
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "멕시코 공직 비리",
+                "hook": "음악 콘서트 위해 나랏돈 횡령? 멕시코 전직 공무원 체포",
+                "script": "멕시코에서 거액의 공금을 횡령한 혐의로 전직 공무원이 체포되었습니다. 유명 가수의 콘서트 비용을 마련하기 위해 국가 예산을 유용한 사실이 드러나며 시민들의 공분을 사고 있습니다. 부패 척결을 외치는 멕시코 정부의 의지가 시험대에 올랐습니다. 꼬리에 꼬리를 무는 공직 비리, 과연 끝은 어디일까요?",
+                "original_title": "Hallan sin vida a Blanca Adriana N en Tlaxcala; desapareció en Puebla tras ir a clínica de belleza \"Detox\" - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQTl2cUFQVmRtckVuQ040VFFTaFdDZF91eFVzanhhVW00TlZjM2xSWEhlbHpEQ1RrcTQwa1F4LTU3SkNyZDNUSV9iU25xSGY5MGc4MzhVWWV0ZHhLcDVMX1RPQW1heDMwelh2YWRDZzUydFpxWG1iekFfMGM3REVSRmh1ZzBrVTgxVm9WZ1NpczIwNXlObm0zRkcyTWp2aTRDZUFxQXpUaUZnYkJobnJzek9aMWRNVjVTazVQVHBSSnRCZ1lxUjI0TWZPdVFhcUd3RnVEVVFoSElkck5tTTg2ODJ4aWhFbmxrN1JZUXRR?oc=5",
+                "pub_datetime_utc": "2026-05-21T21:10:12Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:49 KST",
+        "current_rank": 16
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "마추픽추 등반 비극",
+                "hook": "꿈의 여행지 마추픽추에서 벌어진 안타까운 사고, 대체 무슨 일이?",
+                "script": "호주의 한 남성이 마추픽추로 향하던 중 협곡으로 추락해 숨지는 안타까운 사고가 발생했습니다. 평소 꿈꾸던 하이킹 코스였지만, 거친 지형을 넘지 못하고 변을 당한 것인데요. 당국은 정확한 사고 경위를 조사 중이며, 현지 여행객들에게 각별한 주의를 당부했습니다.",
+                "original_title": "Australian man dies after falling down ravine on hike to Machu Picchu - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13S19yNDJzYllOOWhBX0NXRVZVSXU4RUQzaTNERERjOWo0QVNCU2NMd283SkFNX3E1TmxYem5HMjZMeWJhZHJSUHhNdmNoMDQ2Q2hoUjFrb2xhUQ?oc=5",
+                "pub_datetime_utc": "2026-05-22T05:59:24Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:59 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "성지순례 보안 강화",
+                "hook": "정치적 이용은 절대 불가, 사우디가 성지순례 안전을 위해 내린 결단.",
+                "script": "사우디아라비아가 다가오는 하지 기간을 맞아 성지순례의 정치적 이용을 엄격히 금지한다고 밝혔습니다. 전 세계에서 모여드는 순례자들의 안전을 보장하기 위해 최고 수준의 보안 태세를 갖췄는데요. 종교적 평화와 안전을 최우선으로 하겠다는 사우디의 강력한 의지가 돋보입니다.",
+                "original_title": "باكستان تكثف وساطتها بين واشنطن وطهران، وسط مؤشرات على \"تعافي القدرات العسكرية الإيرانية\" - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NanRkcUV4Q0VDcGdYeGtOQVRKZGtKbS1ZdDNsREM1WW1kbDlidjhURHZvUWQ1VFFEMkJGWHpGTWFCcHk3MUZ3Qm4xZ1FLZVhHMEc5Y29EeER6QnBW0gFiQVVfeXFMT3pRV0E1SlBYaGxMLXdwSHVzZWItbzdZQ25kUzRhSjlKSk5ZOWJXenpxZ3JMYmZNNkdRY2Z2VkE3M2RtQTZLTWZPc1J4LWFqelJwUVN3ZVV1c01CMFh0NzNpRUE?oc=5",
+                "pub_datetime_utc": "2026-05-22T08:02:02Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:59 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "IMF 자금 지원",
+                "hook": "아르헨티나 경제의 구원투수? IMF의 10억 달러 지원 결정 임박.",
+                "script": "아르헨티나의 경제 위기를 타개하기 위해 IMF가 10억 달러 규모의 자금 지원을 오늘 논의합니다. 심각한 인플레이션과 재정난에 허덕이는 아르헨티나 정부에게는 가뭄의 단비 같은 소식인데요. 이번 지원이 과연 아르헨티나 경제의 숨통을 틔워줄 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "Zona Fría: Raverta cuestionó a Montenegro y Neme por mantenerse en silencio - Diario La Capital de Mar del Plata",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGgtc3QyU0VyZDRJY0NVOVFGUVlmWldJSHJxczVSWVVzMWRYWURocUxVVXpNdnRyazhGa1Y3X2pPMXFQeVBNeks2YzJ6REJNUlVTakZHMXpoanBtWGpEcldOUkVFbkNpUVlCb0tnb2hzdUpGeGZteExaOWpKNmhWWXRhYUhkVTRyZU40LWpxZTZGQ2JQdFRXQ2JrNmFnTm9mcGFRQTRwZw?oc=5",
+                "pub_datetime_utc": "2026-05-21T23:02:20Z"
+            }
+        ],
+        "last_updated": "2026-05-22 18:51:59 KST",
+        "current_rank": 19
+    }
+}
