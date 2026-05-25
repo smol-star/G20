@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "트럼프 이란 협상",
+                "hook": "트럼프의 이란 평화 협상, 과연 중동의 운명을 바꿀까?",
+                "script": "트럼프 당선인이 이란과의 협상에 서두르지 말 것을 지시하며 중동 정세가 요동치고 있습니다. 평화 협정 논의가 급물살을 타고 있지만, 공화당 내부의 강경파 반발이 거세 실현 가능성을 두고 의문이 제기됩니다. 30초 안에 결정될 운명의 협상, 과연 트럼프는 어떤 선택을 내릴까요?",
+                "original_title": "Trump tells US negotiators 'not to rush' into deal with Iran - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSVo5eG94MnNzS2dRRGo1Y0dsNzBkV0JLNWh3QWw4ZFR2anZIQ3Y4bVh4WTNPd21tcTBmSjR3RGgtQ0kzZ2xaalRQcnlYbng2dk90UUYyaVNDZw?oc=5",
+                "pub_datetime_utc": "2026-05-25T04:16:33Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:34 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "신저우 23호 발사",
+                "hook": "중국 우주굴기, 신저우 23호가 하늘을 열었다!",
+                "script": "중국이 유인 우주선 신저우 23호를 성공적으로 발사하며 우주 정거장 장기 체류 프로젝트를 가동했습니다. 시진핑 주석의 외교 행보와 맞물려 중국의 과학 기술 역량이 전 세계의 주목을 받고 있습니다. 과연 이번 우주 탐사가 중국의 미래 전략에 어떤 신호탄이 될지 확인해 보시죠.",
+                "original_title": "习近平同塞尔维亚总统武契奇举行会谈- 中国日报网 - China Daily",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWNTQ01OQ25rWm9vNzZfSlA5aDFiT3BVVy1IY1ktWEZIeHJuR1V6U3NCRzladktsckxJWFl2eDk0OFFrUWtCbDNqNm9ha3ZjQnNqQ1Y3UFNRcHNQMVN4c3FESEhTbDBKM19TZkhRS2ZsLXpnUDI4UVp5OFROYW84YQ?oc=5",
+                "pub_datetime_utc": "2026-05-25T10:17:33Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:34 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "러시아 오레시니크 경고",
+                "hook": "유럽을 공포에 떨게 한 러시아의 신무기, 그 정체는?",
+                "script": "러시아가 시속 1만 2천 킬로미터의 극초음속 미사일 '오레시니크'를 공개하며 유럽 안보에 비상이 걸렸습니다. 독일 전역에 폭염과 폭풍이 닥친 가운데, 전쟁의 위협까지 더해지며 시민들의 불안감이 최고조에 달했습니다. 유럽의 평화는 과연 이 위기를 어떻게 극복할까요?",
+                "original_title": "Putins „Wunderwaffe“ Oreschnik: 12.000 km/h schnell – und für Europa gefährlich - Berliner Morgenpost",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVZQQmFKcTBkT2d2UmpBMDNKWXFJSFEwX2pMUHFXamREdnM1cU00dlR5QkhraHEtUXg5XzViNFFmMnZZQVlGemJxLU1uWFZiaVFDbnAzdnVTSlR0SUg1c2Z0SzNpT01GWl9vU0JPcFpLeE9IYlNXdHluWWhPNmlkbW1YVDV4YkFWeUlBNFVGdlgyY3FLNGdpM2ZSYUJJaHNvbDZrQlE0VGFmRmUxQ0E?oc=5",
+                "pub_datetime_utc": "2026-05-24T18:18:57Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:34 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "일본 연쇄 강력범죄",
+                "hook": "열도 뒤흔든 잇따른 살인 사건, 일본 사회가 충격에 빠졌다",
+                "script": "일본 전국에서 끔찍한 살인 사건과 집단 폭행 사망 사건이 연이어 발생하며 사회적 공분이 커지고 있습니다. 법정에 선 피고인들은 혐의를 부인하거나 충격적인 진술을 이어가며 재판 결과에 이목이 쏠리고 있습니다. 평화롭던 일본 사회를 뒤흔든 범죄의 실체를 지금 바로 전해드립니다.",
+                "original_title": "トランプ氏「負け犬に耳を傾けるな」と攻撃 米イラン合意批判の共和党議員にピリピリ - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51MThBaF9WaHBIblVNMmgza0duajVEbTJUaUxpVFdyaUlvMVE1bmR3MGttSVM2MEdzb2k0Z210SmdtTzRZSERseHJSNnEzbDJCYUpiR2tiTlU1NnZNX3hUUVNiSHdTbnN5dVdaZWkxbEg2ZFhfMHc?oc=5",
+                "pub_datetime_utc": "2026-05-25T01:24:06Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:34 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "인도 폭염 경보",
+                "hook": "인도를 덮친 살인적인 폭염, 노란 경보 발령!",
+                "script": "인도 북부 지역에 섭씨 40도를 웃도는 기록적인 폭염이 닥치며 기상 당국이 노란 경보를 발령했습니다. 한편, NEET-UG 시험 취소 사태 등 교육 현장의 혼란까지 겹치며 인도 전역이 들끓고 있습니다. 극한의 날씨와 사회적 갈등, 인도가 마주한 위기를 분석합니다.",
+                "original_title": "BREAKING| Twisha Sharma Death : CBI To Take Over Probe; Supreme Court Requests Media To Avoid Publishing... - Live Law",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORmV1MHR3WktaNUlWZTdLX0tmVmVMMjJYd3JZNFVfOXN5b2FZa0dRSnAtQU50MGlwNTJLaWdQaDJGNm9FNTJmVUtwalFfQjRlWi1OOVc1cUJWVG5VNmswcW93Tl9TNFFEVDhkSHVhM2g2NVMzeTRmV1ZFWlF4MXRoanRUakVKUWVSUGVUQ2hxckhKUWlYT05hUlo5MTYxWURzUW9USGpTR1A1Uk5tSFNvbW04S3NhRFdRWXdNdm9RczlNS29uT2hqQ2hHa24zVUFhenI4V2VLWDdja25IVjBOSzFKU0piTDdiNXlBQ25HOVHSAfYBQVVfeXFMUExFSkc3bm5QMVhZZnFsbkxpVUpKcGNjb0lxZkRSTXJ0VWNLRU9yaGRCZTBhdTJoeXlfRWEzMXFSZU9Temx2eEFQZ0QwOEFua2dNSDA3VkwxM3hsZGRneXVxcHN4QzMwaUhHMExaS2FWdHJyWGFNOGI3Rk9KZlpmMlM3dkdzVkxIVDBsdV81RHBwYmtoYmEzdG04WjhLMm9oR3FRWEVQRi1GdWEyZC12YmJkYTFOYmJXNjYxZk5jQ1lYZ2cxc2Z0bFRVWDF5VWRWcHBteXczQkVDLWpQcDc2Y2N6NkphWjl5OW82SmU2ZjZHT3FvdlpB?oc=5",
+                "pub_datetime_utc": "2026-05-25T05:53:05Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:34 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "SNP 횡령 유죄",
+                "hook": "영국 정계 뒤흔든 40만 파운드 횡령 사건의 결말",
+                "script": "스코틀랜드 국민당(SNP)의 피터 머렐이 40만 파운드 횡령 혐의를 인정하며 영국 정계에 큰 파장이 일고 있습니다. 기록적인 폭염 속에서 시민들이 휴일을 즐기는 동안, 정치권은 신뢰 위기로 흔들리고 있습니다. 과연 영국 정치는 이 도덕적 타격을 어떻게 수습할까요?",
+                "original_title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDF1R051dHNJbDRoaG43MVlDVDJRcDFMSTY1d3VqdWh3UXJTZnVyV1hCTkdvLVJGSzF5d0NER1J1T2NJQzFaNnJuT0ZQdFlGMHZObDlrMWsxOWtTSUk2cU91aHFWVkhuMF9GQm94NmphdjJoeU03RGtrR2Zncm1FR1RLbjdDR1d4bkxxbFlKOVRHenRCTm51MWZyTzExNG84dlQ3cmlSNGpmNl9YVHJwc2FaRVgteEk?oc=5",
+                "pub_datetime_utc": "2026-05-25T10:01:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:34 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "파리 폭염 경보 발령",
+                "hook": "파리를 덮친 기습 폭염, 18개 지역에 황색 경보가 발령되었습니다.",
+                "script": "프랑스 전역에 때아닌 폭염이 기승을 부리며 파리를 포함한 18개 지역에 황색 경보가 내려졌습니다. 기온이 급격히 오르면서 당국은 시민들의 건강 관리에 각별한 주의를 당부했습니다. 갑작스러운 더위 속에서 야외 활동 시 수분 섭취와 휴식에 유의하시기 바랍니다.",
+                "original_title": "Un garçon de 12 ans retrouvé mort avec une serviette de bain autour du cou à Rennes - lanouvellerepublique.fr",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFJPUXoxMkEtYkZtRHRfeEFxV0F0Z1l2cTFnSEZ2WVY2YkREcDJpVUFEMGpZNy0wa2x2ejVsa0EyTEJ3NE9Ob3pwVzhMTms4b0hVQk9BUURqUWp5eW5JU0VaTXFORmpGX3RUVnN1VXdGQVVIWHdYQVpWaEtZUU5lS3c5VmE0ZUN1c1dZQkhCQ3VFbEpIZWhkeVNERzZZbFRuSDZGT1ZmeWYxZWNSRC1Tb1locUpTaklISkUxU0VBNGhiMWVSNERMaUhsVmkyLVZlZ01JQlVR?oc=5",
+                "pub_datetime_utc": "2026-05-25T10:22:09Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:38 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "이탈리아 16세 소년 익사",
+                "hook": "친구들과 강변에 놀러 나간 16세 소년이 돌아오지 못했습니다.",
+                "script": "이탈리아의 한 강변에서 16세 소년이 물에 빠져 숨지는 안타까운 사고가 발생했습니다. 친구들과 함께 시간을 보내던 중 발생한 이번 사고로 지역 사회는 큰 충격에 빠졌습니다. 당국은 정확한 사고 경위를 조사 중이며 강가 안전에 대한 경각심이 높아지고 있습니다.",
+                "original_title": "Le mosse di Trump sull'Iran, i repubblicani lo pressano: «Così si rischia il disastro». Ora il presidente si trova in un angolo - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObnhOSkZVX2RkbmV5WWFIelhfNDI1R05DbFU5NmVBOU5PRG4wMVF2RlJ0SG40MkNrYklRdXA2QktJNjJGUWZBR29OeG51MGhhOWtxOXJKS25wbUZTVWlCa2oxMU52RjlvUDUtZklJNHZWV0dmVHd0dl9xVm1feHMtVUVlRWtUTlQ3UWZsektOcnhnSlo1S3NoMWZjWGVNZHFIazJCT0NMWjV0dEU2NlJfRC00d2g4aENLVGsydTBfN1hqQVBFMFNSUEZWZWtwbS1lMkhkXzktY2N0NWxIMXVzOUp0MmdVN0Q2d1ZPZGhfclNaQWdLZTJQNWFvX1Bydw?oc=5",
+                "pub_datetime_utc": "2026-05-25T06:20:12Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:38 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "경찰대 드론 공격 발생",
+                "hook": "자카테카스에서 경찰 호송대가 드론 공격을 받아 도로가 전면 폐쇄되었습니다.",
+                "script": "멕시코 자카테카스에서 경찰 호송대를 겨냥한 조직적인 드론 공격이 발생했습니다. 이로 인해 인근 도로가 10시간 동안 완전히 봉쇄되는 등 극심한 혼란이 빚어졌습니다. 치안 불안이 가중되는 가운데 당국은 범인 추적에 총력을 기울이고 있습니다.",
+                "original_title": "Trump defiende eventual acuerdo con Irán y asegura que no repetirá pacto de Obama - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ0RScEtOcWNLandoVl91MWtlV3otamFsZFNhOUhjLUdiQmlRc0JvZTdDMVJsLTJ5a2pLdzFyQVV4QncwQ212dzdZRXUxU2Vkc3dpUUdNd3lDR3Q3aXk0aVpnWW9nbkotRFB1ZTFaQy1XQVJSS1JLaElla256ZFVzaTJSQkI2MEMwUXh6SXdlc2NQc0FNbkEwTm0xUmlGUHktUFh3OU1vNzlvTlYxRzhtc1Mxblppa052WlU5M0MxZTBOdHkzYkxQZEVNeDFiUQ?oc=5",
+                "pub_datetime_utc": "2026-05-24T18:35:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:38 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "전설 닐 다니허 별세",
+                "hook": "호주 스포츠계의 영웅, 루게릭병 투병 끝에 별세하다",
+                "script": "호주 미식축구 AFL의 전설이자 루게릭병 퇴치 운동가였던 닐 다니허가 세상을 떠났습니다. 그는 병마와 싸우면서도 끝까지 희망을 잃지 않는 모습으로 국민들에게 큰 울림을 주었는데요. 호주 전역에서 그를 기리는 추모 행렬이 이어지고 있습니다. 그의 헌신적인 삶은 많은 이들의 가슴속에 영원히 기억될 것입니다.",
+                "original_title": "Dezi Freeman yelled abuse at dying police officer during shooting, Victorian coroner hears - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTBIWUI5azgwcThqVHd2bExHa2tOelBiTnFKMFlKOGxUbGxETGVOamxlS0tmLVJ1MGpCNkhGVWtma0k2cUZvdk16UERxcUcyOFlwOWxYTUpjUk9UdG8yQ2ROSFh3ZXotYkkxbUowbnY5ZnQ0NHpLMlhIbnQtNlZWMEpLX2pEdUVnWmRuTmpJR1JiZ3RrSk1MMnJXX0s4LWFZdUZmVV81X2NCcW4zMjZTYUEyb3RTbUZIeGhhRXplUlk4aWV0QlNmbW9QWmFtMWZZZWpibHhSeEpPSDls?oc=5",
+                "pub_datetime_utc": "2026-05-25T02:10:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:42 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "내일부터 전국 강한 비",
+                "hook": "연휴 끝, 출근길 물폭탄 주의보 발령",
+                "script": "황금 같은 연휴가 끝나자마자 전국에 강한 비가 예고됐습니다. 시간당 최대 80mm에 달하는 폭우가 쏟아질 것으로 보여 출근길 각별한 주의가 필요합니다. 기상청은 침수 피해가 우려되는 만큼 시설물 관리에 만전을 기해달라고 당부했습니다. 외출 시 안전사고에 유의하시기 바랍니다.",
+                "original_title": "미-이란 MOU 타결, ‘대이란 제재 해제’ 방식에 달렸다 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGtfRFk4R1NTWXhaYmpick1FNFh4OEl6RC1uNHFhZGptamluWWhTY0NfWXBwQTVROER6QXd3RjNPZGRFNERTRExaVXotSFU0U09rMXVxNlRMMXN1d0J4ek5pNlpCNnZudVNQWjVtVWVNLTVfWkVsV3c3R0VNSjhLb3NR?oc=5",
+                "pub_datetime_utc": "2026-05-25T06:53:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:42 KST",
+        "current_rank": 11
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "수마트라 대규모 정전",
+                "hook": "송전선 단선으로 멈춰버린 수마트라, 원인은 무엇인가",
+                "script": "인도네시아 수마트라 전역이 갑작스러운 대규모 정전 사태로 마비되었습니다. 원인은 고압 송전선이 끊어지면서 발생한 것으로 확인됐는데요. 당국은 현재 긴급 복구 작업과 함께 사고 원인 조사에 착수했습니다. 주민들의 불편이 이어지는 가운데, 정부는 조속한 전력 정상화를 약속했습니다.",
+                "original_title": "Penampakan Kabel SUTET Putus yang Picu Listrik Padam Massal di Sumatera - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdFJqb0tLb3Q4RjFnVW9uNVJlZXQwRXo3Tmp6cXY1Q3VobXQwUkhtM196V3F1alBiY3ZLaGF3anN2YzZicW1OZHdJZ1ZKalNkWTRpSXRpREVnV3NLcHFUWjZkeThnbVU2T3lhd0dMdmt3QldHYlFKN0NIQkg3cTRua2xBQVhhUjJlbkZPbEFLa0VXbFFxZ0VlUXBkd1FTN1ZUUG9aM00zNkd0U3ZXdDBOUNIBtgFBVV95cUxNbi05VWRyR0ZUMUUwbml1SkIyRkpwdDJhbzhmWEhqSWJab1lVdDlEOWhJYmxuRm1OOTc5Yll0WmhXblc1RHlqa1dlT0s2TTZDaUlNSGxCZm1nTl9PVEk3UWNnQXJfVFJ5Ykp3dTBnbGpXcC1POG92MXVhTDBaLWlCY1NZM2NCVWFhYUJReEJKbHI3R2JzaVJtTjhqS2dqcWliUXBYUmdIbjRaTGJSbE9KYW5IUVE5Zw?oc=5",
+                "pub_datetime_utc": "2026-05-25T05:14:57Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:42 KST",
+        "current_rank": 12
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "러시아 오레시니크 미사일",
+                "hook": "우크라이나를 강타한 신형 미사일, 그 정체는 무엇인가",
+                "script": "러시아가 우크라이나 전선에 신형 중거리 미사일 '오레시니크'를 세 번째로 투입했습니다. 극초음속 기술을 갖춘 것으로 알려진 이 미사일의 위력에 전 세계가 긴장하고 있는데요. 국제사회의 우려가 커지는 가운데, 이번 공격이 향후 전쟁의 판도를 어떻게 바꿀지 주목됩니다. 평화적인 해결 방안은 여전히 요원해 보입니다.",
+                "original_title": "Barış Yarkadaş: Kılıçdaroğlu, CHP Genel Merkezi'nin polis müdahalesiyle tahliyesi için \"Bu krizin sorumlusu biz değiliz\" dedi - T24",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWtWZDE5QnZpdkFQcHFNTklpZTJLZ2tBOWloaWlvVU1FQmJ6ZDZ2X3luTDc0aGR6aXZDWER6QlhLZ2J1RzhkVEdvTEQ4M3lUZEhxX195eUpUcHI3ZjZoZTNMMHZxRWRPcHpUSTg1c1NWVTlfR1FxRGdsaHRzUERYSzJaOVRJcDVMZmR4WkFjdWlMNGdHVlgyRnJJdVNMSnBlM1I1NjVWakR2WEQyNUlrNU92V2tidGU1bGVCWHVDbFJHQkUyal9pQXpZR0tvd2RmWjBaQ2VQbkJzTjBJa1F2azg5MFZsV2pKdzlnMg?oc=5",
+                "pub_datetime_utc": "2026-05-25T05:48:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:42 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "성지순례자들 미나 집결",
+                "hook": "백만 순례자의 행렬, 성지순례의 시작을 알리다",
+                "script": "올해 성지순례를 위해 전 세계에서 모인 순례자들이 미나 계곡으로 모여들고 있습니다. 사우디 당국은 순례자들의 안전과 편의를 위해 만반의 준비를 마쳤는데요. 이번 순례는 이슬람교도들에게 가장 신성한 여정 중 하나로, 질서 정연한 모습 속에 경건하게 진행되고 있습니다. 모두의 안전한 순례를 기원합니다.",
+                "original_title": "ترامب: الرئيس الأمريكي يطلب من المفاوضين الأمريكيين \"عدم التسرع\" في إبرام اتفاق مع إيران، وروبيو يقول إن الاتفاق قد يُبرم \"اليوم\" - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TVTNlTzY3bHFBWUhDZGx0RmIwUzlLcklRNnI2LXJxSUpRbU9sLU5YUGJXdW1JSVRaX20wVUc3MElhMTdwdnRFT3IzUDFxb1VFMC15U0dCTzQ4ZWJa0gFiQVVfeXFMT3lCU0tYc0V1U0ZDQkwwcjg3c0tySGR0STZZVjNXSXJUSzd5RzJMUV9nRzlYYzZWYUI0WWg5UmRaaVJoSm9jMXhrWU9QVU5Ubld1OWJjUkM1LUdMYnFtT1ZEWXc?oc=5",
+                "pub_datetime_utc": "2026-05-25T06:24:23Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:42 KST",
+        "current_rank": 14
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "밀레이, 교계 행보 주목",
+                "hook": "대통령의 테데움 참석, 정치권 긴장감 고조",
+                "script": "아르헨티나의 밀레이 대통령이 테데움 미사에 참석하며 교계와의 관계를 강화하고 있습니다. 이 과정에서 부통령과의 미묘한 기류가 감지되며 정치권의 해석이 분분한데요. 페로니즘 진영의 견제와 정권의 우클릭 행보가 겹치며 아르헨티나 정국이 요동치고 있습니다. 앞으로의 국정 운영 방향에 이목이 쏠립니다.",
+                "original_title": "La encíclica de León XIV: la IA sirva a la humanidad, no al poder de pocos - Vatican News",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYjczd21fd1JOZEg0X3RhY0R5dzBFaU9vVDkyeVpHZDlBYWZxQVpBN2hIa0tQcUQ5WDJMZzczX25ZUkJ2a2NBajNjQXJSZzlBT1BMSU9RckVEMXdqZXl3TUNBemNjYk43OGFDd25fdkN1dnI3RGRPbVNoOE56MVdUS01FbnZQendZWlRUWTdxVE9lc3JDS1FMc0RCaW1idk16OFpSV1gwaTgxWXNFY3U5WmVUU29JRDhh?oc=5",
+                "pub_datetime_utc": "2026-05-25T09:30:24Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:42 KST",
+        "current_rank": 15
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "크루거 국립공원 살인 사건",
+                "hook": "평화롭던 국립공원에서 발생한 충격적인 살인 사건, 남아공 치안에 비상이 걸렸습니다.",
+                "script": "남아공 크루거 국립공원에서 부부가 살해되는 비극적인 사건이 발생하며 공원 측이 긴급 보안 강화에 나섰습니다. 이번 사건으로 국립공원 내 안전 문제가 도마 위에 오르면서 관광객들의 불안감도 커지고 있습니다. 당국은 즉각적인 순찰 강화와 함께 범인 검거에 총력을 기울이고 있습니다.",
+                "original_title": "SANParks beefs up security after Mossel Bay couple killed in Kruger Park - Daily Maverick",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc1p4T25ZZ0s2WktpX095bk9kbm5IWTFrbTZxVU9CYzFyTVUtQ2FrOUZfYUF0ZlJnWWNjeXFVR1lRWHROSGl0X0dpT2NjdVFDYThDb19GRnotaFlNOFNEM1lUWWs5OUlRal8wc2NiSHF4Vm11LXcyTXQ4Z3F4dy1xZXpVeXloU3lmWWFVR2NPQzRoc1JqRXJveloyUXVGZ2pVMmctUnY5Sl95SDZfbGdxMUFqZkZUNG8tekI0bnFxOXhfZw?oc=5",
+                "pub_datetime_utc": "2026-05-24T22:08:08Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:44 KST",
+        "current_rank": 16
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "버스-트럭 정면충돌 참사",
+                "hook": "브라질 고속도로에서 발생한 대형 교통사고로 8명이 목숨을 잃었습니다.",
+                "script": "브라질 MG주의 BR-251 고속도로에서 버스와 트럭이 정면으로 충돌하는 대형 사고가 발생했습니다. 이 사고로 8명이 현장에서 사망하고 다수의 부상자가 발생해 병원으로 긴급 이송되었습니다. 당국은 정확한 사고 원인을 파악하기 위해 현장 조사를 진행하고 있습니다.",
+                "original_title": "Os números da nova pesquisa Nexus/BTG à presidência - CartaCapital",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGxUbVJaR04zdWhHNHh2MFk3bW9rNmd0cWpKZE8xdnRpd1VLS2tyVGJsczZHUTBKbmpwMGc3YzZHNHpUMkRXZ3B6dlZCakNjcGxQdjdscWhnc3FZRmpGdVlvLXFSTEg2ZGYyc2d5RkJnaDZra0c3V0pfSmc1X3c5amRSNVBpOV85cUtFZVlub2JkT3lHZnFJYg?oc=5",
+                "pub_datetime_utc": "2026-05-25T09:33:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:38 KST",
+        "current_rank": 17
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "신생아 시신 발견 충격",
+                "hook": "핼리팩스에서 실종된 신생아가 차가운 시신으로 발견되었습니다.",
+                "script": "캐나다 핼리팩스에서 실종되었던 신생아가 끝내 숨진 채 발견되어 지역 사회가 슬픔에 잠겼습니다. 경찰은 이 사건과 관련해 2명을 시신 훼손 혐의로 체포해 조사 중입니다. 어린 생명을 앗아간 이번 사건의 충격적인 전말에 시민들의 공분이 커지고 있습니다.",
+                "original_title": "Appeal of Ontario Liberal candidate nomination in Scarborough Southwest dismissed - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQWc1azcyV0FsSVpEVDhuT1VMS1FnbXAzVW43anc4NHRpWkFPV2VxcmN2dWQ1RnJyT3Z0b2lSdjNmX1lUek9oczZCVHBVRk42WHBtWTBYWFl3ak4wcVg2LXNobmd1MWpmcFpCX19reE1TYWtvNWFacWN1cDJhQWhxWUR2UU5pM0trZFp6WWw3dXBBZEk3ZWxJV3BGNnV6ODZMQkxKYTJXUEFUdzBUM09KRUpMTHkxVGNQZUlYaUY1a2lDVGljZE5JaUFWblJseFBielRBT0lOeGxoQ3ltNHdfWUxyYnBaQUpBUDRwNg?oc=5",
+                "pub_datetime_utc": "2026-05-25T02:06:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:38 KST",
+        "current_rank": 18
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "러시아 국방부 차관 사임",
+                "hook": "러시아 국방부의 핵심 인물인 올레그 사벨리예프 차관이 돌연 사임했습니다.",
+                "script": "러시아 국방부의 고위직인 올레그 사벨리예프 차관이 직에서 물러났다고 현지 언론이 보도했습니다. 군 내부의 연이은 인사 변화가 이어지는 가운데 그의 사임 배경에 관심이 쏠리고 있습니다. 러시아 군 당국은 아직 구체적인 사임 사유를 밝히지 않은 상태입니다.",
+                "original_title": "Магнитные мины обнаружены на корпусе бельгийского танкера в порту в Ленобласти - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14d2VUNm9rTTFmbGl1TmpDWkVwOHNHb3pzb2tEVlNreWpKTGlYQURwSnBEcG9wbWNZZFNSWDcwU19veDdhU2dkNy04SXVJbWvSAUtBVV95cUxOQ0JzajM3QWxKdC1hZWNteEVnQ25zRXlNZkEwNjFHTWJDZVNpeXhFUzdjRUtvd3IzMWZNUWpHXzliQzQ4amJFRUc2c1E?oc=5",
+                "pub_datetime_utc": "2026-05-25T09:50:00Z"
+            }
+        ],
+        "last_updated": "2026-05-25 19:51:38 KST",
+        "current_rank": 19
+    }
+}
