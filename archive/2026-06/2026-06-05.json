@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 석탄 투자",
+                "hook": "트럼프 전 대통령이 7억 달러 규모의 '청정 석탄' 투자 계획을 전격 발표했습니다.",
+                "script": "트럼프 전 대통령이 7억 달러 규모의 대규모 석탄 투자 계획을 공개했습니다. '아름답고 깨끗한 석탄'을 강조하며 에너지 정책의 대전환을 예고했는데요. 공화당 내부의 갈등과 법적 리스크 속에서 나온 이번 발표가 미 대선 판도에 어떤 영향을 미칠지 주목됩니다.",
+                "original_title": "Senate in overnight session as Republicans debate limits on $1.8B Trump settlement - AP News",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUVWcHBFWFgzckRLTTEwMnZQc3doT3AwMlpqVXlWeDRxQnVINnpZLVhRMHBsOC1YcUlQRXVxaWZQMF8xaFo0bE5Bb0hWYm9VclJuYXNqZlNvNVNhQW5mZjR4NDRLaFI2ZjJnOEg1dWFyMTRHbl9aUnN4ZUNna0RObnZEYkRGYlZ5Uk9nQ3dkWlZnVEFRd2xWeXB2UnhpYkRON3ozaWQxZw?oc=5",
+                "pub_datetime_utc": "2026-06-05T05:20:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:49 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "시진핑, 북한 방문",
+                "hook": "시진핑 주석이 북한을 방문해 동북아시아의 판도를 뒤흔듭니다.",
+                "script": "시진핑 중국 국가주석이 조만간 북한을 방문해 김정은 위원장과 회담할 예정입니다. 이번 방문은 침체된 북중 관계를 재정립하고 동북아 내 중국의 영향력을 강화하려는 전략으로 풀이됩니다. 한반도 정세에 새로운 긴장과 변화가 예고되고 있습니다.",
+                "original_title": "习近平同老挝人革党中央总书记、国家主席通伦会谈 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXhZaTZfd2Jmb2p6dGpWcFlNRmN3WUFiNDVUZ0xlQnJ5T0pJbGpSRVNOcm9ZZDc3RDVSZV9TTFhJNGdTLTJ6ZlUwWnRfcXQ4Qzl3MlFFUDZsRVVqUWxSQ1lNOWRMd3l1TTg1NmJ0VjQ3MjQ3RWFMc3d2OWhPYjNuTzBQYUcwdFZjcjFqQTBn?oc=5",
+                "pub_datetime_utc": "2026-06-05T08:46:01Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:49 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "立憲・杉尾氏、NHKニュース7の「トンデモない内容」に憤慨 ",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "立憲・杉尾氏、NHKニュース7の「トンデモない内容」に憤慨 ",
+                "original_title": "立憲・杉尾氏、NHKニュース7の「トンデモない内容」に憤慨 高市早苗首相の弁明ばかりで「ジャーナリズム精神のかけらもない」 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZmMtUFVJalFWYThjc0dVUGt4VnZEcVAybWQycVJfRnRNZ2pkOEFONzlYemlMVDVURmcycW1ic1dsYmVHUU92T1N0WW5aaXNwbFhOUVZaU2Nlb1oxQ0hpRV9nbWpGQ01mNVJ1U3BLNm1zek5DelEwRlhLUUQ1NzA?oc=5",
+                "pub_datetime_utc": "2026-06-05T02:45:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:49 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "마니푸르 무장 공격",
+                "hook": "인도 마니푸르에서 발생한 무장 세력의 공격으로 3명이 사망했습니다.",
+                "script": "인도 마니푸르주 캉폭피 지역에서 무장 세력의 습격으로 3명이 숨지고 주택 7채가 불에 탔습니다. 지역 내 긴장이 최고조에 달하며 당국은 즉각 치안 강화에 나섰는데요. 반복되는 폭력 사태에 주민들의 불안감이 극에 달하고 있습니다.",
+                "original_title": "BJP chief Nitin Nabin accepts Annamalai’s resignation from party’s membership - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTRPTTZaZHhrTFRrWk1hTGVIQTlCZEtxdEhYcUlucXhESndydExsWUI1WDJkM3FmOWZZLXozVmdhS2RrbWRnQmZLY1d6S3ZKakVQa2lfbkoxQ21haTNDTkNWVkI4R0QxUTFtRHY3WGZCRTRNRVRDQlpwdUxQZ1I0QzdoWEtsOGV1YzU2UFhXUmdLc1REaTJjbF9hWjhKOUdmZ21lYnFld1Juc0MxbVFiVklydnNOQXFvS1lOb0ZxSQ?oc=5",
+                "pub_datetime_utc": "2026-06-05T05:55:18Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:49 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "영국 군 수뇌부 경고",
+                "hook": "영국 군 참모총장이 '역사상 가장 위험한 시기'를 경고했습니다.",
+                "script": "영국 군 수뇌부가 현재 영국이 현대사에서 가장 위험한 국면을 맞이했다고 경고했습니다. 잇따른 사건 사고와 안보 불안이 겹치며 국가적 위기론이 확산하고 있는데요. 군 내부의 우려가 커지는 가운데 영국 정부의 대응에 이목이 쏠립니다.",
+                "original_title": "US government criticises ‘two-tier’ UK policing after Henry Nowak murder - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTZvdmNlcnN3U3lLQ1h0cDg3dGw1MG8wU2NINDQ2TFBqOXFsM2t0V2V0amhWN1dEWWdQbVYxd3BMX1FkTU1MWXRia3RvUW1RekZHVXZRVzBsdG9UUTJwTWVONnI2YXJITG9zaGxxWjBCc2hKOHowSnRrTUJMRG9oT3V2VnAwMWplZHpIcUhyblBTOXRLUWw0ZWNfcmtLNmJVZ3hSakNMYmI?oc=5",
+                "pub_datetime_utc": "2026-06-05T08:19:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:49 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "실종 소녀 수색 총력",
+                "hook": "프랑스 전역을 뒤흔든 실종 사건, 정부가 칼을 빼 들었습니다.",
+                "script": "실종된 리아나를 찾기 위해 제랄드 다르마냉 내무장관이 모든 지방 검사를 긴급 소집했습니다. 사건 발생 후 수사가 지지부진하자 정부가 직접 개입하며 대응 수위를 높인 것입니다. 과연 이번 회의가 실종 사건의 실마리를 찾고 수사 체계를 바꿀 수 있을지 프랑스 전역의 이목이 쏠리고 있습니다.",
+                "original_title": "EN DIRECT - Disparition de Lyhanna : Gérald Darmanin va réunir tous les procureurs généraux lundi matin à la Chancellerie - RTL.fr",
+                "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSTdmYlVsQ1FzS2VuSGhWSmZYaE40dnNRRmQ5WHFybF91dUN0NmtDVmFDUV9TOUgyVU5JTGJpWHpWZHZob2g2VURmNzlwNmoyYUtXNWtTc05sUFlKSHRVTEp1d3JyUDRuYUpPeTNIZG9SdjVhYWhaN1g4aWtpOXpjTzJza1VkQW1DTnAyVzR0bmhVdUNidms2X1A5a3RJeDF0MXBlQWF5M3BLUGVUeFYwdTFodmRFLUxjMFBoVGQ4YlF2TENHeDQ4bVJFUjUzd2RYTzNaNWxsMEVEaFFDNVFFLTVWdS1UVjdGVnc5UDJ1ZkREaDhVanNHeHIwdFVidUt2WW9Pd3ZHNDdESFkwd0VHT0VJVGlOUzhlR0QwaHN3?oc=5",
+                "pub_datetime_utc": "2026-06-05T08:50:53Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:54 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "비극적 참사, 논란",
+                "hook": "이탈리아를 울린 9살 소녀의 비극, 그 뒤에 숨겨진 잔혹한 진실이 드러났습니다.",
+                "script": "9살 소녀가 동생을 돌보다 끔찍한 학대를 견디다 못해 결국 숨을 거뒀습니다. 소녀는 죽기 전 자신의 상처를 사진으로 찍어 증거를 남겼지만, 어른들의 외면 속에 비극은 막지 못했습니다. 이탈리아 사회는 이번 사건을 계기로 아동 보호 시스템의 완벽한 실패를 규탄하며 분노하고 있습니다.",
+                "original_title": "Caro carburanti: nuovo taglio accise entro sabato, poi aiuti mirati ai lavoratori - Il Sole 24 ORE",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUXAxOF9pNGJvYWtHbHpQNkJVRVcyR3RTNmdqcllYU1RXS0FocENtb0dDRTNIa2lzYnhJdFdxTDl6cUJGd2RscjFJdmdxV3M1QURnbjJfMkNwOVM3NjhKSTZ0ZHZiaDVyamctZ09mQklfNHFjTGIzWTFEbHc2ZzZMd185c2gwUXpQajJRanZUaWc4eUM4Y1NQSVVid2ZubU43RUNfcWNCdmhhcFFRY095NFRqUGNUWmZE?oc=5",
+                "pub_datetime_utc": "2026-06-05T06:44:50Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:54 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "원주민 자치권 갈등",
+                "hook": "캐나다 알버타주, 분리 독립을 둘러싼 거센 폭풍이 불어옵니다.",
+                "script": "알버타주의 분리 독립 국민투표 추진을 두고 원주민 지도자들이 강력한 반대 입장을 밝혔습니다. 법적 논쟁을 넘어 시민 불복종까지 거론되며 캐나다 내 지역 간 갈등이 최고조에 달하고 있습니다. 과연 연방 정부가 이 분열을 어떻게 봉합할지 귀추가 주목됩니다.",
+                "original_title": "Civil disobedience an option if Alberta referendum proceeds: First Nations chiefs - Global News",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGtOaFNhdGxNNUVINUZNSzM3S0N2SGszeFhhZm5QOF9RWS1FR2VwcTdjTm5zeDk4bGVURkhqUDRsR3ltU0w1SmxfcXpJU2pyc2hjZGFKWGljX0ZSM2dLeEhZa2xzVmVVbVFtVXlWR19LVTFnQjRRMENNU1F6LTVuZWJKQUZSNzJXM0x1UWpFSFA5LUNpWHZVV0tEQ00xeXp2?oc=5",
+                "pub_datetime_utc": "2026-06-04T21:39:19Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:54 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "주택 시장 위기",
+                "hook": "호주 주택 시장, 이제는 '미친 상태'라는 비판까지 나왔습니다.",
+                "script": "알바니지 총리가 현재의 호주 주택 시장 상황을 '제정신이 아니다'라며 강하게 비판했습니다. 치솟는 집값과 주거난으로 서민들의 고통이 극에 달한 가운데, 정부 정책에 대한 불신과 비판의 목소리가 곳곳에서 터져 나오고 있습니다. 과연 호주 정부가 이 주거 대란을 해결할 실질적인 대책을 내놓을 수 있을지 귀추가 주목됩니다.",
+                "original_title": "Multiple One Nation MPs are unclear about their party's housing policy - Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0V4Q21kZXpuempvWHJnd3pXSjlSRnpsUXE0RkZ6QUhvc1ZKMEJVR1NzY2VFZjJkQ0hCSVVieXl1NVJ3Q2U0bVRZY3FfUTF3TTNOcVBMS0ZZM2lpaDJ6RUhrWkx5N1oyaVVmdExxTmlxSzlyYmlGc2k2aWk1VlRUYW9VZnRMZ0h4bzRMcld0cFVWaXBjN0tUUnI0ZUVqb0JkUmdUYWFmOEU5Zw?oc=5",
+                "pub_datetime_utc": "2026-06-05T05:19:31Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:58 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "한동훈 보수 재건",
+                "hook": "국민의힘의 새로운 얼굴, 한동훈이 보수 재건의 깃발을 들었습니다.",
+                "script": "초선 의원으로서 첫 등원한 한동훈 전 비대위원장이 보수 재건을 향한 강한 의지를 드러냈습니다. 하지만 당내에서는 벌써부터 친한계와 비한계 간의 갈등이 수면 위로 떠오르며 분열의 조짐이 보이고 있습니다. 과연 그가 내홍을 잠재우고 무너진 보수 진영을 다시 일으켜 세울 수 있을까요?",
+                "original_title": "“500매 미만” 잠실 투표소 경고에도 무대응…4시40분 결국 ‘투표 중단’ - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qZk9UQURTMTdjRXY4T1ZkMy16QmdSX1JzWU5pSkRibThzS254T2oxNXY2QXpHNzIzWTJ3alhlbmlMUUxuNmZnenZ3X1N0U2g2RUItVnZXUmtIU3RnTDBWU2FIWTJFNFpDcExQejNxZllZQQ?oc=5",
+                "pub_datetime_utc": "2026-06-05T07:42:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:58 KST",
+        "current_rank": 10
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "부패와의 전쟁",
+                "hook": "인도네시아 정부 핵심 인사들이 잇따른 부패 스캔들로 법의 심판대에 섰습니다.",
+                "script": "무상급식 프로그램과 관련된 횡령 의혹부터 전직 장관의 뇌물 사건까지, 인도네시아 공직 사회가 부패 스캔들로 뒤흔들리고 있습니다. 프라보워 대통령의 강력한 의지에도 불구하고 연루된 인사들이 줄줄이 구속되면서 국정 운영에 큰 차질이 빚어지고 있습니다. 인도네시아의 부패 척결이 과연 성공할 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "Eks Waka BGN Sony Sonjaya Akan Ajukan Jadi Justice Collaborator Kasus MBG - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUk5Q2RxX2JGMnpEMHJZelJLQ1FqSmVOOFJTdVl4MzR0T1pHMUV6TFdYajZCNUlMUU5oUUxwZFFqcUlIQUVPUjdVNVdvTzd0UHhrdDhlOXVMallCYXlleTI5TFV4WF96MGU2R0R4SkhqTU96ODJvX0JvQ3dreU5sejlrU3J2YjdoTXllMW5OcHFjenY1SGNoQzI5MUxYeThtbmlBTTRVN2lYa3dwbXJMTzNZb9IBuAFBVV95cUxOZEZNZXBhZEUxLWhheU93dVdkYnJxX0t3UXdJbktLS19USWJIWjdvQ0RmMHkzQWhaMVNvaWdSNHlYQ3pZWWwxSmJpYWJzMzdPTlg0Yl90eVB5Y1pxTGxIeXZfeEotd01Yay1RZW9JbkNtVzhiTUdPc0xXRW1ZYm1tZzFQMXYxRXBKWERQZmlOMWdKS253clp2SXFZQlprQW9YTkZLc1ZRM1FHNXhLZi0xN2VRNE5GWm9u?oc=5",
+                "pub_datetime_utc": "2026-06-05T03:35:07Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:58 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "물가 폭등 경고",
+                "hook": "터키의 5월 물가 상승률이 발표되면서 서민들의 경제적 고통이 극대화되고 있습니다.",
+                "script": "치솟는 인플레이션으로 터키 국민들의 삶이 벼랑 끝에 몰렸습니다. 정부가 다양한 물가 안정 대책을 내놓고 있지만, 체감 경기는 여전히 차가운 상황입니다. 계속되는 경제 위기 속에서 터키 당국이 어떤 추가적인 대응책을 마련할지 시민들의 시선이 집중되고 있습니다.",
+                "original_title": "Mayıs enflasyonu belli oldu - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmF3QVBEczJkN1lXV1lOaWxfektxQ2d6b2dVd1Y3bm5YS1d2UFVmMjdDZlMweWlsR1VPMWdVYVJIUGNlYlh6NWtITWhQZVlpcF9iczN6UzYyd3I2NUhqOUVSY1pzVVpfVDg2QkhEQ3hQWEVxT0dFNlY1b0tTUkVmME9QREU?oc=5",
+                "pub_datetime_utc": "2026-06-05T06:59:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:58 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "남아공 부패와 폭력",
+                "hook": "남아공 전역에서 터지는 부패 스캔들과 혐오 범죄, 과연 국가는 안전한가?",
+                "script": "최근 케이프타운 고위 공직자들의 부패 혐의 수사가 급물살을 타는 가운데, 외국인 이주민을 향한 혐오 범죄까지 확산하며 사회적 갈등이 최고조에 달했습니다. 라마포사 대통령은 제노포비아 논란을 일축했지만, 비즈니스 리더들은 경제 붕괴를 경고하며 정부의 즉각적인 대응을 압박하고 있습니다. 전력난부터 폭우 피해까지 겹친 지금, 남아공은 국가적 위기 돌파구를 찾기 위해 기로에 섰습니다.",
+                "original_title": "Madlanga Commission | Colonel Gavin Jacob under scrutiny for being on leave and attending R200m cocaine bust - IOL",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcTJaV215V040Q3NQbG41Nl9wOU5LbjBSQURlOVhhWUlMdW1ndFdvcG5KY2U3YndhYjRXbjlRZDNoUEltYWJLUUU3bEd0NXBnS0lUZ1pXT3BZd2dLaGlwQ1VxeDV5MENzcFBkUVZ1ektBWjJVNUpTSFFyV0pjNXpJdzdXcVlXczNHT05KcEcwZW96cWdfX0pnOU80cWRJd2FhNG1rRnp6X3BHZlh3bzJXYjNfUjZkN0djQzdUdk1LVEtkQlBCeWtRNHEzdkQ4WVNscTViaDJEWWxNUQ?oc=5",
+                "pub_datetime_utc": "2026-06-05T03:58:41Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:59 KST",
+        "current_rank": 13
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "루프트한자 급강하",
+                "hook": "하늘 위에서 발생한 아찔한 사고, 루프트한자 여객기가 급강하했습니다.",
+                "script": "독일 프랑크푸르트 공항에서 루프트한자 드림라이너 기종이 비행 중 급강하하는 사고가 발생했습니다. 이 사고로 기내에 있던 승객과 승무원 등 다수가 부상을 입고 치료를 받고 있습니다. 현재 정확한 사고 원인을 두고 정밀 조사가 진행 중입니다.",
+                "original_title": "Strengere Einstufung, längere Wartezeiten, höhere Beiträge: Was Warkens Pflegereform für Sie bedeutet - Frankfurter Rundschau",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVFtSmxfbDRyWVlremVrSTAxQm9vTVJnWmhyRUJzX1JGV2dsdU90b293R2xxSGJOOXpYaDgycnBTOFhuSEFnUGw2ZnUtNGZyaTdZSldjTHhEOUpYM1NWLVpwYWlWVlROTEF6VHJkM3hFZENLcE1vaWlHallOUzBkaDBlamk1OHpWNjY3RWJpQmR0cTN1U24wazFoWW1VRVMzd3VmcmlFczhnMGJPb0dleg?oc=5",
+                "pub_datetime_utc": "2026-06-05T02:46:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:49 KST",
+        "current_rank": 14
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "젤렌스키, 종전 제안",
+                "hook": "전쟁을 멈추기 위한 젤렌스키의 승부수, 푸틴은 응답할 것인가?",
+                "script": "볼로디미르 젤렌스키 우크라이나 대통령이 블라디미르 푸틴 러시아 대통령에게 직접 만나 종전을 논의하자고 제안했습니다. 전선에서의 교착 상태를 타개하기 위한 파격적인 제안이지만, 크렘린궁은 여전히 미온적인 반응을 보이고 있습니다. 세계의 시선이 과연 이 대화가 평화의 시작이 될 수 있을지에 집중되고 있습니다.",
+                "original_title": "Lula diz que faltou à Marcha para Jesus para não \"tirar proveito\" - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXA2VkhKOVZXNmJuMjNpamxWbFpSX3ZITmtQb1ZvZ21HQ21yV2taOXBockFuMC14LWk4NGtKczFueF9vbG9KNmxlc09OSlAxdkhMUEg0anFCeDQ0OUZLRjZ1cC1oYnYzM1NMa3BUZUdMWEVwZi1ONnpueGhTTk5NLUVIZ3lDajBjdEkxRHJZZi1fN1FZWVYtODRfdDkydGtfVWVndU5TaVBxZw?oc=5",
+                "pub_datetime_utc": "2026-06-04T20:35:12Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:54 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "러시아 본토를 강타한 대규모 드론 공습, 긴장감이 최고조에 달했습니다.",
+                "script": "러시아 전역에서 밤사이 120대가 넘는 드론이 격추되며 사상자가 발생하는 등 긴박한 상황이 이어지고 있습니다. 연이은 공격으로 러시아 본토의 방어 체계에 비상이 걸렸으며, 피해 규모가 점차 커지고 있습니다. 전쟁의 양상이 러시아 내부로 깊숙이 파고들면서 국제 정세의 불확실성도 더욱 커지고 있습니다.",
+                "original_title": "Беспилотники летят на Москву. Всего в стране за ночь сбито более 120 - ФОНТАНКА.ру",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xald5ZHRwcmF5Nk9obFlsTjVqaGw5OFdkcDhPTW1XazhKbU4xbUZVTGdIQmQwV3VxZk9rQmZ0OHpIeXFuc0RXVDE0OFJyc1pkOW1TREN6WQ?oc=5",
+                "pub_datetime_utc": "2026-06-05T04:28:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:54 KST",
+        "current_rank": 16
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Kenia López pide a AMLO que de",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Kenia López pide a AMLO que de",
+                "original_title": "Kenia López pide a AMLO que deje gobernar a Sheinbaum, 'al menos no estorbando' - Aristegui Noticias",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT210MDc1ZWg0RzYxMUFkX29ERVozY2o0QlBLZklwd2lRdVZ3cFphY1phWnM2VTNUVElJbjNxWEhyczBodHN3d0V3S2lwcS1EQTRaTzY3Qzlzc1F3TzBCVFo3Q1FSb1J0bjUyQ3NUdlpqZ245NWpTUVpnT2JyMWFsSDVJVS1LeGg4dXhlM0dxRzV2SkNXVmU3VHRKSUNEZGpJVThwdXhjdUo1RzRNRzFFVEtvSkg4S0k2UTdB?oc=5",
+                "pub_datetime_utc": "2026-06-04T14:23:00Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:54 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "폭염과 중동 정세",
+                "hook": "사우디아라비아를 덮친 47도 폭염과 긴박한 중동 정세가 함께 요동치고 있습니다.",
+                "script": "사우디 전역에 47도에 달하는 기록적인 폭염 경보가 내려진 가운데, 중동 지역의 안보 위기까지 겹치며 긴장감이 고조되고 있습니다. 미국과 이란의 단계적 합의 소식과 함께 지역 내 갈등 해결을 위한 외교적 움직임도 바빠지고 있습니다. 기후 변화와 정치적 불안정이라는 이중고를 사우디가 어떻게 헤쳐 나갈지 주목됩니다.",
+                "original_title": "قنصلية إيرانية تعيد نشر مزاعم بشأن ضربة مطار الكويت - CNN Arabic",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVRoSnBpdmlIQ3FodWY3ZFJQWW5oaWhyX1Q5anBFTWZ4VGRRUGJvNGpOTHAzelFzdjYtWm5ET3NVbV9rd19KQ1Q3SW9fSzhGZmJQOGl1QUNMVUJjaFVaa1EwVEVEcUZxZjNxelE1Qk5ZbXp5QmJCR1BjbVJnbzAtMU5LWmszZEN1WjA2VF80dkhhc09KTE83RWFKZFNrb3FVQlFIR09nONIBsgFBVV95cUxQVDdlSlIyV3ozWmw1c1p5RjA4UUE1Tk1TQjB3N2l2akpUSExKdUl2Y1ozTzFXb1Jzel9GSWpLRTFUSVFaUVZucGpqUVZLN1MwdG9BbDRfVlRZZDNHdGZwM1A1azdYX2hPVm9XbjBBN25TVUhlS3ZHbmtWQmRRTnQwdG5obTFMcVNXWjF1Qy10bVhHX0Z1OHZDZm9yUHBxREVCQ0ZQRVdsQnJqLTBEczZvVldB?oc=5",
+                "pub_datetime_utc": "2026-06-05T05:20:23Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:58 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "대학 예산 갈등",
+                "hook": "아르헨티나 정부와 대학가 사이의 예산 전쟁이 법적 공방으로 치닫고 있습니다.",
+                "script": "아르헨티나 정부가 대학 예산 증액을 조건으로 소송 취하를 요구하면서 학생들과 교수들의 반발이 거세지고 있습니다. 경제 위기 속에서 교육 예산을 둘러싼 정부와 학계의 갈등은 점점 깊어지는 모양새입니다. 미래 세대의 교육권을 지키려는 대학가와 효율성을 강조하는 정부, 과연 승자는 누가 될까요?",
+                "original_title": "Caso Agostina Vega, EN VIVO: qué se sabe del femicidio, el nuevo detenido y la situación de Claudio Barrelier este jueves 4 de junio - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHZIMEpyUE40Q2xlcGZxMFlzU3hydEtKaTc1NFJFNVl3ZGtTSmR6Z003cHM4ZmVhbEtLTElDaHJBNEpFZVV0Z2xYU20xUEprWi02bFVwb0wtaWlFSXQzRTFFRHRkRDZIVTY0MktBUXNDN0RRV3Q2eV92Z1dMSmt3NnRiU3hRd3UyUzZLR3B6TWlNSzJoamp5OXd1OWlGcmprM1VFRmVjY3N6SlBseC16NGR0cVhwaDFNa0JlVFpBWFg4NGN0QVJDUE1JYw?oc=5",
+                "pub_datetime_utc": "2026-06-05T02:39:07Z"
+            }
+        ],
+        "last_updated": "2026-06-05 19:17:58 KST",
+        "current_rank": 19
+    }
+}
