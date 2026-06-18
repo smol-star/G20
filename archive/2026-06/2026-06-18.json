@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프-이란 평화협정",
+                "hook": "전쟁을 끝내겠다던 트럼프의 승부수, 공화당 내 거센 반발에 직면했다.",
+                "script": "트럼프 대통령이 이란 페제시키안 대통령과 종전 협정을 체결하며 세계를 놀라게 했습니다. 하지만 공화당 내부에서는 이번 합의가 지나치게 성급했다는 비판이 쏟아지고 있습니다. 나토 동맹국들에 대한 압박까지 더해지며 트럼프의 파격적인 외교 행보에 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "Trump and Iran's Pezeshkian sign initial deal to end war - live updates - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NYm9jeGotYkFwU05OQlNxZm45V1M5aFM0Q1drNzdrOHFUX2dWUldoMVFWbjViOVNHREpYV3lhSzlCaE9KYkpKb1VzSlpvd0FGSDR5cA?oc=5",
+                "pub_datetime_utc": "2026-06-18T10:04:18Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:09 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "남부 폭우 비상",
+                "hook": "중국 남부 전역을 덮친 기록적인 폭우, 당국이 긴급 구조에 나섰다.",
+                "script": "중국 남부 지역에 쏟아지는 폭우로 인해 피해가 속출하고 있습니다. 정부는 '비'를 명령으로 삼아 민생 보호와 긴급 구조에 총력을 기울이고 있습니다. 한편, 국가통신망을 통해 당 기강 확립을 강조하며 재난 대응과 사회 안정을 동시에 꾀하고 있습니다.",
+                "original_title": "纸尿裤被曝检出毒性物质甲酰胺 “好奇”“碧芭宝贝”“Babycare”回应 - 财新",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDdmFzcDFHMWRjSXJDdi00czl1V1lOcjZoblRvWDc0MVdIZEtVOTlxTFVuVWRNM2J2LXZzbDFyT1lMYkNJZ3VfaElhNWpNWXJBQTIzak9mSUJpZnhMYjJJcFBfeXc?oc=5",
+                "pub_datetime_utc": "2026-06-18T07:47:00Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:09 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "트럼프 이란 협정",
+                "hook": "유럽의 안보 지형이 뒤흔들린다, 트럼프의 독자 행보에 독일도 긴장.",
+                "script": "트럼프 대통령이 이란과 깜짝 종전 협정을 체결하면서 유럽 외교가 술렁이고 있습니다. 나토군 재검토 선언까지 나오자 독일을 비롯한 동맹국들의 불안감이 커지고 있습니다. 한편 국내에서는 연금 개혁과 강력 범죄 사건들로 인해 정치적 갈등이 더욱 심화되는 모습입니다.",
+                "original_title": "Iran-Krieg - Trump in Versailles, Peseschkian in Teheran: USA und Iran unterzeichnen Rahmenabkommen - Deutschlandfunk",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVE5OV0FLXzBUWVBneFR6R2NoZ1ZUbmZJUUdlV1FGZ2pUdGdmekZjeWhVQ2o4cjZxUlhBV2xhN2ZjOE00eGpfMnE4SWd0VVZLc0NoUk9XbUQtYkp4aHFsOVk3NFp6Z3ZrZXRIc2JBWXBscVQweWJSalh4ZHZ2aVRJaEltazJzdFZRb1I5VlNRaEs5LUYybW10d0hpbm83eFFPV2FrcHlQUUxFYW1lYXR1bFZYeXZRbjA1WE9EeFBQaDRSQQ?oc=5",
+                "pub_datetime_utc": "2026-06-18T07:38:39Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:09 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "모스크바 드론 공습",
+                "hook": "전쟁의 불길이 모스크바를 덮쳤다, 사상 최대 규모의 드론 공격 발생.",
+                "script": "우크라이나가 전쟁 시작 이후 최대 규모의 드론 공격을 모스크바에 가했습니다. 영국에서는 총리의 정치적 운명을 결정지을 역사적인 보궐선거가 시작되며 정국이 긴박하게 돌아가고 있습니다. 트럼프의 이란 협정까지 더해지며 영국 정치권은 안팎으로 거센 파도를 맞이하고 있습니다.",
+                "original_title": "Moscow comes under largest Ukrainian drone attack since start of the war - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxQVNQZEpjcFdNUm1hYS1CUk9McWNyZlR3TERPNUNhODR5VUN6Mzd5Ql80MngxTFhkbnYycTVuWWhYN09aRDRJTmNuRFM5QmdOdXNNNnNsTXR0MXlo?oc=5",
+                "pub_datetime_utc": "2026-06-18T09:47:47Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:09 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "프랑스 폭염 비상",
+                "hook": "이번 주말, 프랑스가 기록적인 폭염으로 멈춰 섭니다.",
+                "script": "프랑스 전역에 닥친 극심한 폭염으로 SNCF 열차 71편이 운행을 중단했습니다. 학교들은 수업을 취소하고 있으며, 전문가들은 주거지의 절반이 '찜통'이 될 것이라며 경고합니다. 특히 여성 건강에 치명적인 영향을 미칠 수 있어 각별한 주의가 요구됩니다.",
+                "original_title": "EN DIRECT, guerre au Moyen-Orient | après la signature de l’accord Iran-Etats-Unis à Versailles, de « premières négociations » toujours prévues vendredi en Suisse, annonce Berne - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZ3JTQ010VTJGTjRKUkZDYVU1UDUzOVp0NXpnZjM3MnZwcFRSUzlSOEE2YVpUcS02eUxEcE5wMXZhNUlDSWo1VkVBRVF4WmsyTDZ3T29Cd2lvenBtUERndXB3WXVnT0lfVVVUMkczQUZIQzBOdkt4VXhlVTA4RGU0ZE1xaEo5THdFdDlldE5YZ3F0N21aRjU1eU9Ib1NDR0dONnVnQnN5eGVzWWhnRUgwR0tOVjJhcnpTM21uWk41d0ozanh6TkIyci05N1d0U2VmMlN5QXJsaG9IU0E5XzJ4RGh1d1J2VmNtWFBsakNGR192X3NFYUY0S0JCb2gwMG04cWRDZGVTM1NxZWczRFB1c2hNSkctVE13WXpTQUpuLVQzWXlnM1pnWFM2UUxCaXRhOGh3WTM5TVdFSnBxcDE4ZFZkN1hzZ0U3UVdZT2QxcFB2VnBCb0RYNm9ERQ?oc=5",
+                "pub_datetime_utc": "2026-06-18T09:50:38Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:12 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "모스크바 드론 공습",
+                "hook": "우크라이나의 대규모 드론 공격이 모스크바를 강타했습니다.",
+                "script": "오늘 새벽, 키이우가 모스크바를 향해 대규모 드론 공격을 감행하며 긴장이 최고조에 달했습니다. 한편, 이탈리아에서는 마투리타 시험이 시작되었으나 철도 케이블 도난으로 열차 운행에 큰 차질이 빚어지는 등 혼란이 이어지고 있습니다.",
+                "original_title": "Maturità 2026, oggi prima prova scritta: nelle tracce anche Pavese e Calabresi. LIVE - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmk1aXgxSXk0QW1KV2dQWlJFNTFYNnhHSzJyZ3p0UVM0T0o0SXlOU29yNlBieWphd3Uya0pLV1NoMzd3VVdJOGNodUg1Q2J6UDN2X1dUREFfUDdicks1Q2hodV9QLTloaUlycEM0bDN3cU52emdFUGNldXFvS1JMY1REVlBGdw?oc=5",
+                "pub_datetime_utc": "2026-06-18T10:30:15Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:12 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "트럼프-이란 협정",
+                "hook": "미국과 이란의 전격적인 협정 체결, 전 세계가 주목합니다.",
+                "script": "트럼프와 이란이 전쟁 종식을 위한 공식 협정에 서명했습니다. 이 소식에 룰라 브라질 대통령은 미국의 내정 간섭을 경계하는 발언을 내놓았습니다. 한편, 브라질 연방 대법원은 빅테크 기업들에 현지 대표를 둘 것을 강제하며 통제를 강화하고 있습니다.",
+                "original_title": "Polícia Federal deflagra 9ª fase da Operação Compliance Zero - G1",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1B3VUd3dndxV0ZpTmNYdGhzZ0xtX0VWTWcyRVBFZkwzenZxckgxNnFKdW5kY2lxRUg3ek9GX2kyOW1wQzlYT2ZiUXZPTmNYNUhlUEQ0eldhMmRHRWttMnJiek1KUEFSMG14cU1pWkcyV29TMVU4WGJ6M3NTOFFOWW91UzFDM3pmaVd4SVBDRGJZM21DVUNjWFhHMG50MnBXdHpDWXVB0gG0AUFVX3lxTE5HRzhUZlU1QUxNQzlxdWpjbl9XZk9tYU1POGdUQzQ5b0pQOUpaVFYyQXdZMVZMYkU5NXgyV2ZGdXRVajZkNzZyUGt1T1JfNWFka0Jpb3ltbVlyTzdReU9pMjVuOHFGY255MUN5ME9pZ2Y0aTYtVXNsNG15Q2VUVnh1MmxQeDhxVEdDUUNtcXdTbmJSSkJsejJJd3RrYThnZ1VtSVVpRjVOM19IdnNyM0pELWpINg?oc=5",
+                "pub_datetime_utc": "2026-06-18T09:44:13Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:12 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Trump and Iran's Pezeshkian si",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Trump and Iran's Pezeshkian si",
+                "original_title": "Trump and Iran's Pezeshkian sign initial deal to end war - live updates - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NYm9jeGotYkFwU05OQlNxZm45V1M5aFM0Q1drNzdrOHFUX2dWUldoMVFWbjViOVNHREpYV3lhSzlCaE9KYkpKb1VzSlpvd0FGSDR5cA?oc=5",
+                "pub_datetime_utc": "2026-06-18T09:34:25Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:12 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "모스크바 드론 습격",
+                "hook": "모스크바 상공에 180대의 드론이 쏟아졌습니다.",
+                "script": "러시아 수도 모스크바와 인근 지역이 역대급 규모의 드론 공격을 받았습니다. 180여 대의 드론이 격추되었고, 아에로플로트 항공편 170여 편이 취소되는 등 교통 대란이 발생했습니다. 군 당국은 이에 대한 강력한 보복 타격을 즉각 예고했습니다.",
+                "original_title": "Одна из самых массированных атак на Москву и область — на подлете к столице уничтожено 180 БПЛА - BFM.ru",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBjc1F6V3hLZF9UVkM1MHRaOFdDYTFJTTdlU3RrSkl5RV8wMDh4MGxwOUlidllYdFBCODRhTFpLX0p3OExx0gFKQVVfeXFMTlpjZ0NZSWVoMl9WNXlHUnpjOUZERnhYaEtWU1VFeTV2V09KaU1VYmlTT0xiMjIzazlvVTBDdFVSUzhhcFQzOUVybFE?oc=5",
+                "pub_datetime_utc": "2026-06-18T07:27:59Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:12 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "멕시코 카르텔 압박",
+                "hook": "미국이 멕시코 카르텔을 향한 군사 행동 가능성을 경고했습니다.",
+                "script": "JD 밴스는 미국이 멕시코 내 카르텔에 대해 군사적 권리를 행사할 수 있다고 경고하며 협력을 압박했습니다. 국내에서는 시장이 자신의 납치극을 꾸며 횡령을 은폐하려던 충격적인 사건이 밝혀져 시민들의 공분을 사고 있습니다.",
+                "original_title": "Puede que el acuerdo de Trump con Irán sea un fracaso, pero está consiguiendo lo que quiere - CNN en Español",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSXlmMnp4WGd3R0U2eWZkRVBURTcxanp2REd6cmRfaTdRSEh0RDJYT0hMOHlCZm1pSU1mTXZCZUpjdG5udUU2VHI1Y0syZktjVWZjdUFRS2U3ZGpXSjhFVXJaclpkNWlhbE1vZ29hYUllNUlESEZDcDU5LWpobGVXbw?oc=5",
+                "pub_datetime_utc": "2026-06-18T05:10:00Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:12 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "폴린 핸슨 논란",
+                "hook": "호주 정계를 뒤흔든 폴린 핸슨과 불도저 선물, 과연 무슨 일이?",
+                "script": "호주 상원의원 폴린 핸슨이 억만장자로부터 거대한 불도저를 선물 받아 논란의 중심에 섰습니다. 극우적 발언과 정책으로 비판받아온 그녀의 행보에 정치권이 발칵 뒤집혔는데요. 이번 사건이 호주 정계에 어떤 파장을 몰고 올지, 국민들의 시선이 집중되고 있습니다.",
+                "original_title": "Pauline Hanson’s speech ‘shameful’ and echoed ‘rubbish’ from rightwing figures in UK and US, critics say - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU3lrb1U0MUFBQlIxZmtOTkZzc0d3OHRqVzkyemUyZWJyb0c5UF9nTHZ2c2xReGNrSmZEaW1JUlFKaTJia1dNUG40SDdJRExDYWIyWDRQbHZvSV9pREg4cTVvbGZPd3pKRGpaNF9nclhlNFJ0V252M2VFWTI2MThDeHpUMm4zZmZscFRjZmpHeVI4aXZvSFZUUnQ5LWsyakxBaTA1UjNnLXN2ZkhFUllzd2hIdmttM0JENVJ1UDV6TlVSaEZoS0dzUE9oSkRObnBCMVEtYm5ZaVQ5c0FpUHNCZTBsOE42QVdHUkR6cjZzaHZuQQ?oc=5",
+                "pub_datetime_utc": "2026-06-18T07:57:00Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:16 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "선관위 투표 부실",
+                "hook": "투표소에서 400매가 사라졌다? 선관위 투표 부실 의혹의 진실은?",
+                "script": "최근 공개된 투표록에서 옆 투표소에서 투표용지를 빌려오는 등 이해할 수 없는 혼란상이 드러나 파문이 일고 있습니다. 국정조사 요구가 빗발치는 가운데, 투표 부실 사태의 진상을 규명해야 한다는 목소리가 커지고 있는데요. 과연 우리 선거 시스템에 무슨 문제가 있었던 걸까요?",
+                "original_title": "트럼프, 베르사유궁 만찬 중 공개 서명…하메네이, 예상 뒤집고 합의 승인 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BVHN5VjBWWU5ZYUVKN2x4Nk9md0ZtaHZ0Y2tzNU90TENrMjZlTy1DTFFmc2dsYkp3QTU4YlB5ZVRHTWZLZ1pwVmRHY0t1Q1M0MWlqSE02aW5rVl9EZG0wc29BRWJOVUtDb1A2UDdya0RvZTQ?oc=5",
+                "pub_datetime_utc": "2026-06-18T08:38:00Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:16 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "Wamensesneg dan Kivlan Zen Ter",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Wamensesneg dan Kivlan Zen Ter",
+                "original_title": "Wamensesneg dan Kivlan Zen Terluka Saat Kericuhan Eksekusi Hotel Sultan - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1dCMWYxYXc5ZlRpaUpkMWQtcGJBRDJkelMtVjUxcWpPVlBvWTgxaUhla1VmVXlGZWlEZnlGY1hSYkJJSmtxVC14WWo0ZU5BRy1HVU55dlh1SEViWGFIMzZWaENmMUJodUpRV3dyNXZDam9zODdSdjljS0hyeVVmcHY3OU9iNnRIYjFseXRiM1RhMkh1aDcteU5KVXFMdFk5MEFZRFRFTl9tR1hZeXlUbdIBtgFBVV95cUxNamxhc25ZN2VBNDFIWnZMeTRVZ182ZVN1YVJ6TGVIMTU1WWhPcDJuNTJvNmdnN1JsSTZjYVVlS2ZzRTNxRWRFNUx6WDEyTGw4eHNKeXE3Vk4yZkpHNmJEOHp4VHNwOGk3WkNCVzllTW44Z2FVVWhoSDk0VGlxRkphUWdWS2ZhcFhHbG5iYTBGRGRWaXNqZ19hR2ZhdnhxbGZveV9DOVRiM1FlT3YtRlFZemxaMERSZw?oc=5",
+                "pub_datetime_utc": "2026-06-18T08:50:51Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:16 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "모스크바를 강타한 우크라이나의 대규모 드론 공격, 전쟁은 새로운 국면으로?",
+                "script": "모스크바의 석유 시설이 우크라이나의 대규모 드론 공격을 받아 큰 피해를 입었습니다. 러시아 본토를 향한 공습이 거세지면서 전쟁의 긴장감이 최고조에 달했는데요. 과연 이번 공격이 전 세계 에너지 시장과 전쟁의 향방에 어떤 영향을 미칠지 전 세계가 주목하고 있습니다.",
+                "original_title": "Fenerbahçe, teknik direktörünü açıklıyor: Resmen duyuruldu - T24",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmVST2hvWlVNR2prMEJ6ckNUa0ZZNWdFUVNYWUhzVVZndlJDOHFMYmxFdzJPM08xWnB2bEJWMUk0UWFQTUNYM1l6VVNiY2JjWW8zOTduQzRpaFlpVWwzZUdqblZpRHc3UUY3ZWlpbXNvdmEyNmFOREJxTW13ZlZKNHdKem1kbTBPbkx4dnZ1NGd2N1ZoY0FCX2dGMVJJRGM?oc=5",
+                "pub_datetime_utc": "2026-06-18T08:18:00Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:16 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "미-이란 극적 합의",
+                "hook": "전쟁 끝내나? 미국과 이란이 60일간의 평화 협상을 시작합니다.",
+                "script": "미국과 이란이 전쟁을 종식하고 60일간의 평화 협상을 시작하기로 전격 합의했습니다. 수년간 이어진 갈등이 과연 이번 협상을 통해 마침표를 찍을 수 있을까요? 중동의 운명을 바꿀 이번 역사적인 합의의 내용을 지금 바로 전해드립니다.",
+                "original_title": "باكستان تعلن تنفيذ مذكرة التفاهم بين أمريكا وإيران \"فوراً\".. وتكشف الإجراءات - CNN Arabic",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWENpcnUzYUROMTdweEJ5cVpmNXE3Q2M3b3BRR0Z5ekdELVcyamFIcXlWdnhNWHAtQV94UkpRVVlyYnl4VGtJdjhBbE1lZng2OW0zX1NhNEQxNzJzYktUcDBfVXNMZzdoczR5NHU1Q1hOU21xZS1EZWtQMElHMDBxLUhoZVhFX01PTGh1VjRMUEQzUXc4WW1MRm1yR2RtTklCeGx3MXVXUXktcURYalNvV3VIQWduTlM2d2N3d1RfRlrSAcsBQVVfeXFMTmdqOUFlZ3NmOXhIdk94NkJrQ19zeWtiWUozVkxTanNPeTYtdU9GbUNGcWdwLW4yNlZGeUl0S3JrNkppaUtzYjl1dlEwMW1feFpsREw3NmFIcW52Z0gwZ01seEg3S0hpanVBclNINW04QVgyT0xiamhFc1Yya0ZReDJXTnNhVDdOUEJpLVgyak9zSld0X0RxR3NHejFUVkZVMVZ6YzRjSUdlQ0NfTXZpdUE3eVpCVVotQnN1a3hRTVJrempOVlh5akVrT0U?oc=5",
+                "pub_datetime_utc": "2026-06-18T01:04:08Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:16 KST",
+        "current_rank": 15
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "남아공 정국 격랑",
+                "hook": "라마포사 대통령의 운명을 가를 긴박한 일주일이 시작됐습니다.",
+                "script": "탄핵 위기에 몰린 라마포사 대통령이 긴급 당 지도부 회의를 소집하며 대대적인 개각을 예고했습니다. 한편, 크루거 국립공원 내 관광객 사망 사고와 증인 살해 사건까지 겹치며 남아공 사회가 큰 혼란에 빠졌습니다. 정치적 격변과 치안 불안이 동시에 터져 나오면서 남아공 정국의 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "Impeachment committee will oppose Ramaphosa’s interdict application - News24",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbEluUmp6WldINlBUNzVTSTJGN3pkc0EzWFJxc0lLTUxnbktZSWVxMlRVcC02OXZvQURMbTJGRUZPWXpRcTAyQXZvemJKQTlmdkhubVNJM2RuZzNsYm1rYXRfaWVIcTZnLVlkMzh5d3ZKVVlraXpCTGtxY0NHa1E4RTJvQXpkQm5PS1FrMGNiUGJkMUlMQ0hERElEU1J5M0k5THVVaTd2UXBvWmxEWmJiby1n?oc=5",
+                "pub_datetime_utc": "2026-06-18T09:43:51Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:18 KST",
+        "current_rank": 16
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "우크라 모스크바 공습",
+                "hook": "끝나지 않는 전쟁, 우크라이나가 모스크바를 향해 최대 규모의 드론 공격을 퍼부었다.",
+                "script": "우크라이나가 러시아 본토인 모스크바 정유시설을 겨냥해 역대급 드론 공격을 감행했습니다. 트럼프의 이란 종전 협정 소식까지 겹치며 국제 정세가 요동치고 있습니다. 일본 내에서는 안보 문제와 함께 비극적인 강력 사건들이 잇따라 발생하며 사회적 충격이 커지고 있습니다.",
+                "original_title": "眠ったままの日七未 「胎児は人か」 家族が突きつけられた問い [愛知県] - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKa19POVhpOUtPaDJkVFpDSDBKa2hnWUZWQ2VpdG1rdENYR3Q0U3RrZExJN1hWdWRZYU4xVFVVM1BIbDJ6T2poTGZMVU9lQzEzdXg0MFdjX0Z3V1NpYUlLUnZUVzluM1E?oc=5",
+                "pub_datetime_utc": "2026-06-18T09:04:46Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:09 KST",
+        "current_rank": 17
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "트럼프 무역 협정",
+                "hook": "트럼프가 직접 언급한 인도 무역 협정, 모디 총리와의 관계에 청신호가 켜졌다.",
+                "script": "트럼프 대통령이 인도와의 무역 협정이 임박했음을 알리며 모디 총리를 강한 지도자라고 치켜세웠습니다. 하지만 트럼프의 중동 정책이 네타냐후 총리에게 새로운 골칫거리를 안겨주며 국제 관계의 복잡성이 더해지고 있습니다. 한편 인도 내부에서는 정치적 변화와 사회적 이슈들이 맞물려 뜨거운 논쟁이 이어지고 있습니다.",
+                "original_title": "3/9 MPs At Key Meet: The Six Who Can Break Uddhav Thackeray's Sena, Yet Again - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczg5VEpjT2xUa0tnUFVCRWU3QzU1VVB2aDFYTmxKbURTaGtmcTc3bU5JRDBncHE2T0hRa19QcTJlTE42Zmt2d0xCVW12T1VjcF9EdU5TbmdfYVRHVW5sQXVkeWdyNnluSmZTRDVqZnloNU4tRnpfMGpjTG9IdVVMalZKeEZOZFdoaEcyT19GZTZQZE1NQkVnWXpNOEwtQk5kVzdXcA?oc=5",
+                "pub_datetime_utc": "2026-06-18T06:14:59Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:09 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "아르헨티나 정국 혼란",
+                "hook": "의회 마비 위기, 아르헨티나 정부가 벼랑 끝 전술을 펼치는 이유는?",
+                "script": "아르헨티나 정부가 상원 의결을 막기 위해 강경 대응에 나서며 정국이 급격히 얼어붙고 있습니다. 연금 개혁과 부채 문제로 인한 사회적 갈등까지 겹치면서 아르헨티나의 앞날이 안갯속입니다. 지금 아르헨티나에서 벌어지고 있는 정치적 격변을 정리해 드립니다.",
+                "original_title": "El Gobierno envía señales de que Adorni tiene las horas contadas para evitar que sesione el Senado - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMS01cHViZmtxWXIyZ3RpSkJrVnB0dWhOb0VQNnhIUm5HbUgwQ2ptWHd1OWVuWU5JLUxYZjM4cnBTSWpLaUNWZ2ZtMzgwOHdxdWJObU5idTN6R2ZaVS1Rbjh1dWJXZGRtQXFLcjYxYXlWYlVYTU9ZUS1BOWtTbGN6WFJ1TDhMdktvS0tCV3FXeGl0cVNIWkdYQk5LbVJXb2t3MGNBOFZhWmZnLThOOVloNUh2UUFjSTEtSGNlYW5nNVpDRDBVbmxRem9zR1lnQVFpV0R5ZFRCR2o4bDlCblc4NDBB?oc=5",
+                "pub_datetime_utc": "2026-06-17T16:24:00Z"
+            }
+        ],
+        "last_updated": "2026-06-18 19:49:16 KST",
+        "current_rank": 19
+    }
+}
