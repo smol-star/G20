@@ -1,0 +1,325 @@
+{
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 소비 시장 활기",
+                "hook": "단 3일 만에 5천억 원 돌파? 중국 소비 데이터가 심상치 않다!",
+                "script": "최근 발표된 중국의 소비 데이터가 시장의 주목을 받고 있습니다. 단 3일간 무려 5억 7천만 위안이 소비되며 강력한 내수 회복 신호를 보냈는데요. 과연 이 흐름이 중국 경제의 새로운 반등 포인트가 될 수 있을지 관심이 집중됩니다.",
+                "original_title": "《习近平党建文选》第一卷、第二卷出版发行 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03SDJscTBtT0ZPazU4eGs2SUZ1aTVQRDlDZ2lBaDQ3U2tvc0ZFOVVwaHZMTk8xWXNOZGhidERTaTF0a1FmLXd5WTI1N0Q1Nk9PbVRBVnRVcjU1WXhXTWtib2hjRHNJTnVDRUMzSThSYkRrWFRkZV9n?oc=5",
+                "pub_datetime_utc": "2026-06-23T09:27:53Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:33 KST",
+        "current_rank": 1
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Merz will Rentenvorschläge vol",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Merz will Rentenvorschläge vol",
+                "original_title": "Merz will Rentenvorschläge vollständig umsetzen - WELT",
+                "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSkIwcGhIdDVnWEVOVERtcnVCYi1LeFBlcGpya2w2MDdRdGhXMjVyOTdWMXRtWEtFbHBQZVp6QmZTVjdLb3lWeXN1M3hOZm9BV1BFTEgwWmFNckV3R016SzloeVB2UE9VLVBMZHNrV1ZoMnBtZ19WVEpvYkJPOXdmVjJUVzdKRHZtMkNXRENJOExnSlBiMjBZTjhlU1ZaUjNwdHFEakVxaE43dlJjT21SN213dE1lMkIxWjR3WTN5ZkdqWENMX1dCZXA4NUlDLWJtdUNQUjZiUkpSdkRLX1ZDaHg3azlGZkZJNDZzMjJMT256YW1HX25laXFvbjF4aEMxdnJDQUZ3MHBZVlZGMnZoOEp3dkxpYzN0dDRObDNB?oc=5",
+                "pub_datetime_utc": "2026-06-23T08:26:42Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:33 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "일본 폭우·태풍 경보",
+                "hook": "태풍 2개가 동시에 온다? 일본 열도 비상 걸렸다!",
+                "script": "일본이 태풍 7호와 8호의 연이은 접근으로 초비상 상태에 돌입했습니다. 장마전선까지 겹치며 규슈 지역에는 레벨 4의 위험 경보가 발령되었는데요. 기록적인 폭우로 인한 침수와 산사태 피해가 우려되는 만큼 각별한 주의가 필요합니다.",
+                "original_title": "【全文】高市首相、就任後初の沖縄訪問 慰霊の日追悼式で「平和な世の中へ不断の努力」 あいさつ中ヤジも - 沖縄タイムス社",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43UHJqdHJ0U1R3SWIwaWlyc0lBM3duWGZReXNTengtNEdpaVdOTHdZMDE0UG9XeVpsSHF3Rkd5aXJ0UGtGRW5faXZISWNueF95U194Y3J3RllnSnFQX3c?oc=5",
+                "pub_datetime_utc": "2026-06-23T03:49:00Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:33 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "인도 폭우 대혼란",
+                "hook": "몬순 시즌의 습격, 인도 주요 도시가 물에 잠겼다!",
+                "script": "인도 뭄바이와 푸네 등 주요 도시에 몬순 폭우로 인한 오렌지 경보가 발령되었습니다. 도로가 침수되고 교통이 마비되는 등 시민들의 불편이 극에 달하고 있는데요. 기상청은 앞으로 더 강력한 폭우가 쏟아질 것으로 예보해 긴장감이 높아지고 있습니다.",
+                "original_title": "Devastating building fire in Lucknow brings development authority’s actions under scrutiny - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUnpkeHpTX1Q5QTFxRFpVdlJPRnNOd0NmYk5MQVJRYmhCOThnME03ZFBIdVMwX0dOZmNnSXNReXlDREY5eFIxNUg5bkdNS3htY0plMS1sbW0yNnFGREhEOExKNng0d1JVcDZRSWItbjJNcWwwUzJtVVdiUWppdlpHYUVZLXhjOEk0TjA2TGxnVV9tNVJTVXVJWnA2UmNITVBqd2VrOTViSEczLUliU1dQb1dSenhXekdjc3hBN2R3bTVrZ3Y0MnRObzlHTHR1bjVQeUhXY3lyOEJuUExERE82RzhwTWdDQVVHN3pxMnk1c0Q0ZFFT0gH7AUFVX3lxTE5wT3EtX2JGeGhzM20xd25JNEYxTThPSjB3RmRYMUc5NEdfVzBzLVd4VjZYNHRyRWx6V2gtaXh5YWpQdEdwUlJkZlZOU0lJMGhrQ1FqS0JkTmdqeVBNdkhmXzFRemNfSUw3RUFYYTZmcEVYcDMtUEpDb294ay03MV9mR3R5eTk5WTQtTkJLcXBPbjNON1lEcnVDMnlGLXEzQndiRzdvdHVKaXVNb1Z2ZjZPY0V2bjQ4N0xROFdnYXJnUFhfRFZVTEhWMmlMWjZIMURMLXZDV01zT1FWdkVqcmNDOGNOWU1la0tuTnZqUHZ2SkItbUpuLU9ZNDdJ?oc=5",
+                "pub_datetime_utc": "2026-06-23T04:51:06Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:33 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 폭염 적색 경보",
+                "hook": "기온 40도 돌파, 영국 역사상 최악의 폭염이 닥쳤다!",
+                "script": "영국 전역에 전례 없는 폭염으로 인해 '적색 경보'가 내려졌습니다. 기온이 40도까지 치솟으며 철도 마비와 화재 사고가 잇따르고 있는데요. 평소 서늘한 기후에 익숙한 영국 시민들이 극심한 더위와 사투를 벌이고 있습니다.",
+                "original_title": "Minister calls for ‘swift transition’ of power to Burnham without challenge over Labour leadership – UK politics live - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYnVobEJ1c3ZwV2t4WUY3MXpEMzZyeVNGbUZ5TEZMYm1fQ1BtRDUwb01nZEFrWDg1ZjJLNnkyZmFXby1BYzlOYkM2dUo0bVpnNWN0NHRHNDdMUUhhOTM4UmtNeDcxRTRvNmxkWGJzNjFPWTJSRDRTYmlXZmZMd3JOQzNWNkVQZ2hheF9hLVZmbDBqRWhTRlVUbGxPaVp5aWpqODZwNE5Na2xUVkdMYUhsbUhYdHczYlpfdjlRYzFfUmRVUDBpWjFxQ2ZET1J3TldnVXFOalh5c1NvczQ?oc=5",
+                "pub_datetime_utc": "2026-06-23T08:11:00Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:33 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 기록적 폭염",
+                "hook": "프랑스가 펄펄 끓고 있습니다, 역대 가장 뜨거운 밤이 기록되었습니다.",
+                "script": "프랑스 기상청이 화요일 새벽 기온이 역대 최고치를 경신했다고 발표했습니다. 기록적인 폭염으로 원자력 발전소 가동이 중단되고, 냉방비와 정치권의 갈등까지 겹치며 프랑스 전역이 비상입니다. 기후 위기가 일상을 어떻게 바꾸고 있는지 지금 확인해 보세요.",
+                "original_title": "EN DIRECT, canicule : la nuit de lundi à mardi a été la plus chaude jamais enregistrée, annonce Météo-France - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOR0FFckVpZGZaeWxLbnFtT1ZidHBkUmJHUTZDWjl4cUVqUEdETlR5YWhLT19Zd1pDN0kyWjB2Szc4OXZjV1lkT1RkNVUzVGZNV3NBcFZsS1JLRkpHQ0E5SnpINnczU00wd0FIV01kZkZ1aW83ZjlnbzAxWjIzR0k3OG9nVkdabEhydnAtNlJ2RjZ6anc3WVZmOTEwMFpEcWNfTDAwUmp0MUtzZFlrdkI5bHdSN3RVazllM2tXd1NIODJjZ0FJN2ZmOU1RLWNJU2FfT2JuTkdaSnBudURnVVpQbDMxUWhsNmRvTXZZS3BCOEdQMWNBcWhVZWJJd2c5THdhaXBvTE1GemExRHFHQml2MVZydkpVdzhOWHN6OU1B?oc=5",
+                "pub_datetime_utc": "2026-06-23T09:17:27Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:37 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "이탈리아 폭염 경보",
+                "hook": "이탈리아 전역이 붉게 타오르고 있습니다, 16개 도시 최고 위험 단계입니다.",
+                "script": "이탈리아 전역에 기록적인 폭염이 덮치며 16개 도시가 적색 경보를 발령했습니다. 한편 밀라노에서는 경찰관이 추격전 도중 사망하는 등 안타까운 사고도 잇따르고 있습니다. 기록적인 더위 속에서 이탈리아가 맞이한 혼란스러운 상황을 전해드립니다.",
+                "original_title": "A Milano un agente della Polizia locale muore durante un inseguimento, ritrovato il suv pirata - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdDdwYjBTYld3ZWNROHVUeWhRNVVlaVY0V0xmd2loaFlLSnAwOGhmMDR0VmdSSTF5dEhmbVNzWjQ5TDRJdFAwbm5mQ3dSenFpblBsYjVZbUlaY1YxU2loVUF0OVFRY3VHbVA1bnYtYlNjclB0WVlOMUpCLVlnUzZSWk0xRTBpa0FqaFQwRFpSZ1ExNHRGTFNidktkM00ySmhYZ2x5YVBpc0EzOW5Rc0dCUXlfWjlZV3d2NVluSTlKaW40QnFaWWZPS0JETmk1YUpRY3pVUkxzM09weFp3cmFpT0lCMjFoUGRVaWVkYnRLV0VFb1R4bXfSAfsBQVVfeXFMT2lLMXlGUWRGai1jZldFU09BVVNZRlBDSlR4Y0tNb3VMeHZfNFQ5Z09WSTJYQ2luYkx0ZlI2bkhZUFpjc3c3a25NS0tRVGozUWNQcjFDQnMzMnpGb2tmRWFtS2NhLUxoR280R0cxNUpvN3VEUGpLODE2cG5aUHlfYzRQSm0yUG1waUtDUURMNC1UT2VXN09LekFjMGF4c1ZJa0ZVQmZybkRJdlhBN0xONW9YQzNsRzFXYmlfU0ZRZ285VDRaTjVuQzBEWkdFQlY5c2Jwd1dJaEwtaHd3WUJNZ19qTkd2eEd5YndQVjJqUTdfSlJWWi1wenREZk0?oc=5",
+                "pub_datetime_utc": "2026-06-23T08:45:27Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:37 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "캐나다 총격 공포",
+                "hook": "몬트리올 도심 한복판에서 발생한 충격적인 총격 사건.",
+                "script": "몬트리올에서 발생한 총격 사건으로 경찰관과 시민, 용의자가 모두 사망하는 비극이 벌어졌습니다. 설상가상으로 토필드 지역은 기록적인 폭우로 인해 도시 전체가 물바다가 되는 등 자연재해까지 겹쳤습니다. 캐나다 전역을 강타한 사건 사고들을 정리합니다.",
+                "original_title": "Montreal shooting leaves officer, civilian and suspect dead - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTEc2ZkIxZWJPYUV1bDlrRHZ3clZhYk5hTDVwQTVuNklNNGVSM2N0TFpySk5pRGxQRTZwbldEdHdnS2M3X3BIQ2ZhZ3BZYVQ4VEpyU1ZtX1RWdw?oc=5",
+                "pub_datetime_utc": "2026-06-23T03:23:38Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:37 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "멕시코 정치 파장",
+                "hook": "미국 대사, 멕시코 전 대통령 겨냥한 폭탄 발언.",
+                "script": "켄 살라자르 미국 대사가 멕시코 전 대통령이 '엘 마요' 잠바다의 폭로를 두려워하고 있다고 주장하며 파장이 일고 있습니다. 한편, 멕시코 정치권은 2027년 선거 준비에 돌입하며 긴박하게 움직이고 있습니다. 격동하는 멕시코 정가의 핵심 이슈를 짚어드립니다.",
+                "original_title": "Registro de celulares en México: ¿Qué pasará con las apps de bancos si no cumples? - El Financiero",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTNOR3lZbFI5MkNLWDJuNUtHQkZ6eDhVZTVSYlg4bkhIbWlUR3ZRRzNZNkdoYXF2a2tLUEtzVU53anN5WDdSbEZtTkwzZ3Q4OERCV05nbjllQjFGbXYtYzNla1RsS013cDl5aVdQemt5VU50SHdnMXJhS1U0aDExNE9DVDVaWlhNY1Rla1JhdG0wT29qcW1HNi1fa0FBNkNkaWk0XzhJT2V4bnpBWEF4cnBqTkpTOFhwSmliSUJpejBUR3VQWm9TandZd0k?oc=5",
+                "pub_datetime_utc": "2026-06-23T02:03:00Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:37 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "로보데트 대규모 합의",
+                "hook": "호주 역사상 최대 규모의 집단 소송, 마침내 종지부를 찍다.",
+                "script": "호주 정부의 로보데트 스캔들이 마침내 법적 합의에 도달했습니다. 수많은 피해자가 고통받았던 이 사건은 호주 역사상 가장 큰 규모의 집단 소송으로 기록되었습니다. 정부는 이번 합의를 통해 피해자들에 대한 배상을 본격화할 예정입니다. 정의가 실현될지 국민들의 시선이 쏠리고 있습니다.",
+                "original_title": "Who wins and who loses in the NSW budget - Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTZKTFpSbnZDYTI2a0o3amJVdWxKTlpFTDY4WmRKbzBDVlJIY1hMbElLSExEdXBnSWdxaUktUmZLVnpGQ1NLekQwcTRoYmpRQWZOdG5KNjBBLUZGR0E1VU9JWnhtdjlhbEluaDlpNTBvS01CeEY5Q3dDTzBabm1NM1NkaXJPeFJ3cVRvalk1QkF0UXhxQVVNZkhhMTdHSDNa?oc=5",
+                "pub_datetime_utc": "2026-06-23T03:23:36Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:41 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "김호중 30일 출소",
+                "hook": "음주 뺑소니 논란 김호중, 가석방 심사 통과.",
+                "script": "음주 뺑소니 혐의로 실형을 살던 가수 김호중이 오는 30일 출소합니다. 최근 가석방 심사를 통과하며 예정보다 일찍 사회로 나오게 된 것인데요. 여론의 거센 비판 속에서도 가석방이 결정되면서 논란이 더욱 확산하고 있습니다. 과연 그가 이번 결정에 대해 어떤 입장을 밝힐지 주목됩니다.",
+                "original_title": "[단독] “투표지 축소 보고 못 받아” 노태악의 거짓말…지난해 안건지 첫 쪽에 있었다 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JUDBUSWZ4R1YyTTdudXVKbnU2MktNTHVCM3UzTXJjMk5LZV9kd2w5NVk3UW92SjlfQWlsMTE5TGYyVnJfdFZzejBTT2l4YUJjYzNoSWNMMklJako2R2pkOVM3NmI0ZVUybmtOc09pSGVObnU2?oc=5",
+                "pub_datetime_utc": "2026-06-23T06:42:00Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:41 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "잔혹한 납치 사건",
+                "hook": "금괴 300kg 요구, 끔찍한 고문까지 가한 납치범들.",
+                "script": "이스탄불의 한 기업 경영인이 집 앞에서 납치되는 충격적인 사건이 발생했습니다. 범인들은 몸값으로 금괴 300kg을 요구하며 피해자를 철근으로 구타하고 손톱을 뽑는 잔혹한 고문을 자행했습니다. 현재 터키 사회는 이번 사건의 잔인함에 큰 충격에 빠져 있습니다. 경찰은 즉각 수사에 착수했습니다.",
+                "original_title": "Akaryakıt operasyonu: 10 şirkete kayyım atandı, altı şirkete el kondu - Diken",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTBJYk1vWTBVdS12bFVXNmlwb05yaWFVNGVOR0RQd2t6Q0tqdTAwS1EwWXUxRW5YTWNHTXJfZUJoaVJvcGJxNjMyWmdmNzRkMkxFajNmOHNCc3V3WDB6TmJWakpRTHQ2OURmdEdjM2VfMGhWNzZ1UTJUYnVSU01nQ2lCX2w0dVhicmU3M2x0Zmt3OFBwWkk3OA?oc=5",
+                "pub_datetime_utc": "2026-06-23T08:16:00Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:41 KST",
+        "current_rank": 12
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "제다 아파트 대피령",
+                "hook": "수십억 원대 럭셔리 아파트, 알고 보니 불법 건물?",
+                "script": "사우디 제다의 고급 아파트 주민들이 갑작스러운 대피 명령을 받았습니다. 조사 결과 해당 건물들이 불법적으로 운영되며 주민들의 자산을 잠식해온 것으로 드러났습니다. 당국은 안전상의 이유로 즉각적인 건물 비우기를 지시했습니다. 럭셔리한 삶을 꿈꿨던 주민들의 분노가 극에 달하고 있습니다.",
+                "original_title": "مفاوضات سويسرا: كيف سارت محادثات واشنطن - طهران، وماذا نعرف عن خارطة طريق الـ 60 يوماً؟ - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTUwzTWg4Q0ZXQnlkWFFIcVhSZnRpT25VOVJWeDBvWGFXNnJlcHR3RExPbHRVSjFXaTRRWDNlOTBxVVZ4ZEN6Mm5CalpBV3Y4Vk9PUkgxeFJWVUUw0gFiQVVfeXFMT0ozT3ZMaE9wQ1JjNllwaVE5UzJSTWdZd1VkXzBSM0Facnk0THV3RURSQUxVemlhWEc0SV9YcWQ5cG9UaERlM0t6OVNGYy1Dd080Nmd2VUlaUjlSbzF1ZGozb1E?oc=5",
+                "pub_datetime_utc": "2026-06-22T13:27:49Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:41 KST",
+        "current_rank": 13
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "마르델플라타 참사",
+                "hook": "통제 잃은 버스가 덮친 해변, 10대 소녀 사망.",
+                "script": "아르헨티나 마르델플라타 해변에서 버스가 통제를 잃고 행인들을 덮치는 비극적인 사고가 발생했습니다. 이 사고로 10대 소녀 한 명이 안타깝게 목숨을 잃었습니다. 평화로웠던 해변가는 순식간에 아수라장으로 변했습니다. 당국은 사고 차량의 결함 여부 등 정확한 원인을 조사 중입니다.",
+                "original_title": "Elecciones en Colombia 2026: quién es Abelardo “El Tigre” de la Espriella, el presidente electo aliado de Trump - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2N0MkM1TXdvNkthTjRCUkNYUWRxdEN4dlMxUGc3N3RkcU1tT3dVeXBCOHVQUEN1Y3FMZ0M1Q04tY0pLWDBLM2o0M1Z1X3NieEh0TWhZOEQ3NEZoRmltTGFWenJ1UHF6OTNyaWtIelVERHdCWlN6dEEwdFNGdDZabGxqcWp6alpEdWw5OU1nckVPM0thcHM4eEUzVENmMllraGV5cjNGU0dWeHptcGw4Q09rY3dYc0JmSDljVW1mNFQtZ0MtTXRzcUV0XzVzdEFIcXhxbjdKdFFwVl94Z0ZXUU5BaFdzNWp5ZW0xaw?oc=5",
+                "pub_datetime_utc": "2026-06-22T02:06:00Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:41 KST",
+        "current_rank": 14
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 정치권 격랑",
+                "hook": "라마포사 대통령 탄핵 위기, 법정 공방으로 치닫는 남아공의 현재.",
+                "script": "남아공 탄핵 위원회가 라마포사 대통령의 법적 대응을 강하게 비판하며 정국이 급격히 얼어붙고 있습니다. 설상가상으로 불법 이민자 관련 소요 사태를 막기 위해 경찰이 대규모 작전에 돌입하는 등 사회적 불안도 커지는 상황입니다. 과연 남아공은 이 정치적 혼란을 수습하고 안정을 되찾을 수 있을까요? 지금 남아공에서 벌어지는 긴박한 소식들을 확인하세요.",
+                "original_title": "Impeachment committee slams Ramaphosa's interdict in new court papers - IOL",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmw4aDB4YkpwLTZNMGJYQUhFVGxkM2QwRkNROUxYbTVrcHZoM0RRSzYwN2s2SGVyXzVPOFlFS3YyZEg2VDJVYmY1b2FEdzdtRUFwamUwZmE0NFZqR0NsbklGOTU5cHhTWkFYS0s3ZUlpVjROcjNuZjJrQzVJX0hJNGlFYUg3TEc1dVhQTFFKc09KQWhmSU5yc3lxRlF5VmRSX1g2V0d5b2lVNDBubmduMzNn?oc=5",
+                "pub_datetime_utc": "2026-06-23T04:44:10Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:43 KST",
+        "current_rank": 15
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 70.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프 암살 미수 발생",
+                "hook": "트럼프 UFC 행사 겨냥한 테러 음모, 결국 용의자 체포!",
+                "script": "트럼프 전 대통령의 UFC 행사장을 노린 위험한 테러 계획이 당국에 의해 저지되었습니다. 현재 관련 용의자 2명이 추가로 체포되며 수사가 급물살을 타고 있는데요. 정치적 긴장감이 최고조에 달한 가운데, 미국 사회의 충격이 가시지 않고 있습니다.",
+                "original_title": "Democrats' Jeffries and Mamdani wings face off in New York - Axios",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJ4ZkVHR1E2MEFtS1JaVWlkLVZPWDhUbkl6c19zUkstOE9jSm9YNDBsdVEzb096STRHdC1yd21uTU43VkdBNTNpQUdIR1pvanZfbFJJMlJGY1hhWURpVHhhTXFjbnVkQkFhYTY0c2tPakw3UlhUOTZVcDRKYTN1cHJkc28?oc=5",
+                "pub_datetime_utc": "2026-06-23T09:04:20Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:33 KST",
+        "current_rank": 16
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "브라질 치안 불안",
+                "hook": "리우데자네이루의 총성, 멈추지 않는 도심 속 총격전.",
+                "script": "리우데자네이루 도나 마르타 지역에서 경찰 작전 중 격렬한 총격전이 발생해 주민들이 공포에 떨고 있습니다. 루라 대통령은 범죄 조직으로부터 아이들을 보호하겠다는 강한 의지를 보였지만, 현장의 치안 상황은 여전히 불안합니다. 브라질 현지의 긴박한 소식입니다.",
+                "original_title": "Polícia Civil realiza ação no Dona Marta, e moradores relatam intenso tiroteio na Zona Sul do Rio - O Globo",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeHo4SUNzT0JQaFpHY3gwak1ndm9TU2tkUEdhQlF5ODRXS1VxMFJDaDVGTnBTSGFHTnB5TmphV3Z1RVFnUHlLalZOMkdDX3lnTmxnM3B0SWY5Mkg4N3ZrTVVPSkgteTFHb1VVelFfRGV5azh5Yzdiak9TdlRGSWFIeHZpbzlMM3pjYWxPU0VYcUlINkhzU19SZUJqc0pKZy05cUJYbnMyZkVZVkNiZEFmUk13bGphN2pOWlIwYlg5WTVjOXR6S2Y4eGplVVd1TG51QTMwU1dsWEJGUdIB6AFBVV95cUxONThlZ2lfQlkzc0NFTDFlVWlCdmVEdTczcHI3TlBtdUpUOFBkN3hiNU0xUEtMajJIQUMwQy11MGVZeEpQWHlONnRmekhLWXg2eDF1NHNoY3JicHNvV3F2dU5sdVp4ZjZ1SXprckpBZ1dVMmhJNjFtQi1XRjUxVnM4WDhwSnJMaXQzY2FVcVFBeHVVX2JNZ0d6WlhQY2U1ckRxWFhJTEZBTzh2UVZOeTRTTFd5VzNmX1FqLTJwby1XNV91WXNOX1ZzVHptbTN5MmdwVC03Z1JGYUlHckZlWEQzejdVeVdxbDk1?oc=5",
+                "pub_datetime_utc": "2026-06-23T09:06:44Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:37 KST",
+        "current_rank": 17
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "러시아 폭격 위기",
+                "hook": "러시아 중부 타격, 하루 만에 7명 사망.",
+                "script": "러시아 중부 지역이 우크라이나의 공격을 받아 하루 만에 7명이 목숨을 잃었습니다. 모스크바 증권거래소 지수는 3년 만에 최저치를 기록하며 경제적 타격까지 가시화되고 있습니다. 긴장이 극에 달한 러시아의 현재 상황을 전해드립니다.",
+                "original_title": "В ФСБ заявили о предотвращении двух подрывов у здания силового ведомства в Пятигорске - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHWVNrel9teG5HNTRNZ0MtakxEa1YyeHlXeVZsUHVYM2I4UFpLa2J1V2NzaVFfTkl2cjFyTlV5Szd2LUY4cW5mWFBRRnk5VlXSAUtBVV95cUxPSHdFaTZnSTZVMXdJR3g5WHJPZXRGU2QwR0g1aFVRUjgyaFNpSVQzemFnNi1ibzduUTB5WUI3T3BtVkM4MXRNY1JDT00?oc=5",
+                "pub_datetime_utc": "2026-06-23T04:49:00Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:37 KST",
+        "current_rank": 18
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "자바 정전 사태",
+                "hook": "멈추지 않는 자바섬의 정전, 일상이 무너지고 있다.",
+                "script": "인도네시아 자바섬 전역에서 순환 정전이 계속되고 있습니다. 당국은 전력 공급 부족으로 인해 정전 빈도가 앞으로 더욱 늘어날 것이라고 경고했습니다. 시민들은 갑작스러운 단전으로 생업에 큰 차질을 빚으며 고통을 호소하고 있습니다. 전력난 해결이 시급한 상황입니다.",
+                "original_title": "Jokowi Respons Kejaksaan Tak Tahan Roy Suryo dan Tifa - CNN Indonesia",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1pCN3hFbnM4ZHBGLWN0cFZLNGx6Qno2dFhSNGh2bWZvY0NEMU93b0xRZGFRdmJ3UUt6X1ZxVE05bWFYMnNKamNKMUVEcjdUNzFZZEVZNXZKb0JnQmVVeWVyNkZrRnAwc1Jyc1hHUGVGckxPMXppX3pmbHhEMDhmN3pUaTFYRXlEQi05SnJMVnVLX1RmUm01T0xqSEtkRUExUGJIdGxCUjBWdy01b2JHQXdhSTA0VDVm0gG-AUFVX3lxTE9MREh4azNzNjFNaldGTXkwQ0tkRlhnWE5RaXJXeW1PSXh5NzItSmI1Q1FVUkN6QTBhS0c0X0c4VlQ0ZDhhbW1jSnQxbmZmeElHUVFWR1g3d0s3elVuVGYyb3YzRTBnX0g4M19jYkFCMVh1VTN4Mzd2b0c0TVpoSXdXYS1lZWFIMmpoZEdodEljUExpTG1BMC1aODl4dEpObGZzUkY0aU1MbnpKbnJEVkszbTY2RlltYXBtNFFVQ1E?oc=5",
+                "pub_datetime_utc": "2026-06-23T07:01:03Z"
+            }
+        ],
+        "last_updated": "2026-06-23 19:04:41 KST",
+        "current_rank": 19
+    }
+}
