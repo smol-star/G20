@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "미국 민주당 선거 지각변동",
+                "hook": "기성 정치권이 흔들리고 있습니다, 새로운 바람이 불어올까요?",
+                "script": "뉴욕 민주당 경선에서 개혁 성향 후보들이 압승을 거두며 지각변동을 예고했습니다. 동시에 의회는 트럼프 전 대통령의 이란 전쟁 개입을 차단하는 결의안을 통과시키며 견제에 나섰습니다. 주택 공급 법안까지 초당적 합의로 통과되면서 미 정가에 큰 변화의 바람이 불고 있습니다.",
+                "original_title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TMDRHbXNKeFNkN1pTVmhRdlVzWU5DaktWbi1mZGExcGhOVkZaQ3ZMU2ZISjB6bTZvR0VQM3Z3aEpuT3ZjTmVRUjBvNndRT3JPM2E5Ny1CeDdEQQ?oc=5",
+                "pub_datetime_utc": "2026-06-24T05:07:55Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:16 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "중국, 내수 소비 총력전",
+                "hook": "침체된 내수를 살리기 위한 중국의 파격적인 승부수가 시작됐습니다.",
+                "script": "중국 정부가 자동차 개조와 캠핑카 등 소비 활성화를 위한 전방위적 정책을 발표했습니다. 리창 총리는 다보스 포럼에서 경제 회복 의지를 강조하며 글로벌 투자자들을 향해 메시지를 던졌습니다. 과연 이번 부양책이 중국 경제의 새로운 돌파구가 될 수 있을지 주목됩니다.",
+                "original_title": "纪检监察干部认真学习领会习近平党建思想为强国建设、民族复兴伟业提供坚强保障 - hebcdi.gov.cn",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1RGRHUDd4a3hVNUNsXzh0U0xfR1I2d0lJajY5NmhZU3dIVkVVVGxRc0dCdzZTWFkyOFhwcF9Fc2kyeUN5WDdwanNjaWc2MExvY20xVkxlYmUxb0dGTDZhM1M1UTlGQQ?oc=5",
+                "pub_datetime_utc": "2026-06-24T00:37:27Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:16 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "독일, 40도 폭염 비상",
+                "hook": "유럽 전역을 덮친 기록적인 폭염, 독일이 40도 열기 속에 갇혔습니다.",
+                "script": "독일 전역에 40도에 육박하는 살인적인 폭염 경보가 내려졌습니다. 기후 변화로 인한 극단적 날씨가 일상이 되면서 학교와 교통망은 마비 위기에 처했습니다. 정부는 에너지 안보와 기후 변화 대응이라는 두 가지 난제 사이에서 고심하고 있습니다.",
+                "original_title": "Güterverkehr: Bundesverkehrsminister Schnieder fordert Aufklärung nach Bahnstörung - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX0d2ZmhUZmFqR2xYZzk4SDFnNWZEMjNNODQ1bFpiOHhiZElyMnlqOVRXMjIxNVkwbUpxUV96ZklFNFdKVlk1a1RsSkhOYVZLNU9udmh6aXppY0pPV0RNOU5KZ0ZaM2UxbUhLSkY3YWZzMUpuYk02T05ZSS1LdFNHdnFtMHJJTldhdUxobHM4SmhNQ2VHT28w?oc=5",
+                "pub_datetime_utc": "2026-06-24T07:53:46Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:16 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "日本人2人が中国・大連で拘束 レアアース規制関連か、電機大手",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "日本人2人が中国・大連で拘束 レアアース規制関連か、電機大手",
+                "original_title": "日本人2人が中国・大連で拘束 レアアース規制関連か、電機大手 - 47NEWS",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CVE9zbndYRHFNQlRKSDNhTDVfa2l5LVIwN29qeE1Ia01keUFqQ3E5T2NDQTFCN2lrZUV5RlFWRDYwLVVlOEtVQ1hObw?oc=5",
+                "pub_datetime_utc": "2026-06-24T06:13:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:16 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "인도, 결혼식 비극 충격",
+                "hook": "축복받아야 할 결혼식 준비 현장이 한순간에 잿더미로 변했습니다.",
+                "script": "러크나우에서 결혼을 앞둔 커플이 화재로 목숨을 잃는 안타까운 사고가 발생했습니다. 한편, 정치권에서는 BJP와 야당 간의 갈등이 격화되며 인도 전역이 뜨겁게 달아오르고 있습니다. 자연재해부터 정치적 대립까지, 오늘 인도의 소식을 전해드립니다.",
+                "original_title": "Ketan Agarwal's fiancee posted ‘my heart found its home’; weeks later, she pushed him into Lohagad... - Moneycontrol.com",
+                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdHh3OHJPeU5oTFVKOUFXUXMtSUt1V3BEQV9sZmpqZm1Bai12QzZNN29vLUlhNmxqRllNTTdob1dURlVNMEJWbzRYdlBRZ294NXkzYk93dDN5UnlfQTljTmNyRnRWU2x6NkZfV1Qxbm5UZS1Pb0p2bGhSUVVhbWR6LThFenRsSnlNM2xoSTVBb3F1RHRXbzZ2TVVUNHQ2bXdFcFpzWU1PdmxpNTAzTWE5MTU1Y3pCQTVPZTVJT0RKMFJlNmNwNE94Y3JWc1BpcFBSeFU3XzBoMHU0TTZudEs3S1VodDlUS0NBbkJaSkp6dnhYd9IB9wFBVV95cUxObV9oWTlwZVhfV2RXSjBqelpTQkxWZ0JlWUF2MG5vb3ctZDl2dkhLcGJsZVdRNXZSajlwa2xlM0tBS2tDOGwyR09oNXM5RFRnZXpNRVhNNDdldmRWVkc1Mm1GalQxRDUzLVR6NVM0Rk4wY2tfNS1VdExwS1ZsM3dZWFE5bjR6MmJHV1piMjl4LWhlcEFFdkwyMm9RaW0yWHhIMFVlUUVXRzVyWnV2enMtVlpXTUhLUnlWVk9MWnh5Q3dfSjFuMFBPWjRVczk4S2pFUm1IeE11VkdHV1I4QkZOTmN3TllxdVpUOWtOT2YxZmdPZk5XSUR3?oc=5",
+                "pub_datetime_utc": "2026-06-24T04:27:26Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:16 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "영국, 사상 최고 폭염",
+                "hook": "40도까지 치솟는 기온, 영국이 기록적인 폭염으로 멈춰 섰습니다.",
+                "script": "영국 전역에 적색 폭염 경보가 발령되면서 학교들이 조기 하교를 결정하는 등 비상이 걸렸습니다. 브렉시트 10년 후의 경제적 여파와 함께, 기후 위기에 대한 대비책 부족이 도마 위에 올랐습니다. 기록적인 더위 속 영국 시민들의 일상이 무너지고 있습니다.",
+                "original_title": "Full list of schools closing or shutting early during heatwave - The Independent",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGIyQWM2ZUl4Ym9LenhsOTFtZnBaeTAtZHRNaGxQVm5Ya1FuM0NxSWlySkdfSkh1ZHZRTnNKWXQ4Rm53SGJJdEh5d2djM3VGNENBaHp1cmdjeEtxZXN2V1FwM3c2OEE4ZXF5azJDV3VVMGhqQTI0WFI0OGl1TlFHRERaNXBESmFvaXBEbVJYaXlBR1FyMGhhbXV4TlFGWF9MUGM4QzRLTTM?oc=5",
+                "pub_datetime_utc": "2026-06-24T05:32:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:16 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "프랑스 기록적 폭염",
+                "hook": "44도까지 치솟은 프랑스, 폭염 속 일상마저 멈췄다.",
+                "script": "프랑스 전역이 44도를 넘나드는 역사적인 폭염으로 비상입니다. 학교 시험은 강행되지만 정전 사태와 온열 질환 위험에 시민들의 불안은 극에 달했습니다. 전문가들은 기후 적응을 위한 즉각적인 대책 마련을 촉구하고 있습니다.",
+                "original_title": "EN DIRECT, canicule : l’épreuve du brevet de vendredi est maintenue ; les oraux du bac d’environ 10 000 candidats ont été décalés - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTDRpN19sWmRCbkxieDZ6YTMxc2VGUGI0Mm5QUGNwZXVNVWxDQUZaUUFSVWtURU1NOFZMTW9LNWNpSThtRExtY1VnOEhnTmJNZWUyRmdtYmZpUGt1WlpNb3RkaS1nc3hxUlNfZG5BbElRSlZXaTBPcTBia2NUUVhIdnFSR041aWV5R3R2eWJxNHd0S1p1eG1URUludDN0NWd1eVo0RHdjTFloMjNpSjdhVk01Nll5U3RGRWFvSUxXbDdhbXc4QXdFRjFxVXpraldZWVcxNDczOUZoajgwVmZXWTJuQVlRRnJvSE45OEpmQ3NJRVROS3VVRUJ2eTNmb09mRnlRVk85cVhZLWlmeU9TUGVJV3NmNFZs?oc=5",
+                "pub_datetime_utc": "2026-06-24T09:16:14Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:20 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "이탈리아 폭염 경보",
+                "hook": "이탈리아를 덮친 살인적 더위, 7월까지 이어진다.",
+                "script": "이탈리아 전역이 41도를 웃도는 기록적인 폭염에 신음하고 있습니다. 북부까지 북상하는 열돔 현상으로 인해 시민들은 일상생활에 큰 차질을 빚고 있습니다. 정부는 냉방 시설 확충과 함께 온열 질환 예방을 위한 긴급 대응에 나섰습니다.",
+                "original_title": "Tfr e pensioni, cosa cambia dal 1° luglio? Nel fondo complementare con il silenzio-assenso: cosa significa e la data chiave del 31 ottobre - Il Messaggero",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3dfOFdZMG5qc2d3aFJ5Mjk1MDBuRzlrRE5XeDBiajNBdjN4T0g1dER1REJ2YVVrUmt1OWh0NDRNLV90V1FzUUdVMnViRVUyZEt6aFprcG1GMDZFTi1zaHlKemd4R2ptb0FyS0hsb3JFZzlFdVBPSjBGcXF5RV9SZUFBODZBSkJfdWg1NjdMOWpKRUIyWTcxUzMzZWdGYTYxYlAyZDFuOA?oc=5",
+                "pub_datetime_utc": "2026-06-24T04:53:22Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:20 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Planalto se prepara para receb",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Planalto se prepara para receb",
+                "original_title": "Planalto se prepara para receber mais denúncias contra ‘República da Bahia’ e blindar Lula - Estadão",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS2QtMndfU0lqeVNIZmRJTThpMjB3eGt2d2pxSFJ2dVp5cHEtVTVYcFUySkpZME1wT1dpNWs0S3ZXcmNHb1JUeTFsWXNlY1MycDRPQThCZG9kc29wYU91WnExMGZPUHZkTS1EY3JhckpNT3pqMlAzNFMtREszTkxQZnp4cm5fTWlLR0FQY3lXSU9mdlo3QnBDV2dkaHltNE01OHhlTHoxZUZNYmN3MTgtbVBXUHZYRmZpd3NMekJiX3NCR0p2Vnp3R21YRW1JTS010gHWAUFVX3lxTE5JM2wzWFR3S2s3Qy02WGhaZmpZZVFxSHB2ZUpQdzlqb3hlSkF5U3pOaGhua2l0UWJwbW11YU9oVmJxMjA3X2QyM2RXcWZWcjFHd0psQlVxeTFPZnB6UVBJcHQwT1dINDBYc1dMb1JtcnVVR0VsNkJUbHdNWUU2eFJwNWxmcGlGa1F5bHZqMEF0Zk5BWjNpLThoZVdIemd0OFhDdXFNLTZieDJrc1ZyVUFLYVdJVVV0NHc3bE4tZUFyUXFPdzgyTFBhVFhIeVJvd21aUjBVOFE?oc=5",
+                "pub_datetime_utc": "2026-06-23T23:44:35Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:20 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공격",
+                "hook": "러시아 본토 공격에 2명 사망, 긴장 최고조.",
+                "script": "러시아 니즈니노브고로드 지역이 드론 공격을 받아 인명 피해가 발생했습니다. 푸틴 대통령은 우크라이나와의 협상 조건을 재언급하며 강경한 입장을 고수하고 있습니다. 내부적으로는 사회 경제적 변화와 인프라 정비가 논의되는 가운데 전장의 긴장감은 더욱 높아지고 있습니다.",
+                "original_title": "Трамп раскритиковал сенаторов, поддержавших резолюцию по Ирану - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQcElab2c0SUVhNHc4VGJEZDdlRG5jQVhTYVg4VWZMZUtyQWRLZVNnMzFOdE1RaWtSX05tSWx6aEpCX3ByZnVOQk04ZzVEQdIBS0FVX3lxTE9tYVhWQzVKRm1WR3dmNFotYnRKcE96VkRJSkZCQXd6OXEzVzQzNDNSOGMwN085UUU4d0E2eXBQOWc2bERqNEY1YXlmTQ?oc=5",
+                "pub_datetime_utc": "2026-06-24T03:41:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:20 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "멕시코 대규모 시위",
+                "hook": "멕시코 전국 마비 예고, 운송업자들 대규모 봉쇄 돌입.",
+                "script": "멕시코 전국 운송업자들이 대규모 도로 봉쇄를 예고하며 국가 물류 대란이 우려됩니다. 정치권의 네포티즘 논란과 고위 공직자의 범죄 연루 사건까지 겹치며 사회적 혼란이 가중되고 있습니다. 정부는 긴급 대책 마련에 나섰지만 시민들의 불편은 피할 수 없을 전망입니다.",
+                "original_title": "Los transportistas convocan a un bloqueo masivo nacional durante el México-Chequia - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVBBV2JBd1ByNVo0UHMtNUs0VV9HWE8xTDVVbDRTYklfMGszVklXN0VrNkNNazZmRzZxQWhCMDE0bXBLb2xSOHFZdFduTTVsRDRpZk0xT2JfMzhaZjhMektEYUlSc0lGNUtNX1NubHZCQjctaUF2b0o5OGlNZFpRdlc3T3lJSlFXVENzaDMyblF4b0JDSXE5OGpLVlhKTlN5RE1rVnJaXzRUMmVDUHJPSTgzWlQxenlZZ3IzaXhjemtaUQ?oc=5",
+                "pub_datetime_utc": "2026-06-23T16:02:55Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:20 KST",
+        "current_rank": 11
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "프라보워, 시위 배후 경고",
+                "hook": "시위대는 누가 돈을 주고 고용했나? 프라보워가 던진 강렬한 경고.",
+                "script": "인도네시아의 프라보워가 거리 시위를 향해 날 선 경고를 날렸습니다. 누가 돈을 대고 시위를 조종하는지 다 알고 있다는 발언인데요. 교사 급여 인상의 어려움부터 메이카르타 토지 국유화 이슈까지, 변화를 맞이하는 인도네시아의 오늘을 빠르게 짚어봅니다.",
+                "original_title": "Taufik Hidayat Ditangkap, KDM Bicara Nasib Sayembara Rp 250 Juta - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkR4WmljMmhQUzc3eVJicUNYVUYtdE0xeXVjcmUwMGh3MFFiZjh3dG12NHM1YzVfRjlHeTd5V3JMbDgydHhEVWJCYjA0dzFaXzVZdUNUTEhhQTdDNHFVWFEwQWR4cHhNOEE0bEtDUHpvNHZsa2NzSy02N3VvRWt6eXlRdzZaa1VDSGZ4MXNiUmtfMFJjYjlRTW1qNmJneXZqb1pWR2hB0gGrAUFVX3lxTFBEeEpRbzIwNFd5ZzlGVC1PUFVmNnc0a1Jnc21nNlhEQ2NvQ19TLWNsZDFwRUp0cFZHbjVrRlJkNkJTZzNweVNOVUh4MW56VThJMHkxQTNuRU9weVFWUTc3aTVReWN2aDBDb2ExMFM3aFUtU19nTWF2d29xR2xQUU1tb0pEN1VQZkhZYmFGWmF6OWpucnZvZFJTNTBUSnZraGpubGxfVHlkUzlEQQ?oc=5",
+                "pub_datetime_utc": "2026-06-24T05:29:45Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:26 KST",
+        "current_rank": 12
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "사우디, 세계 최고층 도전",
+                "hook": "100층 돌파, 사우디 제다 타워가 세계 최고층 빌딩 기록을 갈아치웁니다.",
+                "script": "사우디아라비아의 랜드마크인 제다 타워가 100층을 넘어서며 세계 최고층 타이틀을 향해 질주하고 있습니다. 의료 서비스의 비약적인 발전과 함께 사우디가 글로벌 영향력을 확대하고 있는데요. 사우디의 놀라운 변화와 중동의 주요 이슈를 짧고 굵게 정리해 드립니다.",
+                "original_title": "مصدر أميركي: خلاف لبناني إسرائيلي حول آلية بدء الانسحاب - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQVTVHNVZlS21aaGo4Q25MWmUzdXk3RmRRRkFNU1J4VGtnbWNqQW9kS01fcWh3U2xtV3ExS1Bnd0xaNVkzclR3ZmFDZEF1bzRpSVdIVXdaMmNiZnY2MlJrM181aVQzeThSVHd0MVNqR0xkXzVLeUNXd1YyTHo0bWQwVXNSNzBWcmJTd25mSmtDS1AwT1RSQV90MUMzUXJtVlNna1luNXJLUk1aMVlFYndRdmF5UTNXcENrXzNIM3p4cE5jNk43MnJraTN4MjRIUlZiMkNyQU44azgydU92NXJiSkIybWQzeTBBRXhMX3FGeEZlM1NyY0hEc2xPZUttV1NGUDVZQmpYYU1aeXlyajFqTmpBMFRnQno2VXZ2V2k2MV9ka3JQWlI1N0tNRHhFVEN3d0lqcmFfbVo4YnNGY3ZNM21Lb0wzRnFJSjhVYkR1dDFJN093NENNLVB1a0Fmblo0QXZNS0hzZU95WjlEblNQeUhmZVRfZy1PNnY1czFfZGI4bjRvbTdFNGFwa1hoM2YweEZyWkpmcjlzUGhfT216UENRSEpoWFd5YmFWVVdOdW9VQnpPYmdsdkFKTkFrT3g2YUpYVU5YTkVHM3ZWMlVZcWZlTlc4b1AxWEl1adIB4gNBVV95cUxQb3lmMWpzczd4QlItWGdJSGdVY1JwX3p0Sm0wQkY5RFQxakVuRVpYU1F5MzdXQjJXTEM3Q1AtaE52RTB1enZNRjAyMGw2OXoyVkl4STgyVl81ZV9MWUdNdjdyUnRHVW9iRXJVRUhmWkU1SDV6WG0tM3NwQmV2RzZhVWE0UEd2YVBtWkJtYmt2M1VaMHBoT3gxb1FVLXNDdGZWekxXUi1XeUctOGFreTR5STEtdUd4TVhaTzh5VFNpZjBJc0VJVHhBRXoxWlA2WEYybzlzTFB2RmYydnJ4RGtmM0ZteUZTOXB6V0R6VldlZkNmYTBlRlFXWWlPZGVTRnV3RVlTVTVYNDJCUFU3R2RsbXB5bi10M1dpbHZtYjZLLVZ4TzJzeU1Xdnl0cWVjTThoN3N0cFZ2b1dYS1djVFhHV2tCdDhHcEkyU2NGNnEwMEJ3bWZGSUZNZVhwcnpCYnZ4enFidUN5Y1VSYkZsWFNCcnptd1JTMHFXamZUOUt5OG1sWkwzU0lwdmdLM29VMjJISTdrS0E0eXptQklTWlYwcW9ENW9OQTEwci1WaU1tUzRDQ0dmVFhTOGhlWGN4R0J0cDRjRHVkejdQd2VGVGFHTkE5aW94NEpkYkt2S3lPRFJyUQ?oc=5",
+                "pub_datetime_utc": "2026-06-23T20:10:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:26 KST",
+        "current_rank": 13
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Bullrich anunció que se suspen",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Bullrich anunció que se suspen",
+                "original_title": "Bullrich anunció que se suspendió el informe de gestión de Adorni en el Senado, pero el ministro dice que quiere asistir - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWkFRQkJ6X3ZSNHlncWFpMmlzRHlpYUd1WHF1ZkczdXRRSTFhREllUGNIeDdyLXpna0w0MWJoczR4WXh2NWFxMDczQmxIZ0FQZkJBX0hDZWdlSnc3NC1fMThZV2k4UENjZTAzejlGTFdQc2VjV052bzNmZWlEejA2am42S1I4bTJ0cFh1UXNLbDZENXVlczR3bXd4VkN2SmQtOVcxSVNGdWNxRmJmUm54RjF3dnZJMmtQeDAtQmhMRXhFSVIya2xHVW5zQkF2dl9XYkNpTVRkLW5iWEZlQUE?oc=5",
+                "pub_datetime_utc": "2026-06-24T06:57:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:26 KST",
+        "current_rank": 14
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "캐나다 폭우 비상",
+                "hook": "캐나다 알버타주, 기록적인 폭우로 침수 피해 우려.",
+                "script": "알버타주 전역에 대규모 폭우가 예고되면서 주민들의 안전에 비상이 걸렸습니다. 한편, 대중교통 개선과 공공 인프라 프로젝트가 추진되고 있지만, 정부 정책을 향한 비판의 목소리도 커지고 있습니다. 기후 변화로 인한 극단적인 날씨가 캐나다 일상을 위협하고 있습니다.",
+                "original_title": "New N.W.T. highway set to be Carney government's 1st national interest project: sources - CBC",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTNxdkRrV0lVaExHRzdhcHVVWWdDY2xkWjlsZ19SV1NrYm5wSjFmTTk2ZkI4XzFCVzhXSUp2SFRjcHptbG5GZXBIczVUVjdvN2V6cVJtc3d4MW9FanBrWHFMR1VJOGNPQk1POVhidV9RajVkbWNxcTNtRmZzYndvTkU3VFVxYUlDdlhnSVI1QnZHMVA3UlFtbQ?oc=5",
+                "pub_datetime_utc": "2026-06-23T23:41:45Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:20 KST",
+        "current_rank": 15
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "상어 습격, 기적의 생존",
+                "hook": "코지 비치 상어 습격 사건, 혼수상태에서 깨어난 여성이 남긴 단 세 마디는?",
+                "script": "호주의 한 해변에서 상어의 공격을 받고 사경을 헤매던 여성이 기적적으로 의식을 되찾았습니다. 혼수상태에서 깨어난 그녀가 입을 열어 내뱉은 단 세 마디는 가족과 의료진을 충격에 빠뜨렸는데요. 24년 전 미제 사건 해결에 결정적인 단서가 된 커피컵 이야기부터, 호주 전역을 뒤흔든 긴박한 사건 사고들을 지금 바로 전해드립니다.",
+                "original_title": "Liberals dumbfounded by Angus Taylor’s multiculturalism comments: ‘Embrace the reality of modern Australia’ - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYktoTlg5Qk5pS0hHSm1RMmZ0c0x1SEs0V09LUmxOZmVLenhtRjJOXzdRaVh6YlMtRnJKV0NNVnlxenZBdVhRMTB4RFpVQmNwRS1hVFN2UjQxWmd5YmtMNXloQnZEZFBPNEUtdkU2Q0szc3dMQzhlNGIwcDNYYVhuNk9GMWNMUzVHMUF6NTZTMjdKWlRPZWV4U1pOZzY2YzBuT3FEUldHV1JSWWt3QTM1MlFENy0wLUZu?oc=5",
+                "pub_datetime_utc": "2026-06-24T03:28:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:26 KST",
+        "current_rank": 16
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "소방관 사망, 징계 착수",
+                "hook": "음주 강요와 감찰 묵살, 결국 숨진 소방관의 억울함이 드러났습니다.",
+                "script": "동료의 음주 강요와 부당한 업무 지시 속에 숨진 소방관 사건, 결국 17명이 징계 대상에 올랐습니다. 감찰 과정에서 묵살되었던 진실이 밝혀지며 공분을 사고 있는데요. 이 외에도 선택적 모병제 논의와 서울시 어르신 무료 버스 정책까지, 오늘 한국의 주요 이슈를 핵심만 요약해 드립니다.",
+                "original_title": "이 대통령 “징집병 최소화”…선택적 모병제 또 언급 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vemJGWkp0SzV2eVRGcVJvYlBZNlNOU1VhUnhXR2lKWXNGSzQ5NEhPRG9wdXZQSWxGWUM1eE9ndUx3eU0xcEd1Qno2VGprYWhKSEF4ek9QQjlsQmtyaXB5dG9vN1pPOC1VRGZB?oc=5",
+                "pub_datetime_utc": "2026-06-24T06:57:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:26 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "터키, 테러 소탕 작전",
+                "hook": "앙카라 도심에서 벌어진 총격전, NATO 정상회의 앞두고 긴장 최고조.",
+                "script": "NATO 정상회의를 앞둔 터키 앙카라에서 IŞİD 소탕 작전 중 치열한 총격전이 벌어졌습니다. 도시 곳곳이 봉쇄되고 경계 태세가 강화된 가운데, 터키의 안보 상황이 급박하게 돌아가고 있습니다. 지진 위험 지도 업데이트부터 터키를 둘러싼 긴박한 뉴스들을 지금 확인하세요.",
+                "original_title": "CHP MYK toplandı; işte Kılıçdaroğlu'nun masasındaki başlıklar! - T24",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFlObmhwd1RodzlLRE55YUdaOXJ5dkRLckJ1d040SzU0TmRXMmJLdml4SWdSZXVTNWdXbmVHZkpfZ2IwZzI4U3NoeGxEdWRXbkhpS3RMcWRUNEpXRnE2ZVR0ZENHNUhCcmg5VUZNV0lzOG9lbUp6Z1dhdFFuamRGWUVONWZ4MG5TbDc5NjFSRTVUU05fTXk3Uw?oc=5",
+                "pub_datetime_utc": "2026-06-23T08:26:00Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:26 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 시위 전운",
+                "hook": "6월 30일, 남아공 전역이 폭력 사태의 공포에 휩싸였습니다.",
+                "script": "남아공 경찰이 6월 30일 대규모 시위를 앞두고 폭력 발생 가능성이 높은 핫스팟 지역을 긴급 식별했습니다. 치안 불안이 고조되면서 외국인들의 탈출 행렬이 이어지고 있으며, 정치적 혼란까지 겹쳐 긴장감이 최고조에 달했습니다. 시민들의 안전이 위협받는 지금, 당국의 강력한 대응이 절실한 상황입니다.",
+                "original_title": "SAPS identifies potential violence hotspots ahead of 30 June protests - EWN",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0RUX2QzR09sSUotRy1pY09yc21ib3BkNXZCRWNKNlhwTWlrdGtuZWpRNTJiaG40NWFoenpwRW1Ia1pQYXFpYk9uRmhhTWlFTzhJS1otMklDdVItcHpQYWt5NEN5ZkJWZ21SYzhmbXVGaWlxWFlpYkZYUW9lcVl5WlZmREFsYm9yNWt6U2IxSHI5N0J1UTdvMHNvYkEtWVhrYVVtRg?oc=5",
+                "pub_datetime_utc": "2026-06-24T08:19:38Z"
+            }
+        ],
+        "last_updated": "2026-06-24 18:52:28 KST",
+        "current_rank": 19
+    }
+}
