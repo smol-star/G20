@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "베네수엘라 대지진 참사",
+                "hook": "연쇄 강진으로 베네수엘라가 멈췄습니다, 사망자가 속출하고 있습니다.",
+                "script": "베네수엘라에서 발생한 연쇄 강진으로 수십 명이 사망하고 수백 명이 부상을 입는 참사가 벌어졌습니다. 주요 기반 시설이 파괴되면서 피해 규모는 눈덩이처럼 커지고 있는 상황입니다. 현지 구조 작업이 긴박하게 돌아가는 가운데 국제 사회의 지원이 절실해지고 있습니다.",
+                "original_title": "Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds - CNN",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3liWjNhcnpvNXlqdFFrMlREVG1iel9fUEpSb1hFMFVUWks2Zm1aYTZfUkFPYl81Q082MlViNnRkbUxkS09UX1BQQ0NJX0lneUdXMllxbl81ajJfY012YXVJWEE0M2trbHRCd1JKdHltd05zOUdpeVVCVjRPRU9TaXBlZmFWZ1dDeWZsU1NrVmNpaUE?oc=5",
+                "pub_datetime_utc": "2026-06-25T09:32:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:17 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "베네수엘라 지진 비상",
+                "hook": "베네수엘라를 강타한 지진, 중국 대사관이 긴급 경보를 발령했습니다.",
+                "script": "베네수엘라에서 발생한 강진으로 현지 중국인들의 안전에 비상이 걸렸습니다. 중국 대사관은 즉각 자국민들에게 지진 피해 예방과 안전 확보를 위한 긴급 주의보를 내렸습니다. 당국은 현지 상황을 예의주시하며 추가 피해를 막기 위한 총력 대응에 나섰습니다.",
+                "original_title": "习近平在山东德州考察时强调 以扎实举措推进农业农村现代化 用勤劳和智慧创造更加美好生活 - 阿里地区行政公署",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OT1J5VVBLSmhsWkkyYzNxQUFNaEtFQmVWaThoUkN1TmZ5dTVoZl93R3RickdBX1FsLVlreFZuMDZEaEdMaEUxcDZsTHhLWXBpNmF3Sg?oc=5",
+                "pub_datetime_utc": "2026-06-25T04:21:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:17 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "베네수엘라 지진 10만명",
+                "hook": "사망자 10만 명 우려, 독일 공군이 베네수엘라로 향합니다.",
+                "script": "베네수엘라를 덮친 두 차례의 강력한 지진으로 사망자가 10만 명에 이를 수 있다는 공포가 확산되고 있습니다. 피스토리우스 국방장관은 즉각 독일 공군을 투입해 구조 작전을 지원하기로 결정했습니다. 재난 현장의 참혹함이 전해지면서 전 세계가 충격에 빠졌습니다.",
+                "original_title": "Bis zu 100.000 Tote nach zwei Erdbeben befürchtet – Pistorius schickt Luftwaffe nach Venezuela - WELT",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNclM5cWExQXE5V0pXQVRaQ00tQ2FXZTNPbjBCbWFBWTVpUjl2eWd5aUpfSkdDTzZPT08yZ0JOYUJobEx4d19ELWx6YnlPbThJc3ZBRFRTT2d4YUJHNnhvWGVEQTNfNXA3NHJRMm5iZ0c0bUFJQzlFZVZWSlpMV093VDdrV0NfNUhtTEZkNmxMeURXRGllbzBMUVNjeWdtTkJNemh4ejV2NW5iN21oaUZ3OXY1WkFKTFVCdkJtMjVLMHFfalZSa1h5NnpGdHZyUUQtNndab094RkZJcDNOWFNtVE9GcDZVTzEyZE1tZjc1R1duMFFN?oc=5",
+                "pub_datetime_utc": "2026-06-25T09:07:01Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:17 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "베네수엘라 M7 강진",
+                "hook": "공항 천장이 무너졌습니다, 베네수엘라 지진 현장의 공포.",
+                "script": "베네수엘라에서 규모 7급의 강진이 두 차례 연달아 발생하며 국가적 재난 상황에 처했습니다. 공항 천장이 붕괴되는 처참한 영상이 공개되었고, 사망자가 1만 명을 넘을 것이라는 비관적인 전망까지 나오고 있습니다. 일본 내에서도 아오모리 지진 등 연이은 지진 소식에 불안감이 커지고 있습니다.",
+                "original_title": "青森で震度6強、岩手と計11人負傷 後発地震注意情報は発表せず - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTlFxZWNVSGtGTmhfQTBqSXVfZEtyU01EQ3VyQXZYdEFnRWdVaEo2OGdIaTFVVW1WQXpLQndFb24yckJ6Um5sdVF2eDB0ZTg3OEJNaUFrZ0hUbkhDUk1wbzZaamNDQzg?oc=5",
+                "pub_datetime_utc": "2026-06-25T09:04:22Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:17 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "베네수엘라 지진 참극",
+                "hook": "지진으로 초토화된 베네수엘라, 사망자가 계속 늘고 있습니다.",
+                "script": "베네수엘라를 강타한 연쇄 지진으로 라과이라를 비롯한 여러 지역이 막대한 피해를 입었습니다. 로드리게스 대통령은 현재 상황을 매우 심각하게 보고 있으며, 구조대원들이 매몰된 생존자를 찾기 위해 사투를 벌이고 있습니다. 인도 정부와 국제 사회도 이번 참사에 깊은 애도를 표하고 있습니다.",
+                "original_title": "Venezuela Earthquakes Live: La Guaria Hardest Hit State, Says President Delcy Rodriguez - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSHNkTlZmeFZINHpVdDNlNDUxSGxpTmp4ME4zYzRqeW1sdWZiOUN6WTFOdGl5NEloYWNXN2FfU2U0UjM4T3hobkkwZ2NiaVRWUkY1OW9jZjE2elBJa3dJcjVKOXZwaDdrR2MxV0RPWFphaVV4QmVnNlozNEFiRHpPSlFYQVdHS3FkSU9MRVdzTW5WdGM4NHdmbU91ZW9WZEhHVFNfX1p3b241eDJBYnVoN0VWdmdZVVhjZk9RNl9NT2tlVVViU0taUHo1M3VPRlNmeFFhQ1dJbmNNc1Q2Z0VlY2tNY1RUUExSUVhOX3AzVWxqdHE1ZWF6em16TXdNQ3NoZnYwU0VwTHFEN0ROaHZrZEgwc18?oc=5",
+                "pub_datetime_utc": "2026-06-25T08:08:07Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:17 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "베네수엘라 지진 사망자",
+                "hook": "베네수엘라에서 지진으로 수백 명이 다치고 건물이 무너졌습니다.",
+                "script": "베네수엘라에서 발생한 연쇄 지진으로 최소 32명이 숨지고 700명이 넘는 부상자가 발생했습니다. 수많은 건물이 붕괴되면서 잔해 속에 갇힌 사람들을 구하기 위한 긴급 구조 작업이 진행 중입니다. 현지 당국은 정확한 피해 규모를 파악하는 대로 신속한 대응에 나설 방침입니다.",
+                "original_title": "Venezuela earthquakes leave at least 32 dead, 700 injured and dozens of buildings collapsed – latest updates - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3VnX3pDMUx2X0ZQMlBwOXhDTVM1cnRsRjI5OHlsV2lvWWg4TTlPbTdVRkJPZjhDcE5BZUw1REo1VVY5T21qUjZia3BzUHY5MWM1REY0VTRicE84cEM1VlRCU191LUhRWGxnMHBva2gtSTVwNFhVeHhHd1BoaFJjd0tNZnotNkNHbFBSYnlxLU9xWDZUVjc2dGpUOGZxOUlieG13bEZyMWRKYUFQWkhjR1MwdjM4ZUVtQmlKME05ajZiSWlGSXc?oc=5",
+                "pub_datetime_utc": "2026-06-25T09:28:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:17 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 폭염 비상",
+                "hook": "5천만 프랑스인이 35도 폭염 속에 갇혔습니다.",
+                "script": "전 유럽을 덮친 기록적인 폭염으로 프랑스 전역이 비상입니다. 5천만 명이 넘는 시민들이 35도를 웃도는 살인적인 더위에 노출될 것으로 예보됐습니다. 전문가들은 노약자를 위한 각별한 주의와 함께 학교 시설의 즉각적인 단열 보강을 촉구하고 있습니다.",
+                "original_title": "EN DIRECT, canicule : plus de 100 millions de personnes en Europe, dont plus de 50 millions en France, devraient connaître des températures supérieures à 35 °C, jeudi - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOMUNrcG5KYWRLaUFvMkdxU3dkcUhNZFNuZ3prVlN1bnFjX01sWjBIcmdpUXlXVTZaSnAtc1BZQVp4VGxhTlFNMHFLVkV4V1Y1N281T3k1RDV4eUNmM3MzX205bUttODJBb2drcThhMXd4TW5KWDlqUVN1TzY3MEc3TWhSNExpb1FzN0ljVmRXa1pHai13dHhKdXVxVHhPRmpvRFRtdV9VU3FnX2xXX2FGRXB2eHloa3Y3cTR1bkthNE9tbUJPOTVJRVZkOUN0SzZLRHZXRHBmM2lUTnAtS0RTVTRBMEpleFdzeUlwVkJmVVVuTmFScVFsZTVBN1JoQm5IaS11dVJFcVdHXzJnSWVvYkRaODJUZmpuV3hNQVlkUmFaaE1fbFZROHY2TGRuTDlvNzQ0NFliTkxxUmYzMkpMQTFIR0dCQlE?oc=5",
+                "pub_datetime_utc": "2026-06-25T08:54:31Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:20 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "이탈리아 폭염 경보",
+                "hook": "금요일, 이탈리아 18개 도시가 붉게 타오릅니다.",
+                "script": "이탈리아 전역에 극심한 폭염이 이어지며 18개 주요 도시가 최고 수준의 적색 경보를 받았습니다. 최근 스페인에서만 200명이 넘는 사망자가 발생한 만큼, 보건 당국은 야외 활동 자제를 강력히 권고하고 있습니다. 계속되는 폭염의 공포, 이탈리아가 바짝 긴장하고 있습니다.",
+                "original_title": "Terremoto in Venezuela: palazzi crollati, 32 morti e 700 feriti - Il Sole 24 ORE",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbjlkbmo1TmtWYUJrVGpwMk81Uy1zQXhUOVZUaFM5czM5clMxNnpObnhQLWpaeUF1bm9XR1V1SU8wUTFhSVlmUVN3ZHhRWVcwNWRqNWpiYXNlaWZlRC1ES0Ryb3pwQzFfandLT0xqZ3F6OVBWRGZlbmRNNW5JaU40RDIwWnlUUUZDWE9WMA?oc=5",
+                "pub_datetime_utc": "2026-06-25T08:02:20Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:20 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "브라질 축구 열기",
+                "hook": "브라질의 운명, 월요일 업무 시간도 멈춘다.",
+                "script": "브라질 축구 대표팀의 다음 경기 일정에 맞춰 리우데자네이루 시장이 공무원 특별 휴무를 발표했습니다. 경기가 평일 낮 시간에 열리면서 국가적인 축구 열기가 업무 시간까지 멈추게 만든 상황입니다. 국민들의 시선이 모두 경기장으로 향하고 있습니다.",
+                "original_title": "Terremoto na Venezuela provoca mais de 30 mortes, 700 feridos e é sentido no Brasil; o que se sabe - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuVXdqY1p0VGgxbXlwSEtJUmI5TXB5Rnowb1g0RDh0bktpYmFNZlltcFcwelREQVVaa05aQ25nWEhrY1RFMGRaenY1Z2hPTkJBZzduTnZBSXU2Nlc1Z1JmY21R0gFnQVVfeXFMT1l5QWxqb2tkaE8xd1lKMm9BLTdtZFBhSmZTQ1gyN3l3WEo5WFJUQUU1Q2VUSG5vR1dwR2JCSjJ1ZzNHakd1c245NlhwOUxwNW5Kb1hrNVB2bDZlVzFVSmRoOWtjTnBsNA?oc=5",
+                "pub_datetime_utc": "2026-06-25T09:23:23Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:20 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "캐나다 강진 공포",
+                "hook": "베네수엘라 강진 발생, 최소 32명 사망.",
+                "script": "베네수엘라에서 발생한 강력한 연쇄 지진으로 최소 32명이 숨지고 700명이 넘는 부상자가 발생했습니다. 이번 참사는 인근 국가들까지 흔들릴 만큼 강력했으며, 현재 구조 작업이 긴박하게 진행되고 있습니다. 캐나다를 비롯한 국제 사회의 애도가 이어지고 있습니다.",
+                "original_title": "Civilian killed in Montreal shooting ‘died a hero,’ son says at funeral - Global News",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjVFeGFzcURjWXg2Z2lLWHVycEQ1T3pMdGVIdm85bnJ4X2xJUENSNW01WFZpdTZsUktWZEdzUHE5Wk9nNFNWSHZqMGZLWnEwNzc1a0VIb2hIRlJVbzlyc1BTa3h2XzdYTlo5VWZzUkNpSHFDQ3pNRmRYb3QySDNQTDlvYkdkZjN2?oc=5",
+                "pub_datetime_utc": "2026-06-24T19:59:46Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:20 KST",
+        "current_rank": 10
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "러시아 남부 석유 시설 화염에 휩싸였다.",
+                "script": "러시아 남부 지역의 석유 저장 시설이 우크라이나의 대규모 드론 공격을 받아 거대한 화염에 휩싸였습니다. 브랸스크 등 국경 인근 지역에서도 인명 피해가 잇따르며 긴장이 최고조에 달하고 있습니다. 러시아 당국은 이번 공습 이후 방어 태세를 급격히 강화하고 있습니다.",
+                "original_title": "ВСУ устроили массированный обстрел российского курорта, там горит нефтебаза - URA.RU",
+                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WWGZRWnFOeW5pTjNKazZHLUlSbFRJR1M0TFV4Z0FndmdOdC1hSTh6WnByaFpoQUs2VjJWSWE3ZldOUkVIRUViVFc4ZG8?oc=5",
+                "pub_datetime_utc": "2026-06-25T05:28:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:20 KST",
+        "current_rank": 11
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "본다이 해변 상어 출몰",
+                "hook": "평화롭던 본다이 해변이 공포에 휩싸였습니다.",
+                "script": "호주의 상징, 본다이 해변에서 상어가 목격되며 시민들이 긴급 대피하는 소동이 벌어졌습니다. 최근 상어 공격 생존자의 생생한 증언까지 더해지며 해안가 안전에 대한 우려가 커지고 있는데요. 당국은 즉각 해변을 통제하고 경계 태세를 강화하고 있습니다.",
+                "original_title": "How Karl Stefanovic went from Today show glory to 'Joe Bogan' podcaster - Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTB3SUNONVhHSG5OcXFXOWZMeDhILWhoTlJYSUtlT0NzcnpmdVdNVmZFQmNnQ0liamNGaFZEUnU2bXpSeDM2Q215YTJHbndpa3RSTlhucjBpMzdDMWpkMm1TV29rd0hvajlXUF9weWF0N3l2LTRlWTFlUFRaVzV5RWY5ZjBqMHZPYnk5c3dTWjZySkt2eGpKQkR2aw?oc=5",
+                "pub_datetime_utc": "2026-06-25T03:08:33Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:29 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "베네수엘라 강진 참사",
+                "hook": "지구가 흔들렸습니다, 베네수엘라 대지진 발생.",
+                "script": "베네수엘라에서 연속적인 강진이 발생해 최소 32명이 숨지고 수많은 건물이 붕괴되는 비극이 벌어졌습니다. 현재 현장은 아수라장으로 변했고, 사망자 규모가 더 늘어날 것이라는 우려가 쏟아지고 있습니다. 국제 사회의 신속한 지원과 구조 작업이 절실한 상황입니다.",
+                "original_title": "베네수엘라 “연속 강진에 최소 32명 사망, 수십채 건물 붕괴” - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xcWowSEVoRWlvdGVZZE50RWRiNTA2ZTVJbmtJdktILTFQdHFpMTJWR1FWdGpoaGdmS25XcEtmVGZJa00xUWNUbG81RVJ2QS1kREhmWXFmSlJwMGNud09Vb3I4cG1oTVdyVHczYl9aRQ?oc=5",
+                "pub_datetime_utc": "2026-06-25T06:35:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:29 KST",
+        "current_rank": 13
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Tampang Taufik Hidayat, Buron ",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Tampang Taufik Hidayat, Buron ",
+                "original_title": "Tampang Taufik Hidayat, Buron Kasus Penganiayaan Sadis Saat Ditangkap - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHRCUU1LRW1OT0M1WmE2X3QxTGxsdXVZaHRTTWVvU1o0dEFJdVVWTXctbEhoTHl0UUhweXFRdEZzX00xWkNmRm0tYUwzcnQzMHM4a0JWQ2Zyd2VzZ0NONFVnZktqY0M1cHBJblkzdDNmYlVfWml0bm40ZmtrYWRsc2diYy1EZjZ3NW5aYTNGSU4yeFVNNXlHak41UlktN1hEV3c5V2dMVC1EbS1pWGozTdIBtgFBVV95cUxQenduVWp2TWlTZHZpYkh3SEpnNjdrQTFhYmdHNWFoRWFSTjdHNGdDT1VQLWZ2N2ZXWUNjY2dEc3pPYnRNWDJFc0gxSHJjUDZfcTBxUUNBLTBDY0VDRHBiQzNoYzhlX01uRGZFVl9VdjRVSjlGMXlwTS1ocDBRSHk5ZTVLQUx6OWNTb1FyOVd6RnVxRTJCWDRZZHhnUVlKM1lpdGVMV0p3cmlvZEIwWkY1b1IzYVBGZw?oc=5",
+                "pub_datetime_utc": "2026-06-24T08:00:59Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:29 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "베네수엘라 강진 참사",
+                "hook": "트럼프도 경악한 베네수엘라 지진 피해.",
+                "script": "베네수엘라에서 발생한 연쇄 강진으로 수많은 인명 피해가 보고되었습니다. 도널드 트럼프 전 대통령까지 나서서 엄청난 사망자 규모를 언급하며 우려를 표했는데요. 파괴된 도시와 비통에 잠긴 현장 상황이 실시간으로 전해지고 있습니다.",
+                "original_title": "الحرس الثوري: لا مسارات ملاحية جديدة في هرمز دون تنسيق مع إيران - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNazVPd3BYNGllN0FPbmZNd0pfZzZ5Y3NJVUw1NWdCcUFZVDh1OXhva1JXVXRkZzJSWDBab1ZCcE1VRHNWSjFtVGRXVjNqeGRhYjFNMFREWWktZnVGRnRkNmxTNHpBYkdkSHZnWG9EWjV0cWViSkNnVi00ZlNkc3NxcjBhaHhEMDVjdXROTVJVUVA3dU0wUFJxalJxeGtsYkk4dENTNmFEclJXaUIzUGlKem9Xb29sSHc4cHRaX3d5QVBidzd3eG5LUFZsNFRyaHhVbHNqVVRpU3U2b1lnRXZ3UmJKWkRJZFliUUNoNnBCQjhOSmlvc0UzRU14X2ZJMFRLcmhwbVFzbWEzd2daTTFmSWRSeV9JZmxxVWRiSWpoRl9JN1ZnT0JxMGQ4QWRoMlN1YlRHdDJOeTVyNDFjek45Sko5MG1sS3pNV1IwXzlrdXFsOFRpMklGS0FuaGpDOXJOeER3enNWQzkxYjhRd0VwaTk1TmowaG5CU1pobUhHWngwcGNIa2ZxWkhqcWtNQnYwaWM0NDBOWDdZeWdEZjlxQlJzZHlHbWZ2cGFKbUlYRlNIQVhBVS0zbEVtbEcwSWtrOHBlMjVndXI5ckFNSjl4bjBaTlZDaTUtU1hta0djWVhvb1J1QnJ3dTNLd3MwWkhyVjBldHVfbVh0MTjSAYAEQVVfeXFMT3h5N2c0ZldxT3VVcUNqdFhlbGtUZE5Qd19YYUp6MXF3UF9lYndWYXBrbWJkX01YREZqMlhiWTBBa2dGcGpJcmk4Z1UwLVBrUWh1SG9fYjZXbnc2Vnl3eWlYcXlsZEYtOHdXMXc0d3FMZW41MUVnbFZwQjhFUk9PZjVtMEVhVGswT19yZDBEVWpzcUtFbVN3WWRIc3M0dHZtSjVkaDhoRXJGOUdvWTl6OW5IX3VJWUg3YnA2dVpUaWtWSzBLbTZsMlhOcjVjR1lZWUhNQlBHeEVEUnNpaHJHWTYwV0VtdjZiT2stQXhRNVJEVVhpV2VEbDhqY3U0bDFmdDdkT3hPQlQ2ekFOeEw2VWwtYU1JYjJ4Y0tfaEt4TWtScnJWZmt3TGJFUFZRQzVXbWpqZC1zVEMzS3EzTTh5VmROSHZpUWZSel8zNnV5ZWRRMGQwTm02UXRncHdQMGlIYzJMd3psbjc1S29mSzZfLUhqMExWNTF4MUZRdENVb0t6aGhmQjJXS3dNVmpNLXFMY1lkbUxvWUxaLUdLVG5VT2xqUE1Eb3JJRTVLcTJFMW5wSVNKN3l6RWFwWEZPT2pvUDd5aXBpbGtnVUkyUFlldGtOMGpGeXBJM3BtU0hFMUZOU3pmV2lhcGJkb25OaHdHeWdwOVNLOFd5MFNXZ1QtT3A?oc=5",
+                "pub_datetime_utc": "2026-06-25T01:27:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:29 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "베네수엘라 대지진 공포",
+                "hook": "지진으로 멈춰버린 베네수엘라, 지금 상황은?",
+                "script": "베네수엘라 전역이 연쇄 강진으로 큰 혼란에 빠졌습니다. 쓰나미 경보와 함께 건물 붕괴 피해가 속출하며 실시간으로 긴박한 소식들이 들어오고 있는데요. 현지 상황과 피해 규모를 지금 바로 확인해 보세요.",
+                "original_title": "Terremoto en Venezuela hoy EN VIVO: daños, víctimas, alerta de tsunami y últimas noticias - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd185WTFQcUNiSmUzSUdjMEZVQ3N3TS11cVhTWEtnN0E4ai1SbGsxX09rWXBqY1Q4dmRlakIyeHk0VkpIcEVLUkV6ZHJMTUpFRVJRdFp5YktoRnA2b3BZTDlLa3pMS1JKSFVrcmN6bG9IQThEUk01R1JXNzQzVVp6NUZrU2xqMEU3VFVKVzlGcEZEcUR6VG9qX0duR0xiUHF6RFBVNVNPQUJDV3RoMlRvNHBLcndLZWtUUnZ3SUZB?oc=5",
+                "pub_datetime_utc": "2026-06-25T08:55:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:29 KST",
+        "current_rank": 16
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공, 반이민 시위 격화",
+                "hook": "6월 30일, 외국인 추방을 요구하는 남아공의 거센 분노가 폭발합니다.",
+                "script": "남아공 전역에서 외국인 이주민들을 향한 반대 시위가 6월 30일을 기점으로 거세지고 있습니다. 더반 등 주요 도시에서는 이주민들을 향한 혐오 범죄와 갈등이 최고조에 달하며 사회적 긴장감이 극에 달한 상황입니다. 정부가 시위 금지를 검토하고 있지만, 분노한 시위대의 움직임은 멈출 기미가 보이지 않습니다. 과연 남아공의 치안과 이주민 정책은 어떤 결말을 맞이하게 될까요?",
+                "original_title": "'Cat' Matlala strikes plea deal in R228m SAPS tender corruption case - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREs0UGlXa0tLOTM0aWN0VU1SLXBtckFOV216dkI2NjVXLVM2U3daRnpXRlUwX1dYRjJienJiTWNBLVptVTF4STBFZjgyLTlpZmZHNlhIbGwtUG9jNXBWbDVqa3p0c0xxcmduUXE1dlJPUlRaNllEZm8wNDFnbHFpXzRwSGtCeUJFUHJEWG53ZGg3b0ZSajNIWWlCYThva28wcWw0?oc=5",
+                "pub_datetime_utc": "2026-06-25T07:28:04Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:32 KST",
+        "current_rank": 17
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "멕시코 축구 사고",
+                "hook": "축제 분위기 속 덮친 차량, 17명 부상.",
+                "script": "멕시코의 월드컵 승리 축하 행사가 열리던 카보 산 루카스에서 차량이 인파를 덮치는 끔찍한 사고가 발생했습니다. 이 사고로 17명이 부상을 입으며 축제 분위기는 순식간에 아수라장으로 변했습니다. 당국은 사고 경위를 조사하는 한편, 경기 당일 금주령을 선포하며 추가 사고 방지에 나섰습니다.",
+                "original_title": "Qué se sabe de los dos fuertes terremotos que sacudieron la costa central de Venezuela causando graves daños en Caracas y alrededores - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XeWlVVF9GOUhmUUJobjVzNzNMZUc2c3IwVEZPaUx6TUlGSFJmWDdqbklWWHNoNGVYeFJWZ1dqREVGNTA1Y25ybEY5YjVjVi14eWJfY3I2MmkxNFHSAWBBVV95cUxOclp5NXZ3OWJsMF9jbG9wakdaVFl4TU84SExtdVdzUE9saktpeDFmYlBZek1ZdnVCYWtFRElHY1lCSFhRM3lOdVFQNHhJaXpXQUN4RHFrXzdWeU5HaVFBSmQ?oc=5",
+                "pub_datetime_utc": "2026-06-25T06:08:05Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:20 KST",
+        "current_rank": 18
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "베네수엘라 연속 강진",
+                "hook": "7.5 강진이 베네수엘라를 덮쳤습니다.",
+                "script": "베네수엘라에서 규모 7.2와 7.5의 강력한 지진이 연달아 발생하며 국가 비상사태가 선포되었습니다. 건물들이 종잇장처럼 무너져 내리고 수많은 사상자가 발생하며 현장은 지옥으로 변했는데요. 구조대원들이 잔해 속에서 생존자를 찾기 위해 사투를 벌이고 있습니다.",
+                "original_title": "Kemal Kılıçdaroğlu ve Özgür Özel butlan kararı sonrası ilk kez karşı karşıya geldi, tokalaştı - T24",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0tWQ2hEcDRBbTFLZGlIQWxVemV4VllsTjhseGQ4VHVlNkR4dUt4eU1nRmh5aUJ1STJRNl9vN1VzOFpvNDlORkxscTd5MW8zVmRoZEtaLVJ6M2ZGdUhDLVJoeFdYVklsZlExZzM5dGpsVExKcWhsSUVFMV9xa2lSeHNYMGd5M0FhTGN4QXpNMk9WODBzNzZyRWdERW9VNUNrSVBlXzdDUnllR2l4T003NUxUcmRVYzVfNlVBejd3MmhNemdU?oc=5",
+                "pub_datetime_utc": "2026-06-25T08:13:00Z"
+            }
+        ],
+        "last_updated": "2026-06-25 18:46:29 KST",
+        "current_rank": 19
+    }
+}
