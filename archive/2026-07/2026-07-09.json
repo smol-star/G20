@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "미-이란 전면전 위기",
+                "hook": "트럼프의 '휴전 종료' 선언, 중동 전역이 화염에 휩싸였다.",
+                "script": "트럼프 전 대통령이 이란과의 휴전 협정이 끝났다고 선언하며 미군과 이란군 간의 공습이 격화되고 있습니다. 긴장이 최고조에 달한 가운데, 양측의 무력 충돌이 중동 전역으로 확산될 조짐을 보입니다. 한 치 앞을 내다볼 수 없는 국제 정세, 전 세계가 숨죽여 지켜보고 있습니다.",
+                "original_title": "Live Updates: U.S., Iran trade more strikes after Trump says ceasefire is \"over\" - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFFBSHNtaThwT3hnaEw0dFIwcGlLV1poQ2FGckVQZTZxb2lCRFktbi1CbElkOElkck9DaFdBa25yTzE0eklja2t4MENnSXk4NHVCLTdOdThQby0tOWc3VnVwSkNiYm1iWmh1aVdLTnFWdk03NVFpMmhsY2czS1FybQ?oc=5",
+                "pub_datetime_utc": "2026-07-09T08:17:23Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:48 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "광시성 폭우 대란",
+                "hook": "도시가 물에 잠겼다, 광시성 덮친 역대급 폭우 상황.",
+                "script": "중국 광시 지역에 쏟아진 기록적인 폭우로 인해 도시 전체가 침수되며 막대한 피해가 발생했습니다. 학교와 마을이 고립되면서 만여 명의 학생과 주민들이 긴급 대피하는 긴박한 상황이 이어지고 있습니다. 당국은 긴급 구호대를 파견해 구조 작업에 총력을 기울이고 있습니다.",
+                "original_title": "习近平出席国家科学技术奖励大会两院院士大会中国科协第十一次全国代表大会并发表重要讲话 - 红星网",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWWd0QVQ4S2xFU1NXX2l1UTNHS1FTaS1qbjhhMlRnRVptNlpIbFd6b0M4ei1kRG5Pc252aENLbFY0TEI5X2JNa2NSYmdPWmpJMkxZN2RGbElPN2pJcXN4RU5rOXVUZw?oc=5",
+                "pub_datetime_utc": "2026-07-09T07:54:00Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:48 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "전설 보니 타일러 별세",
+                "hook": "허스키 보이스의 대명사, 보니 타일러가 우리 곁을 떠났습니다.",
+                "script": "'Total Eclipse of the Heart'로 전 세계를 사로잡았던 팝의 전설 보니 타일러가 75세를 일기로 세상을 떠났습니다. 수많은 명곡을 남긴 그녀의 비보에 음악계와 팬들의 애도가 이어지고 있습니다. 시대를 풍미했던 그녀의 목소리는 이제 영원한 기억 속으로 남게 되었습니다.",
+                "original_title": "Bonnie Tyler ist tot: Die Sängerin wurde 75 Jahre alt - T-Online",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVh1cGt5dU5XMkZlRDAzTnVGN2Zybk9rTEV5T1VOR3BKeEwyX01HTUhXUTRyWENmRGExemxSaWZFbVQ4TEc4OGZLa0RSbHd6RXFxM25uczdzbW9EblRQTDVWMHE4TzJtTExMb1lNVmNfS0N3dnY1cUNwSV94alBHTVREQjRqWU1lMmxvam94OFd2SHo5Z3AzcTR6M01pUDRidkowUzFlVFhuRGI1bXlyczZWYkI?oc=5",
+                "pub_datetime_utc": "2026-07-09T09:09:59Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:48 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "폭염과 기습 폭우",
+                "hook": "무더위와 게릴라성 폭우, 일본 열도가 기상 이변으로 몸살을 앓고 있습니다.",
+                "script": "일본 전역에 열사병 경보가 발령된 가운데, 곳곳에서 예측 불가능한 게릴라성 폭우까지 쏟아지고 있습니다. 태풍의 영향으로 인한 강풍과 폭우 대비가 시급한 상황입니다. 주말을 앞두고 기상 정보에 각별한 주의가 요구됩니다.",
+                "original_title": "トランプ氏「イランとの戦争が再び始まることはない」、イラン側から合意望む電話「結ぶに値する相手かどうかが問題」 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44RXhENzBxS3dVS1JVMFNUUm5pM2ZBeHBEd3Y4a3U5eGRELUQzT2ZmWk9uQ3p4WWFmS0FCTEhubktPVHJqTjZYZFNoS014VW1NSVJHVnVXYWlfREdUZy1nakVR?oc=5",
+                "pub_datetime_utc": "2026-07-09T02:27:00Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:48 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "인도 폭우 비상령",
+                "hook": "델리를 덮친 물폭탄, 도시 전체가 마비될 위기에 처했습니다.",
+                "script": "인도 수도권 지역에 200mm가 넘는 기록적인 폭우가 예보되면서 비상령이 내려졌습니다. 노이다와 가지아바드 등 저지대 지역을 중심으로 침수 피해가 우려되는 상황입니다. 기상청은 외출을 자제하고 안전 조치를 취할 것을 강력히 권고했습니다.",
+                "original_title": "Iran war live: Tehran retaliates in Kuwait and Bahrain after second day of US strikes - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVlxb1BiS243OEV0SGJCaXNPVWlVYm9vUHoxMlZjdnpFTFY1RzhyenpuQXdfQnV0VEVPUUJmc2JocTRZcWszU0tFZldkUlg3ZlhtWkdpdldsdHI2QnIwTmhpNFNWSlRwQTJKX012VVd1eWJkbHVaQjJPa3lhSmE0VlpUQ1lqREczUF94TUtzYWdnUHllZzduQTJYRkxraUFjUzFLT0JFX3g5MkdvV1ZhWGZSVUtrRW8?oc=5",
+                "pub_datetime_utc": "2026-07-09T05:52:17Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:48 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 폭염주의보 발령",
+                "hook": "30도를 넘는 불볕더위, 영국 NHS가 비상 체제에 돌입했습니다.",
+                "script": "영국 전역의 기온이 30도를 웃도는 기록적인 폭염이 찾아왔습니다. 의료진은 이번 폭염으로 인한 환자 급증에 대비해 보건 서비스에 '지속적인 압박'이 가해지고 있다고 경고했습니다. 시민들은 온열 질환 예방을 위해 각별한 주의가 필요합니다.",
+                "original_title": "Bonnie Tyler, 80s pop legend known for Total Eclipse of the Heart and more, dies aged 75 - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQnloOVlWX3VTOGlBMjAxdl9aem9xMWRZMHUwLWdfUUxHTmJlYXlJb2tzcGZ3cEJXY21ieXZ3WGFwN0pJakNSWFU1MXB0Y1hndFRSaTJEb1ItV2g5R1NnT0c4bXlwRWdIMFVtTVA5dE5mRms1RXlBeGNEcmFITmotM2h4X2R4ZXdPTjYxTmRFOTB4NHFwNXdSYk8xVnE0b1c5eTJURE9wU05wekpVYXlyZWpvVFE1TlBvN3JzYU5MN1hjUkxJY0dvNzBsR3A?oc=5",
+                "pub_datetime_utc": "2026-07-09T09:29:00Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:48 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 폭염 비상",
+                "hook": "프랑스 전역이 43도 폭염으로 타오르고 있습니다.",
+                "script": "프랑스 72개 지역에 폭염 오렌지 경보가 발령되었습니다. 남부 에로 지역은 기온이 43도까지 치솟으며 기록적인 더위를 보이고 있습니다. 당국은 기후 변화에 대한 대비 부족을 경고하며 시민들의 각별한 주의를 당부했습니다.",
+                "original_title": "La chanteuse britannique Bonnie Tyler, un monument des années 1980, est morte à l’âge de 75 ans - Le Figaro",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0lDVHFGVkZiQldwYUpQMHR3S0dCVU53a1ZNZTVGbjB5dFdGZUtFUGNQZi1jNk50NVhHRHZRR2MzVXdYR0hYZ3ZyQThkd2JWcTB5bGpXLVdrd0FVYzN0Nm92YlhPMWtMTkJaNlg0RXpHV0s3OUhpY29YYzJBbms1OXdXd0xRZ1YzN0VFYW1fNm1kMWFoRlNoMVMxZUZzR1R2T0ZHVUV3SVc5WHhJc1Jvc1YtVUs1ZDd2azNsUU5DLU00cjdSNkRZMUpGRV9Sdjg?oc=5",
+                "pub_datetime_utc": "2026-07-09T09:13:08Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:51 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "이탈리아 스파이 추방",
+                "hook": "러시아와 이탈리아의 외교 관계가 벼랑 끝에 섰습니다.",
+                "script": "이탈리아 정부가 간첩 혐의로 러시아 군 관계자 2명을 즉각 추방했습니다. 3일 내로 로마를 떠나라는 강경한 대응에 양국 간 긴장이 최고조에 달했습니다. 최근 발생한 공장 폭발 사고와 함께 이탈리아 사회가 크게 술렁이고 있습니다.",
+                "original_title": "Nuovi attacchi USA sull'Iran, Trump: \"L'intesa è finita\". Droni e missili su Kuwait e Bahrein - Aggiornamento del 09 Luglio delle ore 10:44 - RaiNews",
+                "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdE5BNUVWbVgyRC1NR1gydkZaQ1dnZzhBQkp5OWNtYU44SnIxclZqMGZMTmo0S0lnT0R6bmxkQzJqY2RoRzNoNXYtMldkLWZWdkJGNzFCUUxhMFltN0Z4eEhyVVIyTU9vbUxKd0NmYmVkY214YmUyeS0xc0ZZUFZtdnF4VGFwTUk3OHlaTHhlMFpxR2JIUjU2QVhxZi1TeE9HWkdVR1YyS1Q1UjF0YS1YUm1LOENyNDdlQVI2aHJsUlRLTmZ4LVh5Q2RxeGJGOG5WMjY0NlBpNW1xLUFfdThHZGJSYU5LR3JlVURIZ1BiWndocEotR0N2WTJXYVoxRERueDN2TW8xQWxUQdIBjwJBVV95cUxOUmpiR3NEa2xaSEp5LWp1Y05NY09BelRGMG5UZUdqd1N1TlVNMktfeEd1UU9fN3lRdnl0LU9abW11YkhBZjY3aldKOGtvbzR1VUNlamVxOTBHb25kUmhKWmljTVBWdHZWOGdCUk1XSkxtLWNqMEpnTXF3OTNHZHdrWnJpa0FTRzRfcEVDSGpWckFOdVVlYVJ1RkNKanBFeFo2NHdDeUZvak81aFE3RTY1VkZDTi1xUXo2VllXSWtmQmhfa1hDYXNLd2ZobkpEN2ZLZTBhRjhId2VLU2RLZV9aYkJ1ZmZmWExzQ1dRY0VMNFZfTnkxUEdWVzlJaXJRWDV3VTROdkNHS05QTUd1NDJJ?oc=5",
+                "pub_datetime_utc": "2026-07-09T08:44:03Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:51 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "브라질 러시아 스파이",
+                "hook": "브라질 정부가 러시아 스파이에게 철퇴를 내렸습니다.",
+                "script": "브라질 정부가 러시아 국적의 간첩을 공식적으로 추방하고 향후 30년간 입국을 금지했습니다. 동시에 정부는 범죄 조직과의 전쟁을 선포하며 미국과 테러 대응 협력을 논의 중입니다. 정치권의 격렬한 공방 속에서 브라질의 안보 상황이 급변하고 있습니다.",
+                "original_title": "Irã ameaça atacar outras bases militares americanas após ofensiva no Bahrein e Kuwait - G1",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSm51cFRCNUdMTmxxeXp4RDNvVUZYbjlfXzg3eW5GRXpBLXdsdURrX2JkWl94U2h5djdESlNrS01oQnR6MFp1SzF5a1VTQlJHcDM1RDNfLVBlLVJDMlZwTi1yZm5OQUY5SEFGcGJiTFFlTzJzejZ2ai1xTENaNzcycDVlZnlfWFNVWGtlLUd2X1Zxcy1LblVEeVlxTXQ0d0dlR182Nmg3RGVTWkIyV3otTTRJVDFSb1J4Q25KV3p1STVTY0Jyd3c1TEdEZkM5QVl3cEhN0gHiAUFVX3lxTE8wV21DTmhOQ0lRX05IT2psa29hYkdnd1VmeFlYY3M0M2daWFdacnlCY1ZibGVCUmN0ZU1fUTA5dXVTU1IteDNxcHlGV2Q5OEFubkxURTRfNTNkWWozVGlGUks5WjNOcnhwVDFLakNrUUJ6UVFKVW4wRk44ZlN2VDdycG9fd2lBUk1RQzAyeTRaNlljSkRSR29DM1NzZWVTTFpud0QxZUlZdnlfYmxHY2t1eUtRY3JNamwxMkVULU5Pd2xGV2JGMUdRTTQ4OU9PU3JnZ3prNGUzWUFCakVLM2RGeGc?oc=5",
+                "pub_datetime_utc": "2026-07-09T03:11:46Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:51 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "캐나다 산불 비상",
+                "hook": "통제 불능의 산불이 캐나다를 집어삼키고 있습니다.",
+                "script": "브리티시 컬럼비아주에서 발생한 대형 산불이 걷잡을 수 없이 번지며 주민 대피령이 내려졌습니다. 뉴펀들랜드와 래브라도 전역에는 화기 사용 금지령이 선포된 상태입니다. 중동의 긴장감 속에서도 캐나다 내 환경 재난 대응에 국가적 역량이 집중되고 있습니다.",
+                "original_title": "Middle East live: US says it struck 90 sites in Iran as Tehran targets Kuwait, Qatar, Bahrain - France 24",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa00zRURxc3AzWU1IOHhmaE45VHB6VFhLSDVJVHNFdHk1ZjhMQUEyeVJvNWRFcjl5SnU4RlZQUmJCQ0R3MWlZbHdsMHQ3elBqZW1haEN1SVZ3ZVluV29UT3NLWnNIVWxFYWxUc3E1b0lfOUl4Q0JiT1FvZFRVcE1GS05kazJJeC1WTUk4TmF4eEZHMjFXTGl4ZzZHbUllZHN5TVR2aU1Oc3VWd3F0a2lNZVFOTUlLNWZYTnVRajRNZEZwd215M0E?oc=5",
+                "pub_datetime_utc": "2026-07-09T02:06:43Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:51 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "멕시코 카르텔 소탕",
+                "hook": "멕시코 쿨리아칸의 카르텔 수장이 사살되었습니다.",
+                "script": "멕시코 당국과의 교전 끝에 '로스 차피토스'의 핵심 지도자가 사망했습니다. 동시에 미국은 CJNG의 새로운 우두머리를 특정하며 압박 수위를 높이고 있습니다. 멕시코는 폭우와 홍수 피해에 더해 카르텔과의 전쟁으로 이중고를 겪고 있습니다.",
+                "original_title": "Ken Salazar responde a Sheinbaum sobre el caso Zambada: “No fue nuestro avión, ni nuestro piloto, ni nuestra operación” - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWGxEeUgxUWxsNVpZSU9zaFRRZUR6eEhzdGJZT0FJaXVhRWJWNmQ3eGZ3UWo1eVJyb3E0RXZibFFGNzYyZUlXOU40VHJwRWZDZVdnWGVmb1M0SF9ZTjh0N2VjbGVkcWdCa2E2RTZabDViQXQ4ZWVmN0tEeEQ3LTd5VGVMdWRISUxmdF80VmFwUWFtRi1MWWVncDg1NU1WWUlPTUV3aUFwSlNqMER0djhiank5ajVsbWkwb0RkT1BveHh2Z2paYVE5N3d4YUtJV2JhR09hMlhiWGhYdlhiSHloa2swazhEZ1hoWXNTcQ?oc=5",
+                "pub_datetime_utc": "2026-07-09T00:21:44Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:51 KST",
+        "current_rank": 11
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "'Eternity of pain': Angus Tayl",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "'Eternity of pain': Angus Tayl",
+                "original_title": "'Eternity of pain': Angus Taylor issues warning to Australians voting for One Nation - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVEZPdXIza0NydmR0YU02X1RaZi1TcjU1TFBGb3N5Mi16RzFoaDJjZGdVVjdxS0RFQnpYQVhMRnB6ZjBMLTVQSUlhaXVCYjNxRi1FM1hWRUhZT1c1QzZ4Q1VpcUVTeV9wVkZ0bFpoMDRkcXJLTWEwZHhzQTR3UHVkWVNVXzlNMkZqdWJmczlLSW5RZ3JWZXNncHpxZEw?oc=5",
+                "pub_datetime_utc": "2026-07-09T07:38:31Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:55 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "윤석열, 내란 재판받다가 휴대전화로 ‘체포방해’ 선고 ",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "윤석열, 내란 재판받다가 휴대전화로 ‘체포방해’ 선고 ",
+                "original_title": "윤석열, 내란 재판받다가 휴대전화로 ‘체포방해’ 선고 시청…“상고 기각” 듣고 쓴웃음 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZYUFVdWlKNDlVcnB5Wk5NNUdoUGRCd1lOV2FEd2U4ZzZXbXRxYnRlMUxiRnFEMUpRWGxiekhhc19qQjhqdlM0YzdVc3AwaU5vYmIyTlRSbXNSQdIBX0FVX3lxTE9VOTBpU01ZRnphQUREdU1LOE5obGNndnZKNDZKbmJCVmZqc0dSWW80ZzVPUm85RWNHUFpWZXJQbHljcTVYckZtUlREQ1AwbjJicjl3ekt3LUZlekhZVXJF?oc=5",
+                "pub_datetime_utc": "2026-07-09T07:30:00Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:55 KST",
+        "current_rank": 13
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Hukum: Fakta-fakta penggeledah",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Hukum: Fakta-fakta penggeledah",
+                "original_title": "Hukum: Fakta-fakta penggeledahan polisi terkait korupsi batu bara PLN, Asabri dan Krakatau Steel – Apa yang sejauh ini diketahui? - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3MnNwUXNCN1VqaUU1NDF0WDR3Rmk3N01lQmZZYjI1N2VVbWkzWW41Q3g2ZkRYTjZQOWJLVUoyd2swbXF0cXN6MVdxbDc0SGFCamdtei1NQldZNU5zUEFCetIBZkFVX3lxTE9ZOVcyQllMVXdSLXhqZ3JPbERjWVMwQU1tWlNlV3BXdFBqQ2swQVBWdTVkLW1VOTFkNVNFREdzazF3LWpvY2tmRmV6NjNCRks1eUFxOW9tbldUZHducExaR3daaW5SUQ?oc=5",
+                "pub_datetime_utc": "2026-07-09T07:08:43Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:55 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "الحرس الثوري يعلن استهداف قواع",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "الحرس الثوري يعلن استهداف قواع",
+                "original_title": "الحرس الثوري يعلن استهداف قواعد أميركية في الكويت والبحرين - العربية",
+                "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxONDZoYnd4RXlsOG1VZHVWalEzTE1sUU5hZjVpeWpPaWZtREl3Znh2eU5RNFQzREpYeWc1aTQ5cUdOT1Z6Q2hQSFpHcFc1ZE9selJsS0gxRlRtVUJHbXJiUDVHRjBXMkNaa1NfbzBsU0VoYngtci1WM3ZGaTRMOXFTSTdTcGU5TnNpbUNZOWpBOGpoeWxZS3FNSkYxRFc0ZlFlVEx3V1pPR0dkS01NcHFVQ0dLWkxvRTlwck9MNGhUOVhiMXUyRVU5NW91aWRRTVpmR1VmOFAtMW1WQ3BfcXk4dmlGWnhmN3BqTTdfOXB2QVpUWUgzUW1HdFA1aTk3anRCUUgyaU9pSG9yN0F2SVNpeGk1QnhFM3NkenBiZVRXMGJJNUxNWEtzUzlNSGRfNU5VcnFSTnYyN2NnT0hqX0t3MF9CYUlGTkhkVXU2a3lKQk1FdksyQXlXMVJHamNtY255ZmJxcFg1VVdKM29Ud3k3MzlfNWs1T0M1ckdIbEpfZDhoQjN0NjdFMmdjcG5NZzBIbHoyRFRB0gGbA0FVX3lxTE1tbUZPZ2JsU2NHSzBteV9ZNlNxUmNTWWJnREZfXzI1VU9MbThzOWIxcHlkdFFld3BfWXNUZkdubEMtRk5OUWwtdUV4MDgxLXd4Smx2MHVVN0pxTUxNR1pfc0stSVhJTXZuclNGMjkzaUFUUVFXaDhTY2FtRXhfcnBvUUF0Yi1NZTNyajNhUkNBaEFCeTBaRVpsc2lqV2FRdjZpUkd4U3kzOGlOQ1VXbU1jOTMxUWFSY3huTVRiejZULXJBXzhEZG4zU3JpLUVqMEJUSWZrN3VNaldubXpHSUJCdFFDZmJFOThCWjFFVk9fR2dPX253ZUtJTzVQRVBRV2dnSnVRMTFWSWpVUnVJeUNqV2ZQMXU4THp1RG1TUEExT3EtZl9acnFXZUtiVmg5Z29BNmpEd1lnaElHbW5GRFNTX3AtOTA4b0ViYmY1cVFTNldqdG5HbUNhSDZtMm5abUtER3VRSFFsSXRTUG1HYWpURWM5ZWF2cXViSGlpLVBLTUFvdTNOMW5VQ1dxaE4zaUZpOU02UTJ1ZnFuMA?oc=5",
+                "pub_datetime_utc": "2026-07-09T05:17:28Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:55 KST",
+        "current_rank": 15
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공의 위기와 변화",
+                "hook": "마약 카르텔부터 건설 마피아까지, 지금 남아공에선 무슨 일이 벌어지고 있을까요?",
+                "script": "남아공 전역에서 마약 밀매와 건설 마피아 연루 의혹이 터져 나오며 국가적 혼란이 가중되고 있습니다. 요하네스버그의 재정난과 여전한 전력난 속에 정부는 부패 기업 블랙리스트를 발표하며 강경 대응에 나섰습니다. 27년간의 콩고 파병을 끝낸 군의 과제와 새로운 정치적 움직임까지, 남아공의 미래가 갈림길에 섰습니다.",
+                "original_title": "Julius Mkhwanazi among four arrested in task team takedown - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVQ2c3M2Mkg4UEViSXpfeXM5RnhtVWNQdTZGRnZzSHYwUzY0UTByRXR5SVVVOEREMDFLWFVGZ0xmSUVoNXQ0Y2dlSmlfTGRxajVGVWh4c082VjdqbEZoRU10bmZLZU1mVF9SQlJ4TzE0dmJHU09ITVVPdUxOVGRXRWh4amo5U0ZwdjUyMW9vWWViWFBGZDY2Tw?oc=5",
+                "pub_datetime_utc": "2026-07-09T07:05:38Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:57 KST",
+        "current_rank": 16
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "러시아 산업 시설이 드론 공격에 초토화되었습니다.",
+                "script": "러시아 스타브로폴과 타간로그만 일대에서 드론 공격으로 산업 시설과 유조선에 화재가 발생했습니다. 모스크바에서는 국방부 장관 암살 시도가 적발되는 등 내부 보안에 비상이 걸렸습니다. 연료 위기까지 겹치며 러시아 전역이 극심한 혼란에 빠졌습니다.",
+                "original_title": "Из-за атаки БПЛА на Ставрополье горит промышленный объект, жителей эвакуируют - ФОНТАНКА.ру",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9acko2M1pVNFZ1eXJKd3M3Mm5kcjh0SF9hcWJCQmVlSGliU1poMUQySmdnYzJyX3RZa1N5WkZjOVV4T2ZQSWR1RlVlYkFyTUQ1b3dJSW9Jbw?oc=5",
+                "pub_datetime_utc": "2026-07-09T04:06:00Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:51 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "Trump: Türkiye'ye F-35 satışı ",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Trump: Türkiye'ye F-35 satışı ",
+                "original_title": "Trump: Türkiye'ye F-35 satışı konusunda henüz karar vermedim - Bloomberght",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzJpelVhbUd4Q1AxQ2g0cmtqVE4tZS1JSWgzMk1fb2phZFRsaEQtb1lJVlB1XzhMV3lUQUxuQlVxTGdqYlJJWVpfalFtaDUtM2syZFZlYXY2SFBPY3V0WFJqcWlZTjgyQXExOC1qY3p3bGZ3VGJvMHlqVjcxNVBpZmFOa0l4Ym5ZRjdjOWpNS0o2a0J1Y3JLYzRaZw?oc=5",
+                "pub_datetime_utc": "2026-07-08T17:21:19Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:55 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Javier Milei, en cadena nacion",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Javier Milei, en cadena nacion",
+                "original_title": "Javier Milei, en cadena nacional, EN VIVO: el Presidente encabezó en Tucumán el acto por el Día de la Independencia - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUFRDOHJza19rLVJsQ1NpcG9NcFdnaS1sSFFScG11X2pWWEpDc2VlLXZhdVlVVkV2Rl9FNHpHMWYyYndkV2NkclZOSmxGRWtTTWdVQVI1VmwzQVBzSkZ3Qzdhcm9xQ2VtNjBoYVlXX0xTLW13ZWsxZWFsNTF2amdyOWgwWVp2LWdvRkc4a2VUOGl5MHFoYkxlNWRXNFVaeWpDWnl4OF9VMG9KQVdvanFLUUd6aS1oaU1xajBxbkJsdjBUdWNYLXBLOXl1MWhFaHhiXzRoZHhqS1A?oc=5",
+                "pub_datetime_utc": "2026-07-09T03:43:00Z"
+            }
+        ],
+        "last_updated": "2026-07-09 19:00:55 KST",
+        "current_rank": 19
+    }
+}
