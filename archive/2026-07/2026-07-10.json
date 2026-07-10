@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "미-이란 긴장 고조",
+                "hook": "중동의 화약고가 다시 터졌습니다. 전쟁의 서막일까요?",
+                "script": "미국과 이란의 무력 충돌이 격화되며 중동 전역이 일촉즉발의 위기 상황에 놓였습니다. 휴전 협정마저 무산될 위기에 처하면서 세계 경제와 안보에 먹구름이 드리우고 있습니다. 과연 이 갈등이 전면전으로 이어질지, 전 세계의 이목이 집중되고 있습니다.",
+                "original_title": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+                "pub_datetime_utc": "2026-07-10T02:36:00Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:17:57 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "중국 전역 폭우",
+                "hook": "역대급 폭우와 태풍, 중국 대륙이 물길에 갇혔습니다.",
+                "script": "중국 전역에 태풍과 폭우가 겹치며 비상 경계령이 내려졌습니다. 마을이 침수되고 긴급 대피가 이어지는 가운데, 구조대원들이 사투를 벌이고 있습니다. 자연재해 앞에서도 굴하지 않는 구조 현장의 긴박한 모습을 지금 바로 확인하세요.",
+                "original_title": "全力抓好党中央关于科技事业各项部署的落实 加快推进高水平科技自立自强 - 人民日报",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LMXJYMlRVb0dOZHV0dGhSbDZzRi10bnktTDJKX2xKNEU0YzNNVGk3OEVkRDVkM0hqM1dScEJoY2VKYUNXS3ZWT3dsOFpDS18zVTVKSUZ0cnJ1MXNucG1RZDVnS1g1LTd3Y0t1M2w2RFowRDRhQ0JmVlRIUHRmZjg?oc=5",
+                "pub_datetime_utc": "2026-07-09T22:05:10Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:17:57 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "독일 학교 총기경보",
+                "hook": "독일의 한 고등학교, 울린 아모크 경보에 전역이 충격에 빠졌습니다.",
+                "script": "독일 쇼가우의 한 고등학교에서 긴급 총기 경보가 발령되었습니다. 용의자가 이미 수개월 전부터 동료들에게 협박을 일삼았다는 사실이 드러나며 학교 안전망에 대한 비판이 쏟아지고 있습니다. 유럽을 놀라게 한 학교 테러 위협, 그 전말을 전해드립니다.",
+                "original_title": "„Milliardenfolgen für 75 Millionen Versicherte“: Bundesverfassungsgericht stoppt Krankenkassenreform nicht - Frankfurter Rundschau",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOThuNnBQOHBmcFpucWhxeDFaeGxXTGY4ZGhfRC1hSjNaZlZqTkdRaEx4RU9oNEZvYUN5TmhTRTIyc2sxZS03UVBCQnhTUXUxSzM2NTNLSHFrdFEtX05ZaVdrcHlkRTJNbUxiNFJRNXlYcDBPQWhQUUw1VndZMDFiZmpBYTlTTEJaQy1GOWROMXJLR0V2S3YyQ3ZBX1FVRkJQUVdwa2NVQi1RbERHOVdzekFaMzNfeUN6dnhIMTk0WUhOSGkwaEt4aG1n?oc=5",
+                "pub_datetime_utc": "2026-07-09T17:00:00Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:17:57 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "일본 태풍 비상",
+                "hook": "초강력 태풍 9호가 일본 열도를 향해 돌진하고 있습니다.",
+                "script": "매우 강한 세력을 유지한 태풍 9호가 일본 내일 아침 가장 근접할 것으로 보입니다. 최대 풍속 20m/s가 넘는 강풍이 몰아치며 곳곳에서 피해가 우려되는 상황입니다. 일본 전역에 엄중 경계가 내려진 지금, 외출을 자제하고 안전을 최우선으로 확보하십시오.",
+                "original_title": "中道、皇室典範改正案に賛成へ 継承資格の検討「担保が取れた」 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43TnNQOEhSSlg1bTN3YU5rQXRuOGs0TzU0MjRYWm9lSEdWcWtCb2d0TEFfWXMwWUViY21LZHFuazZXa3FHSl9qZDhKanVWSnVJQjdwbmVnWGlDOXVmNFdZMXduSC0waWlK?oc=5",
+                "pub_datetime_utc": "2026-07-10T01:42:54Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:17:57 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "델리 폭우 대란",
+                "hook": "인도 수도 델리가 멈췄습니다. 기록적인 폭우의 현장입니다.",
+                "script": "인도 델리에 쏟아진 폭우로 도시 전체가 거대한 물바다로 변했습니다. 주요 도로가 침수되면서 교통이 마비되었고 기상청은 최고 수준의 적색 경보를 발령했습니다. 기후 변화의 직격탄을 맞은 인도의 참담한 현장을 지금 보도합니다.",
+                "original_title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTNGMWh4a2Vpd3VvX202NjR5NEJNTVZ2ZmR3cTdKVjZFYlFnZWh1MHFvUTdXMzZ4X3NFcXJySi1RTFFUWnNKd2c0QmVObm8zbkJoVzJqeS1YUmdZcDNvUFY3Ml80UFpTb3gtMzBRYTItS3ZnODFsdkJMWENjS29Qdl9UOS1NWDZCUzgxR0prTHQyS2EwMzZVZnZfUWVZcUNlOEFCUGN2dVFPUnpw0gGyAUFVX3lxTE5RWVFYdS1wNkYtYnktZUdxLUk2a3dyZjc0YlVHVWdUZ2RDcVItYlhVelFlVm1kcGtadk5TVUxoamJYekVWQXFJRXpYSHRuSDNWU2VVNjhzaHVCMndTbEJNRGpSVXF2SllYTTc5UnJldkl5RWQyUlV0SGxzem9nTHlYckxRMlZJdlFKQzhLU2RZX2VpbkFyU0xTeGJQczNiQksxeDlIclZ6SXdnVVM0SHBHbHc?oc=5",
+                "pub_datetime_utc": "2026-07-09T21:41:21Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:17:57 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "영국 폭염 경고",
+                "hook": "영국이 펄펄 끓고 있습니다. 35도 폭염에 비상이 걸렸습니다.",
+                "script": "영국 전역이 35도에 육박하는 기록적인 폭염으로 몸살을 앓고 있습니다. 30년 만의 물 사용 제한 조치까지 내려지며 시민들의 불편이 극에 달했습니다. 다음 주까지 이어질 이번 열대야 현상, 영국의 여름이 달라지고 있습니다.",
+                "original_title": "‘Very North Korean’: hundreds of Labour MPs back Andy Burnham for leader - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDhRczYwTnQySElyYktGOTVWb0s0dHRfYlpOak01cjJIV3JMbGtmOHlRSU84TFNpOE92QXdpbVBxUUU2WUpieWxRQUoyelZQUkZxQXpLa19ERzN5MFVKZy1EV2t0M1l4OERINUd5aXJhaENzcjR6TE5lek53eU5SMHBrWXA?oc=5",
+                "pub_datetime_utc": "2026-07-09T13:10:11Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:17:57 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "프랑스 기록적 폭염",
+                "hook": "프랑스 전역이 붉게 타오르고 있습니다, 당신의 여름은 안전합니까?",
+                "script": "프랑스 9개 지역에 폭염 적색 경보가 발령되었습니다. 40도를 넘나드는 살인적인 더위가 14일까지 지속될 전망인데요. 기후 변화로 매년 반복될지 모를 이 지옥 같은 더위에 프랑스 전역이 긴장하고 있습니다.",
+                "original_title": "EN DIRECT, canicule : les fortes chaleurs se poursuivent vendredi, avec 9 départements en vigilance rouge, et devrait persister jusqu’au 14 juillet au moins - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNc0NTWjBCcW1TdS1Ka1hPa0dRR1VxTW1jbkVOSGtuTmdWVzRoT3lhLThnUjY0YnRhZnR3ZHJacThWLUd3NHA3RTRMWS1FTThPdVU1V1BvWTFEOHl4Nmk1aWNMREZCRmM3Rk1hRXFTdGJpeWRTUFBwMTJEYkFTV1RxVHN1ai05MWE3T3lmYlo2M3YzUHNMX0FjXzcwZTJXVktudmFPajFQSkU4cFpPUkF6V2FzcVF4ZkstQkczXzN0a2dZaFpRTnhuREFwUExVRWtnZWg3Q1ZFQUpDUU56UU1jRkpfMUJhb1RHNmpBQ0tFNkNvRGpvaDBacGRGaG45TGF1UlVmbmNzR0hrdjZDMkxhd2IzQ1BsVEJpZHNwVW96NmkxdGdxUHpiT3dURWxlV0hIWEx4U3FDWjlkdnFx?oc=5",
+                "pub_datetime_utc": "2026-07-09T23:35:30Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:00 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "러시아 외교관 추방",
+                "hook": "이탈리아와 러시아의 긴장이 최고조에 달했습니다, 무슨 일이 벌어진 걸까요?",
+                "script": "이탈리아 정부가 자국 내 러시아 대사관 소속 군 관계자 2명을 간첩 혐의로 전격 추방했습니다. 이에 러시아는 즉각적인 보복을 예고하며 양국 관계가 급격히 얼어붙고 있는데요. 유럽 내 외교적 갈등이 새로운 국면을 맞이하고 있습니다.",
+                "original_title": "Guerra Usa-Iran, le notizie in diretta | Wsj, Israele avrebbe informato Washington di un piano iraniano per assassinare Trump - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWTFFdHVacUhEeDFDcHVkQzU0QS1PUE1WeGdUSWF5c1JVS0tXZ2I3YlY0QUVfRmw2WjM0Ymhhc2l5UmJxVUpoYVUwTUxTTVJjTkJ5dUF5MFgzbHo3OW1pVlB1RDRQOXhMYjAzai1FOUkyV1pDM19fcWtPZVNBLXBBdmdQRFBFNU1GMjhEV9IBkgFBVV95cUxPTndSYkNpSlNqbWFaMXF1Y3lKeFBxVnhQVXNmRVRsdTFqeVNjN0UxTk1KYkg2amhFVlp6Nk4zdkJfVHZEVUVGYzdEdjZ4b1dJUldwbmdKNEM4Q1h6S0hFVXR4eVJCSGdyeVE2UUZwMEtvSUxDSnhadE4xTGpEd0ZtdG8yR2Q5UWZXMzJuWEZ2NFRhZw?oc=5",
+                "pub_datetime_utc": "2026-07-10T01:12:41Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:00 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "도박 광고 철퇴",
+                "hook": "유명 인플루언서들이 홍보하던 도박 사이트, 결국 1,200억 원대 소송에 휘말렸습니다.",
+                "script": "브라질 검찰이 불법 도박 사이트 홍보 혐의로 유명 인플루언서 버지니아와 베팅 업체 블레이즈를 상대로 1억 2천만 헤알 규모의 소송을 제기했습니다. 무분별한 도박 광고가 사회적 문제로 떠오르면서 브라질 당국이 강력한 철퇴를 가하기 시작했습니다.",
+                "original_title": "Alvo da PF por ligação com Vorcaro, Thiago Miranda já recebeu título de 'cidadão benemérito de Brasília' - G1",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS1phd0V2c251M3FHSjRXSTRnMmR1UFNWYk95S2dHaE10bndMeUt2RndQZzQ5a0ZTeDBEVkpQaDc1WlVEUklvVVFId3ZuclE1bjNaZ2RGc0poVUIwWlZwWjlqdXg0LUZHb3p1QlhxT0pqcWItVDgwYmVaeGZQZlhteGViM1NDcHZKaHZ6YkNITnd6MUJDWExBQlFMQU1RTnZsZzZ3NTROb1AteHZhSTkwMUxmdHhRMnRqQlFkQUh2YTlQSk5GeDRNR3VsWU15TGZCbDVDQi1rUUxYc3lEaTNmSDBqWC1HYWxZM053cTk2eTN6bVFvUG9WbTZ1d9IBigJBVV95cUxPOWs1cmtjemdVa1FLX0IxSjBoaU00WWJ0aDNEMFhPUVo3Y0pxdTZhZVUzWHV2aTNLU3VpS3R3clE2THl4ejFWV0hYTzUxal9ralk3ZHd3b3pnU2gtdFZlWVdaSWN2eDF5RXV6NjFYaG0yc0tfZGRLelpzQzZ4bmJEVjFUaUpUY1ZWWEx3RjJmUHk1RXhQbk9Ea3R6T1N4Q2FQc3Q4aEhPbjJvWEJTWllvTGk1aXJGZHBGb1J1RUJYTXkwUXRJRVhOcnVTT2l3cl9WNTc3OXlLcXhlVHdhMnNPWW8wdVE0UEtsRFNZOWtGbUdUcmEtNmpQZGJnNWZfbEV5YWRhTG1iUjlFUQ?oc=5",
+                "pub_datetime_utc": "2026-07-10T03:00:45Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:00 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "Transport Canada orders detent",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Transport Canada orders detent",
+                "original_title": "Transport Canada orders detention of boat linked to fatal B.C. sinking - CityNews Vancouver",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnVkQ3lTMnF0TThNV0dPRENnTVVBOER5R2c3aVI4SC11YWtndzhoemJDcVRTUmEwb0pLS1psYXc2bzV2cjFxOGl0LXpzV1RKRWtCdXhwakpmLUFXeFNqZV94MlVWc0l0U2FCVWpmMVBHTHBVTWtLZjcwcnFKc0plekhWN2Z5eDNsU0RhYmZHU21Hc25zTVBDTkNxcXd0dklhcnVhNEFLRV9VdHNKV0dhOA?oc=5",
+                "pub_datetime_utc": "2026-07-10T01:29:13Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:00 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "멕시코 무기 유입",
+                "hook": "멕시코 범죄 현장에서 발견된 무기 75%, 그 출처는 다름 아닌 미국이었습니다.",
+                "script": "클라우디아 셰인바움 당선인은 멕시코에서 압수된 무기의 75%가 미국에서 유입된 것이라고 밝혔습니다. 국경을 넘나드는 불법 무기 밀매가 멕시코 치안 불안의 핵심 원인으로 지목된 것인데요. 양국 간의 무기 통제 갈등이 다시 수면 위로 떠오르고 있습니다.",
+                "original_title": "¿Dónde está Rocha Moya? - El Informador",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFFfbEFZcEV6MF9GQk1zbjVfQ2ZaV2JrWXhkN0dhMllacGVzQVpHZHhZa1g0X3JueUlfdVpGSFRGbmYzcFo3ZlpYUkZSOE0zZUFOSjNfb0wwaGx4Si1COU1TSWJRckZjR3dCZm16TkdRMzFSdjI5MEYxS2lOb0NRSFZQY2pzb191R3otZnF0clh4MnVMVUtjaWpB0gGfAUFVX3lxTFAxWTliT1h4UTc1U09femVJWTA5dU5ReTRidVZhcl82ckFWVlByZ3FHTFRtc2lsaXh3RC05RnYwWUdtUmhxMFZiMDJFLUdDZHg4N0lNeTBLNFc1U3Bpald6Wk9qUXkyWmVGMzk1YkhDbDcwTnBIVDlsY2R6Z2M5a25OcE5nYU9LV2wtZDM3YzNkNVpSTFZMc2tMQTJrUU9aYw?oc=5",
+                "pub_datetime_utc": "2026-07-09T11:15:00Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:00 KST",
+        "current_rank": 11
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "조류독감 첫 발생",
+                "hook": "호주 야생 조류에서 치명적인 H5 조류독감 바이러스가 사상 처음으로 검출되었습니다.",
+                "script": "호주 당국이 야생 조류에서 H5 조류독감 변이를 확인하며 방역에 비상이 걸렸습니다. 이번 발견은 호주 본토에서 처음 확인된 사례로, 관련 생태계와 가금류 농가에 대한 긴급 모니터링이 시작되었습니다. 당국은 추가 확산을 막기 위해 즉각적인 역학 조사와 예방 조치에 돌입했습니다.",
+                "original_title": "Derryn Hinch, 'human headline' and media figure, dies aged 82 - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenRnY19TQXF6WGl4dEt5empFd203M3hpZk5RSmtrd3lKRG14N0ZxdjhHN2JVRVNKdkxFcFRhV2Vlc1Y1aEloQ2VPQ0xzTmhqZXB3Z3diMVNoUF9BbnFRZEhQX2xfZEduVmE4d1dfUUdlX2RxYTFLM09KTlpRZjdPSF84R2d4dmY4eGtjcGtLLVhCbkJPRWZWU1F5dVUyN3B5dWJ4alF6bFpDZw?oc=5",
+                "pub_datetime_utc": "2026-07-10T02:51:23Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:04 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "윤석열 징역 7년",
+                "hook": "계엄 선포 583일 만에, 윤석열 전 대통령에 대한 징역 7년 형이 최종 확정되었습니다.",
+                "script": "헌정 사상 초유의 계엄 사태를 주도한 혐의로 재판을 받아온 윤석열 전 대통령의 형량이 대법원에서 최종 결정됐습니다. 이번 판결로 계엄 정국과 관련된 법적 책임 논란이 일단락될 것으로 보입니다. 정치권은 이번 확정 판결이 향후 정국에 미칠 파장을 예의주시하고 있습니다.",
+                "original_title": "경찰청장 직무대행, ‘장윤기 부실수사’ 하루에 두번 사과 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RU3UtN2JxWFFzWVprekoxTUxHT25XTF94RXJLVzVNNkVoYy1hSlAxQ0J5ZnMxSF9xU1NPRC1ONWZFV0Y2OExKalZ6bXVQTXdTSkNsREhFejNyWnB5VEV4OV9IeUFHek9KX2d4OUJiOEQ1QQ?oc=5",
+                "pub_datetime_utc": "2026-07-10T01:19:00Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:04 KST",
+        "current_rank": 13
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "독립기념일 갈등",
+                "hook": "아르헨티나 독립기념일 행사에서 밀레이 대통령과 정치권의 날 선 공방이 이어졌습니다.",
+                "script": "아르헨티나 독립기념일을 맞아 열린 기념식에서 밀레이 대통령의 국정 운영을 둘러싼 여야의 신경전이 최고조에 달했습니다. 야당 인사들은 대통령의 행보를 비판하며 독자적인 목소리를 냈고, 행사장은 축제 분위기 대신 정치적 긴장감이 감돌았습니다. 경제 위기 속에서 아르헨티나 내부의 정치적 균열이 깊어지고 있습니다.",
+                "original_title": "🔴 Javier Milei en el Tedeum hoy, en VIVO: la diputada de LLA Lilia Lemoine tildó al arzobispo García Cuerva de \"peronista\" y lo cruzó: \"Tus discursos son hipócritas y aburridos\" - TN",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWGo5ejVEbk51T3BFaFVWX0g4NnZlblBRVGs1U0ppQzhKbU12d255LVk5dGFDU2tTWGVoMFUzRnZHYkFaaE9acnQ3MnphbWIzT3BNYzNWZkcwdFJzQ2JmWHdzNF9XNDNNeUN4b3hSQXhtYzZJME9sVmo0aDRIWUVtdDdidnpVaHBLdmhNZFZJM3FTdjZfbl94R1VDYmh2WGc2MTVFTXNheXQxaW1WbU9yMnNWTE1ld0Y0U0hOVUE3MXlDQjhueXR1Y0UyN3VaUzgtOWM0UXMzY21seXpGWE8w0gHzAUFVX3lxTE1paU55bnlvNmtlWTY3LWstZWJLYmxFSC0wc3Zoc0lZOHdHWWlzbnBWd0puVm1xdEYzNHE1aTFTdVd3SXp3b1FHNXpGc2pwQ3l2RDRXb3pMMUMtOUVkZlg5V0xDZVlGN2dtSGV6UGt4V3k3aEFYZThaVE9jbTctR3pCY3F1V3dmN3pEbnpxa1RKSXlDUDcycXpEZEFsNk9yNlN1cE9vRGNVdUY0XzNrQjQtNkFEcFFLM19wdXhGeVl6UlNzYlBYQzY2cUkxaThROWFYcUdUYjdKcVpEd0lhdUpydGt6OFB1ODVMUTV1RlhTNFFPTQ?oc=5",
+                "pub_datetime_utc": "2026-07-09T22:41:38Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:04 KST",
+        "current_rank": 14
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 위기 직면",
+                "hook": "남아공의 경제와 정치, 지금 도대체 무슨 일이 벌어지고 있는 걸까요?",
+                "script": "정치권의 자금난과 내분은 물론, 요하네스버그의 재정 위기까지 남아공이 거센 폭풍우를 맞고 있습니다. 전력난은 여전하고 건설 마피아와의 전쟁까지 선포되며 국가 전반의 시스템이 벼랑 끝에 몰린 상황입니다. 과연 남아공은 이 복합적인 위기를 뚫고 다시 일어설 수 있을까요?",
+                "original_title": "MKP’s ‘pitiful’ financial condition: Letters lay bare party’s money woes - News24",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXlIZnBFSUpDMVFQRUZnTmY4UWg4aUF2QUstR2FPRkRDUkZlV04xRzhSSGIwUzhLUkhMcUYwcjJDLURJUmd2bzFIVEpBcXFuMThhOFA2X1pXWk12dmVZRm5MaENfMFY2WWVjSkZGZkN4ZW5yQ1FWRVBRQk9ZQzJKWi1tWTYtVUNBSXI1azBHTEdxcnNaSUU1TDZMdkdKeHZpU29IMTM0SnUyc2NrSFZWdzFMc1VvTjg?oc=5",
+                "pub_datetime_utc": "2026-07-10T02:45:27Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:05 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "모스크바 드론 공습",
+                "hook": "한밤중 모스크바를 덮친 드론 공습, 러시아 본토가 흔들리고 있습니다.",
+                "script": "어젯밤 러시아 수도 모스크바를 겨냥한 대규모 드론 공격이 발생했습니다. 러시아 당국은 배후를 추적 중인 가운데, 전쟁이 국경을 넘어 본토 깊숙한 곳까지 위협하고 있습니다. 전장의 판도가 급변하고 있습니다.",
+                "original_title": "США не исключают новых ударов по Ирану - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QaHVjMkNhQWpabTdFTHpwd0hnblhuVDRrOHNQdHljNXZzaGVfaDZ0ZTF4ejNWTWRtTzJzendsc1VIMXBMQXhTbFU4R3RuUdIBS0FVX3lxTE1oTzdoUHNBZk1CdEd3X3V2RUpqb1dDTERySVZCUEFteG0xQVNvczRwOVNHRnRjSVlDNlhIWnB1RGc3SndjS0NJR09QOA?oc=5",
+                "pub_datetime_utc": "2026-07-09T23:51:00Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:00 KST",
+        "current_rank": 16
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "이란-미국 긴장",
+                "hook": "트럼프의 강경 대응에 이란이 맞불을 놓으며 중동의 긴장감이 최고조에 달했습니다.",
+                "script": "이란이 트럼프의 위협에도 굴하지 않고 미국을 향한 강경한 태도를 유지하며 갈등이 격화되고 있습니다. 일촉즉발의 상황 속에서 국제 사회는 중동 정세가 전면전으로 치닫지 않을지 우려하고 있습니다. 각국은 자국민 보호와 대응책 마련에 분주히 움직이고 있습니다.",
+                "original_title": "Nggak Ada Takut-takutnya Iran atas Ancaman Trump - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnFHbFo3Qmd1VDAtNkZLVV91Q25jNktGY0htZ0dnZzVWeUNzc1I4NXJTWEdyTnI2X2x6VmdTWWlOWHdfbVlwQzlwMFVwaUs0VnpxNWV3X3N3QVZXOWdNUXliandsUXZUN1NwRGctUjV5LTktRDlCZnk5VVRiS0R2X2VldUt1UGttNk9jR1N1b0U1c1A4LVVMeHNOQdIBoAFBVV95cUxNSFVrNV9NOTl6ak1oV2ZUcGpCQ3hpQXBhRHpLYkdEa2xPSVUyTmp3eFg3MVZYellBeEY1MmhrM1Q5UFN2SVgxS2xWU2RuRE9DMy15b2tsUUx5cTdPc0lrdGhPYVp2OEFNNERsazN5VV9OejdHc2RuaDNMYnk3NkNoSFJ6bGs0b19qdmNtZThteVNTTk92MjlBQzNrUW5EZ0Jx?oc=5",
+                "pub_datetime_utc": "2026-07-09T23:15:00Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:04 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "터키 방위력 강화",
+                "hook": "펜타곤의 3배 규모, 터키의 거대 방위 기지 '아이  yıldız'가 완공을 앞두고 있습니다.",
+                "script": "터키가 국방 역량을 획기적으로 강화할 거대 군사 본부 '아이  yıldız' 건설 프로젝트의 막바지 단계에 진입했습니다. 미국 펜타곤보다 3배나 큰 규모로 설계된 이 기지는 터키의 강력한 안보 의지를 상징합니다. 이번 프로젝트가 지역 내 군사 균형에 어떤 변화를 가져올지 주목됩니다.",
+                "original_title": "Cumhurbaşkanı Erdoğan'dan NATO zirvesi paylaşımı. \"Ankaralı hemşehrilerime teşekkürlerimi sunuyorum\" - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejJ5TmFYVTVSaV9IckVxUmdNMmU5Q3FaLWN5MWhoaG5pSjdaa3lWSXpJUExwOHdVd3Q2aUZoUHlpaS1yUVFORHNzUDFOWlhFdHV5cGdYUTZpcG5ORmZfNmdPMVl6UGloUUZ6UnpiWk5kS2NmY0NNMVowWUQ5dzBhYXliWURtWmJ0LXRFaktB0gGTAUFVX3lxTE5zY2tYWV9YZ0NXOFB0OUM2TTkxUGREQ1B6ZFNjOFVfQ3ViWDhvREFIVmhSRG15cmdFcEp5bkp6RnlNNEVfYWJPMVUyWmtvYzc0OWlyR2EtMERHdE1UMEZJZUhfYUNjSG5KUWhudVZpT05RZlFlV2M3a0tPMWliUHJ6WF9GSkpxb3RRYnBHSUE3MmpaWQ?oc=5",
+                "pub_datetime_utc": "2026-07-09T17:30:55Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:04 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "이란 지도자 사망",
+                "hook": "알리 하메네이 이란 최고지도자가 사망하며 중동 정세가 대혼돈에 빠졌습니다.",
+                "script": "이란의 최고지도자 알리 하메네이가 사망하며 장례 절차가 진행되는 가운데, 미국과의 군사적 충돌이 끊이지 않고 있습니다. 이란의 군사 기지가 연이어 공격받으면서 지역 내 긴장감은 극에 달한 상황입니다. 중동의 권력 공백이 향후 전 세계 유가와 안보에 어떤 영향을 미칠지 관심이 집중됩니다.",
+                "original_title": "إيران تستهدف قواعد أمريكية في الخليج والأردن رداً على قصف أمريكي لـ90 هدفاً عسكرياً إيرانياً - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrWVgyM2wwVTJfYUhhYWlkZHV0anpLVDhSOFVKajZRX29JaHlMMmhxRXhQbUJRZ1FUeTdjTmppcmUwY2NvRkU2R1BfVW1pUlloYVcwbEZ2VGpFeGJf0gFiQVVfeXFMT3Nxa1B4Y1Z1SGRnbDFzMFBJNUpCXzBobWJTcTdGUXpmcVJscEtaLTVaV0FKSTFDQmVQUkdWSW9iR1dpaUl6YzJLYnZBX2g1cFZyWF9tdnJEUlh3VjlMeE1xc1E?oc=5",
+                "pub_datetime_utc": "2026-07-09T19:53:24Z"
+            }
+        ],
+        "last_updated": "2026-07-10 13:18:04 KST",
+        "current_rank": 19
+    }
+}
