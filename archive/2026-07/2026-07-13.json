@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미-이란 전면전 위기",
+                "hook": "호르무즈 해협에서 시작된 미-이란의 폭격, 글로벌 에너지 공급망이 흔들리고 있습니다.",
+                "script": "호르무즈 해협을 둘러싼 미국과 이란의 군사적 충돌이 격화되며 전 세계가 긴장하고 있습니다. 양국이 서로를 향해 보복 타격을 감행하면서, 국제 유가 급등과 에너지 안보 위기가 현실화되고 있습니다. 이번 사태가 중동 전체의 전면전으로 번질지 전 세계의 이목이 집중되고 있습니다.",
+                "original_title": "What happens next with Lindsey Graham’s Senate seat - The Washington Post",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTjJrZnRWaDcxeGhtR3F3aGtsbTJuakRmTUotRUxOeWNXbk1EQnpmMTlwbWRONlpJZExEWmEwaExxUXRQSHBxQnZRS2puQTdXSXVCTWtVbHNhZ1dOdEZZUHBUTXFBc1h6ekJKSWpRdk1uYUpRQl8wV1l0ZE53RnhncTdHRDhQUWlxSWxwWXZmRFA3ZVo3djRUSWg1OFpET3NnSXZYUy1PR1RiQVlMaE5TYg?oc=5",
+                "pub_datetime_utc": "2026-07-13T06:29:56Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:50 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 폭우 비상사태",
+                "hook": "기록적인 폭우로 17만 명이 긴급 대피, 중국 5개 도시가 멈춰 섰습니다.",
+                "script": "중국 전역에 내려진 폭우 적색경보로 인해 17만 명 이상의 주민이 긴급 대피하는 등 피해가 속출하고 있습니다. 주요 5개 도시에서는 공장과 학교가 폐쇄되었으며, 국가 차원의 긴급 복구 자금까지 투입되었습니다. 계속되는 기상 이변에 중국 당국이 총력 대응에 나섰습니다.",
+                "original_title": "伟大征程丨全面推进中国特色大国外交 推动构建人类命运共同体 - 搜狐网",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM29YQlBXWUpIMzIySjROUnlUWFpNcVBDaFNBdTA4UlJyeThDaUVkODA0NVhvd1h0YkVCVWQzZm50ellCNDB1eU5tQ3AyajE4WlE0YWVLQUxTSm1MQ3VDUlBZU0tsTF9LdUVVdzZUbWUtZmp4WGRKbldFMEJKTDFVT2c3UTZ2aVBX?oc=5",
+                "pub_datetime_utc": "2026-07-13T02:31:41Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:50 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "태국 화재 참사",
+                "hook": "태국 방콕의 술집에서 벌어진 화재, 27명의 안타까운 생명을 앗아갔습니다.",
+                "script": "방콕의 한 술집에서 발생한 대형 화재로 최소 27명이 사망하고 63명이 부상을 입는 비극적인 사건이 발생했습니다. 현장은 순식간에 불길에 휩싸였으며, 아직 정확한 화재 원인조차 파악되지 않아 의문을 키우고 있습니다. 평화롭던 도심을 덮친 화마의 공포에 현지 사회가 충격에 빠졌습니다.",
+                "original_title": "Neue US-Angriffe auf Iran - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1weE9WLXduVHFIREItM2RkNnVCUUl5eTF4OV9GQmM4SVVBVFFHYl9vVlNTT19wY2Vna3lRQk1wdkd6SEp1Sm5Dd05vbXgyWVZVYm41RlBjMDRkN1QtTE1vUUdQbC1FSC05enBFSUpqdmZHdGZT?oc=5",
+                "pub_datetime_utc": "2026-07-13T05:40:00Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:50 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "미-이란 무력 충돌",
+                "hook": "호르무즈 해협을 봉쇄한 미-이란의 미사일 공방, 중동의 운명이 갈림길에 섰습니다.",
+                "script": "미국의 공습에 맞서 이란이 미사일과 드론 공격으로 응수하며 호르무즈 해협 일대의 긴장이 최고조에 달했습니다. 세계 에너지의 핵심 통로인 이곳에서 벌어진 군사적 충돌은 글로벌 경제에 심각한 타격을 줄 것으로 보입니다. 양국 간의 외교적 해결 가능성이 희박해지면서 전면전 우려가 커지고 있습니다.",
+                "original_title": "Ayodhya Ram Mandir Donation Theft : Supreme Court Issues Notice To Union, UP & Temple Trust On Pleas... - Live Law",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZVJ6bWJMNFNlLUZTRC1HSFI0TnhFNC1UQXFTTF9RQkVlTHBaN1pLdmFFWmFLd1c5allMTnp5V0JxalRhOUJkVi1CRm16Y3pUdDA3SVhEN09oZjJNZnRRNjlYRXVWd3VNczRnTW5HamlyT21MYmxXejB4MzQzVnUxRmwzSG16clE3MFhHMk9rdDBvbzZ4TFJORGNSYnJQZTI5R0EtQ1ZEbnlxS2lqOHV5RG9QSWFlRS0wUFdjUnM4a21QT2pPSG9lR3Bn0gHPAUFVX3lxTFBnd2dDTUFSdmJmVFFtV0pkTHIxeEtmX3FobHk3THZhZU9iNmdXbVoyRDVhdnZsakNsTjZTTnlVeUE3YVlLRDBEMkljb0VLTEdzQmNWek1zZEZyOVJmYS02X0thUk5TcnJrNmg3bVB5ZHIyaDhnRm9oVXRNS2gxZE9fUFY0ZHdoOUVpd0hzYTJpRkpIRWdaczAyY0pwcllOcjFiRDVKMFJCMWt1eFJaZllWeXZaVGJ5R2JMbUlJNm1HNTFYX3ZmM0tUc2N3cjVyUQ?oc=5",
+                "pub_datetime_utc": "2026-07-13T07:20:58Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:50 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "프랑스 폭염 비상",
+                "hook": "최고 단계 적색 경보 발령, 프랑스 전역이 뜨겁게 달아오르고 있습니다.",
+                "script": "프랑스 37개 지역에 폭염 적색 경보가 내려지며 국가 비상사태가 선포되었습니다. 극심한 고온으로 인해 원자력 발전소 가동까지 중단되는 등 전력망에도 빨간불이 켜졌습니다. 당국은 야외 활동을 전면 금지하고 온열 질환 예방을 위한 시민들의 각별한 주의를 당부했습니다.",
+                "original_title": "EN DIRECT, canicule : l’incendie en forêt de Fontainebleau « pourrait être d’origine volontaire », déclare Laurent Nuñez ; des secteurs fermés - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQMFdNOUlRanNaRUxvZmNJWmtaQ044b3JlTk1LQ05rZDJSRW5DbEptc1loQ2FwVklBUDVvbGF4Mi1hdTRza2g2TlR4R0I1Y3RsNlZEeE00bEJTLXRKeWpmVDVaVW0xaFJ2a1g2TmdCMjBfajdORWszNHJnaTVoMzhnTV9TVjFBaGxkem5TbEZHWmFNXzZBVmhpYmJ5b1pZQ1Z2Z3hQUURzVlA0WGVsazgwbVhIVW9KbmVfdnRrbUt3elhSckM5cnA4cWZSVkc5bUpTb0t6QzltU21Vb2tEb0VwSndsY21RUWFYblgyaGEwU2xiTElXaU1RQXpJcThhZ1hSUnRCZENOTWlqX3Nfdk5PLWFaTUdjUQ?oc=5",
+                "pub_datetime_utc": "2026-07-13T09:27:39Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:54 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "이탈리아 40도 폭염",
+                "hook": "아프리카발 열풍이 이탈리아를 덮쳤습니다, 40도에 육박하는 기록적 폭염이 시작됩니다.",
+                "script": "아프리카에서 불어온 뜨거운 공기가 이탈리아 전역을 40도 이상의 찜통더위로 몰아넣고 있습니다. 전국이 일주일 내내 타오를 것으로 예상되는 가운데, 당국은 노약자의 외출 자제와 수분 섭취를 강력히 권고했습니다. 기록적인 기온 상승으로 산불 위험까지 최고조에 달하며 이탈리아 전역이 긴장하고 있습니다.",
+                "original_title": "Bremmer: «Trump non vuole più saperne della guerra in Iran. Una via d'uscita? Compensazioni se Teheran molla la presa su Hormuz» - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUExZZ09QUWRPTXBQRGM3TzBsMzc4dXFDWTlCa1NSby1URldtR1BBZWdsUlVIcmhIR19iSUFnMHpFVTVSQVBxeXNmazNFZ3N2cmgtcjdseEJ2am1vSFlRNTBrY09IcUx0T3lRVG5KdWMyVmJwSjJKUWZHZWxJbWVMTE1icmJsal9RRURwRjRhUk1nb0I4dXNhOFpyNGhza0locUpKcGtqNjBRcUZncm9Rb0tpSmQzVGfSAbwBQVVfeXFMTVFiSGRhYlZ2SkUzV25fUlNDdzNFTzRrVk1CRG5hczU4bjgybDZjOFl5d2owOGw0VWQzUWg3RmpHcS1BSUt3VEFWanRWbEp5WkZPcFd6YUlwM1ktdEFDd3JXcEdJTUtSVFUyTVNEa01HaGxwNDRfc2lUeUJOcnEtaTl3R3FGWHZ0YllQV284UFVxdkJuQ1QxenBEZGc2ei14ZXVQNDhmTFdSTHczSXktekIzZm4wUU9abkUxQ0I?oc=5",
+                "pub_datetime_utc": "2026-07-13T05:57:31Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:54 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "브라질 이상 기후",
+                "hook": "강력한 한랭 전선이 브라질을 강타합니다, 폭풍과 해일 주의보 발령!",
+                "script": "브라질 주요 4개 주가 한랭 전선의 영향권에 들며 비상이 걸렸습니다. 리우데자네이루 해안에는 3미터에 달하는 높은 파도가 예상되며, 플로리아노폴리스 등지에는 침수 피해 주의보가 내려졌습니다. 기상 당국은 갑작스러운 기온 변화에 따른 강력한 폭풍과 해안가 침수에 대비할 것을 경고했습니다.",
+                "original_title": "Leia os diálogos de Cunha com Fialek investigados pela PF - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlRETTZUTVNER2ZTNk9EaDBGSUlvWi1ENXY2N1BXUVdzWHRqTkgwMnZSWWdiR2RRWG1PR05Ic2ZyNjh0VVNOM3BnNGxoTWtuR3pkYUd5ZHJKN19LSnhKSWw1cFhoaGQ3NjhtR0J1TUFWY1NjRUZpYzlzcEdQaUlLSlRnOHBkZmhxejJ6cDJ1R1VwZC1pY05hNDRpd1MtWVZzOGc?oc=5",
+                "pub_datetime_utc": "2026-07-13T00:26:28Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:54 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Lindsey Graham Cause Of Death,",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Lindsey Graham Cause Of Death,",
+                "original_title": "Lindsey Graham Cause Of Death, Aortic Dissection. An ER Doc Explains - Forbes",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG9Ha2RTcUtPd3F3dXJKM2VvcmE2Rm1MaHhJTDV0emJjVDFUeU9CLW9mcllPRXpXNlBacWhmTTBiSUprNlplQjRNakd2ZW1jU3VGU0pUVnN5SVdEaDNaU2YxcEdOa1hrNmpHNy1BaXdtc3AxZlNLWUpTRXRXLUpraFFaNXBlTEZYMkJEQzdOYWtnR2E4RnhCNHNqcU1SMkZ1SURIWHZYa0VwTkZ3aUxaWFhZTjN1NWx5cEE?oc=5",
+                "pub_datetime_utc": "2026-07-13T02:43:48Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:54 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공격",
+                "hook": "모스크바 인근 공습 발생, 사상자 속출하며 긴장감 최고조.",
+                "script": "러시아 모스크바 외곽 지역이 드론 공격을 받아 3명이 사망하고 5명이 부상을 입었습니다. 이번 사태로 러시아와 서방 간의 긴장이 극도로 치솟은 가운데, 러시아는 외교적 대응을 예고했습니다. 잇따른 안보 위협으로 인해 러시아 전역의 방공망이 최고 경계 태세에 돌입했습니다.",
+                "original_title": "Беспилотная атака на Подмосковье: трое погибших, пятеро раненых - BFM.ru",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05dUNpUHMwWHRQMWh1c3NJLUZQSDE0VFR3WEYxbmtVTkZmN21oUVhpejNBWnhhUGg5ZUkxdkJyT0pKR0ZS0gFKQVVfeXFMTlBXWHhLV2t0cTA4S0RPaEdaV1F1UkItaUZFT2E4REoyenlaLS1GMlZWY2hGWGlac2lQdzJEU2lMUmw2dEZSbFNueXc?oc=5",
+                "pub_datetime_utc": "2026-07-13T07:52:26Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:54 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "멕시코 기상 이변",
+                "hook": "멕시코시티를 덮친 폭풍우와 낙뢰, 피해가 잇따르고 있습니다.",
+                "script": "멕시코시티 남동부에 강력한 폭풍우가 몰아쳐 도로가 침수되고 가로수가 쓰러지는 등 큰 피해가 발생했습니다. 톨루카에서는 축제 도중 낙뢰 사고로 10명이 부상을 입는 안타까운 사고까지 일어났습니다. 기상청은 당분간 기상 악화가 지속될 것으로 보고 시민들에게 외출 시 각별한 주의를 당부했습니다.",
+                "original_title": "Colocan memorial “México, campeón en desaparición” en el Ángel - El Universal",
+                "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSm5vQkJPTkQ3c3pERmhsNEtyQlhyZkhtSnJMWmt6UDBxS2p5cVVSZUxrUFRUTG1lZVdPZ0tfb3hhV3ZYNlpLekE0d3pfZmNVbDZ1OENWdU81SjhlNWdrbmEwRGNJS1BOdThVWFRneVltT01FdlFnV2s3MHh4MkxzbGZkdUN5ZXNpa0l2R09wTEpubFFRRVhpWS14NEREX08yMHBiTWtuRndmZjBabFBsWFlsekR6dVdYUTZERFFodTh5a1dOWWpCR1pFOTR5MmxYeXVYTWtNdWRxOE1nWml1WXRGVTVCZ1RKS0FTNFNB0gGCAkFVX3lxTE5OQk95Z3hlOFVrYWxFQy1rMW51VlpERkh0QjB1YjlpUlhVVkwzeXladC1hZHpkS3ZPVFdXTDVKempmeWFJQkp4NjBMd015Y3JJWmVWU3AtVlpPSXNGZ2xLUC1TbHFlZmJzc3pYamhGTGdXY3FjQXk4eExYdzYtRk9yZENRRTlNMVl0cnQ3SFZqd0d1TFdjdkxYd3E4MV9qTUNYdF9BV0gwckpXRUxIdjVKaUhrdHlaTGNNY2VMUDRvd19CRE1ET2RaMGg2VkZYZzk5V3NIRzl0eG4zTVhpaDBDaU9NaDRvYjNnenIwejV1TWlGdnBjRHE1dFNhUXdMaVRUdw?oc=5",
+                "pub_datetime_utc": "2026-07-12T23:12:00Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:54 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "윤 대통령 징역형",
+                "hook": "대한민국을 뒤흔든 충격 판결, 윤 대통령에게 징역 2년이 선고됐다.",
+                "script": "법원이 윤석열 대통령에 대해 징역 2년을 선고하며 정치권이 큰 충격에 빠졌습니다. 함께 기소된 명태균 씨 또한 유죄 판결과 함께 법정 구속되면서 파장이 걷잡을 수 없이 커지고 있는데요. 정국을 뒤흔든 이번 사법부의 결정이 향후 대권 가도와 국정 운영에 어떤 폭풍을 몰고 올지 귀추가 주목됩니다.",
+                "original_title": "\"尹 처벌 불가피\" 징역 2년‥명태균도 유죄 '법정구속' - MBC 뉴스",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MenQ2UHdmQ21VdHp6UVBYZ1ktTlF5MDV3NmFraGk0bGRaSzFJc1dVTzhxNWJHanFveC1pMFNBZnU1eXNFbF83Q3RibFpyNWdubkFVdDNndjQ1TTYzNEtxYmNxQU5LQVpWMEl1OEdlUUdKOEk2dzVj0gF3QVVfeXFMUE1XZF9Gd0x0c0JBODFOYjdyaXFLbzhGY19MNUNtZm1VR1Z2LVRkSlI2cEdDOUpVRjdDajdpZjVBWFhRWDBteVhhSUdXUHI3R1k0Tk1NRGZ3RUlwck01aEM1ZmNWY1BqZWZDdUVxWVNTNy1wRmtlNmM?oc=5",
+                "pub_datetime_utc": "2026-07-13T08:08:13Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:58 KST",
+        "current_rank": 11
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "참극의 판투라 도로",
+                "hook": "도로 위에서 벌어진 비극, 13명의 목숨을 앗아간 대형 교통사고.",
+                "script": "인도네시아 판투라 도로에서 발생한 끔찍한 교통사고로 13명이 사망하는 참사가 벌어졌습니다. 평화롭던 도로가 순식간에 아수라장으로 변하며 유가족들은 비통함에 빠졌는데요. 현지 당국은 사고 원인을 조사하는 한편, 재발 방지를 위한 강력한 교통 안전 대책 마련에 착수했습니다.",
+                "original_title": "Mensesneg: Pengunduran Diri Febrie Adriansyah dari Jampidsus Tak Pakai Keppres - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdU9wY0NldUtUeDE2RktvSDk1UVZsZzdzckZkTDhFZ2tLMkNROFp6NVZid1pKZWxlRDBqRmMySk5oR3ZTbzlfRnBqQzNYQW5CcWd3V0xQUXgxR3RRa3VLNnlmR1dkRF9IZTRVSWdMTVRDQ3pfTVR3Q3lTeVFwbHBKSmVublYwV0JvUmpaOG5xS1BORnpEVjBGbEd4UnhNd0Q3TW11VTBycHpNYWU3MUI1cE9aVmpFYktQ0gG-AUFVX3lxTFAwUEVRa1dOOGZyZWxSVjFqS0p0aEdsdjdsREJKb00yUkM5YW5meTJXVDlpY3E4eUhVa3NOX1kzZjFJZ2J5NzFoQkpITUtLODIybkNPbFdBbUN5YUx0YmgzMnFTVFdpNWprbF9OTlRCWWVmT0VtSmdBaTdaM2dYTW1aUUJ1b0pVTlJjYkhFdm1XZHI5Zk8zbFVpQkFNbmsxRUNlbXp2SVo2V3RYVTE4NnJacmx6ZXVDVVRac2NxN3c?oc=5",
+                "pub_datetime_utc": "2026-07-13T06:23:21Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:58 KST",
+        "current_rank": 12
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "튀르키예 대규모 검거",
+                "hook": "전국 81개 주 동시 타격, 968명을 겨냥한 대규모 작전이 시작됐다.",
+                "script": "튀르키예 전역에서 968명의 용의자를 대상으로 하는 대대적인 FETÖ 소탕 작전이 전격 시행되었습니다. 이번 작전은 국가 안보를 위협하는 세력을 뿌리 뽑기 위한 정부의 강력한 의지가 반영된 것인데요. 전국을 긴장시킨 이번 대규모 검거 작전의 결과와 그 배경에 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "\"Ahbap Derneği\" soruşturması: Haluk Levent ve 16 kişi gözaltında - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkNqekVBbmMxVmZEdGNYTUdHNTc4NlkxbG9zNkJtcTZsOG1ROXFZcUIwZHRnY3YzMWlBRFB0RDY0NVllRlc1bVFIZGxLUWpiZDF0eVpfT2JxRGljc3FiR1dueHVvcEhnT0hFR2ZsNDlpOEdKdWVoN21aa1IwSm93MHlvY1l5RkNKYW0yNjhnS1UxanlWbWpraG9XajRSZ3ladE1fWmZnNkkzYk00Y0NYZw?oc=5",
+                "pub_datetime_utc": "2026-07-13T03:54:00Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:58 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "50도 폭염 경보",
+                "hook": "기온 50도 육박, 사우디 전역이 펄펄 끓는 용광로로 변했다.",
+                "script": "사우디아라비아 기상 당국이 동부 지역을 중심으로 낮 최고기온 50도에 달하는 기록적인 폭염 경보를 발령했습니다. 살인적인 더위와 함께 강풍까지 예고되면서 외출 자제 등 비상 상황이 이어지고 있는데요. 당국은 주민들에게 온열 질환 예방을 위한 철저한 대비를 당부하고 있습니다.",
+                "original_title": "الجيش الأميركي يختتم موجة ضربات دقيقة ضد إيران - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNS2hSb0QwaENfckNDaTJJQ2liSnJDTUpRSkU2Y0J3a0JxZGs2ZVlMTGtOTWFyVXQ4YmJWZWNUa3Z3UTFySzJHREx0Q0xEZ3BocTR0UmlJWjR4UkdBR2V5NEt6NTRpb2kwVmxlQTBZcHVHQmZjdVVwOVU5S3hhM051ZTFxdzJiUjNUcVdDMXdXRk55Zm53ZE82RkQ0M1pBVU1mNE43WWQ1VlhUWWhNTmxOUHY5SkRUajh6T3pmSm5xS3NVYU1PbjNYUDhDQnVhanp2X3RRVjl6bHBPUUNBUklWZUtDY1I5dVlILUFlcjIwb2pnd1JmVkFuT3BzVks0TS1jLWt6ZnJkQ2tPVkpRQ1JoVlVJOF94UUNOY1ROQWRCaUZPcHhFSUpUa1hTdDRraXFGTHdGX0JQTDI1clVKQjJ0RlpNVWRhNlktZWdGcjFDcFRBY1BSZ1pqVDhUcHA3OVhJX3FTTmhyMlltbEFJazZxejNJS2xjdF9VTWhrZDkta1pYVmh2SU9GTGJEWkRrY3loWk5tcXFYMlTSAZ4DQVVfeXFMTzlUX2RnRF9TTEV6MmFXelJaWUpyYVdpQTc4U0ZCSTJlWExGR2JKM05uWjRrdk95YWtuRFlBQXJPZW1OWkc1VUdmUTFyNThqOFgyemRTYUZheFRhSDNiUHg2SDRoQzdHZl9oZGRZR2dGeGRSd18yc0tkcHEweXlCQjJNWS1tYW52YU01RDdicmlENms5OG1ZeUFIQWhGS1cwenFrRE1iNXhfNllGRWc0VWhHOUJLUjVncFJGc05vQ3pPRllsTFM5cUNVVm9nV2tTWEFBcUg1Z0FwcE9qRVBmVXE2ZG4tdHJFbm9fQ2cxTnFkeU5UcmVoNkZlR1NkbURHUFdsUjA3RVdqTHdOM2h4Y1luTkQ4QlBYendtd19VNmtVYWJJV1Fac0cxN0l4T0plX0w0OWh3T3dVU0JKLXQzaG1NaU1BMDVRQjV3Mkw0elY4RGN4UWZKNVVBMU0tLVdkSUdkOXR2SnhLSXljMzN4dVVXNGhUN0JWV20zTTYtT1gxb3ltOG1WZERUbklNb1pUNjNqMlJRSjZhT2hja2VB?oc=5",
+                "pub_datetime_utc": "2026-07-13T03:14:20Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:58 KST",
+        "current_rank": 14
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 긴박한 뉴스",
+                "hook": "남아공의 오늘, 당신이 반드시 알아야 할 3가지 핵심 이슈를 정리했습니다.",
+                "script": "남아공 부패 척결의 핵심인 안드레아 존슨 검사가 갑작스러운 입원으로 조사가 중단되는 초유의 사태가 발생했습니다. 한편, 56년 만에 최대 규모의 연료 비축량 확보 소식이 전해지며 경제적 반등에 대한 기대감이 커지고 있습니다. 또한, 요하네스버그에서 체포된 국제 살인 용의자의 재판이 시작되면서 사법 당국의 엄정한 대응이 주목받고 있습니다.",
+                "original_title": "IDAC head Andrea Johnson rushed to hospital, unable to testify before Madlanga Commission - IOL",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVUFsZ1FheVhFMV9VMWVwUjB3SDNDTndUOEUtLWNMLWdwRUZtbU1XRkZiRzh0cTFrTHh2cG9kVUFRTUdvZ3l2UVRGdnB6Z21hdGk1VnA4NkZkeDNnQnhjN0hjZExHYWRlVnZ6NEdXekRWUGlpQmdmenY2U3dsRDY4S19ua2NLNG5pWnpDV1RwRHpicG15QXR0d3RKazljdW4tVXVfTExJWG9tNE1iUmRTZ2o5SEMwVUpRYTlGeXBYMmx5dVdkclJZR3ZBZGU?oc=5",
+                "pub_datetime_utc": "2026-07-13T08:06:25Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:59 KST",
+        "current_rank": 15
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "방콕 화재 27명 사망",
+                "hook": "순식간에 덮친 화염, 태국 술집에서 벌어진 참극에 전 세계가 애도하고 있습니다.",
+                "script": "태국 방콕의 한 식당에서 대규모 화재가 발생해 27명이 숨지고 60명 넘게 다치는 참사가 벌어졌습니다. 당시 매장 안에는 200명이 넘는 손님이 있었으며, 폭발음과 함께 불길이 치솟아 현장은 아수라장이 되었습니다. 당국은 현재 사고 수습과 함께 정확한 화재 원인을 조사 중입니다.",
+                "original_title": "「TSUTAYA」敷地内で男女4人刺される 1人重傷 大分 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RbndBdkVNSEpGaFZseHl2YnZFekgxMzdRRXBQcTdXU25sYTBFOWR2S0FyVFctc3U0Qm1CbXJnNGZ2MzY3cnlrV19fcGNLLVNSQzlYTlhSWTVia3FfcExuVEFaY2ltVjZf?oc=5",
+                "pub_datetime_utc": "2026-07-13T03:35:23Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:50 KST",
+        "current_rank": 16
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "영국 폭염 사망자 급증",
+                "hook": "6월의 이상 고온이 휩쓴 영국, 하루 440명이 사망하는 비극적 데이터가 공개되었습니다.",
+                "script": "영국 전역을 강타한 6월의 기록적인 폭염으로 인해 하루 최대 440명이 사망했다는 충격적인 보고가 나왔습니다. 화재까지 잇따르며 국가적 재난 상황이 지속되는 가운데, 전문가들은 기후 변화에 따른 대비책 마련이 시급하다고 경고합니다. 무더위가 2주째 이어지며 영국 시민들의 생존이 위협받고 있습니다.",
+                "original_title": "Ann Widdecombe murder latest: Suspect ‘drove nearly 300 miles to her home with wooden stick in car’ - The Independent",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1JOMjFLYVJKb3gzLUh3akZmWmxjdE94dVJzc2FvdVFhYXpzc0ctUVZWZURyMHFwQ1RvTDYxdURhaGRNMFhrSlFyazZnRTRSTWl5YzNhZkI4Mko2NHhpQ29vOHY2Umc3TTNfVjU0XzZVZU4wclVER3R2X1duM3FIMl9WckpucFAwOFk0ZFl3SDF1M3k0RkxmZ3g4SVlGdng0M3FMWHFvNE55MDlhMFYyZU14MDU5UUxEZkZYOFZGVVBnRVQxellN?oc=5",
+                "pub_datetime_utc": "2026-07-13T07:00:00Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:50 KST",
+        "current_rank": 17
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "전동 모빌리티 사망",
+                "hook": "12일 만에 23명의 사상자, 호주 전동 모빌리티에 무슨 일이?",
+                "script": "최근 12일 사이 호주에서 전동 모빌리티 사고로 10대 한 명이 숨지고 22명이 크게 다쳤습니다. 편리함의 대명사였던 전동 킥보드와 자전거가 순식간에 흉기로 돌변하며 안전 우려가 최고조에 달했는데요. 당국은 즉각적인 규제 강화와 안전 수칙 준수를 강력히 경고하고 나섰습니다.",
+                "original_title": "More than 120 families contacted in AFP investigation – as it happened - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPM184cXpiQWt1QVJ4T3E0VFZCNFhCUXVuV2M4c3I3RUNMLUxYVEVrRVRBX1E0X1AzMEZOOUhYeWdqaVZfZGx0eFhkdklyQmVha3VHa1Y1Rm1SdDBPUUViY3JVR0NmcndsbGJWYm1uZXBLYVVpRDUtdktkU2JyTm1kdGpzR0htdVpkdDlUMVNFLXBVdV85eG0taGhUWHhWUVpFSGl0QllxVnppNjMtREdfWnRJRjRaNjdobEFkRndqc0VlU1lrbG0tTktHY1hvVnplS2duak5DYllEUldfOXNENzRlckVxWWxPSWhyNENWdzJ5aEJQRVpNMUVhRnJ5bkptT1MyMzJNNjlJNnktSjNNWkQ3dVZPdHQxM3ozbWU5MC14M2xXYl83VVhuS3pmNHM1QTFnSUlsMDRDZ054NVEw?oc=5",
+                "pub_datetime_utc": "2026-07-13T08:04:00Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:58 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "Estados Unidos completó una nu",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Estados Unidos completó una nu",
+                "original_title": "Estados Unidos completó una nueva oleada de ataques contra Irán para reducir su capacidad militar en el estrecho de Ormuz - Infobae",
+                "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdkN0LUkxSmdKbTRDblp1NG1aVjRIRndsMEYtMDY2YUVYNDhzSzI0bjdHVmxaZUk2aTQwamVGVXo1Y3V6NHZISVZoUWtySUo3S0EteldkM0NyaEtkUnVKVFczQXdfbHNuRFc0NjE2emZkeDZNaUNtQWZ3al83YUJIRVJybTBNSWFKZE1nQ3dTLV9neGtmcV9odVQwVl9nWmo4Tm05bEhHTGFxalo5MGJncWlSNDg4TTYxejBWU3JNNWw5QzVDR1VXWTBMS3RBZlVXTWgza25Vb29pS0dvNzFHMi16R0kycUc5cTliNHA0WkNndXQ3ekNERWR5SkVrQdIBmAJBVV95cUxQd0NaVFBVeW8xMWoweVo4VTZGR1ZibmFaSzRCQ01BLVNERHRpeXI1bDRhQTIyWk96czBOaEJZSjUtZ1JTdF9tdTdzYWpnZmg2Z0Uyd0xhSmlxWnhZNGtfN2Q4aTFzRTlXc0lRSUdLZ2hwYnFkOEdqNC12a2NUNXhiWmhJYmN6T0t6a2xmbVljNUx2MW5iV25iQV9qbkR6NUxNNWUwOTgteGVoZE9sOUZxdTlJSUxuYzNDQVZISEM4Y1UxZTZKUkdxNGNLWDk4Y0lNWXMyZGliWEdFZENWMVI5Qnp2dkh4SUEzR1NzbDhya0o2N0dTdDZkVWJqNG4yRkVPc1ZBdUd5X0lmWEJyZFNZaldtVTIyWG1i?oc=5",
+                "pub_datetime_utc": "2026-07-12T22:44:29Z"
+            }
+        ],
+        "last_updated": "2026-07-13 18:48:58 KST",
+        "current_rank": 19
+    }
+}
