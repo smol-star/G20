@@ -1,0 +1,325 @@
+{
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "독일, 에너지·안보 위기",
+                "hook": "이란의 호르무즈 해협 봉쇄 위협, 독일 경제에 치명타가 될까?",
+                "script": "이란의 호르무즈 해협 통제권 강화 선언으로 독일 내 에너지 공급망에 비상이 걸렸습니다. 한편, 독일 국내에서는 철도 지연 문제 해결을 위해 관리자 보상을 연동하는 강경책이 검토되고 있습니다. 경제 위기와 내부 개혁이라는 두 가지 난제를 마주한 독일 정부의 향후 대응에 관심이 쏠립니다.",
+                "original_title": "Flughafen Leipzig/Halle - US-Medien sehen Hinweise auf russische Herkunft von Sprengstoff-Drohne - Deutschlandfunk",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclVpQmlMNTRERXRsNFVqcFI4bEo3MDRzZG9NSms3X3h1d3BFdlI0WVVkRVFubXgzQWJBck5oUzNOYWhtalhsXzV4YkpOLUxPV1lsUGsyT3lBY2xiVFhva2RsdmVtbENhSVNNd3gyVFF3SzlKaWRBcGM1V0dWclViOVNhWDNHQU1JbVpfclFucW4tWlFTY0llQzNuLThPUXJacXVILUczNVZfVW9ZRTFv?oc=5",
+                "pub_datetime_utc": "2026-08-09T10:47:22Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:28 KST",
+        "current_rank": 1
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "나가사키, 원폭 81주년",
+                "hook": "평화를 염원하는 나가사키의 81번째 절규, 그 현장에서 무슨 일이?",
+                "script": "나가사키 원폭 81주년 기념식에서 시장의 평화 선언 일부가 누락되는 소동이 벌어졌습니다. 동시에 북한의 러시아 파병설과 대만 대표의 불참 등 아시아 안보를 둘러싼 긴장감이 최고조에 달하고 있습니다. 자연재해와 국제 정세가 겹치며 일본 사회가 복합적인 위기 상황을 맞이하고 있습니다.",
+                "original_title": "「痛恨のエラー」平和宣言一文読み飛ばし…長崎市長「つい熱くなって」NPT義務履行求める重要一文 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XVGY3MG9NWXRmN0FkQlZ4NHVpNU9CcS1oZ3o5OC1jTlhFTlFSUWlOUjZTTW9abjVsc3FMZG5FZGlEcnA0RUtDVHU1U3lIV2pX?oc=5",
+                "pub_datetime_utc": "2026-08-09T11:03:34Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:28 KST",
+        "current_rank": 2
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "인도, 공항 보안 비상",
+                "hook": "착륙 직전 조종사를 덮친 의문의 레이저, 인도 상공이 위험하다!",
+                "script": "콜카타 공항에 접근하던 말레이시아 항공 조종사가 정체불명의 레이저 공격을 받아 착륙에 차질을 빚었습니다. 인도 내에서는 이와 함께 정치적 갈등과 사법부 인사 문제 등 사회 전반의 긴장이 이어지고 있습니다. 치안과 항공 안전에 대한 우려가 커지면서 인도 당국의 강력한 대응이 요구되고 있습니다.",
+                "original_title": "Jharkhand student protest: Round 2 of talks with government fails to end deadlock - The Indian Express",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbEg0QS1RZll6WmxXWTc3LWtKVVgxSklJX3dvOGlxdXhSc0k5YkpxVWlxSG1qa1J0QTJnYS1mOU9DNllrcFBPWmJneW9YYXlGQW9qd2kxRnh2VHVuR0FsWGNVdC1TVU9tRl9VdHAzeWE4RlVPM3Ffb2RpaWpMbGlPZTBHZVRlTXFPQy1MbDBIdTBHaXc1SThPRkpsTzItYkRRRFE?oc=5",
+                "pub_datetime_utc": "2026-08-09T05:39:00Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:28 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "중동 위기 고조",
+                "hook": "이란의 호르무즈 봉쇄 위협, 영국 경제를 흔드는 도화선이 될까?",
+                "script": "이란 혁명수비대가 미국이 모든 조건을 수용할 때까지 호르무즈 해협을 봉쇄하겠다고 선언했습니다. 이로 인해 에너지 가격 급등이 우려되는 가운데, 영국 정치권은 민심 회복을 위한 대대적인 투어에 나섰습니다. 중동발 위기가 영국 내 물가와 정치 지형을 어떻게 뒤흔들지 귀추가 주목됩니다.",
+                "original_title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ba0ZYNHdyLUU3MDVWWERkZUU4YXpRVmlsQ0ZZc09TNXhSenhjSHBSSkRhY1pzVllMR0pBSkZaeFRXQnF6b1g4Vzk3ZFZkMGFxQ0VMYVJIY2JUQ0pY?oc=5",
+                "pub_datetime_utc": "2026-08-09T11:58:22Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:28 KST",
+        "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "이탈리아 이민자 갈등",
+                "hook": "독일의 이민자 정책 변경, 멜로니 정부에 닥친 새로운 위기!",
+                "script": "독일 정부가 난민 이송을 재개하면서 이탈리아 멜로니 정부가 외교적 난관에 봉착했습니다. 스페인과의 갈등에 이어 독일과의 이민자 문제가 국경 수비의 핵심 쟁점으로 떠올랐습니다. 유럽 내 이민자 정책을 둘러싼 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "Salvini: «Sánchez sfiora il ridicolo. Noi difendiamo i confini europei, la Spagna non lo ha fatto» - Corriere Roma",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWljSlNSUVVUM3FPSG11bVRUZnZFbzJuMzl3RzdCNHhUVmFQVDE2SmNzR3ptZHZ1THotZF9JZHJLdjMxNDdsY0VienMwNGZMR3FNam40TEdGTDFPZmJBeDItV1dEVHBmMFEyWlVhMlJkZGN1dDRpdmFVeTYxUHRDVkVaaDZEaFJyN0YwU0hydDdOTU93RGxRUXlQSGdiaVRvNExGcjJqR1hDS3ZBSmJmWS1qLUVNeFF5cUZjSDFKekpTZEhJRlB4MzI4bkJ5R2h3WVpUSThB?oc=5",
+                "pub_datetime_utc": "2026-08-09T10:14:47Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:33 KST",
+        "current_rank": 5
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "브라질 헬기 추락",
+                "hook": "생일 파티 가던 헬기, 리우데자네이루 상공서 추락 참사!",
+                "script": "15세 생일을 기념하기 위해 여행길에 올랐던 일가족이 헬기 추락 사고로 비극을 맞이했습니다. 리우데자네이루에서 발생한 이번 사고로 탑승자 전원이 사망하며 브라질 사회가 큰 충격에 빠졌습니다. 현재 사고 원인을 규명하기 위한 정밀 조사가 진행 중입니다.",
+                "original_title": "Viagem para celebrar 15 anos termina em tragédia: quem são as vítimas da queda de helicóptero no Rio - O GLOBO",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOGxnRGs1Ujhqc1daMnhEc2ZXTkhaaDAyWVI5WkdYYXZjLUNJUTk1bk1JYlJRa2c5cFpWVmUzbXN6TVF0QnZEWE1XeHlxNUV3RFdRVWNFZ2prQ01uOFFjVTJiQkdtczAyYmVjcmljZEdkNGc4WXprcm54S3IyejJiUHEyMFlodFVxSjkwMUFvRnBiZmZfVTBiWDVfTS1UZ1pDMW1nZGVHSEdOMVlEdHFYSGtyU1c2WnJDWmVER015YkhUaGdTS1JLcjFQNHVZZjh2MkRVelNHLWE1RHJsYUVTMFJLRDZDV3lF0gH3AUFVX3lxTE1mdHdFUHZHVjJlWUhoSk92NjVsLWRyWHdXU0FlRFp0cG1BaGx5cWNvcTBqQTVwTy0yZEFZSVBBNnJTWG1ad3AtSE1XUk5wczB0SFdtSmFfeURjRm96N2Jyb19EOVJULWIwaWFFMmdyTGNMSFJVUGtWcURlWVhuVUVwcGtzNGd5QkNudTZSWVRMVmdKTjdFZ3pDSi1XTUFGNUhpOVdFMWNJU2NldWYyTjdzTHlGaDViX01vaWE2Mk0zbGJUMkNhLTgzdFNRUGxTSC0zNTllRmtEV0Nkc3AxUGVlTGxWUnYxdWRSYnFlN3djbkxidm1LaXM?oc=5",
+                "pub_datetime_utc": "2026-08-09T03:00:14Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:33 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "캐나다 비상사태",
+                "hook": "캐나다 전역을 집어삼킨 산불, 국가 비상사태 발령!",
+                "script": "캐나다 브리티시컬럼비아주가 걷잡을 수 없이 번지는 산불로 인해 주 전역에 비상사태를 선포했습니다. 수천 명의 주민이 집을 잃고 긴급 대피하며 생존을 위한 사투를 벌이고 있습니다. 기후 위기로 인한 재난이 캐나다 전역을 공포로 몰아넣고 있습니다.",
+                "original_title": "B.C. declares provincewide state of emergency as wildfires force thousands out of homes - CBC",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFl4U1VMVGtEY1luZ2tOZUxacDk1M2l3S2I4M05FNDBSMXZvVE04UFRYVlNqY0F0SEh0eGNxZGhpRDZIdXJBYkN2NllGd0tQelpza0lvdmM4VFp6UmprTW9Dc3R3ZnFBbFBnNGlfNmN1SmF1a0NJbXVtNjg4RjJUZkZ3N2xzQ21jWS1VMl9rQWk0VUdDcl9ucmNRTXNoOFhUV0pDa0NrWHZUSzYt?oc=5",
+                "pub_datetime_utc": "2026-08-09T01:59:45Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:33 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "벨고로드 덮친 드론 공습, 피해 규모 급증!",
+                "script": "러시아 벨고로드 지역이 연이은 드론 공격으로 막대한 피해를 입었습니다. 이번 공격으로 사망자가 5명으로 늘어났고, 인근 지역에서도 아이들이 부상을 입는 등 민간인 피해가 확산되고 있습니다. 국방부는 우크라이나의 주요 항구 시설을 타격하며 보복 대응에 나섰습니다.",
+                "original_title": "Число жертв атаки БПЛА на Белгород выросло до пяти - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zNWVUZDBkZ3F3ZTNBUjRkZllYVTYtVzFBcVVodnMyR3gxRFFyRWwtZmhjZkk0TGUxbklGTmVOLU50Zzl4VW9kczFHVmhrRTjSAUtBVV95cUxQaHVFbXIwRDVURGIzT0VmXzFvMTdEd0xYXzU3QjlWYUtza3EyODBPMzU4QzlpRzdsc1dtWk1UaU9qbHJwdFlWYk5feE0?oc=5",
+                "pub_datetime_utc": "2026-08-09T09:56:00Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:33 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Padres de los 43 normalistas e",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Padres de los 43 normalistas e",
+                "original_title": "Padres de los 43 normalistas estuvieron en la audiencia de Ángel Aguirre en el penal de Almoloya - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGV1Z0U2MG5GaFRKbjhXSUVfYjBXMmhoOEhuUjhsNFdaeU5mZHhRQTR1WUpieGlLeno5WHVsY1hZbFBFYlRpQy1MLWVRanFyTmF2NGxKSXpJWURHbnhxOVJMZ0NraXBNRWsxWGNXU05rMXlMRldMWXVjRlY4ZlVJOTlPTll5ZmFrR3Nfc2xrQ2hqWFBIbnNSTmVNTml6UUFySzk5MnQ1ZktFNnIwR2FpMk5aQ0FwNk5Hci0wRUJuRTQ3MjRRV1UyVHBFSnh0c01SOFdXck1JV0hEa2J6ajA2RGRGUXN2UQ?oc=5",
+                "pub_datetime_utc": "2026-08-08T13:50:00Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:33 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "나무 무단 제거",
+                "hook": "경관을 위해 나무 287그루를 베어버린 대가, 벌금 2억 원의 참혹한 결말.",
+                "script": "시드니의 한 저택 주인이 하버 전망을 확보하려 수백 그루의 나무를 무단 제거했다가 약 20만 달러의 벌금형을 선고받았습니다. 환경 파괴에 대한 엄중한 경고가 담긴 이번 판결은 큰 사회적 파장을 일으키고 있습니다. 아름다운 경관 뒤에 감춰진 불법 행위, 과연 그 대가는 정당할까요?",
+                "original_title": "Body found in suitcase in southern NSW - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjJBSjhmVGZoQ1QwakxJT1NqZFF4a0lXVHZ0aWdMVUZGb3k0M1R4dkVFVjJjWF8wVDlyS1h0ZnV1ZEVWTFNRa2t0SzRSNHlZR2NqWUNTbHdrVjJsUVJVempobldvSHNSS1VtcGhra0lENlcwNFc2TWhCMWlIc1lxNzI2UTgxMkRTN0E?oc=5",
+                "pub_datetime_utc": "2026-08-09T08:42:04Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:36 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "한국 핵무장론",
+                "hook": "미군 무기 재고 부족, 이제 한국은 스스로 핵을 가져야 할까?",
+                "script": "미국의 패트리엇 미사일 재고가 급감하면서 한국의 자체 핵무장 필요성이 다시금 수면 위로 떠올랐습니다. 뉴욕타임스 등 외신들도 한반도의 안보 환경 변화에 주목하고 있습니다. 든든한 동맹의 방패가 얇아지는 지금, 우리는 어떤 선택을 해야 할까요?",
+                "original_title": "[속보] 김민석 48.50% 정청래 44.45% 송영길 7.04%… 강원·TK서도 金 승리 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdl9wU182dnlKd3V1RndDMW45Zk9MdnlMMmFvbGg0WVZtSEh2UEltLTJCUEhGN2xaQ0p2bVl5cXBpaVliZ1ZyeS1mcUlWTV81WnQ3cHVlWXBSRUQzSVlvTVNyOGRYLU9oV2haazVfR2NkRWlTQ0ZEU3VGczdITE9WS2dHSHpKdw?oc=5",
+                "pub_datetime_utc": "2026-08-09T09:58:00Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:36 KST",
+        "current_rank": 11
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "브로모 산불",
+                "hook": "인도네시아의 보석, 브로모 국립공원이 화마에 휩싸였습니다.",
+                "script": "인도네시아의 대표 관광지인 브로모 산에서 대형 산불이 발생해 모든 관광 접근이 전면 차단되었습니다. 화재 규모가 급속히 확산되면서 자연 생태계 파괴에 대한 우려가 커지고 있습니다. 여행객들은 즉시 일정을 확인하고 현지 당국의 조치를 따라야 합니다.",
+                "original_title": "Yayasan Sekolah di Jaksel Minta Buktikan Klaim Senjata untuk Ekskul - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnY0VHlPbUN2eVdtSmhOVkduTFRPMlJ0SFMzTXppSE10T3NUV2dIcVpQYnNTVHpqR090ek5QQ0xSUGxsck9qY1JrM0c2RldqcDV6U2gxVkhHdi1nRTFQOHVDaG9iTFhiZFNuZHE2bzVKQ1RiamVpTXpXZUJjZG5RSUJfYUlXUFZVZ3JUTlpjR29rQWk4S0lWUXlUMDlzVnB6Rm5LcWpRdTE3UVHSAbABQVVfeXFMTUo1YmpTS2R3WWdVLWdEUEVQTHV6VDltek9XTlVjQ0ZvS3ZRZWRMOHN2bGNBc1YwV0h4TFBTTlE0aDBhOWEyV1BnLWlIa2ZiamhHd0xIT2tIN2MwYTRmbHdFWHo0UjBQZWV6Z1QtdUZEYzNWRFlOdlJwTmUyYkNaeWt0b1FRYjFzanl1ZEFON1hmUzZURktsWVZzZEd3d1B3bEw2bl9UcDVOdzN4Vy05YmE?oc=5",
+                "pub_datetime_utc": "2026-08-09T09:19:39Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:36 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 폭설 및 비상사태",
+                "hook": "남아공 전역을 덮친 기록적인 폭설과 잇따른 강력 범죄, 지금 그곳은 생존의 기로에 서 있습니다.",
+                "script": "남아공에 레벨 6의 강력한 폭설 경보가 발령되면서 전국이 얼어붙고 있습니다. 설상가상으로 웨스턴케이프에서 하룻밤 사이 11명이 살해되는 등 치안 붕괴와 지자체 파산 위기까지 겹치며 국가적 혼란이 극에 달했습니다. 기후 위기와 사회적 불안이 동시에 터져 나온 지금, 남아공의 위태로운 현 상황을 긴급 점검합니다.",
+                "original_title": "Didiza sends ANC letter to Impeachment Committee - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cFFmS0ZTbU1fM0ZRdnJMUHFpcXRZYVBtZ3RkN2hXalUxdTRJZlRQaTVhX0p0UnhKU25OdGtQU1plN3ZOMUsxc0JhbzIyXzhPT0MtWFY2b2FwOEZ6TGpfSG9tV2ZHVWtpdll4UV81Y0doOHBuUU93T3pKcw?oc=5",
+                "pub_datetime_utc": "2026-08-09T08:18:50Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:40 KST",
+        "current_rank": 13
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "네타냐후, 트럼프 평화안 거부",
+                "hook": "트럼프의 야심 찬 중동 평화안, 네타냐후의 단호한 거절에 좌초 위기입니다.",
+                "script": "트럼프 전 대통령이 제안한 하마스 무장 해제 및 가자지구 평화안을 네타냐후 총리가 공식 거부했습니다. 이란의 호르무즈 해협 봉쇄 위협과 맞물려 중동 정세가 극도로 불안정해지고 있습니다. 미 국방부는 이란과의 잠재적 충돌에 대비해 무기 생산을 서두르고 있으며, 전 세계가 일촉즉발의 상황을 주시하고 있습니다.",
+                "original_title": "Netanyahu Rejects Trump’s Plan to Disarm Hamas - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
+                "pub_datetime_utc": "2026-08-09T12:01:21Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:28 KST",
+        "current_rank": 14
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 70.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "중국, 대국 외교 강조",
+                "hook": "혼돈의 세계 질서 속, 중국이 제시하는 새로운 대국 외교의 청사진은 무엇일까요?",
+                "script": "중국 공산당이 자국 원수 외교의 핵심 가치인 '인심 상교'를 강조하며 세계 영향력 확대에 나섰습니다. 이란의 해협 통제권 주장과 일본의 원폭 기념식 등 주변국 이슈가 급변하는 가운데, 중국은 식량과 에너지 안보 강화를 통한 독자 노선을 공고히 하고 있습니다. 격변하는 국제 정세 속에서 중국의 행보가 그 어느 때보다 주목받고 있습니다.",
+                "original_title": "大道行天下丨以心相交，成其久远——中国元首外交的世界情怀与大国气派 - politics.people.com.cn",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50dWRaZUxxTkM4aHJOc01QSDlxaU1obnZpX0l5V3ZITEJyMXB6VFkzTURqbkdwYTVBYkN5cGk0X3RyTkFpVFVBZkZVNUVCYTdJNmxGdXJKdzhBa1FwSmo4WmNTa3FFNkg2NGRrVERIcW1sdw?oc=5",
+                "pub_datetime_utc": "2026-08-09T06:56:00Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:28 KST",
+        "current_rank": 15
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "캐나다 대형 산불",
+                "hook": "90미터 높이의 화염이 삼킨 캐나다, 국가 비상사태 선포!",
+                "script": "캐나다 서부 지역이 기록적인 대형 산불로 초토화되었습니다. 90미터에 달하는 거대한 불길이 마을을 덮치면서 주민 2만 명이 긴급 대피했습니다. 현재 당국은 국가 비상사태를 선포하고 진화 작업에 총력을 기울이고 있습니다.",
+                "original_title": "Israël « rejette » le plan américain pour Gaza accepté par le Hamas, annonce Benyamin Nétanyahou - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdUszVXd2Y1NSa3drdkZheWVvR2owZW1QR3dsS1VBcUJmeHJTT0dCRF9PejItS2JTNUJtMWh4cExBRTBsdmgtWUozRE5zVnpaQzFwRTNwdC1MME1fYThLMlBuX2FLTlZQSVFQdGhsVVE5UVFPM0ppWEh1cV9PUy1vME1ZaEpyelllQ2I4MUdNcF9VZ0V4VTVHRnU1QzBpZGJEVGcyWTUwMWdjOUZZRjNvQ2ZtZHZEZGRoQkpEQ3dUWjBTell1djBDU29FQzBxQ1ZuTW9GMTB5MjBseldzVnlXNkNIamdOX05ETHdSbk83Ql9paU15QzFIOQ?oc=5",
+                "pub_datetime_utc": "2026-08-09T13:06:08Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:33 KST",
+        "current_rank": 16
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "해변 무단 점유",
+                "hook": "당신의 휴가를 망치는 해변 무단 점유, 정부가 칼을 빼 들었습니다.",
+                "script": "튀르키예 정부가 해변을 사유지처럼 점유하고 수익을 챙기는 불법 행위에 대해 강력한 단속을 예고했습니다. 이제 해변은 모두의 품으로 돌아갈 수 있을까요? 여름 휴가철을 앞두고 시작된 이번 조치가 어떤 변화를 가져올지 주목됩니다.",
+                "original_title": "SON DAKİKA... Sebahattin Şirin gözaltına alındı - CNN Türk",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWFmb0llUlZQclhqb2NQcDJVOVptR1NiVWg2akhYeGwtOUxSRFlTYzZacTUtZU5vcVBiUTlpaE9vR0JfRkJqVVZYYnBMU1h2MHZxdGRzRHhPclpHQ3M5UW8ybkJSY1NYSlAzY0l6YTREczBualdMOFRGLXF6MFVOZXctbURxdEJneThZWg?oc=5",
+                "pub_datetime_utc": "2026-08-09T11:24:00Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:36 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "폭염 비상령",
+                "hook": "섭씨 50도를 넘나드는 사우디의 기록적인 폭염, 야외 활동 주의보.",
+                "script": "사우디아라비아 동부와 리야드 지역에 섭씨 50도에 육박하는 살인적인 폭염이 닥쳤습니다. 당국은 8월 중순까지 이어질 뜨거운 열기를 경고하며 야외 활동 자제를 당부했습니다. 극한의 기후 변화 속에서 생존을 위한 철저한 대비가 필요한 시점입니다.",
+                "original_title": "طهران تعلن شروط إعادة فتح \"هرمز\" بالكامل، والحوثيون يواصلون استهداف السعودية - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15cXpUdFRocDZ1M2ZuR3JpaFJCOFlVZElBVERSYjRBbTdiclNSZzlJMmFVUmVJR1ZNZzRma2Zmdi1xdlJMYjdHV1Ffb2JGMEdFUWRpMjlPNUE0Zkl00gFiQVVfeXFMTkFwRWlaNW9wLXBUdzN3V2h5U3FycmNFNDNOUy1iYzU5MS1mTUtXbXpwUERMNjgzX2d0QXcwQTMxdUxrVk9CVGFSb0xGX3FfUjhEWmxCQ2Q1b3J0X2F0Z0dBaXc?oc=5",
+                "pub_datetime_utc": "2026-08-09T10:34:31Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:36 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "교량 추락 참사",
+                "hook": "다리 위 충돌로 차량 2대 추락, 아르헨티나 멘도사에서 발생한 비극.",
+                "script": "아르헨티나 멘도사에서 차량이 가드레일을 들이받고 교량 아래로 추락하는 끔찍한 사고가 발생했습니다. 이 사고로 1명이 숨지고 6명이 부상을 입어 병원으로 긴급 이송되었습니다. 도로 안전 불감증이 부른 안타까운 사고에 애도의 물결이 이어지고 있습니다.",
+                "original_title": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdTBTTXpNNDRSSTlDYlVZSDVpRHZ4QjE3T2VPeVdwWjFLN2lZc28ySFNkalNmQWFrcWJmbHF4YUJzXzRJaHlaU2QyZHQ1VkVBQTVDT2lsckFjSzBxTERhMlRnaHZnQjluMFlPcVFSbW83aUsxaTZvSGpMWm53SjlTYS1icHVWWk9kQWZlelhqRWtYNEZ0TDVaMGZMXzlMam5HVzdlRUpqbHZ6VENvTHBMczZwTkVoQWNkVXpDbWlqeFVOTEQxY29DdU5WZTBacnhxMEtaeW5ZcWxlbEh4OFNVMGpmaG0wSUpBTUE0?oc=5",
+                "pub_datetime_utc": "2026-08-09T12:16:00Z"
+            }
+        ],
+        "last_updated": "2026-08-09 22:17:36 KST",
+        "current_rank": 19
+    }
+}
