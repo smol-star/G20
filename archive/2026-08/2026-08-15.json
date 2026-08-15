@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "버지니아 대학 총격",
+                "hook": "평화롭던 대학 캠퍼스에 울린 총성, 도대체 무슨 일이?",
+                "script": "미국 버지니아 주립대에서 다수의 총격범이 나타나 사상자가 발생하는 충격적인 사건이 벌어졌습니다. 현재 현장은 긴급 폐쇄되었고 경찰이 용의자를 추적하며 긴박하게 대응 중입니다. 학생과 시민들의 불안이 극에 달한 가운데, 이번 사건의 정확한 피해 규모와 배경에 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 38 - NBC News",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51U2tXT01TeEdpZ2g1UEg0MUxjMFhyZTBBRzE2R3BObExUOUhGNUdmNVdjUlVtSTIydmNmSjdzTUdDYllON0FUX1Vtam5HLVFDRG9XV09VeTdFLUZwUVRkUkRwU0ZQQnNkR1JJUHRJdWhYcVJqemRBeXRUZw?oc=5",
+                "pub_datetime_utc": "2026-08-15T11:47:00Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:03 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "야스쿠니 신사 참배",
+                "hook": "일본 방위상의 신사 참배, 중·한 양국이 분노했다",
+                "script": "일본 패전 81주년을 맞아 일본 방위상이 야스쿠니 신사를 참배하며 주변국들의 거센 반발을 사고 있습니다. 중국과 한국은 즉각 강력한 항의의 뜻을 표명하며 역사를 부정하는 행태를 규탄했습니다. 이번 논란으로 인해 동북아시아의 외교적 긴장감이 다시 한번 최고조에 달하고 있습니다.",
+                "original_title": "浙江淳安：全国生态日法典进乡村 法治守护百年江南古枣林 - 新华网浙江",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclJiX2RzdVc3QU1OQmZsY3Zua2hCX1A4MjNhMW1ySlRQNTk2eEE5RXNnd0o1MzVVTzNreXlReGlFTmZqeEpzMkI4QU9uaUY3RnVIUGNBbVhBOVpicDZGN0dmRVlLUk5UWU11RS1ndzdqb0JLNkVoTTJfTTY4aVVzeUtn?oc=5",
+                "pub_datetime_utc": "2026-08-15T10:10:52Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:03 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 산불 비상",
+                "hook": "독일 전역이 불타오른다, 멈추지 않는 산불의 공포",
+                "script": "독일 아이펠 지역을 비롯한 전국 곳곳에서 대규모 산불이 발생하며 국가적 비상이 걸렸습니다. 건조한 날씨와 고온 현상이 겹치면서 불길은 좀처럼 잡히지 않고 확산하고 있습니다. 시민들의 안전이 위협받는 가운데, 당국은 진화 작업에 총력을 다하고 있습니다.",
+                "original_title": "Hürtgenwald: Waldbrand in der Eifel hat sich in der Nacht nicht weiter ausgebreitet - Spiegel",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd0V5YWpTTEphTV9CdUQ1Qi1sSks1MVgtdFUyVklpUHBDSVcyaWlncllKMTBUaWZCd2I1ZFc2Q2lfYi12YzJ5dEhWNS12djNNTWRrZHFDbUc1M0VQM1ZhLWtUN0doS3ZEVU1Wd2lFakxVSl9IYXFCZEw1cEZkZGZYVkI4THFCNmwyLUdrelBaY0kwUmRQMnBLVWhkZlNZS0pWTTJJMFRJVjNqdUJTNU9udG9RTEhEUkRJQVFwY2I2ZFRjWi1oTFQ5QlBKdlRYQ09VLVdZNWg2Yk9jM2hQVXBRTDZtRm44eXItRlE?oc=5",
+                "pub_datetime_utc": "2026-08-15T07:45:00Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:03 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "高市首相、靖国神社参拝見送り 日本武道館から「二拝二拍手一拝",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "高市首相、靖国神社参拝見送り 日本武道館から「二拝二拍手一拝",
+                "original_title": "高市首相、靖国神社参拝見送り 日本武道館から「二拝二拍手一拝」 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeVVpcENiUVZvT1hYVVJYRUxfV3hzdF9GLVlHdnJ3LVRKbWVRQVVxWU9yRzFEeWRfSnVZZkVBeTA1a1JOOGxLNzRiQ1lORU9CaXUyX3p3bmh3Snk0ZHVRcHE0S1B4NW11bjhNSw?oc=5",
+                "pub_datetime_utc": "2026-08-15T07:10:00Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:03 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "모디 총리 독립기념일",
+                "hook": "인도의 미래를 말하다, 모디 총리의 7대 비전 발표",
+                "script": "나렌드라 모디 인도 총리가 독립기념일 연설을 통해 인공지능 기술 교육과 청년층을 위한 개혁안을 전격 발표했습니다. 특히 '비크시트 바라트'를 향한 7가지 국가 비전을 제시하며 인도의 도약을 예고했습니다. 이번 연설은 인도 경제와 미래 사회의 청사진을 보여주는 중요한 메시지로 해석되고 있습니다.",
+                "original_title": "PM’s I-Day speech — Reforms, AI skilling for youth, free online coaching and a warning on ‘dimagi Naxal’ - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVd2ZWFBbFozN3NDTi1kZHRjdGdDbF9YYnVRS2c2UmFXa1dGVHdLTjVrNVZjbUFuY0dva3J0MWFPT3VWc1lSbXFmUjN4QzlVZTRrMkJGemh2cko3RFNsOGd3YWloQldvMm8xMGo1SXQwMlFaaG5DMndGSHJja1hISHppYVNFSGx3Zm92d3QweFh6S19Ud3cxUmd2R3pRdFJwZjNEU3lzSDh0SEFhcmFDNzFrUWc1OUZ2b29pajdlMU14Rld0Nmc?oc=5",
+                "pub_datetime_utc": "2026-08-15T05:21:41Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:03 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 폭염 비상",
+                "hook": "프랑스 전역이 펄펄 끓고 있습니다, 64개 지역 오렌지 경보 발령!",
+                "script": "프랑스 전역에 기록적인 폭염이 이어지면서 64개 지역에 오렌지색 경보가 내려졌습니다. 서부 지역을 중심으로 기온이 점차 낮아질 전망이지만, 시민들은 여전히 극심한 더위에 고통받고 있습니다. 휴가철 교통 혼잡까지 겹치며 프랑스 당국은 시민들의 안전과 건강 관리에 각별한 주의를 당부했습니다.",
+                "original_title": "DIRECT. Canicule : 64 départements maintenus en vigilance orange, une baisse progressive des températures sur la moitié ouest - franceinfo",
+                "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNm10OUdCNGpXRVRLaF9FSzNNbUpJelBHd0hCSVhmQ25hZy1FYUdCZGhadVNXUWNUNXRJQ0x5cUd4OWlNUmlFWlkycFJFWTV2TFR1OWtxTVp4N0JTSFBfcHU4RWhJVmdkVlVka0ZhUVB5a1J1V3VWSjY3bUEyWmZsTTE2SlA3djIxQzVDbHotc3gxclN0dUZndFBpMm9TQno5T1BpUGJWQmFQZVVUajJ3dVNhOG1QMGNvMFFNNzVRUUZGTnlMaVhDWmVJMThNSXM0YXpNalNlTjROVmhWUjN4Q1pnbGJLbVNiRTFJdVBRZENUNzctMXpiMjZLTDFDZDJIOTZXQnhBa2h1eTJZWG9rMDM4VTNhQzBIcGF3SXV3T2FmbVRBQlVkRWhkZGVUcl8tY2duVU5ZajdCQzgxWmtkdXZn?oc=5",
+                "pub_datetime_utc": "2026-08-15T05:27:10Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:07 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "이탈리아 살인 사건",
+                "hook": "팔레르모 차고지에서 벌어진 끔찍한 살인 사건, 범인은 누구인가?",
+                "script": "이탈리아 팔레르모의 한 차고지에서 도둑을 발견한 주인이 살해당하는 충격적인 사건이 발생했습니다. 피해자는 범인들이 휘두른 드라이버에 찔려 끝내 숨을 거뒀으며, 현지 경찰은 즉각 수사에 착수했습니다. 평화롭던 지역 사회는 이번 강력 범죄로 인해 큰 충격과 공포에 휩싸였습니다.",
+                "original_title": "Vicentino bloccato a Catania dall’Etna in eruzione. «Rientro da incubo, un viaggio di 35 ore» - Il Giornale di Vicenza",
+                "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeElIOWd3SXhvZG56VDY1U3hhdEJTa2RoRFNWYlBTNlFrQ0g1LS1qZ1gyOWcwenhLaW41NjNvREtlRXdmVkVXakptRjNOMVJfaFViNTdHOHF0LTNMT0JUS2hISHlBTlVWSjhUWXFNaGQ1NU83c1NuYzlzSDVyNnpHVTRCMTFMWXZ6ZGp0d3g1b1JRRUcxZE9WSDE3T0ZrcVNqY3VZRjRBLXFFcnhwcTJsZ1BIQVNRNTFmRldRZDJnVVFELXN5aWdqYWRxMV9PQmNQTm1vNmZvdWk1eS00bnBVZGxpdGl2c0ROSnRRTVpleXR6dW1nNEHSAfsBQVVfeXFMTWlSTUlMZE1VRndvaGdZT0FRNkNxOGZESG5HbXZtM3hDWG4wRFlQcnJVY3lyQ3VBVWVTVHlfMlpESDNNbnNTSGdFbTZyaWh0VWpBci1TUU9rMk9wS3BpdTJZSy11TWlYaXdqaUt5WThqSkNPNWhTVzRwVnFNQVpHTWtTZEU2cUR2bm04S2hDVmM0eUV5cDd2VGl4aC1MYk5GdnRsdVZKdTVtalZiQTBBcWlhWTFfbldsZVBRNmxHajBObHQ4dnJ1X29IUVpXR0Nnei1OVTFwUTRBSTlCaEFwNUVrazc0WC1BakxKY3N6OEc5S1RCbnJoZzU3TVE?oc=5",
+                "pub_datetime_utc": "2026-08-15T03:12:33Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:07 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "브라질 기상 악화",
+                "hook": "브라질 상파울루 강타할 최악의 폭풍우, 지금 즉시 대비하세요!",
+                "script": "브라질 민방위 당국이 상파울루 지역에 강력한 폭우와 낙뢰, 강풍을 동반한 기상 악화 경보를 발령했습니다. 이번 주말, 국지적으로 쏟아질 폭우와 우박으로 인한 침수 및 안전사고 위험이 매우 높습니다. 당국은 주민들에게 이동을 자제하고 시설물 관리에 만전을 기해달라고 강력히 경고했습니다.",
+                "original_title": "“Não entrem em pânico”: Terremoto assusta turistas em ilha na Indonésia - CNN Brasil",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTViX0lRZ0pNX2Jyc1VlYUhFYy1scDF3bVJrNDNEcWpScF9pOGV2NXVJdDFGT3NIdk4wdlM5OXp2S2htd1lNVDhZSGZOVXY0bnN6b3NIc0FnUDVZczhONkNPOVRZMFZJZGFqQVR6b0twX2VJaWNRX05ueHJ5eTlHUHBIYnZyVU9WclFyeGFTMl82Zjcza0ZQekpYcW9FcUlFVDBvM1BCVWdxcFk?oc=5",
+                "pub_datetime_utc": "2026-08-15T08:31:42Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:07 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Quebec premier calls on federa",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Quebec premier calls on federa",
+                "original_title": "Quebec premier calls on federal government to uphold supply management amid new Trump tariffs - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDhidGZvNVU1NUMzN1dkbjhUak54VVJ1a1FQVnVVVzNvNkp1dGZVZTZVV1U3TURTYmdSWjF1eGFVelkyRGlNbkFsR3BDV0lUZEIySWliWE9Ed2ltQjRKTWZ6YjAzRlhtQ3pmMzBlYUMzNGtESmN3WmEwYV8xSnJPNEdMUy1Kb1dvak5IU25UeFdTdWZRREE5eGZRdHpERk14bVdoZlVJNDFMR2d3cHQzWlg4eGtfUmY3YUxHWnY1UlBMZjdxQVdVM2xEMzktRnM?oc=5",
+                "pub_datetime_utc": "2026-08-15T01:58:00Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:07 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "러시아 심장부를 강타한 드론 공격, 수도 모스크바가 흔들린다!",
+                "script": "러시아 모스크바를 겨냥한 대규모 드론 공격이 발생하며 전운이 감돌고 있습니다. 이번 공격으로 주변 지역의 전력 공급이 중단되고 민간 주택까지 피해를 입으면서 주민들의 불안이 극에 달했습니다. 러시아 당국은 즉각적인 대응에 나섰지만, 공격의 강도가 높아지며 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "В зоне СВО: Белоусов проверил, как дела в группировке «Восток - EADaily",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORUJCNlA2aDhqWEs4d0FsTzEtanRvNjIzRnhsWU93M0dMOTlwRzRJRERxZnNTNXdSUjNtcXVLQ3U5SmNmWDRTeFBWOWhnbF9aQUNKZm5PSzl6d2VyWmNObkZnZ3pId0M0LWpCQ1FpZGxDMXo5UEVBc2M5RzF1b1FQVVJab1RYb0M2dEhHcTBweGhmR2pJTjdRODQ5dFlUZ9IBogFBVV95cUxNS1pWa3FJUVNJY25ZQm5NbnczazVqd1F5MVRNcVZxY1Z5OFgtTDV2S3UyLUZTNjFoWVQtdThCci1sYTFyaGZINUxEb25oTEhXdVF4VWk4d1hWWVNmWkN0aXU3d05aY18wM3QzdlA1bDYtdFVJLWxqNks0S1NXTndVY1RCYXc4ZFVfSXprdmV4ZmUxX2lOaS1tMTRJN2w3cVVqZmc?oc=5",
+                "pub_datetime_utc": "2026-08-15T08:12:00Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:07 KST",
+        "current_rank": 10
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "규모 7.7 지진",
+                "hook": "인도네시아 덮친 규모 7.7 강진, 사망자 38명 발생하며 전국 비상",
+                "script": "인도네시아에서 규모 7.7의 강력한 지진이 발생해 38명이 사망하는 비극적인 상황이 벌어졌습니다. 프라보워 대통령은 국가 경제와 안정을 위한 국정 운영을 강조하고 있지만, 갑작스러운 자연재해로 인해 민심 수습이 시급한 과제로 떠올랐습니다. 피해 지역의 구조 작업이 속도를 내는 가운데, 정부의 대응 체계가 시험대에 올랐습니다.",
+                "original_title": "Daftar Lokasi 38 Orang Meninggal Korban Gempa M 7 NTT - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2FjSVhJWU5SSldCUG9PTmdWNGxYSUxWYjNSeHIwc1hTU1B2TFlmbFlHSnhPakFGWFBIb3lHV2t3QzBkYm9WNUxxMmRhaXhQSDcwZHRyZ2ZwVDRScVlyREtOSTVWc3pVb0V5eVNXMFpfX0lVbzV0YjBrVnVlMS1USXd4aHg0MEVzVzdldV9zNEJka1M2WnQ4dNIBngFBVV95cUxPelhlU2o0RVg3MEhFcnprcUNwczVWTlh4NU5BYVhmZF9lNUEzWHhTcGprVlNaaFlwaHNFekdkU2lEcFN5S2ZkNWcwSV9GQVFRbE5KR0JXUTI0aWxfTWx2MkRuUjBhOHl5MTg4Z2NaaDl3TU9uSExOdGxyZXc2Mzh4U29fell2X084Z3VjNkVvWm9tQTJHc3FNeXJITmtCZw?oc=5",
+                "pub_datetime_utc": "2026-08-15T10:35:21Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:11 KST",
+        "current_rank": 11
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "남아공의 충격적 사건들",
+                "hook": "오늘 남아공에서 벌어진 믿기 힘든 3가지 뉴스, 지금 바로 확인하세요.",
+                "script": "가짜 강도극을 벌이다 CCTV에 딱 걸린 아들 때문에 부모가 망신을 당했습니다. 한편, 헌법재판소는 쉘의 해양 탐사 계획을 전면 취소하며 환경 보호의 손을 들어줬습니다. 서핑 대회 중 발생한 비극적인 사고 소식까지, 남아공의 긴박한 오늘을 정리해 드립니다.",
+                "original_title": "Son’s fake gunpoint robbery exposed by Gautrain CCTV, leaving his parents ‘embarrassed’ - News24",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkVGVUt4MU50SVV4eE4zRXVVU1c2UDg5MmpfbWRfVUVSTjk4RVhZdUJVaE5pdzhkRFdsWmMtUkpuYmJpa2pKNXdLOGE0dURGQ01sdWUzNTdTQ1FLeE00ZnYxUVctZGZ6NkRZZUNiN2lQWE1fOUtWNGYzejU3QUQ0VFJTRE9yYmp4LV9iVlI2TWNlTHR0YkVKazJkcmdyS2k1VlE1cTk0Z0I4TVFaZjhSWk9xSWRETWYwZzRQdmpKRW1wdWE4Qms4Z3g3TFlrdmEyY3l3?oc=5",
+                "pub_datetime_utc": "2026-08-15T09:48:22Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:12 KST",
+        "current_rank": 12
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 산불 경보",
+                "hook": "영국 전역이 화약고? 기록적인 산불 경보 발령",
+                "script": "영국 전역에 전례 없는 수준의 긴급 산불 경보가 발령되었습니다. 연일 계속되는 폭염으로 인해 주택가까지 불길이 번지며 주민들이 대피하는 등 피해가 잇따르고 있습니다. 영국 정부는 이번 사태를 심각하게 보고 시민들에게 각별한 주의와 화재 예방 수칙 준수를 강력히 당부했습니다.",
+                "original_title": "Millions sent emergency wildfire alert as PM warns Britain is a 'tinderbox' | ITV News - ITVX",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVB5ekt1YlpXTmJDQ2JiNjJLd2VEQm04ZWpJS1dLek42NWQ1WmdfZ0pXdU5KWGdoemxQUGxRMDdHOC15bVQ1N2l4NWt6WjZKNVdpQkZsclMxUGY0NHhhS0ZIbzRiWllaS01BMUpfX2Vva3hOVW16MGVHM2Y3bDdGSUdsU0dpSGUzYldGamFMcG9mbnBaN0UwZ1ZSbl9FRHRCNUE?oc=5",
+                "pub_datetime_utc": "2026-08-15T08:50:20Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:03 KST",
+        "current_rank": 13
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "멕시코 폭력 사태",
+                "hook": "시날로아를 뒤덮은 공포, 단 몇 시간 만에 8명이 살해당했다!",
+                "script": "멕시코 시날로아주에서 극심한 폭력 사태가 발생해 단 몇 시간 만에 8명이 목숨을 잃었습니다. 범죄 조직 간의 갈등으로 추정되는 이번 참극은 지역 사회의 치안 부재를 여실히 드러냈습니다. 정부의 강력한 대응 요구가 빗발치는 가운데, 주민들은 공포 속에서 하루를 보내고 있습니다.",
+                "original_title": "El hijo de López Obrador anuncia que EEUU le canceló la visa - DW.com",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeVVld005NXUwMC1CYnctYlpJUV9FNWhpWUdFMzUxVk1PUGFoLXJOLTZSTUlHQXI4NFJZN0pjSzRja01iM2NZS1pyNHgzdGtNcmNkNng0LWpaR2FQR25xT3c0SktXRnZxZy1sMUhXWDJlQ0dsdEttaGM2YnVwb3pqY1FxVVY0b3JFdllXN0ttRG5pNFJCWl9GU2FBaXZWalZoZmV2bnBva0YwVUV1LWtGZzFkZ2JKS0nSAbcBQVVfeXFMTnpydWhrbUd4bC1Sby11S0UxaDFYbWZUcWpraURLNlMwS1ZWaXRZNkh6NVRjOEs4RjIwaVhpbW1lRjlGbHRsSnNlSXU1bmNySFhzRmlENS0tNjNFQ2t2WVhZV09jM3YyYk13RmxNQ3BQb2NhY3RMbmNJck43OFBNblZRMWdxMHVCZ2JpcUYxR1N3SUhseXhPc2N0SWJKNlAwZ0VvV01qMy1yOU9QLWk0cVJKeHd5bF80?oc=5",
+                "pub_datetime_utc": "2026-08-14T08:59:31Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:07 KST",
+        "current_rank": 14
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "인도네시아 강진 강타",
+                "hook": "인도네시아 규모 7.7 지진 발생, 사망자 38명으로 급증하며 피해 확산",
+                "script": "인도네시아 인근 해역에서 규모 7.7의 강력한 지진이 발생해 최소 38명이 목숨을 잃었습니다. 이번 지진으로 인한 인명 피해 규모가 계속해서 늘어나고 있는 가운데, 현지 당국은 긴급 구조 작업을 벌이고 있습니다. 호주를 포함한 주변국들 역시 이번 참사를 예의주시하며 상황을 파악 중입니다.",
+                "original_title": "One Nation’s Victorian leader listed as living outside his electorate - The Age",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFQzYldsbUdpSzZsR0xyZHZXWklwZS1JMmlZajJBWEsxa2RjU2I2c3UzNWNhRFctRDMtT3p0cFd6TjlxX3M0WHFUN2MyTnBSRURrVWxpdWtnSWdSWWpaN0NNYjI1ODdQbmc2aGd6cnlFVG1mZ0pHUHB3NERRN3UyOXBNTTRDalhQZ1F0d0VMcGkxdndvejNFQm1sQ2xpR1R6ZDJENHktUXl4Z1Q2SVRLMWtPT2pnMExvd1RCTmQ5RHhWVk1ucnY2dkRQRURSNEE?oc=5",
+                "pub_datetime_utc": "2026-08-15T04:23:30Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:11 KST",
+        "current_rank": 15
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "남북 관계 대전환",
+                "hook": "주적 표현 삭제하나? 통일부, 남북 호칭 및 관계 공론화 본격 착수",
+                "script": "통일부가 남북 관계의 새로운 국면을 위해 '주적' 표현 대체 등 호칭 문제에 대한 공론화를 추진합니다. 윤석열 대통령 역시 새로운 광복을 강조하며 전쟁 종식을 위한 당사자 간 논의의 필요성을 역설했습니다. 경직된 남북 관계가 이번 공론화를 계기로 새로운 돌파구를 찾을 수 있을지 주목됩니다.",
+                "original_title": "송영길·정청래·김민석 “내가 3대 메가프로젝트 적임”…승부처 호남서 격돌 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5NEF2U3lTcFBOeHNBclZEY0JaNG9fejBzYlhDQlhRNlhFUFBOdS04bDVLX0xvczBJUTdrVFZaQThyd0o1R2RTS0Zxb3JrbHMtNjRIRzk0MkRCcHNjLU95M0txUkJNUHl3MGtNVzVDWDlvbVNp?oc=5",
+                "pub_datetime_utc": "2026-08-15T09:04:00Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:11 KST",
+        "current_rank": 16
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "호르무즈 긴장 고조",
+                "hook": "트럼프의 '호르무즈 미 영토화' 발언, 중동 전역에 전운 감돈다",
+                "script": "도널드 트럼프 전 대통령의 호르무즈 해협 미 영토 선언 발언이 중동 지역의 긴장을 최고조로 끌어올리고 있습니다. 이란은 이를 허황된 망상이라며 강력히 반발하는 가운데, 현지에서는 선박 공격까지 이어지며 불안감이 커지고 있습니다. 에르도안 대통령은 국내외 현안 해결을 강조하며 결속을 다지고 있지만, 국제 정세는 한 치 앞을 내다볼 수 없는 상황입니다.",
+                "original_title": "Diyarbakır'da nişan yolunda feci kaza! Ölü sayısı 5'e yükseldi - Milliyet",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUJURkZfc0sxSG5TV09ic0lJSW5BWlB5ZUVBQWxZbjRQRkRsdEZHb09sTjh4TnlaSFBnTWZMaWtUa0NoWUhyU1pvaDAtUkpIU0VSVU9uY1l0QVhrT2c5eldtUG13YzNTQWlSMEFZeFZSSGk0anJScHdpeFhSSGR2M1lJTGxoRFNBVXJBNUtGOXZicXVQNUxmY0JMZXVLaXdsUnNLVEtiQTJzekJYQ3paQ3Zna2VkY1N2dVM4TERQc1pzX3BGcUUw?oc=5",
+                "pub_datetime_utc": "2026-08-15T10:49:34Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:11 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "호르무즈 긴장 격화",
+                "hook": "트럼프의 호르무즈 영토 발언에 중동 열도 뜨겁다",
+                "script": "도널드 트럼프가 호르무즈 해협을 미국 영토로 선언하겠다고 밝히면서 중동 지역의 긴장이 극도로 치솟고 있습니다. 미국 측은 단순한 농담이었다고 해명했지만, 이미 이란과의 갈등은 돌이킬 수 없는 단계로 접어들었습니다. 사우디아라비아를 포함한 주변국들은 안보 회의를 소집하며 지역 내 긴장 완화를 위한 대책 마련에 분주합니다.",
+                "original_title": "ترامب يقول إنه سيعلن \"قريباً\" مضيق هرمز \"أرضاً أمريكية\"، ومسؤول أمريكي يصف تصريحاته بـ\"المزاح\" - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YdWwwdHF5YlR6NHNlMmdNZUNta2xITGFWZzdraDg5V1RBWHNkaWc2V2lhU2pCTmZ3bVhZNFpJRTIxQTZSU0J5ZW1hZGZrcU5CczkzNjczakpRWXND0gFiQVVfeXFMTTdDalhRZUV6MDdBdnRMUU9hVVlCZWZzWmRsZ09Wa3ZJSk9oRnBtNHptSG1IOXJOVEZtM3lBLWhNNTI2ay0wQk42NkJKV29vSTN4NlhDRlROSG9uQWpjWERvR1E?oc=5",
+                "pub_datetime_utc": "2026-08-15T06:44:29Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:11 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "인도네시아 지진 참사",
+                "hook": "규모 7.7 지진이 인도네시아를 강타, 사망자 38명으로 늘어나",
+                "script": "인도네시아에서 발생한 규모 7.7의 강진으로 사망자가 38명까지 늘어나며 국제 사회의 안타까움을 사고 있습니다. 한편 아르헨티나 내부에서는 경제 위기로 인한 기업 폐업이 3만 건을 넘어서며 밀레이 정부의 경제 정책에 대한 우려의 목소리가 커지고 있습니다. 자연재해와 경제난이라는 이중고 속에서 각국 정부의 지도력이 시험받고 있습니다.",
+                "original_title": "Temblor de 7,4 en Colombia el 10 de agosto En VIVO: Italia destina ayuda humanitaria en euros; el número de muertos ascendió a 288 - Infobae",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTJ3c2otNXNReUZHM1E5ejZJOXdMbkVHX2p2RmtteG5GbFFzeF8waVdUeEh6b1ZZUDZLYXdYb0NfdDdZVjg0Q1JpSHFHUVoxamNkbHJiSUl3dklORFRuYUdmOGlNQ3BxeWJIYThVUnphdE9mUTNNTTRhR0R4WnMxMFkxSk8yRjhaX1YyNjhGZFdzTVFqRUNfYzdvRVIyZnZzZl9BR3lZdUoyMmgwS2JOUWx2eG9nR2xoY0ZyTDF3QzRLTDNNcnNqYkphZllPeV9fcVI1eEhR0gHwAUFVX3lxTE1xMWlPWHI2WU1EWWsyUTMtZy1LMG16d1daSkJIeHVnTkloRk9Jbk1aNzVPWHF3RGQteUVJV2hNazZaT2kxTTJsR0F6NlpQSkpNdUpSTTJiTC0zMW9yNHJZRkxHRERDQjFURmN5OTRxTE5NOThFVjhTMmpCcUNyYVR1VW1rYjI2dDJ1Zm1NUzlOZWtOVWZRNi1uZ3hDUm51WmlHck5JU25mYWhqa3pXWmhGdlZJaTFJZzhqaHduNXpBeHNUYkVMaXRtSWRER2F4bUl0V1ItZjZEdFJPbW52UFJNUjFMSUg3SkkxamozVzhCTg?oc=5",
+                "pub_datetime_utc": "2026-08-15T11:23:00Z"
+            }
+        ],
+        "last_updated": "2026-08-15 22:01:11 KST",
+        "current_rank": 19
+    }
+}
