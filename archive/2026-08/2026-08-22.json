@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미국, 물 부족 비상",
+                "hook": "콜로라도 강이 말라가고 있습니다, 미국 서부 3개 주에 사상 초유의 물 공급 제한이 내려졌습니다.",
+                "script": "가뭄에 시달리는 콜로라도 강 수위가 급격히 낮아지면서 캘리포니아, 네바다, 애리조나 주에 강력한 물 사용 제한 조치가 발령되었습니다. 주민들의 일상에 직접적인 타격이 예상되는 가운데, 당국은 농업 및 생활용수 확보에 비상이 걸렸습니다. 기후 위기가 현실로 다가온 지금, 미국 서부의 물 전쟁이 시작되었습니다.",
+                "original_title": "Carney Stands Up to Trump in Trade War Despite the Risks - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFdpWWZwaWJNWkh3ZHBZdVVRa3BGRnpUWXZrMFhTX2xQbUtkeGVpVldQR0hrNHVTZmRfSXkzV2tuRjRDTC1obm84RmtUUmd3S21SR2N5STVVTDYxVWgteXZDY1dKUUxWN2l4VEg3cE5DY2FJUzFLYjlIczk2TlRkZjFRbWkyV2M?oc=5",
+                "pub_datetime_utc": "2026-08-22T09:14:05Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:02:55 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 홍수 경보",
+                "hook": "산사태 위험 최고조, 중국 당국이 전국에 붉은색 홍수 경보를 발령했습니다.",
+                "script": "수질 관리와 기상 당국이 산사태와 홍수 위험이 극심한 지역에 즉각적인 대비를 명령했습니다. 인명 피해를 막기 위해 정부는 총력을 기울이고 있으며, 주민들은 긴급 대피 준비에 나섰습니다. 자연재해로부터 국민의 생명을 보호하기 위한 중국의 긴박한 대응 상황을 전해드립니다.",
+                "original_title": "加拿大拒签“不平等”贸易协定，卡尼宣布将对美“以牙还牙” - 搜狐网",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0tKaVlDa1ZfSHdmV0dwZVZtbjRBaXQ2YUdHbXI3a19DVjQzaFFkNzFlZHFOR3ZoQ2NkSk83UUZPVElSWlhmV2lWaXhnM0QzZ3hxeDNmOGx4RU5yRGxPcWJtZFdhdVRqVVdFdHpBNXpNaklGbjZkWERSTHpXRlBXWkttZU8xcnhD?oc=5",
+                "pub_datetime_utc": "2026-08-22T10:53:06Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:02:55 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "일본 물폭탄 강타",
+                "hook": "시간당 120mm의 기록적 폭우, 도쿄 도심이 순식간에 물바다로 변했습니다.",
+                "script": "일본 도쿄와 사이타마 지역에 쏟아진 기록적인 폭우로 도로가 침수되고 교통이 마비되는 등 피해가 속출하고 있습니다. 기상청은 추가 폭우에 따른 산사태와 침수 피해를 경고하며 주민들의 각별한 주의를 당부했습니다. 역대급 물폭탄이 휩쓸고 간 현장의 긴박한 상황을 확인하세요.",
+                "original_title": "板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5",
+                "pub_datetime_utc": "2026-08-22T12:30:07Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:02:55 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "영국 경찰차 충돌",
+                "hook": "경찰 차량과 일반 승용차가 정면으로 충돌하는 대형 사고가 발생해 여러 명의 사망자가 나왔습니다.",
+                "script": "영국 노스요크셔에서 경찰 차량이 연루된 끔찍한 교통사고가 발생했습니다. 이 사고로 현장에서 여러 명의 사상자가 확인되어 영국 전역이 슬픔에 잠겼습니다. 현재 사고 경위에 대한 정밀 조사가 진행 중이며, 충격적인 사고 현장의 자세한 소식을 전해드립니다.",
+                "original_title": "‘Multiple’ people die in crash involving police vehicle and car in North Yorkshire - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVg0cEN6Z0dqN2tsQjNUTHBwVFpNWmxTd0tYNF9Ba0hlOWt3cUttMmhUQWFpLVJ4TWFsMHE0eGhySTNLQ0xWbGhPaUtrRDhnMEdjQ05kVXMzUEc2X1FFWGpyMS04bFVJc3VkdkJpXzBmeFo5TF82ejZUU2oyUmdBWHEyeWprM3N5Z0NCNnUzV2tzVEVjYXFvVVZibE8wcTZZT0JJV2o5blVvaVUya09QTkMxaWxpb2tUT0o0?oc=5",
+                "pub_datetime_utc": "2026-08-22T09:55:00Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:02:55 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "우크라이나 쇼핑몰 폭격",
+                "hook": "평화로운 쇼핑몰을 덮친 러시아의 미사일, 그 참혹한 현장이 공개됐습니다.",
+                "script": "우크라이나 크리비리흐의 한 쇼핑몰이 러시아군의 무자비한 공격을 받아 최소 16명이 사망했습니다. 평범한 일상을 보내던 시민들은 순식간에 전쟁터 한복판에 갇히고 말았습니다. 구조대원들이 잔해 속에서 필사적인 수색을 이어가고 있지만, 사망자 수는 계속 늘어나는 안타까운 상황입니다. 더 이상의 비극이 멈추길 전 세계가 지켜보고 있습니다.",
+                "original_title": "DIRECT. Présidentielle: Édouard Philippe répond à Jean-Luc Mélenchon sur l'immigration et l'appelle à \"venir\" à Mayotte - BFM",
+                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQejhmU0xfZVBuTnVXU3V6Ry1oLVVlMmgwSlE1TEN5b0hGcnZFZ0NWUlZlTVBPa0RFRlJ6ZVN0V0ZfS3BBVUJOdTVySXhzWU5GcW4xMWNraDRIOExkU3hJd1ZtcEpodmUzNC1YMlNCbUJNZW1Cd1k2RzNWN3hqYTBzSE5LYzYzaTR6cTgzRDFDSm8zV0xfNW52UXZjODBCcmpCQ0QweXFCamc2d1ZDNl9ScjVHNThfc3dxWDlLLThsSXY0SXJBZklOdEFoN1phcUdvOFdPaDEwSVRERnlteXp3emozWWRzSWlIWktCaF9aNk9lN2pnbVZfY0laQ3dvZHZXTFE2Vy1n?oc=5",
+                "pub_datetime_utc": "2026-08-22T12:18:29Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:09 KST",
+        "current_rank": 5
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "룰라 대선 행보",
+                "hook": "브라질 대선 열기가 최고조에 달했습니다. 룰라의 지지율은 과연 어디까지일까요?",
+                "script": "브라질 차기 대선을 앞두고 룰라 전 대통령이 민심 잡기에 총력을 다하고 있습니다. 최근 여론조사에서 라이벌 후보들과 치열한 접전을 벌이는 가운데, 룰라가 미나스제라이스에서 대규모 유세를 펼치며 지지층 결집에 나섰습니다. 경제 회복과 사회 정책을 둘러싼 후보들의 공방이 격화되는 상황입니다. 브라질의 미래를 결정할 이번 선거, 그 결과를 주목해 주십시오.",
+                "original_title": "Datafolha - 2º turno: Lula, 47%; Flávio Bolsonaro, 43% - G1",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbXVDV3VnSC1QV2diMy01SXZ3SDRnbGx5aXhJaGFnS0NlUFM0UjVHRDI0ZUJfZmNTQXBCbmRUczFCLTJDcDNCRVJ3cEFxMVpkV20tTVA2UkZsZXVINnBDQzlOM0NVSjZZaXkwU00tZUtIX3VjMGY1ZDlKT2F4VHNQM1VtaGE3RXoyb0RFWDM2Q0lJVWg0YldwZU92VmczZDRfSDNWdFRYMElHSVhzNEo5Xy1TRU5vSXVRcGg0Vkpn0gHMAUFVX3lxTE9KcWxKMkF5dVowaUU0WERXaUNReEhCQlhTQ2dvU01MYjVsX1lXaXpYb3dkTmZ5LXl2czkxaGlodk42aEZFYzRXbFVrZnh0UVp3ZzNYNVh3VjFmOHE5MVFlYVlIYUotYkZ6blVXejdnNUEwdDZPVkgtRkxJT3ltRDRFd08yT1A5S3ZMZU9tN2ZLaF94ejBLS3gtYzhQcEhZa1ZvVjIycERfOWtjWXVGbGFZSDJCZWpsSnJBSDBzSVNMeTMxcTZEWHNYZjNvcg?oc=5",
+                "pub_datetime_utc": "2026-08-21T21:38:23Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:09 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Carney Stands Up to Trump in T",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Carney Stands Up to Trump in T",
+                "original_title": "Carney Stands Up to Trump in Trade War Despite the Risks - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFdpWWZwaWJNWkh3ZHBZdVVRa3BGRnpUWXZrMFhTX2xQbUtkeGVpVldQR0hrNHVTZmRfSXkzV2tuRjRDTC1obm84RmtUUmd3S21SR2N5STVVTDYxVWgteXZDY1dKUUxWN2l4VEg3cE5DY2FJUzFLYjlIczk2TlRkZjFRbWkyV2M?oc=5",
+                "pub_datetime_utc": "2026-08-22T09:14:05Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:09 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "러시아 본토 드론공격",
+                "hook": "러시아 본토가 드론 공격으로 흔들리고 있습니다. 전선은 이제 일상 속으로 들어왔습니다.",
+                "script": "러시아 사마라 지역의 물류 창고가 드론 공격을 받는 등 러시아 본토 곳곳이 긴장 상태에 빠졌습니다. 벨고로드와 쿠르스크 지역에서도 연이은 공격으로 민간인 사상자가 발생하고 가옥이 파괴되었습니다. 군 당국은 전선의 상황이 개선되고 있다고 주장하지만, 후방 지역의 불안은 가라앉지 않고 있습니다. 끝이 보이지 않는 공격의 악순환, 러시아 전역이 긴장하고 있습니다.",
+                "original_title": "Склад Ozon в Самарской области подвергся атаке беспилотника - BFM.ru",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA3b0puUmlFNUJWT1NYLXliTDNfUUpJdUJsSllMdTMyenQwOS1PYk0welZQSzhXMmxBdU1iNGhTdjNwWE5L0gFKQVVfeXFMTmpqRzNWdW5xNG9DdzNTdHVaQjh3eFc3Zk4zaWdUVE1YQWhhMy1qRWxJOXNvMjh2WUFmN19aYWlBRGtyblAzZkRVRXc?oc=5",
+                "pub_datetime_utc": "2026-08-22T07:48:19Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:09 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "도로 방치 사망 사고",
+                "hook": "경고를 무시한 도로, 결국 누군가의 죽음으로 이어졌습니다.",
+                "script": "호주의 한 도로에서 심각한 누수 문제가 수차례 보고되었지만, 당국은 끝내 조치를 취하지 않았습니다. 결국 이 방치된 도로에서 비극적인 사망 사고가 발생하며 시민들의 분노가 폭발하고 있습니다. 안전보다 행정 편의를 우선시한 결과가 무엇인지, 지금 현장의 목소리를 들어봅니다.",
+                "original_title": "Permission to speak? Hanson’s fight is ours - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS2tpcUFNWGFIbWVvaDA3d0JMU2xDcVdyeHFjQXg5bElJbWtHclRETjNoSFJSY1o5S2t6VHhwTnptTUN0cUJ5TEp1NWZPMkNmMzBFTHdvUExsWm8tRHBuMldrZXhSWVB2ZXRnV0IyWng5VXY0SklNNkpfXzlBZVJYZTZpRlZlT2t6aWhWc0NNdkxVOE9tRG5uNEV2Q0o2emF2UUtHWmg5TVljSldWWDdSaHlmdGFPYVYxaUZkWDZRWGx2eDRWUHdaWmtFWElmRUJrVDdTTmszUi1ZZw?oc=5",
+                "pub_datetime_utc": "2026-08-21T14:48:03Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:13 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "경찰 실종 사건 조작",
+                "hook": "사라진 시민을 찾던 경찰, 알고 보니 사건을 조작했습니다.",
+                "script": "실종 사건을 담당하던 경찰이 사건을 허위로 종결시킨 사실이 드러나 긴급 체포되었습니다. 단순 실종인 줄 알았던 사건이 경찰의 조직적인 은폐로 밝혀지며 충격을 주고 있습니다. 공권력의 신뢰가 무너진 지금, 사건의 전말을 낱낱이 파헤칩니다.",
+                "original_title": "‘장미란씨 실종’ 담당 경찰 긴급체포…허위종결 사건 또 있었다 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PWGt4TFlsVjk4Nnp2Q0FjMlItUDZBZlF5TTVHY2tYeEFyZ0ZxaEZaYTN0bmEtQmVYMFRodHRWWk5fTkdtSjFoT1RBLUVhaFdiOUdxY01FZHdvZ3B0bFlIMUZYeWphS0NWQzRmLUowdnpKQQ?oc=5",
+                "pub_datetime_utc": "2026-08-22T10:44:00Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:13 KST",
+        "current_rank": 10
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "Ukraine-Krieg im Liveticker: +",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Ukraine-Krieg im Liveticker: +",
+                "original_title": "Ukraine-Krieg im Liveticker: +++ 13:03 Russland beschießt Vorort Kiews während Wadephul-Besuch +++ - n-tv.de",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFpyS1pBZUhaVlI0NkFQN1BOam9DVXFfX3g5ZDJ2Sk9PLVJVdkR5bnpMVXE4Q2hoa19IZzFEejJxd0dOMXJKQUxDS0JseDdlLUJtSDdrSDF2MXpadjMwSVlkaU91Mjk1VHBROS1JLWFuWHYxQ1liQ1FzTnJlbEZGZGlNX3JPU285eEdUUGJJN29RNWRKMFo5LWVIZkRhVXJjSGhUeFB3b2pjNWc?oc=5",
+                "pub_datetime_utc": "2026-08-22T11:07:31Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:02:55 KST",
+        "current_rank": 11
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "인도 건설현장 붕괴",
+                "hook": "공사 중이던 건물이 순식간에 무너져 내려 최소 2명이 사망하고 다수의 부상자가 발생했습니다.",
+                "script": "인도 하이데라바드에서 건설 중이던 건물이 붕괴하며 현장이 아수라장으로 변했습니다. 구조대가 즉시 투입되어 매몰자 수색 작업을 벌이고 있지만, 추가 붕괴 위험으로 작업에 난항을 겪고 있습니다. 부실 공사 의혹이 제기되는 가운데, 사고 현장의 참혹한 소식을 전합니다.",
+                "original_title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnpTbXF4ZXdNVnJrZklRcnk0dlRXYVFreVVNZWF3bGJMaGxVWE1jWkVDNDZwSHZLeHN1ZjA3czRxeXVyakpBZGtkdk41RWdKZGRLOU9lTXF2TjB5bHh2T3NWbGI4VGp5N3JGUVRoTGxyUmZBZVZJM000aVYwVU1zNzBycVJ1S2pUN2pBSjU3eUk5dkRqUVV6QnRHNXhyWjlkUGxrbUx1dUhlaVRxRlVtddIBtgFBVV95cUxONlVEdExyOTJESFJycHhXaXpSWkdkR1hZcWdHZ0IxSzR5aUVYeUhCNkhCc1hSV2xNM2kxdVJqX3gxSXF2OGdmMng1WU11Z0VNR1RiUzNvbThkNXY3aUdIcS1qa0NnczVrX2xZd2I4WlVteldKMjRLS2FQMFN0QmpfcG95NGc1ZkNOcXNiUmZMVENEWlV1LWZwNnNTSWVQNmNIbnQ3X21jVzAzOUtfemlIRVNpT2phQQ?oc=5",
+                "pub_datetime_utc": "2026-08-22T04:47:22Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:02:55 KST",
+        "current_rank": 12
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "이탈리아 전역 폭우",
+                "hook": "이탈리아 북부가 물바다로 변했습니다. 산사태와 침수 피해가 속출하고 있습니다.",
+                "script": "갑작스러운 폭우가 이탈리아 북부를 강타하며 도로가 끊기고 건물이 침수되는 등 피해가 잇따르고 있습니다. 마사-카라라 지역에서는 산사태로 긴급 구조 작업이 벌어졌고, 주민들은 고립된 채 공포에 떨었습니다. 당국은 추가 피해를 경고하며 주의를 당부했습니다. 이상 기후가 가져온 자연의 경고, 이탈리아의 복구 작업이 시급합니다.",
+                "original_title": "Il Papa a San Marino: 'Non c’è libertà civile senza libertà personale' - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qQWxsb01ZUjhRSVlmMmJYeVJidE5VNWYzYmxjVmVHZWJOcUw2UUtmZGxXMWFCRXQ5SktuRE01ajZUU1dTWktiaDFOZHA5Q2dFMFpESnlFUm9vY212Tl9jdU5wT2V5djdLUEhYS0I1VHM?oc=5",
+                "pub_datetime_utc": "2026-08-22T11:09:32Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:09 KST",
+        "current_rank": 13
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "멕시코 폭우 주의보",
+                "hook": "이번 주말, 멕시코를 덮칠 '세기의 폭우'가 예고되었습니다. 모두 대비하세요!",
+                "script": "멕시코 기상청이 이번 주말 사상 유례없는 폭우와 강풍을 예고했습니다. 강력한 폭풍우가 전국을 지나며 우박과 함께 막대한 비를 뿌릴 것으로 보여 큰 피해가 우려됩니다. 당국은 저지대 침수와 산사태에 각별히 주의할 것을 당부했습니다. 외출을 자제하고 안전 조치를 서둘러야 할 때입니다. 자연재해로부터 스스로를 지키는 준비가 무엇보다 중요합니다.",
+                "original_title": "El regreso de Rocha Moya empaña las señales contra la impunidad en el caso de la Marina y el huachicol fiscal - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUGRtUlZ3SnVLR2hnSEJ6WDNuZU9oZkJfcHhNcUZsUGhZSGRpOUdYOF96SVZld1NraVFPWE1GNkhRSGdqazl0V3B3bFZ4djdVOHpNa3RDUGktdU1VNmNydUlwQ24zeHJuNUxfdGlQVmJGUGpDNnQwQ1ZPOWNxWUw4WWp5VmVHME94M2lLS1VFbS1ZWmJkS3V4NVM1RGloT1JTUXRxMVBtSDNZallic2hQZloydG1fV2NsbGUyOWFNbGtneFVxdVVCamcyZnpBWjVmcVlrV3B6TjlQeTJ4MnF5V1g2emFzZ9IB-gFBVV95cUxQLUMxZl9WLTJyaGpweHMwS3haNWdGWkRrM0owcjlpNDk1QkVQRTc0aGgwaVlMWWR6WHBiZ0k0c1o2RGhQZ3d3RmptckpWTDZSQnlfcENUNlFubHp2RDhtcmU4SFVDVjRMVnMxLXZDQjQyTE9raWxWMnRUSVI5Vm5ycnZVNEtxVVBUTEt3R19SRVd6alJGdFNzU21WdjFwUXNVYWZnMzZYUDdqY0g3ZUM5dU4zaDdmZWpQZTVIN0NtMkI2ZksxS3M3c1k3bnBXUzRSNml2MUc1VHd0dExBdzJxOWRsdVVubzZMTWtQZ0lRVXdxMS0zYjFmUmF3?oc=5",
+                "pub_datetime_utc": "2026-08-22T04:00:00Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:09 KST",
+        "current_rank": 14
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "360억 위조지폐 적발",
+                "hook": "현관문을 부수고 들이닥친 경찰, 그곳엔 360억 규모의 범죄가 있었습니다.",
+                "script": "인도네시아 경찰이 탕그랑 셀라탄에서 거대한 위조지폐 범죄 조직을 급습했습니다. 현장에서 압수된 위조지폐 규모만 무려 360억 루피아에 달합니다. 사회 경제를 뒤흔들 뻔한 대규모 위조지폐 사건, 그 검거 현장 뒷이야기를 공개합니다.",
+                "original_title": "Tak Pakai Masker, Prabowo Tinjau Titik Karhutla di Sungai Raya Kalbar - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjhSQWhYQWtzV3lvWW5EZ3R2cFo4dGtkejdpbW45ZllxMnJhNXhONlVST2NQbTJ0YzJ6UC1NR1lYY1E2aXNBeGkzdUN2RjZpX1lENXRUQjktVndMc0hGUTdiSlBrTk5aWXBYUC1vaHEtZmplRlZqaUpGenpTNWxaWFRtUVFKMEhMUy1DY1RTd2w4d0FSUk01eWNDRzFHTkRBNTVMSVZIY3BPZWJQ0gGyAUFVX3lxTE5uQmZNMUc1NjJYZVRFZENoUFp3bmYyY21Xd24yZWJBN19NMHlBWWJPdmUzelNHSlM1LTVMc19KbFFYQV82SDh6ZmhtUmF5UHk0SGphaU84aS0tSU5uUl9uU3VLT0sxa25TbVZXRzlhU2FrTlRKRTZBYTQ4UzVQUVZZeUlYRExlNHZsa3ZwSW40MzRndlFjcS1CM21qQlJDWlpVblk4eVRWMW5NMndHdHB1bUE?oc=5",
+                "pub_datetime_utc": "2026-08-22T07:09:42Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:13 KST",
+        "current_rank": 15
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "Giresun'da helikopter düştü id",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Giresun'da helikopter düştü id",
+                "original_title": "Giresun'da helikopter düştü iddiası: Valilik açıklama yaptı - birgun.net",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTlfUGVicDNyQVpQQW4wV2NyTllUbFlnZ2R5SXRMajVZQklwS2RJdFZZcjNHRzJfMkNma3Z6VGNJaXE5X2VZY29XQTc2RDRYek1YNkhCR2ZxeGplOENKRUZjWFJJTDFQTWZhZUlvVlYybV96UDJwZGxLdWVxOWJjRDRIc3J5OVh6QUl6eWliN0gwNFYzV2lPQTFn?oc=5",
+                "pub_datetime_utc": "2026-08-22T11:18:00Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:13 KST",
+        "current_rank": 16
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "친모 살해 사형 집행",
+                "hook": "가족의 비극, 사우디에서 친모를 살해한 범인에게 사형이 집행되었습니다.",
+                "script": "사우디아라비아 사법 당국이 자신의 어머니를 살해한 혐의로 기소된 남성에게 사형을 집행했습니다. 이번 판결은 반인륜적 범죄에 대한 엄중한 경고의 메시지를 담고 있습니다. 사회적 공분을 샀던 이 사건의 최종 결과와 사법부의 입장을 정리합니다.",
+                "original_title": "طقس السبت.. أمطار وسيول وزخات من البرد على أجزاء من 8 مناطق - alyaum",
+                "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxQaFhyS1ZjUDFhVjZzb0ZRc243SnFBeHhITnlFTnAxRS1tUGs0RS1JekFNNlJtX0tneFlUMnNCN0l5UnZTbEZ0WWhkRVpveFcwTHc4LWQtVVY3Y1BwQTBMLTVEZC1pOVZ1VzBzSy1vcXVMWXF4bGVlOEJ4cG44THZlVEU5RzN1WEFkNkhUNzAxR0lTRTlzSzBldkZDUmYtUEZUNUNwYVYzTVphSDdPRTV4eW5HdGsySjl3cEVMbTRoMER6ZlhzUEZHMnZQOUZ5cmxUWXQzSThCbmg0NTdfVEhESnhsbmU2d3BKbFFGRmFvc3FZZ2JURGNqT3BZeko3dVNQTzQybFZDbk84R0U4SXR3cXpGbnllaE9DN1pRYUV1UDRnWTlPX1F2NjYwck50ZUNUZFU0UjRpd09DNjhtaTJiMkdJdVNyLXVJM2treWlMZnBLY0hQLWxoWkhiZTAwRVF2V2NXamV4RWZLZkdHcG15SjkycGVaSmZPX04yNFBBTlBEOU1ORlBaSG9SQXRCZDBpd2l2VUFhbHNpN0pGWWZ5S0Nia3RsNFE3X0VpQ1F0blNPQkF3dHZBcHdHOHFvUHpJdEJ1VnNyRmRRQmpyN2hURWg1NktmSVpzRDNXb1lqXzdmVDdYU2RLQ2lWR0hwQ205LWVpX3FnV1BSTHlqX09LWktVX0gtZklsakZILWpaNmpucE1XWXNLNE5tZmw0V3loRS1NdTBrRzVjTG9oN1dTdWFjRXYxWUMyWmIxZWNCNW1naGpLMnVQNXVkN3FNcVVEX3o0ZUlXcUhoUnNORUM1WnhFN183d9IBU0FVX3lxTE5FQ2cxMW1CZGFLOEZkY210SU5PVnZBYXFiVGVKLUhkNklxSE9IelplZllzQVFqaEpuMHcxQUJlWkpBTXkwY2R1YUtON3NlV001dkQw?oc=5",
+                "pub_datetime_utc": "2026-08-22T00:53:00Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:13 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "병원 신생아 바뀜",
+                "hook": "딸인 줄 알고 안았는데 아들이라니, 병원에서 벌어진 충격적인 실수.",
+                "script": "아르헨티나의 한 병원에서 신생아 성별이 뒤바뀌어 전달되는 어처구니없는 사건이 발생했습니다. 부모들은 DNA 검사까지 진행하며 큰 혼란에 빠졌고, 병원의 부실한 관리 체계가 도마 위에 올랐습니다. 도대체 병원에서 무슨 일이 있었던 것인지, 사건을 추적합니다.",
+                "original_title": "El abogado del Gordo Dan asume la defensa de Cerimedo, mientras Negre lo despega de La Derecha Diario - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDZBRWtucUhfQWZTODFsa01CNERxcXdNY0QyY3hBbk56dWYyODlBekdfTTFYRE5PVG5rU3BFeU9hdWxvZklwenlhQ3hRMEgzd005emZPTWlQOUxDeGV1ekFoY0wxN01oUXBfZFFRLV91M0NuTGItVXh2cmg4dkd4Rk0ybk11TFJaT2NMMUlSS0JRWEV3THdGNjNzWExRR3ZHR3FtdDJucW4yenZLUGFoNEUwNVY1bWlZc1hJ?oc=5",
+                "pub_datetime_utc": "2026-08-21T20:14:51Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:13 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "전 챔피언 총격 사망",
+                "hook": "세계 복싱 챔피언이 집 앞에서 총격으로 사망하는 충격적인 사건이 발생했습니다.",
+                "script": "전 세계 복싱 챔피언이 남아프리카공화국 자택 밖에서 괴한의 총격에 사망했습니다. 38세의 젊은 나이에 갑작스럽게 세상을 떠난 그의 비극적인 소식에 전 세계 복싱 팬들이 큰 충격에 빠졌습니다. 현재 현지 경찰은 용의자를 추적하며 사건의 정확한 경위를 조사하고 있습니다. 고인의 명복을 빌며, 추가 소식이 들어오는 대로 다시 전해드리겠습니다.",
+                "original_title": "How convicted fraudster landed up in charge of 410 units in iconic Durban apartment block - News24",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVI0eWNjQ2lFYW5aWWhaalJiSmxhSG5yZEFZTWdJWFgydnJJT240dGxKNTVkUkppZWw0UnRWbnF3ZEpRUkJSSlp2UUhiQ3EyQ2JUUVVJNmRIOU8xY0Q5RHlaYmxFMWpnTFAwQVFnT2lvdHc5dERKVkdfUE5JRlRNbjlUVkJidFozckVJU0FVbURiT2ZidXZyTXdWUkJrd3lMV0YwUEFoU0Rwa0R6ZkpCcHBXRTRCckgxOFV1S3RjYmtvQUp3ZElibVBJamd2OGs5LVN0Rg?oc=5",
+                "pub_datetime_utc": "2026-08-22T08:27:06Z"
+            }
+        ],
+        "last_updated": "2026-08-22 22:03:14 KST",
+        "current_rank": 19
+    }
+}
