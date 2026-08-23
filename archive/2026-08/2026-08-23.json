@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "트럼프 관세 폭탄 예고",
+                "hook": "캐나다산 물품에 50% 관세 부과, 트럼프의 경제 전쟁이 시작됐다.",
+                "script": "트럼프 당선인이 캐나다산 물품에 50% 관세 부과를 예고하며 북미 무역 전쟁의 서막을 열었습니다. 일상적인 생필품까지 타겟이 되면서 시장의 불안감이 극도로 치솟고 있습니다. 과연 이번 경제 전쟁이 미국 내 물가와 캐나다 경제에 어떤 파장을 몰고 올지 전 세계가 주목하고 있습니다.",
+                "original_title": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items. - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWJiTC0zaE8wNVhVNERJVzhCWGlTWmY3RjZvRjFZMUxSRDVZc0VVOHlZSndWQjJCc0xheW1BbWhFS081R3VmMWViZ3FLN0szbGxuOTdMOWpmcnZrVUF3Z1VxZkdLdnJsWTB4VUh6ejBFenhRLTc1MXRGT1RFdXR4NnBiQS1qWmpFVnlncm1TckRNVDhxd2Jv?oc=5",
+                "pub_datetime_utc": "2026-08-23T12:26:57Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:11 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "중국, 재난 대응 총력",
+                "hook": "폭우와 태풍이 덮친 중국, 국가 차원의 긴급 구호물자 투입.",
+                "script": "중국 정부가 태풍과 지질 재해로 피해를 입은 지역에 대규모 구호 물자를 긴급 투입했습니다. 잇따른 자연재해로 국가적 비상 대응 체계가 가동된 가운데, 피해 복구와 이재민 지원이 최우선 과제로 떠올랐습니다. 중국의 재난 관리 역량이 다시 한번 시험대에 올랐습니다.",
+                "original_title": "微视频｜此情寄山水 - politics.people.com.cn",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjT0Jfem83TjlIYmxIcDdsSWFaRkgwZFF5QjBLUWJBN3Z6Q18ydjJVbVBqZEtuWHhfR1JucHhYdXFPRG0yaUw3VTBwQ0xvak13eWdPTmVtREpmZHUzLUJKYlRkc2JUX014dU9KRXZGYVNXdw?oc=5",
+                "pub_datetime_utc": "2026-08-23T11:18:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:11 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "미 관세에 강력 반발",
+                "hook": "미국의 무역 전쟁 선포에 독일과 캐나다가 강력히 경고하고 나섰다.",
+                "script": "미국의 관세 인상 조치에 대해 캐나다와 유럽 주요국들이 강력한 비판의 목소리를 내고 있습니다. 독일 당국은 이번 조치가 글로벌 경제를 분열시키고 동맹국에 해를 끼칠 뿐이라며 우려를 표했습니다. 경제 전쟁의 불길이 대서양을 넘어 전 세계로 번질 조짐을 보이고 있습니다.",
+                "original_title": "Kanadas Premier Carney: Neue US-Zölle sollen \"uns schaden und spalten\" - Euronews.com",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2t0TEtOWE83WjBMTjVISEVTMlRYVTBuNUR5MHNEQlllbDR5TFp3el9DODRKUko0NGJxVjMwcThKX1BQRW5mRlFSVVJKOU93MDVLQXp3YUg0YlV2THJvQkkyVDU5U2hPbVVvbkpXeWpZc2RjeUR2ek1vOUtqV2haN3FYUkxXSDhaYVBjT3VUX3lvYl9QVEtBbzVqNVdEYUp4TzJmZQ?oc=5",
+                "pub_datetime_utc": "2026-08-23T06:36:15Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:11 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "일본, 강진과 폭우",
+                "hook": "지진에 이어 태풍까지, 겹친 자연재해에 일본 열도가 긴장하고 있다.",
+                "script": "일본 도쿄 인근에서 규모 5의 지진이 발생해 수십 명의 부상자가 나왔습니다. 여기에 강력한 태풍까지 북상하며 일본 전역에 폭우와 강풍 경보가 내려진 상태입니다. 잇따른 자연재해로 일본 사회의 불안감이 커지면서 당국은 긴급 대비 태세를 강화했습니다.",
+                "original_title": "東京都足立区などで震度５弱、茨城県南部震源の地震で３８人負傷…高層ビルなど揺らす長周期地震動も観測 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1weUM5cFhjeGdmMjY4WUxzOVlHSVphdUhwclN4NjlpSENWNnlwMVZTOEk4NXJLTzVPOVRTdG1BOTdkczR2U3prM3d1anVIVl9LcHNMUV9tamF6ZzRZdVhNNEVycHVMdw?oc=5",
+                "pub_datetime_utc": "2026-08-23T09:53:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:11 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "인도, 무역 전쟁 우려",
+                "hook": "미국의 관세 인상 여파, 인도의 무역 환경에도 먹구름이 끼고 있다.",
+                "script": "미국의 공격적인 관세 정책이 전 세계 무역 질서를 흔들면서 인도 경제계도 촉각을 곤두세우고 있습니다. 인도 정부는 자국 산업 보호와 대응 방안 마련에 분주한 모습입니다. 글로벌 경제의 불확실성이 커지는 가운데, 인도가 이 거센 파고를 어떻게 헤쳐 나갈지 주목됩니다.",
+                "original_title": "\"We Got Attacked\": Canada's Carney Says US Launched 'Trade War' - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXBUM1d6YTRacm4tTDBnTGtWUUpObEJzSXhSNWhMRXVvVXNzbHFwaTJkMDhXTnRsQ2tCQ2RoYXo4SnpTbWg3emVQLWxuOUFsNHo3NGtzNGdBQXl3Y0I0enpTNnlZMUM1eVdWTzEyVXBJaTZNSmRDQmhPYVVzekhXaGU0MVljTERNV3AxaHlHU2VJSGRya3JZY1U2ODQ2UFJwc1YtTW93?oc=5",
+                "pub_datetime_utc": "2026-08-22T18:23:42Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:11 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "프랑스 배드민턴 금메달",
+                "hook": "세계 정상에 오른 알렉스 라니에, 프랑스 배드민턴의 새로운 역사를 쓰다!",
+                "script": "프랑스의 알렉스 라니에가 배드민턴 세계선수권대회 남자 단식에서 금메달을 목에 걸었습니다. 이번 우승은 프랑스 배드민턴 역사상 기념비적인 성과로 평가받고 있습니다. 라니에는 압도적인 기량으로 세계 정상의 자리에 오르며 프랑스 스포츠계의 새로운 영웅으로 떠올랐습니다.",
+                "original_title": "Alex Lanier sacré champion du monde en simple, une deuxième médaille d'or pour le badminton français - L'Équipe",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVhrYzhqTEVFUnloczB3YlhZZXFyQzF4ZWZ0aEdLVDhRSm9hUnRqUW5neXlOWXNUTUVhTE9yNFMwdVlwNUZpS1dPRmdVa1dTcllBNjB6ajJFOWxxNWlLVFV2ZS05U0ZFajRROG5EYmUydm1ibFZpVk1sSkNPZTVWOUV1aEJrQ2dEbzFWNXA0ekIwOXlvcWdlNjlDSlZ1bWpsNDkzT0VrVmR3VE8zQkpDYmlQUWZnQWNhR3UzQkxIbWpLTEtxUDI4bnRJelEzZXMtVmd0MmxxMk1sVEhCNzhEZFZDSEpxQQ?oc=5",
+                "pub_datetime_utc": "2026-08-23T11:29:25Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:15 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "미-캐나다 무역전쟁",
+                "hook": "트럼프의 관세 폭탄, 캐나다와의 무역 전쟁이 결국 터지고 말았습니다.",
+                "script": "도널드 트럼프 미국 대통령의 고율 관세 부과 이후 캐나다와의 무역 갈등이 최고조에 달했습니다. 양국 간의 협상이 결렬되면서 경제적 충돌이 현실화되고 있습니다. 캐나다 정부는 미국산 제품에 대한 보복 관세를 예고하며 강력하게 맞서고 있습니다.",
+                "original_title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
+                "pub_datetime_utc": "2026-08-23T11:17:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:15 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "러시아 전역에서 잇따르는 드론 공격, 긴박한 실시간 상황을 전합니다.",
+                "script": "러시아 오렌부르크 지역의 물류 센터를 포함해 전국 곳곳이 드론 공격을 받아 비상이 걸렸습니다. 벨고로드 지역에서는 민간인 사상자가 발생하는 등 피해가 계속되고 있습니다. 러시아 국방부는 수백 대의 드론을 격추했다고 밝혔지만, 공격은 멈추지 않고 있습니다.",
+                "original_title": "Путин сказал, что ситуация на топливном рынке решается и находится под контролем премьера РФ - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GTjhVRV9IVGRGbTdLSlkxdjFRZTRYTlBzdm10UklEbWdVWHd1S0RLTU8tOHJ2OG05dEtqV0ozcXNHNUdEVHdGLTJqRkZacGfSAUtBVV95cUxQZjlfRjBsZlV2WW53Q0lIT3lXeFBLNDMxb3pYVXFpWkc1NmR2QU80RVV1T243ajFvdFZHSjRFY2hQNW5pQXhQVGxrYms?oc=5",
+                "pub_datetime_utc": "2026-08-23T10:42:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:15 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "호주 상어 습격",
+                "hook": "죽음의 문턱에서 돌아온 생존자가 전하는 기적 같은 생존 스토리.",
+                "script": "시드니 해변에서 상어의 공격을 받고 죽을 고비를 넘긴 한 남성이 '두 번째 삶'에 대한 소회를 밝혔습니다. 끔찍했던 당시의 상황을 생생하게 증언하며, 삶이 얼마나 소중한지 다시 한번 깨달았다고 전했는데요. 기적적으로 살아남은 그의 이야기가 호주 전역에 깊은 울림을 주고 있습니다.",
+                "original_title": "Sydney shark attack victim reflects on 'second chance at life' - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlpfTmIyUjFTbzdfV1hWQU4wWFF4OW93dGZKR0RIeU9kenF3RFdfaVh4R0xaSWs4UndqRFhBTFdMdHlWc2xXX0Q4OGtqalZBVklCbDExdTJOSTRtWkVRTHlsVmdOR0ttWXVxdEhlTThrZGJVSUh2SnZEdHB0T1hUdXVfYUFYZ0hxcHhCcEE1cnZsMVdLV2ZROTF3VF9kMHhlSUtqNkFPcE0?oc=5",
+                "pub_datetime_utc": "2026-08-23T10:26:49Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:18 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "폭염 속 실종",
+                "hook": "경찰의 안일한 수사로 백골이 되어서야 발견된 안타까운 실종자들.",
+                "script": "경찰이 실종 신고를 멋대로 종결해버린 탓에, 60대 실종자가 끝내 백골 상태로 발견되는 충격적인 사건이 드러났습니다. 가족들은 수년 동안 애타게 기다렸지만, 수사 기관의 태만으로 골든타임을 놓치고 말았습니다. 뒤늦게 밝혀진 경찰의 부실 수사 정황에 시민들의 공분이 커지고 있습니다.",
+                "original_title": "“백골 되도록 뭐 했나”…경찰 ‘멋대로 종결’ 60대 실종자도 있었다 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85OHpDVFBfX09ybGxqSWstZjQ5aS1Xd0xRcHhPMHpQYzN4ZmxuNHlXelF0U3pBOUQ4Rk8yR0JGcmpoYnp0cWxSTmNKUlpweWpwckxXQmpOdTRTbmV0b3dV?oc=5",
+                "pub_datetime_utc": "2026-08-23T12:12:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:18 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "터키 대형 사고",
+                "hook": "가시안테프에서 발생한 비극적인 차량 충돌로 3명이 사망했습니다.",
+                "script": "터키 가시안테프의 도로에서 두 대의 차량이 정면으로 충돌하는 끔찍한 사고가 발생했습니다. 이 사고로 3명이 목숨을 잃고 3명이 부상을 입어 병원으로 긴급 이송되었습니다. 당국은 현재 사고 경위를 파악 중이며, 지역 사회는 갑작스러운 비보에 슬픔에 잠겼습니다.",
+                "original_title": "Son dakika... Alparslan Kuytul ve eşi tutuklandı - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUENxQmdqNWZCSVkxblYtN1N2R1hmZmFfeWtBS09TaS10QjdrbGc0MENjUFV3TVlDV3NQQzJpYmhxWF9nN2hPTDlXdjN2RENpTUtCeEJ1X2JsbTFVR0taa1F2LUNFS1dmbkNicjhsTU5vc3VsNnJLYzl6YjJ3UGh4ZW41WlQ?oc=5",
+                "pub_datetime_utc": "2026-08-23T05:29:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:18 KST",
+        "current_rank": 11
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "트럼프 관세에 경악",
+                "hook": "미국과 캐나다의 무역 전쟁, 영국까지 불똥이 튈까 전전긍긍.",
+                "script": "트럼프의 관세 폭탄 예고가 글로벌 경제에 큰 충격을 주고 있습니다. 영국 역시 이번 무역 갈등이 자국 경제와 여행객들에게 미칠 여파를 우려하며 상황을 주시하고 있습니다. 미국발 경제 전쟁이 전 세계적인 공급망 위기로 번질 수 있다는 경고음이 커지고 있습니다.",
+                "original_title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
+                "pub_datetime_utc": "2026-08-23T11:17:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:11 KST",
+        "current_rank": 12
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "이탈리아 폭염 재상륙",
+                "hook": "더위가 끝난 줄 알았나요? 아프리카발 폭염이 이탈리아를 다시 불태웁니다.",
+                "script": "잠시 주춤했던 이탈리아의 폭염이 다시 기승을 부리고 있습니다. 기상 당국은 아프리카에서 유입된 뜨거운 공기로 인해 전국 기온이 급격히 상승할 것이라고 경고했습니다. 시민들은 다시 시작된 극심한 더위로 인해 건강 관리에 각별한 주의가 요구되는 상황입니다.",
+                "original_title": "Ucraina Russia, Putin: risposta distruttiva a raid Kiev. Zelensky: no a elezioni ora. LIVE - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDZyYmIxMFUtejZzTlZ2Q2c4ZjZBT2ZjRFZTNFg3cjFmS0dScGtZYjBtVGpXcnVva1AxaUJ3RXRHWkhIYlVRV1h2UDlwNEFoall0MmlOM0p2bmh3VG5ZRmNvNXlqTnp4MHptcEExbU5JWm1qb1Z4RmNCblhERDZTb3p3am5qMUNG?oc=5",
+                "pub_datetime_utc": "2026-08-23T10:47:21Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:15 KST",
+        "current_rank": 13
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Sem Lula e Flávio, debate na B",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Sem Lula e Flávio, debate na B",
+                "original_title": "Sem Lula e Flávio, debate na Band terá Caiado, Zema, Renan e Cury - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYThQZjNZcEVKTXV6akZsNXFEdTR6YUxDNFY3eGg4aDFaLU1aWTIyOG9iNW5ySTNpWEY0UnA3dmhKQUl2YVhQdmJXZWk5ajJ1MW5xUzdScE5VWkhEVDQyUEtITk1pd2VZdThnNWxQWkx1NC1GSXh1ZnE4d3o1Ulo0VWkwNjBjWjdfeFMwVkJGQWFwM0dCYklzbVBGQXlDYl91M3h0N1ZuaV8xOEVzbmQ0eQ?oc=5",
+                "pub_datetime_utc": "2026-08-23T09:05:11Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:15 KST",
+        "current_rank": 14
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "멕시코 폭풍 경보",
+                "hook": "세기의 폭우가 멕시코를 덮친다, 주말 외출을 자제하세요!",
+                "script": "멕시코 전역에 이번 주말 '세기의 폭우'가 쏟아질 것이라는 기상 경보가 발령되었습니다. 강한 바람과 우박을 동반한 폭풍우가 예상되어 당국은 홍수와 침수 피해에 대비할 것을 강력히 권고했습니다. 시민들은 주말 동안 기상 변화에 각별히 유의해야 합니다.",
+                "original_title": "Dictan prisión preventiva a contralmirante Farías Laguna por delincuencia organizada para 'huachicol' - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLVVYM0pmM1JPX3RIdXpiM1JwOTJNVGdLU2Q2bTgwNURnbDJWU0xHUUxrWC1sWGttQjRISUc3UzJPelRhdXB3V09UOGkza2U0VDNUNlJiX2tRcFh4cGZmWWc3X25Ed1VlZDltU2hPYVcxbkJlaTRIblhMWFBjNEtYdS1XUTlzMEpuY2t2MDk0MUQ2b0FBN1F5dTJFNXpzSWtmNjVrc0JQc0Jpcm02Y0M2U0JiUEFucF9DLW5wdk1xd1ZvZVFsNGFUdmo2THNhRnRTbHFLNUZ3?oc=5",
+                "pub_datetime_utc": "2026-08-22T21:16:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:15 KST",
+        "current_rank": 15
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "인도네시아 대형 화재",
+                "hook": "역사 깊은 사데 전통 마을이 불길에 휩싸여 잿더미가 되었습니다.",
+                "script": "인도네시아 사데(Sade) 전통 마을에서 발생한 대형 화재로 수많은 가옥이 전소되는 비극이 일어났습니다. 사삭 부족의 문화적 유산이 한순간에 사라지며 현지인들에게 큰 충격을 주고 있는데요. 화재의 원인을 조사 중인 가운데, 소중한 전통을 잃은 주민들의 안타까운 소식이 이어지고 있습니다.",
+                "original_title": "Rektor Unsoed Ditangkap, Karpet Merah Bukan untuk Anak Petani - Kompas.com",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVGpnSzVrbkNrQTNrZTIwTlpvejZLdExGOG9TTnhxWG8tNVNTdlFqOFVZRURYdDRLR0hzcC1KMnhwT1J3cUZocHNIdTZWUmVOa0NIbXYxTDNSejBBd21yUFgtcDctYzQzRVhucXByZmpDYXczcEtJekZOVUlKY0IxZFMya2tzU3JINldvQXMtVmF5amxucERQenJCN01PcUhwVEplckxyN1VIMFF1SVc1OHg1ZzZwdmtsVVJJSHBQYw?oc=5",
+                "pub_datetime_utc": "2026-08-23T00:03:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:18 KST",
+        "current_rank": 16
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "사우디 마약 소탕",
+                "hook": "국경 수비대가 2.8톤의 마약을 압수하고 수천 명의 밀수범을 검거했습니다.",
+                "script": "사우디아라비아 국경 수비대가 대규모 마약 밀수 작전을 성공적으로 수행했습니다. 무려 2.8톤이 넘는 대마초와 수백만 정의 마약성 알약이 압수되었고, 연루된 밀수범 1,980명이 현장에서 체포되었습니다. 국가 안보를 위협하는 마약 범죄를 뿌리 뽑기 위한 사우디 당국의 강경한 의지가 돋보입니다.",
+                "original_title": "ترامب يهاجم كندا ثانية.. \"فرضت علينا رسوماً كبيرة لسنوات\" - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQZTVlS1Z1LXFkXzJ0ekEzSGJETFFhWmNzOW9qTkhJd3cyYjMycmJ6emZUZDd6MVAyRWR2aVFkVWNJWjktVVFZd0hZWHZGV3E3d3NlOVc3TmVtTnlwcXJvd2lHMS0xUmQtbVotckR6enQ1TGF6YzdVcHh6ODdJSVEyNXV6WG56U0NQZ2VRZ3J1T3hwSE9fLVpvUS1sWWJsOHRZVm1ZUmx5YXBPUjN6eVc4eHBKSzhWOXFOQmNXejBjd24yTE9TWXF6NzVBMXBLbmN1a2FUR3ZUQlJzbU0yb3JaYm82UzV3OXlqSnM5ME5FUEx5eGtvUWZ4cTc0VWRGZWdHX2FyV19tazNReDlLaUoxdXVzUmFveVpNNC1zbTd6QlpDZU1weG9nTHlGeGNVQko3YnR0SXJ3bWZHWEFZZ0kySldUOE5fOWw0c1V2aVZvQ2xXOHlaM1V1WlpJY2o3LTYxTmJteWZnd00wcVVjQXNRSVBuMUc3eC1sN3N6dHNHcDJrVEdCRXJna25uUWRnRHAyNEtTMTVQV3BOU3JKV2JyUWhWQXVXRnJxeVZwdzdpWEV5cVJaMm1yaVdMUXVtN0FicEl6R0tyemJrclVva0pURFo1UWMzdHo4bHVSbjhfdlNiZVp6b0lkcXd5dlfSAfIDQVVfeXFMTjZ2bzNidm9XbEFvam5CbFcxS0ZhX19OcVRCNzk2MDdXSVpDbEVLR3M3SVpYa2FULWZBTzRuTTNwTjdQdnl1cU9NTkdaeEw5RGh6WmhPNGpSWTFrLWo0TjgzbmJnOTNUZGJHeXJ5MHFoOXA5NF9ybHlpWFBJM20zZXR2XzhKUEZ2UEFqb3ZDTm1WRXh1bTEybWRQMmhzbjBwdGZfcjMwN05aM2pMWHgzTjNoQUhVMDlpSWc2ZU9WNmdUQnVaOTdmXzFrR3JNQnZWdGFUbXA1R19RdE9JLUl4VzJwaTBIM3MzUFJIaEhWX1FTRDRwQUlVeXl3WU5VWW4wbGpzRkt6N3hFYnRBT3Y2dTZWdFRMOU5TMFZfVjNxRHg0NC1pTTdLX294enFHdXlVdjBmVjc4ZWtFaERaLWYtc1RGVUl3N0wtNWN3TnFOaHU3clBuUnNHNWh5bUV6dkplNUxrUnNBSnRZMlEzZGR4ZlB2NzRQTmkzT1Y1ZUtwSzNlRTN4T0hUb2E0dVltSXI5bE9IWTlCTkllN01mR3V2ejRpSTc4dDBsbldUMkEzT2ZCSVltZE9VZElyYzVKVmhNTjFhamswa2lwc2N3YmdoUFd5X0tDaTRTT25nMmFUTlNxMDl5Y2tXVFN1ZjBTRUJCY1pB?oc=5",
+                "pub_datetime_utc": "2026-08-23T05:42:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:18 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "아르헨티나 비극",
+                "hook": "경로 34번 도로에서 발생한 정면충돌 사고로 3명이 숨졌습니다.",
+                "script": "아르헨티나의 주요 도로인 34번 국도에서 차량 정면충돌과 함께 화재가 발생해 3명이 사망하는 참사가 벌어졌습니다. 사고 직후 차량에 불이 붙으며 현장은 아수라장이 되었는데요. 당국은 정확한 사고 원인을 조사 중이며, 도로 안전에 대한 경각심이 다시 한번 강조되고 있습니다.",
+                "original_title": "A qué hora corre Franco Colapinto hoy y dónde ver EN VIVO la carrera de F1 en Países Bajos - Olé",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1JQakF6MUY3dG9kM2lCSlIya2dzNmZ1bzZmX3VjRDB0VzdwNUxxQmI4Wko0UERISnpHZ2VuNVVnU0U3a0RBY2hPa01ISU1Wcmp5WmgxX2x1RThFZTJ0WVp2eFFseU1kdGJBWGlpS3lVbDVxaGMtSjFJRVdKaG1qTTQ3T1MwZl93QzNlYlVvZV8zcVdKcFkyNVJEUHVjdERwVHI3Z1JNQ3dhNC1DZXdWSGEzSGJvX0t4bENYb29xMU9KNEIzV3g0dmRXMNIB0AFBVV95cUxOZXBONjRmVDkxRFdvZmNFdGNJejFuUWY3eGVQYXFSSWhWVGZpcUJVYWJJYWJJU2FabWVnRWZYVHUySUk1U3BjN0t6aWdmNzd5U1o0Vmo4N3RWU3JVTFFBNVE1WHdDc3ZrLWV4WUphcEFxaS1tLUE1dWh0SU5FZ0JIU2pzZTBmcVdhRUN1azg5NlJteXlmNVdvc2NUUjhUck5aN1dhQU1abHNNSjhNdTQ1VHRKS1U0UW53SmpUaTYxTGRnYVlHSXpOeDBSYjJsTHls?oc=5",
+                "pub_datetime_utc": "2026-08-23T09:01:06Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:18 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "웨스트베리 갱단 전쟁",
+                "hook": "두 달 만에 22명 사망, 남아공 웨스트베리가 피로 물들고 있습니다.",
+                "script": "남아공 웨스트베리 지역이 갱단 간의 잔혹한 세력 다툼으로 공포에 질려 있습니다. 최근 두 달 동안만 무려 22명이 목숨을 잃으며 거리는 전쟁터를 방불케 하는데요. 주민들의 안전을 위협하는 이 비극적인 폭력 사태가 언제쯤 멈출 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "WATCH | ANC wants Gauteng to be a ‘megatropolis’ - TimesLIVE",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEE2NkxKcWFYY21LekpfY0Z5X21idEt2UFpPNFN1Z21mbzVseVZGSm1PdEp3OHo1Z2FNTHVoeExiUVJZX0VYa1ZmV1NMX3haQUJlN1Jic2JVSm82YlNWY0pSUEdVeVdsNmpaN2U1VVNfZjRQMnRubWtKd2JsLTREaUpJRFRqeG5ZS2Rv?oc=5",
+                "pub_datetime_utc": "2026-08-22T22:00:00Z"
+            }
+        ],
+        "last_updated": "2026-08-23 22:04:19 KST",
+        "current_rank": 19
+    }
+}
