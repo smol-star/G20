@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "린지 클랜시 재판 무효",
+                "hook": "세 아이를 살해한 혐의를 받던 엄마의 재판, 결국 원점으로 돌아갔습니다.",
+                "script": "세 아이를 살해한 혐의로 기소된 린지 클랜시 사건의 재판이 배심원단 의견 불일치로 무효 선언되었습니다. 정신 질환을 주장하는 변호인단과 계획적 범행을 주장하는 검찰의 공방이 치열한 가운데, 법정은 다시 혼란에 빠졌습니다. 충격적인 비극의 끝은 어디일까요? 사건의 향방을 계속 주목해야 합니다.",
+                "original_title": "After a mistrial, what’s next in the Lindsay Clancy case? - The Washington Post",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVllPeUlsd2JTSkR2V1RLWHl0OTF5Y04tNEJiOTJuSm95aU81TkhnSFZKcEhJNEtTN2txLUVxcXVvODZpNXBUT0hxY0Q5NUhEWmhnM3JVY0l5ZmZMcUFTOXdXY2xrUGtkcmc3VTVFZ2ZLUUEybG5SRGZYZ0JfY3poWXNzSk9NZUU?oc=5",
+                "pub_datetime_utc": "2026-09-05T07:09:18Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:35 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "시진핑, 상하이협력기구 행보",
+                "hook": "시진핑 주석의 외교 행보가 다시 한번 국제 사회의 주목을 받고 있습니다.",
+                "script": "시진핑 국가주석이 상하이협력기구 정상회의에 참석하며 중앙아시아와의 밀착 행보를 이어갔습니다. '대도동행'을 강조하며 지역 내 영향력을 확대하려는 중국의 전략적 계산이 깔려 있습니다. 급변하는 국제 정세 속에서 중국의 외교적 영향력이 어디까지 뻗어갈지 세계가 지켜보고 있습니다.",
+                "original_title": "时政纪录片丨志合山海 大道同行——习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及纪实 - 华龙网",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oTk11QV9oTWxSNjBBSEpZR3BpdXI5RWh3U2s3Y3ExSk5aYlJpY242a3lLZEFuTzRQT1dFTERBUWd4Y3pVVFdHWGxIZ3d0dm9GY2lPUVRHVmtLM2d6d0VtYzZ5SXlKTnVGWjlJ?oc=5",
+                "pub_datetime_utc": "2026-09-05T08:33:42Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:35 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "So ist die Stimmung vor der La",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "So ist die Stimmung vor der La",
+                "original_title": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUUtJREV4VVVGTEFuMnV6a2c0N1ZOOVZnZlduanVFRnhTTlhtdzVXdHdBV0cxN1VKRGVGYzVIMl8xQ0g2WlVReEJ1ZWNYZUpDVmRkbDB1S1ZGTnlHcl9vdU1JaFEwSmZna0FVWC14Y0Q1aTE5YjhHQzVCNGhKcDFjUnJ4WXprRWVhaWRpc1Roc0xaQzd2enRuLXlnYTlJZ28?oc=5",
+                "pub_datetime_utc": "2026-09-05T05:25:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:35 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "우크라이나 무인기 공격",
+                "hook": "우크라이나의 러시아 보복 공격이 결국 러시아 내부를 강타했습니다.",
+                "script": "젤렌스키 대통령의 결단으로 우크라이나 보안국이 러시아를 향한 무인기 공격을 감행했습니다. 이 작전으로 12명이 부상하며 양국 간의 긴장 수위는 한계치를 넘어섰습니다. 보복의 악순환이 멈추지 않는 가운데, 전쟁의 양상이 새로운 국면으로 접어들고 있습니다.",
+                "original_title": "ゼレンスキー氏がロシアへの報復攻撃目標を決定…ウクライナ「保安局」に無人機攻撃、１２人けが - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hVEZfYmRsTjBKY0dhRE5CQU5xUHp0LU5tc1h6VFdmSVlTNVpUbGt1a1hwckh5bFZyZlR3S05IY3JYM1hIck5Ub01OMlQ4bjZLeDA0ZGRYa3hsbnhBenhEYUVR?oc=5",
+                "pub_datetime_utc": "2026-09-05T02:32:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:35 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "트럼프의 이란 핵 위협",
+                "hook": "트럼프가 이란의 핵 시설을 향해 다시 한번 강경한 경고를 날렸습니다.",
+                "script": "도널드 트럼프 전 대통령이 이란의 핵 시설을 조만간 타격할 수 있다는 새로운 위협을 가했습니다. 중동의 불안정이 최고조에 달한 상황에서 나온 이 발언에 국제 사회가 긴장하고 있습니다. 과연 실제 군사적 충돌로 이어질지, 세계의 이목이 중동으로 쏠리고 있습니다.",
+                "original_title": "Union Minister Chirag Paswan files complaint against Swatantra Bhardwaj over ‘misuse’ of name - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdVhLeWV5SWhyMnB2dVBPTzcxVlBQWTZ2TF9GSkFLWVFMVXNCck42SlhSeGQyNHpIUlFSR1U0SGpyTlZDMVNacnRPb3NLdmtlNzVhSWFkTTBRZFdxUDAxd2l4bDRXSndxbEVtaHEzY3ZLa3VQX0VlNTdJMzEyUkNrMzZCclRtd1drYWQtX2s5ZldTS25Wd0hMRElnY1dWMml0ZzQwMnZvcTUxRGNWbGp2dTNpTVNqYWVqcUJmRkZjdUVGX1k3akpOdjR2TFVHNWlpTS1SWnVlMHpkeHdXY1gyYThDSmnSAesBQVVfeXFMTlJZdTRPTzl3RGVuaWMwcGY3cklTNVdaZ1BXV0EwY1pNYUpwXzd6S0hUX1VRZUtIVE5FQWloZlNWVFRTT0ZiTTlnS3h6T2J1REgtblJ3OExnUE1wcUt4N3NCdVp6bTNFalVoU2hFYlg0QWJkTllDd19wZzRSMHB3eDBIZmJIWDhSbmJQemlNU0ZoMFMzVUZFWTlRdFVIcllkaG5QOThWMlN2c25VWUczNzVxUlRsczMtOV8tZEt0eG45U3c0SXVpNUd1NW9jd2lhdmVXV09SbUxRazRHcVhSbHZjV2hUamJ1M1UxTQ?oc=5",
+                "pub_datetime_utc": "2026-09-05T06:08:28Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:35 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "도버항 시위대 봉쇄",
+                "hook": "영국 도버항이 정체불명의 시위대에 의해 완전히 마비되었습니다.",
+                "script": "검은 복면을 쓴 시위대가 영국 도버항의 주요 도로를 점거하며 물류 대란이 발생했습니다. 경찰이 급파되었지만 시위대의 저항은 거세지고 있습니다. 평온했던 항구가 갑작스러운 봉쇄로 아수라장이 되면서 시민들의 불편이 극에 달하고 있습니다.",
+                "original_title": "Black-clad protesters in balaclavas block road at port of Dover in Kent - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR184N29IVF9wUmQ4Z0tidW5ISWI5RFgyUkhCZTNTeUx6Z3JvWTNrdjV2UFJOSy13c192UC1hTXVOVzJkXzVuRHVEeHptaDdyb3pnYmtUYTdjUXlYdEZiQTlNUFZ2c0I3VjFaNGRfcWV2MVRMclZ2MjV1LU42SDB2SGJCdE40UDVBR2JHZk84U2tEb3BRMVhzN0RfZzJYbDE5Ulc0c1FyZVJaMXlKQmRB?oc=5",
+                "pub_datetime_utc": "2026-09-05T10:26:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:35 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "프랑스 정치 갈등",
+                "hook": "르펜과 바르델라의 균열, 프랑스 대선 판도가 흔들린다.",
+                "script": "차기 대선을 앞두고 극우 정당 내부에서 미묘한 기류가 감지되고 있습니다. 마린 르펜과 조던 바르델라가 주요 정책을 두고 공개적으로 의견 차이를 드러내며 결속력에 의문이 제기되고 있습니다. 프랑스 정치권이 이들의 갈등을 예의주시하는 가운데, 과연 극우 진영의 단일 대오가 유지될 수 있을지 전 세계의 이목이 쏠립니다.",
+                "original_title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky dénonce des frappes russes sur les aéroports de Kiev et de Boryspil, avant la visite de Jared Kushner et de Steve Witkoff - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNVHk1Tm4wRnZYVGxaSE9ldEZMemUtODQwaVFVNERaaG5oMk0xOGVDWFFGbF85RmhzN1NPdjVBc05VNGRlbnRMUUg2ci1sTDBIc2wtcE84RW4zX3VaeWtnTGhMTHVaTEdOcTRYMHVwQWJtS05OSWlnRU95MEF1NW16NXlVZXptYURaWnhxOGFxbVB6QzBSb3NZanZaeFJpSmlkeVdvTVdOVUM3MVBiV2pWNnRmYzBQQ2JyVEwwSDYzR1NpZE0xQkxUVnFyVDNKX3BRSXJGSUVVYng4QWxLZUVwS0l1bjBCb3EwYWdQd1pyOW9zQ2NveDdSUUU3SGJEaWFjVjRUWkZENng5Nlc2X1J5alR0aWRUSGdHakhsOGhQMDUySEpnb0hjSUVOX0Fnc2d5TGZsWGxGWGE2dWlvYk0ySjZyUUIybzJ2N2dHTEpSVF9EaGJaUFhXamNB?oc=5",
+                "pub_datetime_utc": "2026-09-05T09:30:12Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:40 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "올비아 식당 테러",
+                "hook": "평화롭던 식당이 순식간에 아수라장으로 변했습니다.",
+                "script": "이탈리아 올비아의 한 도심 식당에서 끔찍한 흉기 난동 사건이 발생했습니다. 한 남성이 계산원을 위협한 뒤 식사 중이던 손님 4명을 무차별적으로 찌르는 충격적인 사건이 벌어진 건데요. 현장은 즉시 공포에 휩싸였고, 이탈리아 전역이 이번 사건으로 큰 충격에 빠졌습니다.",
+                "original_title": "Governo più longevo, a Bari la festa di Fratelli d'Italia. Meloni: \"Stabilità prima grande riforma\" - RaiNews",
+                "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZFJfV1U2eGxNVTI4VzJUSE9pUVVCRlFJMUVoeDVudE5pcEZSM2hrWmtGTDE1YTRxaktTdWw3MklnYmozT3hnZ0pPNV9ONS01TVc3bWZCUk43NWhGRUFaWnhsRU82aFE1OUR2YWRQc0VLU1MzM0N2V2RaQUNzREdmdHliZkMza282WWs3VWhraTZtU0JacHJhYWctVHlZVnpBMUdkSEdtTjZlMXlvYVlEdzFTcUdRc1MxTXAwYW1QWTBIdTdvZzgtellSekl4OHdZc09jU1VuQ250bmx5TE9uRTcyRmtudVoybGNnNVRXU3UzZ0h6LWhXWjdBc0JKejdsWE5jUlhDeDNHLUZiOFFlRzZ30gGXAkFVX3lxTFA1b3JoRTRoWHI3dFNGdHVGMUg3MDVEWGF0SUxaVnVXQi1MaXNFakRyNktHOVZZVUhLNjVfZEdZOTN6UDNlY0liR1NuNk04dHoxM3BCUGFIaHduUXRzckszNDVHc3lUR3R4SXU4aXp5YzFYTHNtZm1nMkpVNy04OUlzSURmanFhOTlvaDBxdXNVUHBDbEhwVHNGX2RscUhuSGZlQW5qdllsSU1Tb3VjRHhkZEpsVmJjSjdzV3h2eTZFMkpNZzcxN3RnUnFBLTBQRXNtY1JPaThHRnZ1emhFZ3BqTFM5bUVDQ0IyWldWZjY0dDJXZUR2NmUzTTFBMDJ0M21TNUJ5V1NuRjA2N0NIWmhQWTUzLUVIQQ?oc=5",
+                "pub_datetime_utc": "2026-09-04T19:23:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:40 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "러시아-우크라이나 격화",
+                "hook": "러시아 본토와 우크라이나를 잇는 긴장의 끈이 끊어집니다.",
+                "script": "러시아와 우크라이나 사이의 군사적 긴장이 최고조에 달했습니다. 키이우 인근의 전략 시설이 강력한 폭발음과 함께 파괴되었고, 러시아 오렌부르크 지역에서는 드론이 격추되는 등 전선이 확대되고 있습니다. 평화 협상을 위한 움직임이 분주하지만, 현장의 불길은 좀처럼 사그라들지 않고 있습니다.",
+                "original_title": "Бизнес-джет, на борту которого могут находиться Уиткофф и Кушнер, прибыл в Москву - interfax.ru",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3dDVqa0gzTVhJX2ZsdmNXTHRVX183YXRfbnZnTk5oSDYwaHJMUnNlOHJVQUljN0owV3ozWF9oQXI1QWRFeWxuSEY2X09sQXfSAUtBVV95cUxQejZ1M0xsNGJjQlItbnNJRVk1SHNFdndxV2ZkcnFhb3NKeW5xaE5aR0FBd2dyWHVBR2ttTDB3ZXpqb1ZKSl9KNm9WTTA?oc=5",
+                "pub_datetime_utc": "2026-09-05T08:39:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:40 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "멕시코 카르텔 소탕",
+                "hook": "메스암페타민 16톤 적발, 카르텔과의 전쟁은 계속된다.",
+                "script": "멕시코 당국이 카르텔 '로스 차피토스'의 마약 제조 시설을 급습해 16톤에 달하는 메스암페타민을 압수했습니다. 이번 작전은 카르텔의 자금줄을 끊기 위한 대규모 소탕 작전의 일환입니다. 멕시코 내 마약 폭력 사태가 끊이지 않는 가운데, 정부의 강력한 단속이 실질적인 성과를 거둘 수 있을지 지켜봐야 합니다.",
+                "original_title": "Asesinato del tecladista de Camilo Séptimo: detienen a los hijos de Gerardo “N” por intento de huida del chofer de Diego Sebastián “N” - Infobae",
+                "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN29OVjh6MFJvRXg5T214RWswMnExT1JDRkRXRUVKZE1UdEE1djBhU3BHSklvbnNsdTIyODJoUmZRamszRmhrM09TNkpSdWxrLTFwaDJNRGpuZ3JVRzVub3lQRXFHc2M5M3FEU05LclBlS3ZNWnlkVXdaZ3hfWjBkbEYxRDZON2tTRFloSjI5b1RCeWNHcXNISURJbXdQMnRrdjBHMnJWUFFpR2FlN3AxQ2c1NGlIUVJsWlp1bjQ3TENIYm5zRFFSM3U1clBXV2RpT2NkajdRMk42Z2h3Y1hXS2ZsSG5sV1VfTjlVLXl3anpjMXhUaVducGlROHlQcTFiVXfSAZwCQVVfeXFMT2wxU09mcmlPeW03NzVTbjJKcVFGVmN4WnhaQlhuY1R5TUFlYmdmZThMcDItM214Zkt4aFAxRklqUzROSk9GSUtBaUc4eHd3aTZpWU9GZmxVWU1qTjVaTGNDZlZ2aHY5cXBiMzU3NXBlWVVpMUszNm9mUk5ta3BVcU92TlF2LU9TRWpwekJJdDdHaHJHNEJaMjF6VHpvOXREQ2dETHRJU1BPZEhaUmFyNG5qWVJSbERCT1JtaFZKOThoRDY2Ym1qMmEwSnA4MThnckI3RmQzaWl5QVJScEh0dFY4Z0V2Nk1pQ3VBclQ1VXRUbDI4cFo4MUhOd0lJRENHMFNlNGtjV012c0F1WHFfSV9RWXl5TFFoazBuakI?oc=5",
+                "pub_datetime_utc": "2026-09-04T21:45:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:40 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "네팔 한국인 구조",
+                "hook": "실종됐던 한국인이 마침내 현지 발전소에서 발견됐습니다.",
+                "script": "네팔 현지에서 실종됐던 한국인이 구조대의 수색 끝에 발전소 내부에서 무사히 발견되었습니다. 한국과 네팔 합동 구호대는 중국인 1명을 추가로 구조하는 등 긴박한 상황 속에서도 성과를 내고 있습니다. 아직 찾지 못한 예인선 실종자 6명을 위한 야간 수색 작업도 나흘째 멈추지 않고 계속됩니다.",
+                "original_title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MVBIVlhUSUstM1AxNTkwYTIyWnVBMlR6c1VjSFQtUDc3SUdUZnZ1cjJPcmJyMk1IMGpZWGZqcHdtSkhMMkJrMl9zRjdFcFNBTlcyaXBpZW1GQdIBX0FVX3lxTFBCQk45X0p2UndadHpCZUdJU2FYT1lONlZKSlZ6MEkzMDhBYkc3MzRrWkt0ek5NM0J5TmlPNGVsTjc5VXFpUG1yYXpPNXZlLXd5Yk54LUpKUm1Ga0pFbWww?oc=5",
+                "pub_datetime_utc": "2026-09-05T09:09:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:44 KST",
+        "current_rank": 11
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "Erupsi: Gunung Anak Krakatau t",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Erupsi: Gunung Anak Krakatau t",
+                "original_title": "Erupsi: Gunung Anak Krakatau terus erupsi, belum dipastikan berhubungan dengan dentuman Bandung - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SNmZQeFEzbGxSbmJrd2Y3OFdiZUE1VTQtM3BFRUtkc0pOc1pZQ0NDMlpNOHRET1dxX25kYmdwQTZMazVvWHdwYkdSVVBJdWpjUXJHMkUyWVIxZXAzYkVDYdIBZkFVX3lxTE5XRjhWSGxOTS1PaVlSdkRFc1ExbVNKdXJIMl9rb1k2UGZlbXVmV1FDTjA4RDlJeDZVZXNCUF9aM1l0ZTdTX2oxaDIwRm9nWGUxNkJtbzdmVERJV3p3bjFaekZHVDBmQQ?oc=5",
+                "pub_datetime_utc": "2026-09-05T09:26:33Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:44 KST",
+        "current_rank": 12
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "비극적 학교 참사",
+                "hook": "자녀의 학교 살인 사건, 아버지가 내놓은 충격적인 변명.",
+                "script": "튀르키예 학교에서 발생한 끔찍한 살인 사건의 범인 아버지가 법정에서 아들을 탓하는 황당한 주장을 펼쳐 공분을 사고 있습니다. 자신의 총을 훔쳐 범행을 저질렀으니 자신은 피해자라는 논리입니다. 사건의 진실을 두고 사회적 분노가 들끓는 가운데, 공범으로 지목된 어머니는 석방되어 논란이 더욱 커지고 있습니다.",
+                "original_title": "Üsküdar Belediyesi'nde kritik başkanvekili seçimi ertelendi - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkxGR2ZLdzA0bzdGWllfS3VhSkN5bTNYSHBSalJSUHUtZUppWTBwZU8ycEtueEJGb3lpeHZmYkwyOUNWbTlDMWMxNjFZNzYzTTNlNW1FV25JUV9wb19fX3E2YkhZc01Cb2Jyd0Y5S2o4TFRGb3hRUDVrTkxOTGtoaEtFUjdKaW10QnZfbGR1cXozcVM5TVZlbmtn0gGfAUFVX3lxTE1sODNrWWJHTGxiRW9PS2gwcmFVYXRmWk9teEFXREdyaDNUU3V4TG9PZ2tTaVJCdUlPNkhjVEVIeU5FU3BVT0xxcUo1X2FDM2hLbm5lSkx0X0FwNDU5eVN1a21zcWplWXc0LU5GeU8xdUNJSnNVNnhlZTVweVFhMldkcTE0RHdjMEdIaFlVckpPQ1hMTHMtOVFQYmR6VU00TQ?oc=5",
+                "pub_datetime_utc": "2026-09-05T06:28:43Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:44 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "호르무즈 유조선 피격",
+                "hook": "호르무즈 해협에서 유조선이 기뢰에 부딪혀 폭발했습니다.",
+                "script": "호르무즈 해협을 지나던 유조선이 두 개의 해상 기뢰와 충돌하며 화염에 휩싸이는 사건이 발생했습니다. 이란 혁명수비대가 이를 확인한 가운데, 주변 해역의 긴장감이 최고조에 달하고 있습니다. 사우디 당국은 자국민 보호를 최우선으로 두고 현지 상황을 예의주시하며 외교적 대응을 강화하고 있습니다.",
+                "original_title": "جزيرة خرج: سماع دوي انفجارات في محيط الجزيرة وفقاً لتقارير إعلامية محلية - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tc3pQc3JOaElBSU5PRFNXc1ZHNnR1QkRaWXlZRWc1aUE5N3ZFeXU4MEpza1JhLUlodmtZdEhGdGJqUVJCT1dLYk50UU1pbXhUREhPVDVWTEtEREo00gFiQVVfeXFMTWZOOWJPdnhmVjRhQlJXN2k3cVZZUFpENW1Ud1pneTNmV0lrWkZRRzVSa3J2TUltejFDcjh5a196Y2Z4a2RPR0RDZWZ4Smw3NkhkN3F6TkE5T1hkMjN3aEU1NlE?oc=5",
+                "pub_datetime_utc": "2026-09-05T08:30:17Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:44 KST",
+        "current_rank": 14
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Atlas/Focus: Lula tem 51,6% no",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Atlas/Focus: Lula tem 51,6% no",
+                "original_title": "Atlas/Focus: Lula tem 51,6% no 1º turno no CE; Flávio, 25,7% - CNN Brasil",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUNGUkh6R0JIZWpPVmdBaWJRcEJfQlVaRDFzRGxjZWZaVDE2c2lVNHpJWTFkbFlhdzBXNWVoM2lKd2I5c2JBcE1VcEQwYl81QkZ3c1NtXzhjeXBKQ3NGT0d1bG1CUFdpaG1XUjRSbHZqM2hIMmVrMzZHVzBSQ3VDRldQdEdpdzZiS1JibjEyYVktMy1aVFRn?oc=5",
+                "pub_datetime_utc": "2026-09-04T20:49:45Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:40 KST",
+        "current_rank": 15
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "캐나다 토네이도 강타",
+                "hook": "하늘이 무너졌다, 캐나다를 덮친 강력한 토네이도.",
+                "script": "윈저와 맥그리거 지역을 강타한 강력한 토네이도가 캐나다를 공포로 몰아넣었습니다. 기상 당국은 레이더 분석을 통해 이번 폭풍이 토네이도였음을 공식 확인했습니다. 다행히 인명 피해는 조사 중이지만, 캐나다 전역은 기상 이변에 따른 피해 복구와 안전 대비에 비상이 걸렸습니다.",
+                "original_title": "A Michigan Democrat wants to put Canada on the ballot during the midterms. Are voters listening? - CBC",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjlJdnYtenFLUVdaU04yN2ladjJfazlvSHhPU0J1SW1IXzBLcWtHTS03ZnF2QjZLOENUd015cjlPQUxodzBDbDZPalJKaW40cndyVmNqeTg3ZDZKRktjeldZVHM0TnM1TlZrdmZQU0lrSkE5N2tiSEFPZi1RdWhpcQ?oc=5",
+                "pub_datetime_utc": "2026-09-05T08:00:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:40 KST",
+        "current_rank": 16
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "놀이공원 강풍 사고",
+                "hook": "아이들이 놀던 에어바운스가 강풍에 하늘로 치솟았습니다.",
+                "script": "호주에서 갑작스러운 돌풍으로 에어바운스가 공중으로 솟구치는 사고가 발생해 어린이 5명이 병원으로 긴급 이송되었습니다. 당국은 이례적인 강풍과 악천후가 겹치며 사고가 커진 것으로 보고 있습니다. 인근 지역에 폭염과 홍수 경보까지 내려진 상태라 주민들의 불안감이 극에 달했습니다.",
+                "original_title": "Five children in hospital after strong winds pick up two jumping castles - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeG56QTYxTXJjTnMtMnJydUlIN25IMGIxRVFUNGY3em1IOTBhaGF2N3hvWXRMMEhVS1VNNm9Jd3lMSjVkSjN2VEZtZ2RsY1NBZGIwNmlvVlVaRmtqX3NVbXNzNV9Hb2gwQWRhS0U2YWhwNC00QjRMUHJGTFNJelliRkxycjFJd2ZNSDhGNE1TSkJoTlBzR2lRVUt0UXlNS2lELXp5a29NMzFSYl9rVmc?oc=5",
+                "pub_datetime_utc": "2026-09-05T08:15:24Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:44 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "밀레이, 경제 개혁",
+                "hook": "아르헨티나 밀레이 대통령, 경제 정책 강행 의지를 재확인했습니다.",
+                "script": "밀레이 대통령이 정권 출범 이후 경제 정책을 절대 수정하지 않겠다고 선언하며 정면 돌파를 예고했습니다. 정부는 국방력 강화를 위해 1억 4천만 달러를 재배정하는 등 국가 프로젝트에도 박차를 가하고 있습니다. 하지만 농민들의 시위와 빈곤 문제에 대한 비판이 거세지며 아르헨티나 정국은 다시금 격랑 속으로 빠져들고 있습니다.",
+                "original_title": "Milei ratificó que no cambiará sus políticas por las elecciones: “No voy a borrar con el codo lo que escribí con la mano” - lanacion.com.ar",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOVE2UjV5VDVjSkRkbjYwYlFpTjlBTmwzZk5JT0JSSGE2QlN6enlqT2hlWmw4VWtxQ3l0SXMtOGVlOTJNbWlxYUItYkRHNE9EQ3lfdzIzenhLdXUwdTZjSHBhYVZhNExLN3EyY0k5dk9JUlVuaURGcWJlRjlwU0NhQ3dGRWU1MVRCYXF0YVJrYk1zUkMwTl94eHhiUllta2Uxa2lyYUt2YnRQV2dZWWtZWG9BWFlhZjQxU1czVmJYckpDWG9aNTBYUExjSUhLZVBqS3FpbVFuT1dhdUlRMjFR?oc=5",
+                "pub_datetime_utc": "2026-09-05T06:34:00Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:44 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 폭풍·홍수 경보",
+                "hook": "남아프리카 전역에 들이닥친 기상 이변, 지금 당장 대비하세요!",
+                "script": "남아프리카공화국 전역에 강력한 폭풍과 홍수 주의보가 발령되었습니다. 기상 당국은 침수 피해가 우려되는 지역 주민들에게 즉각적인 안전 조치를 당부했는데요. 갑작스러운 기상 악화로 도로 통제와 정전 사태가 잇따를 것으로 보입니다. 외출을 자제하고 실시간 재난 정보를 반드시 확인하시기 바랍니다.",
+                "original_title": "Phala Phala: Judgment reserved in Ramaphosa’s bid to overturn impeachment report - IOL",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVTFpYWRMT001NnpTbzE2T1FJZno4bG5PZEQ5SWJ3VDBmRW5GZFM5bVp3U2JTRk1ndkxxRlZiTjJqMFRKR3VHTEdOeXRhNjk3S3Yxczgtb2tkOTdjRlNFQW4tdW5YdWlraWxSaE5MWXVoN2EtS1NBd095RDY0NERhcWVZSDRFQ19vc1Rua3VGTldCM0NKRFFSR0Q2SGdiOVlLeXdBSA?oc=5",
+                "pub_datetime_utc": "2026-09-05T06:56:11Z"
+            }
+        ],
+        "last_updated": "2026-09-05 19:40:46 KST",
+        "current_rank": 19
+    }
+}
