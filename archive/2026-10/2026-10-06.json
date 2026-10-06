@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미군 사형 집행",
+                "hook": "제2차 세계대전 이후 처음, 총살형으로 생을 마감하는 미군 범죄자.",
+                "script": "포트 후드 총기 난사 사건의 범인이 미군 역사상 2차 대전 이후 처음으로 총살형에 처해집니다. 사법 당국은 이번 집행을 통해 군기 확립과 엄정한 법 집행 의지를 드러냈습니다. 희대의 사건이 남긴 충격이 다시금 미국 사회를 뒤흔들고 있습니다.",
+                "original_title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two - bbc.com",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNF96a0dyVktsSkVyQ1pPcDdVWjZYWGtySWZzVm5aVjVBUmdpNlZWSTh5OVhHYkxEUGNjbmd6M3FzTURwa1hVM1kzbnMxSS1RZk5OOFFXLVRhN1k?oc=5",
+                "pub_datetime_utc": "2026-10-06T02:22:24Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:42 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "국경절 인파 절정",
+                "hook": "중국 전역을 뒤덮은 붉은 물결, 이동 인구만 수백만 명.",
+                "script": "국경절 연휴가 막바지에 다다르며 중국 전역의 교통망이 귀경 인파로 붐비고 있습니다. 창장 삼각주 철도망은 하루 390만 명을 수송하며 역대급 이동량을 기록했습니다. 소비 활성화와 함께 대규모 인적 이동이 이어지며 중국 경제의 활력을 시험하고 있습니다.",
+                "original_title": "湖北：新业态新模式激活国庆消费 - 央广网",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfc1N1b09qd2Zxa0ZwR3M2QlNPdUxJOGZBU3VHWEpycENMalFvTGlRVEdZSXNRYmpaVTFCRERteTA0TnYxU0tLRENnTzVKMGI2aVpUWXNGRS1mNE9seHZDc094bXp6Q3ljc3ljOUFpbXJ1UQ?oc=5",
+                "pub_datetime_utc": "2026-10-06T00:31:56Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:42 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 정치 지각변동",
+                "hook": "금기시되던 AfD와의 연대, 바겐크네히트의 도발적 선언.",
+                "script": "독일 정치권의 '방화벽'이 무너지고 있습니다. 바겐크네히트 동맹이 AfD와의 협력을 당연시하며 기존 정치 공식을 정면으로 부정했습니다. 이 발언은 독일 연방 정치의 근간을 뒤흔들며 거센 논란을 불러일으키고 있습니다.",
+                "original_title": "„BSW beendet Brandmauer-Idiotie“ – Wagenknecht hält AfD-Landtagspräsidenten für selbstverständlich - WELT",
+                "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMDZveF9pN3Y5eWNCNFRBcF8yQmtXTTFTLXA1Mk5zbFhqd3ZPLXZMcTJVbkxmQmhPMWlsVG5zVHFfQjVRVHNVNUxxZHd3c29wQ3R1clpfUUQ1WDBQNFpNZ1dYeVp2NmxQTllvRXJkdEpuY2xCOEFWUXhib0Z2WXlBaUNkQ09iTkNZN3V0VkNlSDhTMjE1REpQaVJuV1BjWW5oMjlxUExVblR0RjlBRXNqUEZDWEFxRXZZTWNJZGRkclY2U01qc25vUURCcGxYYUJBVDNSU2tPYXVBeTVaYWZMRXpoaUNfRVJUVXh3d1JxWGFJcDZnRC1ZbU1meDhtdDZIRnhNU19LTHdJd2VkMkZ6V0hFSEV5YVFaVGc?oc=5",
+                "pub_datetime_utc": "2026-10-06T05:02:15Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:42 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "保守・百田氏、簗農水相に辞任要求「まともな首相なら早めに更迭",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "保守・百田氏、簗農水相に辞任要求「まともな首相なら早めに更迭",
+                "original_title": "保守・百田氏、簗農水相に辞任要求「まともな首相なら早めに更迭だ」予算削減発言を批判 - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMnhlWHVtUkZpWl9lblJmN1pHaE9aV1U4UDI3TzdJOFEzcEk0Y3BqbERwVmVGWnU5cE54UHZIS25sbVB5UDZESUxHRXh0amFDd1lHdF9TanZ1T2hla0NraldDekFtS2FLSDlIWWJBaHlvMmhZbXc?oc=5",
+                "pub_datetime_utc": "2026-10-06T00:40:35Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:42 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "선거위 항의 시위",
+                "hook": "부정 선거 의혹에 뿔난 인도 야당, 거리로 나섰다.",
+                "script": "인도 야당 연합이 선거관리위원회의 불공정 행위를 규탄하며 대규모 거리 시위를 예고했습니다. 수도 델리에서는 보안이 강화된 가운데, 선관위 본부를 향한 행진이 준비되고 있습니다. 민주주의의 핵심인 선거 중립성을 둘러싼 여야의 갈등이 극에 달했습니다.",
+                "original_title": "\"There Was Big Mistake\": What Oman Sources Told NDTV About flydubai Co-Pilot - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWs3U1dYdlZOamNpWkw1RHR5N1ZkZVo0RGdueDZZQnFsRERfZTlkaW00bXlZbi1VTkswbE0yc2xqcUpNekw5RENMd0Y0TExRUnEzNGFDbE5ISF90YTJKaXQ4UEtZVFB0Zk5RQTdiejRQUW5IalZubks3ZmV3N3Z3cUxfc2owcFFLd0J0N3J6empEdE5hQTg3OEpTSW9obDE5Qk91RW5aRHJ4aVNoLWpwcFNCdUNpRmFXaERJR2xlTmVVSjFISjZnR2pFSUN2cEF5UGhvRUVLRE5vX3NOQ2RZ?oc=5",
+                "pub_datetime_utc": "2026-10-05T12:01:38Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:42 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "영국 방공망 강화",
+                "hook": "100억 파운드 투입, 영국 하늘을 지킬 '브리타니아 실드'.",
+                "script": "영국 보수당이 국가 안보를 위해 100억 파운드 규모의 '브리타니아 실드' 방공망 구축을 약속했습니다. 최근 안보 위협이 고조되는 가운데, 강력한 방어 체계로 국민을 보호하겠다는 의지입니다. 다가오는 선거를 앞두고 안보 이슈가 핵심 공약으로 떠오르고 있습니다.",
+                "original_title": "Green party of England and Wales facing international ostracism over ‘Zionism is racism’ vote - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnc0dTdIeGNnZHJ6NWM1RDlnSzhJX2huOU9naGFNOW5HZGpFTDV4c2djVE1oZWdBZUVwbjh0U01XSE5IMDVEUFp5dVhtSGFxLXNURVJvVFlnTUFfalNlaDN3X2tDbGtwR3JLdGRRLXdoY0oxWUVsQXBNcW9UTHBNRDhyYlBIN1lwX21lbWdta29MVnBSRFpjaHFHSzFNQnprZmJDS3RxZWhNRWpWR0E?oc=5",
+                "pub_datetime_utc": "2026-10-06T01:31:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:42 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "EN DIRECT, blocage des lycées ",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "EN DIRECT, blocage des lycées ",
+                "original_title": "EN DIRECT, blocage des lycées : nouvelle journée de mobilisation partout en France, un important dispositif policier déployé - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNVDQ0MmQ4MWItWUxWWVNPbXcxNHN0SDVNSTFzRlhmOXkxTWI2V3lCSEZja1dfYTVoWm15b2NxUlhxaGlmeXdySWQ0MEZhNmlibzV4YW5UTEY5WTF6SGZPUEYxZjNGZlBFX1pvLVduM0VmT3FzbV81RGY2R2JaRmxveFp3aXRrMlJQUHlBYkZBWG5PbGp1ODA3SUFGTHhFMm9kWm9EQnRQNDZ5alhQTXUyZlgtNURtM21rODJIa3lVcGhQcFZBTmpVUm5FaVlBNDlUV1BfY2Jfd3k5blR6UVJRS2hXajVKby12ak9RN3o3NGxQRjJjT0VSYnE0R1J4LXk1X05PTGRlTi1SOTBSMUpvTFY3dw?oc=5",
+                "pub_datetime_utc": "2026-10-06T05:20:46Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:43 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "TSE quer parecer do MP antes d",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "TSE quer parecer do MP antes d",
+                "original_title": "TSE quer parecer do MP antes de decisão sobre recurso de Garotinho - Agência Brasil",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkdUUUhFZE1rcHhxUnZHb3pnbWdTeFdVVTczV0gwbXVzNFlXakFZaDA0aklKV1FJakJ1a2RnOEx6YWM0SmQ5MXNmZXZzdUppWFJDRGMxRzcyX3FUUC1oSG1TVU1hT1RLX0IzQzNtRnhHWnhiSzdEZUltS2RjblRhb042TVlPNUpQbkp3SVZYNnVZaUdCektGM1JVZUstcXppVVlscTVqU2VyYTgwX01VZWw3T3pTSXpfN2VNR0RXX3g?oc=5",
+                "pub_datetime_utc": "2026-10-05T22:35:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:43 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "Quebec election: Parti Québéco",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Quebec election: Parti Québéco",
+                "original_title": "Quebec election: Parti Québécois will form minority government in Quebec, CBC News projects - CBC",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVBIQnhBcXB2b1U2YkpESkpGbmhtaHlKclZpc3RwRlhIdHR1YnZ3eWp2bjRQUU5Zd1RydDM4MXJQOElweW83THgzeG5tblAydElvVHhmWnRVeXZ1WVIxU3RIaUN0QXlpNDZtLUc3RnFma21GX1dSTVdsN1VPVWhQYXZDWVZTUXdtUG9zdVJlc2RfUQ?oc=5",
+                "pub_datetime_utc": "2026-10-06T04:02:59Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:43 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Над Москвой уничтожено более 8",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "Над Москвой уничтожено более 8",
+                "original_title": "Над Москвой уничтожено более 80 БПЛА - BFM.ru",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1YZGpyWllsY09uenZQYUdqQV9acjRWZ0FESEtaOWk1TW1LU1hFVWY3TG5GRFh0UzgzTlNPQ3haOFFqYTFq0gFKQVVfeXFMUFlOaFE4WW90RUZNVGlLcGEwQmFueEs1RzJQS3M0Sk44aUJrWWYtbGY3LVdQYTd6SmJMMFYzVUtPaVlKaVQycHZKTmc?oc=5",
+                "pub_datetime_utc": "2026-10-06T01:21:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:43 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Segob recaba información sobre",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Segob recaba información sobre",
+                "original_title": "Segob recaba información sobre participación de Ronald Johnson en acto de Querétaro - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM3NfMXFSUkZWTGdwVnhoX3FBQ3dVRVM4M19OZHJrZnROZUhMUnYxMTd1d2RSZmdqRzliMkJieEJ6RkpQWlljYm1TQmppM3VmLVBmNFRLajlrVFVFaER6VXRCQ0xXb3Bfa1Z3WVVxU2hMSEtKdm52b3ZuY1pDX2p3dndMNTg0c0dqTlk0VlRTN085YUtIdWlxV3lLNV8wZFJ5TmRYYzFZM3pvazlfNE0xeUlUMXhRWkprZnhsaDZkdWxWcFJKZ293Sk5yRFl6Y2Y2aFlWRA?oc=5",
+                "pub_datetime_utc": "2026-10-06T00:26:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:43 KST",
+        "current_rank": 11
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "군 훈련 중 사망",
+                "hook": "호주 군 훈련장에서 발생한 비극적인 사고, 도대체 무슨 일이 있었나?",
+                "script": "호주의 한 군사 훈련장에서 비극적인 사고가 발생했습니다. 이번 훈련 도중 호주 군인 1명이 사망하고 5명이 부상을 입었는데요. 당국은 즉시 사고 경위 파악에 나섰습니다. 군 당국은 유가족 지원과 함께 철저한 진상 조사를 약속했습니다.",
+                "original_title": "Business blasts ‘flat tyre’ of a migration policy, as Taylor pledges historic cuts - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQWJFQnZBeTlIMFhJSXdRSjNCTU9GY01NS0llWUpsbmxkUk40bkJ1Y2FNcEg0clZxd0FiTDJQVTdVcGFDNlFFTWxrbzV0UVFNQjVUdS1PTG91eUtNLTg0djBmRmdiTjVLQ015Rk9LYVNKeXNOYndLQ0xlSktLN3ktMmpjMmkxdjg1WjRCcjBKZFlNd21seTlKRDRQa2xOLXMxeDlMTDgtNUYxNWdocE1BWWhITG02WkkyNENEYjFZcVNiMmNJTmQ3RFNUUGZzRUJ2Vk5oeDRqQzN3b3A2QWRDMjBvUXFOS0JwZ3poSUhiSThtLXdSUkpKOVd0SkFnTklhaUpzeHdSRkdlSzlh?oc=5",
+                "pub_datetime_utc": "2026-10-06T05:04:55Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:49 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "내일 누리호 발사",
+                "hook": "대한민국의 우주 도전, 누리호가 다시 한번 하늘을 향해 우뚝 섰습니다!",
+                "script": "대한민국 독자 기술로 개발된 누리호가 5차 발사를 앞두고 발사대에 당당히 섰습니다. 내일 낮, 우주를 향한 뜨거운 도전에 전 국민의 시선이 집중되고 있는데요. 이번 발사가 성공적으로 마무리되어 대한민국 우주 강국의 위상을 다시 한번 입증할 수 있을지 귀추가 주목됩니다.",
+                "original_title": "조희대 “국회·대통령, 대법원장 제청에 전혀 관여할 수 없다” - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1USC1uaEtyNEdKRFdtQTJvS054Z1B5ZWFVbEFqTWR4OW8tLWRGbHZROU5SUUdESjliQk9GeW1VZ2F1d1NhSTVIUnRzYjFHeVZvZGs1cTVQSWE5d9IBX0FVX3lxTE5raDBtVC01aW8zWXVzVHJHLTl6ODhVT3VRNzJiQnlpY0xVdTJSQUNBSF83alNxVkdOQzItN015b1JpOFVfMndHNUhLeWNCOHNPVWl3eFhSdWpfeUNBQ0F3?oc=5",
+                "pub_datetime_utc": "2026-10-06T05:47:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:49 KST",
+        "current_rank": 13
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "대규모 노동자 시위",
+                "hook": "인도네시아 수도를 뒤덮은 노동자들의 거센 함성, 왜 거리로 나왔나?",
+                "script": "인도네시아 의회 앞에서 대규모 노동자 시위가 벌어지고 있습니다. 노동법 개정에 반발하며 모인 수많은 인파로 인해 도심 교통은 마비 상태인데요. 당국은 혼란을 막기 위해 교통을 통제하고 경계 수위를 높이고 있습니다.",
+                "original_title": "Dasco Temui Massa Buruh Usai UU Ketenagakerjaan Sah: Prabowo Tunaikan Janji - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGttNlRqUHNqZDNCOVp0VnlZRS1YQkhTMVF4WUpmcWItOHpnQklKWXRFQUZpT01nbm9yNHJqbVRiZ0VNWUg2aVZNRXNkYXFfaE41bm9JVmNDNlZXbkV6NVBOeDZ1WUJHLXpLZ1VWRmJOVWtMOEZZUE1PZC16YXNtUEhjR3FkVE9mbDlGMklXTkZpYnNaTGVFaFI1ZG05a1NvYXhhWmR5WTNKVXg1Nk03U0Vnc0vSAboBQVVfeXFMTUZVYW9SdUxzX2dpeDdjN29WcmJMeHFkMUE5b2RSbWw3eTB1SWlWVF9SeG9OejdudDhROGFUWVJjNWhWV01GUHNXRV9Lem84QVFma1BCZkV6ZVA4bk84S25zdzdtOWxOV0JEeUkzdloxLURieEVBLTdSa3lpZXk5OTRtRF9fNTQ5dnE1LUdaa3N0cWVrT1NxMzJuX1JSeVkyejEwRElJd3dOQW92N2hTQzAyZnlzWGRUQlZB?oc=5",
+                "pub_datetime_utc": "2026-10-06T05:36:49Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:49 KST",
+        "current_rank": 14
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "지자체 비리 수사",
+                "hook": "터키 주요 지자체를 덮친 전격적인 압수수색과 체포, 무슨 일이 벌어졌나?",
+                "script": "터키의 바이라클르와 아타셰히르 등 주요 지방자치단체에 대한 검찰의 전격적인 작전이 시작되었습니다. 전직 시장을 포함한 다수의 관계자가 체포되거나 구속되었는데요. 부정부패 혐의를 둘러싼 이번 수사가 정계에 큰 파장을 일으키고 있습니다.",
+                "original_title": "Son dakika... Bayraklı Belediyesi’ne operasyon: Eski Başkan Serdar Sandal hakkında da gözaltı kararı - Cumhuriyet",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWjU0Tk02VHBmZG4tU3ptTTdqNlVrbTVKa3ZwTXNYVlRaV1M4WVJfbG9zdlRZTk5kYWtRYXV6SGN0dzN1YzUyaEVsOW1HNWJhOVBmS1ZoYlFOdkxQMUFMVlZUY1FaQXQwVjU3S1NNWFdmVnBvcDROVmZfX25WSnJwbWJ2b09BQUZscGxRbURuNU5GVzdUVW5rUkp0R3J5Tm8yRkYyeUl6ZXBiY0Rway1TbFlMTVNHTVVhcDBxaVhGbHUyczhiRU5fODYwZ0k4RjVnZm9IMmwxUEhlZw?oc=5",
+                "pub_datetime_utc": "2026-10-06T04:43:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:49 KST",
+        "current_rank": 15
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "예멘 긴장 고조",
+                "hook": "홍해의 불길, 예멘 정부군과 후티 반군의 충돌이 사우디까지 번지고 있다!",
+                "script": "예멘 정부군이 전략 요충지인 바브엘만데브 인근에서 후티 반군을 상대로 공세를 강화하고 있습니다. 이에 반발한 후티 반군이 사우디아라비아 시설을 향해 도발을 이어가며 긴장이 최고조에 달했는데요. 국제 사회는 홍해 물류 안전을 위한 긴급 대응에 나섰습니다.",
+                "original_title": "فجر اليمن: تقدم لقوات الحكومة اليمنية بعد معارك على باب المندب، وأنصار الله تقصف أهدفاً في سعودية - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QbkN3R2trRW8xNHFuTmpla1RjaWJISmxfM2ZvWk96TzNpMnlXS1VGTVVzMnIyT3RvaW12MC1VMTFNazNfWWtfMWxJQ3ZYTnFjY2xjcE10bnUwUDA4a2fSAWNBVV95cUxPMWxjQ19sV1M4VzkxR0VrbGhCVlczNk44Z0RxaFlkRUl3NmVJcWhPNXRsQlJqWk1tNG9wa2JEMF9CUUl2cUw0WXYxX2VDSU0zMUg0SXgxMjFON0VyNzhpVkRwTXM?oc=5",
+                "pub_datetime_utc": "2026-10-06T01:08:07Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:49 KST",
+        "current_rank": 16
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "밀레이의 대담한 행보",
+                "hook": "경제 위기 속 밀레이 대통령의 전국 투어, 아르헨티나의 운명은 어떻게 될까?",
+                "script": "하비에르 밀레이 아르헨티나 대통령이 전국 9개 주를 순회하는 대규모 행보를 예고했습니다. 고물가와 경제 위기 속에서 민심을 다잡기 위한 승부수라는 분석인데요. 정부의 정책에 반대하는 대규모 시위가 예정된 가운데, 밀레이의 정면 돌파가 성공할지 관심이 쏠립니다.",
+                "original_title": "Caputo advirtió al mercado sobre cómo se prepara ante un escenario electoral adverso en 2027: “Les vamos a arrancar la cabeza” - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONDRCOHBFOWNnLXBLVU1YWUpFVHp1VHJqMGhvLXZNUmR2eHowZldtTWpyeGIwbHBLbkkwN0hva1RtYVZxTDdBYXpmY0FOZ1VEa3hDUUNiZllNdDdLYjBnaGV0ZFEtaFA2dXEwUXNUZDZmNVRuWWw5REV3VzdUVUIwdmV6U1U4Sm85VDNoZGUyOV9LbzJ0Uk5QV0x0aUVadXduYlRLTmc3VWNacmRpY3Q5bEtKQkxBcHhTaGhFY3VtbXlNcVowN1ZZZGllMVVDcmxtM2VMVkMtV3dXclRzVXBz?oc=5",
+                "pub_datetime_utc": "2026-10-06T00:21:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:49 KST",
+        "current_rank": 17
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Houthi, 'abbiamo colpito l'aer",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Houthi, 'abbiamo colpito l'aer",
+                "original_title": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco' - ansa.it",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUh0MHdCSGFweWZwTFVJZ3k3UG15cWY4bGhNbEFKZXRHdVRZOV9uWXVGdUdzYVFtajQtN2VyTm52cWlmd295MUZhanZTQU82dVhQazF3d1FvaXNHcVVVUUNINC1Mb2pOYnNFX1ZvT05FcUFySXBtYm9ibGY1MHRuSmNYUjNkSmVkSmhUZEwtNEpmc0dxdkxFTW5neDRNUFl0eGgxZ2xrMDJDU2JrRGQ4RlFscjdxS0VmX2ZZWFFkSUs4Z3lpTFVvUFBUMEkyTVo4WWdaYzl6bTJQTFplVnVrWGlyVWQ1QW5nVjBOcmR0V01qUjMz?oc=5",
+                "pub_datetime_utc": "2026-10-05T21:32:00Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:43 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 치안 비상",
+                "hook": "매일 이어지는 총격과 강력 범죄, 남아공의 평화는 어디로 갔는가?",
+                "script": "최근 전직 정보기관 간부의 친척이 살해되고, 시장 후보가 자택에서 총구에 위협받는 등 남아공의 치안 붕괴가 극에 달했습니다. 여기에 정부의 막대한 예산 낭비와 주택난까지 겹치며 시민들의 분노가 임계점에 도달했습니다. 과연 남아공은 이 복합적인 위기를 극복하고 다시 안정을 찾을 수 있을까요?",
+                "original_title": "Former Crime Intelligence boss Feroz Khan’s uncle, Preggy Padayachee, shot dead - The Citizen",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXR6UU1hUlNrdC1uRkdqWnZyNUpPZlRacnMwR1dzWm1BTFhFMndFSlp1VGhKcWV6Ukdqclp5bldWNHFvWVo4akRHNnBxSXpwMzdlRlZGMW1uSFBOVzZTVXdRcUZ2WnQwc2NVb0VQTlZidjJGWjhpbVNrRkJZdTJJV3NfZmpKc2xtcDJGMDUzVDUtOFZ2QTdDQzRlcF9Vd1RyeUlHbHlTWFlpdnR1WU44Sl9zNlpUaHo2dld3SmtmT00tUkw1QUE?oc=5",
+                "pub_datetime_utc": "2026-10-06T04:58:15Z"
+            }
+        ],
+        "last_updated": "2026-10-06 15:27:55 KST",
+        "current_rank": 19
+    }
+}
