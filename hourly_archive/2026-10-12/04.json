@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 우크라 휴전 깜짝 발표",
+                "hook": "젤렌스키조차 몰랐던 트럼프의 '에너지 휴전' 선언, 세계가 충격에 빠졌습니다.",
+                "script": "트럼프 미국 대통령이 러시아와 우크라이나 간의 에너지 분야 휴전이 즉각 발효되었다고 발표했습니다. 하지만 당사자인 젤렌스키 대통령은 전혀 들은 바 없는 뉴스라며 당혹감을 감추지 못하고 있습니다. 이번 선언이 전쟁의 종식으로 이어질지, 아니면 또 다른 갈등의 시작일지 전 세계의 이목이 집중되고 있습니다.",
+                "original_title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjlrc2t5SHJ4aGYtclhmaXhoVHcxaDJ1TTdIVkk1bXpNT0tnOWtIRFI4ZjNraVZGWG9pNTQ5LWlWdjFQbnlSdnlCQU4yYjNtX0FFZ1RQMFZTMmVmS3V6eHhmNzV0eWFvNnR6a1VpaENvOVNkZWFRaDJLckU0UFU3TVVkYkh1bTdSVEVRb3lQVlVEVUpRRXVMdElkdERBb0lNdG40Yg?oc=5",
+                "pub_datetime_utc": "2026-10-11T14:23:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:11 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "트럼프 휴전설에 세계 술렁",
+                "hook": "트럼프의 돌발적인 '러-우 에너지 휴전' 발표, 젤렌스키는 '금시초문'이라 답했습니다.",
+                "script": "트럼프 대통령이 러시아와 우크라이나의 에너지 휴전 합의를 발표했지만, 우크라이나 측은 이를 즉각 부인하며 혼란이 가중되고 있습니다. 중국을 비롯한 국제사회는 이번 발표의 진위와 향후 지정학적 파장에 촉각을 곤두세우고 있습니다. 과연 이 휴전은 실체 있는 합의일까요, 아니면 정치적 수사일까요?",
+                "original_title": "特朗普称俄乌能源停火即刻生效，双方均已同意 泽连斯基：对我来说是条新闻 - RFI",
+                "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPVFpTN0FNQ0tTblB6QWUzYm5Dc1JFRGhjREhHLVl3em9qUFdrdjJVb3Vza0wyYU9XVWNvd0kza1A5ZDJOZFVCSUZvbUV4bEFxQzk4Y1BtZDMyV0tsZmZSb3VXRGNuaWRGQlRvYkJqbk5pZk0xQ0NQYkZkUmdVWmxiOXQ3Zk12T1pnXzU3bF9Rc1VZc3VwNEhjN3NjSEtxc3lhOGJWTDdaa0RoQVd3QXR3STJCZ2d2dlgzLXlpNXNuQWN4ODdiXzdKTEhzM3ZvUDdJMlNKRWFIQzFqdjExd05HUndQdWVOcE9QQ2I0RGN0blpXb21WeVBkM0JYcUVEMk5HU1FmQWE2RFIwY3YzYXpuaWdGMExBamp1dzlBVmN3X09zdjZRYVBkVWhkQmhCT0tRd1RFWGR3UjZJZC0wQ29Nb2JQeDY1ZEthZ3Z2WVU1Q2Faa19lQ0Eza2VXaEEzRWgwbEFiZktSa202dUxhblI2dExKSWdlMS16RFZwQ2pVeks0NmJvbXlnRDFiSDUtZS16LXluSzk5MTlUeEZmMUhCUXNsREs4MTFRZzB2dlhjbG9HQ1Y0TXhLWkpEazJYQUtBQW5qTzdpNzdWd1J1US1ZdVBSWmUtQjRkRVl3QVY5a1dKVlZBVVdlQi1BdVpOZw?oc=5",
+                "pub_datetime_utc": "2026-10-11T15:13:30Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:11 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "트럼프발 휴전설, 유럽 긴장",
+                "hook": "트럼프가 선언한 '에너지 휴전', 과연 실현 가능한 평화일까요?",
+                "script": "트럼프 대통령이 러시아와 우크라이나 간의 에너지 휴전을 선언하며 유럽 정세가 요동치고 있습니다. 젤렌스키 대통령은 이를 전혀 모르는 일이라며 반발했고, 유럽 각국은 미국의 독단적인 행보에 우려를 표하고 있습니다. 불확실성 속에서 유럽의 안보 지형이 다시 한번 시험대에 올랐습니다.",
+                "original_title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU9OSXpoS1UtRmplb2kwdkNjdmlUbFQ3WXJYUlhNeGZ0TzFDMmRtT0VxZFFJOVVrb0otQ3dITUlISGg0VXU4YmVlT3U0WjZzLWNZZlZYVzNKdlZEdlJVWGtJX09aX19xUVo2U3RkVUJnNjhCN2VjWHdsU0lkSmRCanEtQnFDZXhUYkV5aDFNeC1rM3Nxal9Z?oc=5",
+                "pub_datetime_utc": "2026-10-11T17:31:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:11 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "트럼프 휴전 선언에 파문",
+                "hook": "우크라이나도 모르는 휴전? 트럼프의 발언이 국제사회를 뒤흔들고 있습니다.",
+                "script": "트럼프 미국 대통령이 러시아와 우크라이나의 에너지 휴전 합의를 주장하며 전 세계가 큰 충격에 빠졌습니다. 정작 젤렌스키 대통령은 이번 소식을 언론을 통해 처음 접했다며 강한 의구심을 나타냈습니다. 강대국 간의 예측 불가능한 외교전이 평화를 위협하고 있습니다.",
+                "original_title": "「エネルギー停戦」で合意 ロシアとウクライナ―トランプ米大統領：時事ドットコム - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iSHNmLTZzZHVzamkzMVJaQ1JvMWJ5RWw0bUFLV2hmT3UyR0RYSXNDZi03cFNFcjZlUVRkaG9Sb3BvZkFiNGNoek41WTg0MWFsUVVJTWFuMFBIMTZZaW5CTkFyZw?oc=5",
+                "pub_datetime_utc": "2026-10-11T14:52:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:11 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "트럼프의 휴전설, 진실은?",
+                "hook": "젤렌스키도 놀란 트럼프의 '에너지 휴전' 발표, 전쟁의 판도가 바뀔까요?",
+                "script": "트럼프 대통령이 러시아와 우크라이나 간의 에너지 휴전이 성사되었다고 주장했지만, 우크라이나 측은 이를 즉각 반박했습니다. 영국을 포함한 동맹국들은 이번 발표가 실제 평화를 위한 것인지, 아니면 또 다른 정치적 계산인지 분석에 분주합니다. 전쟁터의 운명이 한 명의 말에 흔들리고 있습니다.",
+                "original_title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Si1vSmZEUFp6Z1luY3QtNXZFOVZTeERMT1gyb0NvYW9WcG00V1M1WHNBdmFtOGZiWndLaDFpMkc2RnlPLXpZX0kwNG9aU3F5OEtTalpiYms4c3A5S2c?oc=5",
+                "pub_datetime_utc": "2026-10-11T16:41:37Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:11 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "에너지 휴전 논란",
+                "hook": "트럼프의 에너지 휴전 선언, 우크라이나의 반응은?",
+                "script": "트럼프가 러시아와 우크라이나 사이의 에너지 휴전을 언급했지만, 젤렌스키 대통령은 이를 전혀 모르는 일이라며 당혹감을 감추지 못했습니다. 한편 이탈리아에서는 교황의 폐 수술 소식과 함께 러시아의 유럽 국방 수뇌부 암살 시도설이 나오며 긴장감이 고조되고 있습니다. 국제 정세의 급박한 변화, 지금 바로 확인하세요.",
+                "original_title": "Papa Leone si opera per un nodulo al polmone, da Meloni a Mattarella: le reazioni - Sky TG24",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13ZnkyNXFjU2lBWi1uNExIcUlRTFdBNEVmVmRzS0JfOW02c1BqN0VQaWo2T2pfODN0OWRqUDNKOThDT0k2MnRpWUV0UW92ajlERTBWbkNyeHpXYmQyMnVONG9la1hlWWFtTzhZcHVOcURvMGxMajM1d1FRRQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T17:09:39Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:14 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "룰라의 총력전",
+                "hook": "선거 승리를 향한 룰라의 마지막 승부수!",
+                "script": "브라질 대선 1차 투표 이후, 룰라 전 대통령이 지지자들에게 투표 독려를 위한 총력전을 당부했습니다. 하지만 경찰관 사망 사건과 선거 캠페인 공방이 격화되면서 브라질 정국은 한 치 앞을 알 수 없는 혼돈에 빠졌습니다. 브라질의 뜨거운 정치 현장을 지금 바로 분석합니다.",
+                "original_title": "Lula faz ato na Paulista e pede que eleitores convençam quem não foi votar no 1º turno: 'Temos obrigação de conversar' - G1",
+                "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbkV5SUtwbndqc19Fb0EwcGljMGpTUFpfby1NV2l4QWxrMFdTS2hBUWdCNnE0QW9TMWtPZVRlaWN3MEdEQUw5eTgwSmNfSEZDR0JscXhXdkI0aVhSNU13MXlmQW5PMW1JdXB3SEYyMmNMVzlOcWIzeFJYbmgxcDlNRDE5bC1Pbk1ITzhwRmJRREg2MTJkQ1puc2VrYUpSU0dBRFRPRmhTV3lyejV1Q1c0WXN4bU42R1hFTWNjRlM4elhlR0F4dWotaDZ0OUpTVnA0ejN5c0VacUx4Qld5VkdsVkt5YWZsUDRiT1Vfc1BtSdIB_gFBVV95cUxOZlAyN1dScEtJLWdid1FxRUQ3Ri1yMXVsaVlwVmZZNnJXZks0blJaeVlIYmRWRE5WQ0tqdktKNElPZXk0MFU1MUxEVjVyWEdWaEtmbmFqN0MzX2VMX0NXRUlBdEY5X21mdldNUE85V3oxS2FIbmRoRTJDaTRfZ0EtVUlheWVLcHBGUzhpQ3VyNmxKQmRhXzVCTTQ5STBYT2hDR1V0Nnp6VkpaSDM2ZEdLYVcxVkhiUDl5UlF3RmIybnJ3amNadHBFWmdGUm4zSWxxNXlvbXhGLVRneDg3SmloSG9vNkZBM0JzY1J3U1pnOFl6dFhhVWFrY3dpemh0QQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T16:36:32Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:14 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "에너지 휴전 의구심",
+                "hook": "트럼프의 돌발 제안, 캐나다와 세계 경제가 흔들린다?",
+                "script": "트럼프의 러시아-우크라이나 에너지 휴전 제안에 세계가 술렁이고 있습니다. 사우디 공항 공격으로 인한 긴장 상황 속에서 트럼프의 행보가 향후 에너지 시장에 어떤 파장을 미칠지 주목됩니다. 캐나다 역시 경제와 인프라 이슈로 분주한 가운데, 세계 뉴스의 핵심을 짚어드립니다.",
+                "original_title": "Saudi Arabia threatens 'decisive' response after Riyadh airport strike kills at least 12 - France 24",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2R4RTdtNzBfbkplbG5ySFFUVnVwODV0bUNFQ0dnRVhiaTZ6d0tzVFppeE9UN2g5MnZwWHRoaEVuNWdWZzlOc0JHWGx1OEdET0lhZzBYeElqamVYSW85X3p1RzZXdkktQUJIZ1BJcXZ4N1dKcFZWMHdhUXZUQ2pkZjE5bng5STlKdGc1ZksxYmlOV2pOVjd6UGZONDZMeEVwV3Q5MWRXUkF2VGNnUE5zUjktZVJTQzY2bHhMcQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T06:21:50Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:14 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "에너지 휴전 발표",
+                "hook": "트럼프가 던진 에너지 휴전 카드, 러시아의 속내는?",
+                "script": "트럼프 전 대통령이 러시아와 우크라이나 간의 에너지 휴전을 선언하며 국제적 파장이 일고 있습니다. 러시아 본토와 주요 데이터 센터를 겨냥한 공격이 계속되는 가운데, 러시아는 보복을 예고하며 강경한 입장을 고수하고 있습니다. 긴박한 전황과 국제 정세를 지금 바로 확인하세요.",
+                "original_title": "Трамп объявил «энергетическое перемирие» между Россией и Украиной - Forbes.ru",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUpZVUVrMnhkYVcybDA5dnZQc2xldjVRdjlVZmhLbS11TEZsSm5EMENRYTExNkh1MDBjNXE1a3RMX0VVVkFUWTdCOEo5NzBqdTJkemhORXM1VXZfUnBmU2t2VUNHeEFSX21pXzhXQ1ptLUhnV1hqRmNFN1lZWXEzSHNENEdzMllCWHZVd3dsekczU2JCTS1QQ2J0N3FzdkdTV3c?oc=5",
+                "pub_datetime_utc": "2026-10-11T14:29:31Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:14 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "허리케인 시몬 상륙",
+                "hook": "4등급 허리케인 '시몬'이 멕시코를 덮친다!",
+                "script": "강력한 4등급 허리케인 시몬이 할리스코와 콜리마를 향해 빠르게 북상 중입니다. 멕시코 당국은 비상 태세에 돌입했지만, 정유 시설 공격과 사회적 갈등까지 겹치며 국가적 대응이 시험대에 올랐습니다. 멕시코의 긴급 상황과 주요 뉴스를 지금 바로 전해드립니다.",
+                "original_title": "Jalisco y Colima se preparan para la embestida del huracán ‘Simón’, de categoría cuatro - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzMzODNva1NBTE15a2NsQ2k3QllhY0w2QnlOZC1HVi1mVTVjWXJ5UVZLOWRvSGJzT1dBTUp4ak12SXRROG9BWlIwZjNFY3AwZmhsMzBlYlNTWm1xdG1RWUVaYXlLTDl2R1JoNGhyc1llS0tRa1dTb3JndE9NeHZ0UjRpU1drUVNaMTA1YlRKX2E4ZFZodHBQU2Y1ajVyWV9YcnZHblpHekN2RHdaLUxVV2FDSUtaUmtqMDJWdmdhRldpWVh3?oc=5",
+                "pub_datetime_utc": "2026-10-11T16:27:51Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:14 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "호주인 페루서 사망",
+                "hook": "페루의 험준한 산길에서 실종되었던 호주인 하이커가 끝내 시신으로 발견되었습니다.",
+                "script": "페루의 외딴 산길을 걷던 호주인 조던 얍이 실종 며칠 만에 숨진 채 발견되었습니다. 현지 당국은 그가 험난한 지형에서 사고를 당한 것으로 보고 수습 작업을 마쳤습니다. 안타까운 소식에 호주 사회는 슬픔에 잠겼습니다. 여행객들의 각별한 주의가 요구됩니다.",
+                "original_title": "Newspoll: Labor warned that spendathon ‘must come to an end’ - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNzE3NjlWUFo5RGV4OTVmTW1fUk8yMENxZ1ZYNGZaUFNRTVhpZGsyNFBTbGFLNjFmcWJfWWswUHNvOFhfeWdlLWl4QUdPcGJZUDI4Vmt1N21ZMDYzR2dsYVYxMTkyc2gtWDNKV2lGY3piN1VLSWxBNGR2bEtlRWcwTFgwWmFjc3JZV0FYVHlqTXdQcmFjbzZ4ZFZQU3hTUDU3Q0k4RENIZ2ZLd3psT01RSFl3NDVYd2g0X0Zid3RVUnhSZ0tZaWFicWhObmxPNDBxcEpQQy15eEd1UGN6TFZwVTRuM0xiTzZXWkl0c1BVbmVhcDN2elBJMUh5WnBybjU0bTJXVEZsbmM2dWVXOGVSTm9aQQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T12:04:19Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:18 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "트럼프 에너지 휴전",
+                "hook": "트럼프 당선인이 러시아와 우크라이나 간 '에너지 휴전'을 언급하며 종전 가능성을 시사했습니다.",
+                "script": "트럼프 당선인이 러-우크라 전쟁의 돌파구로 에너지 관련 휴전 합의를 거론했습니다. 구체적인 이행 방안은 공개되지 않았지만, 국제사회는 이번 제안이 실질적인 종전으로 이어질지 주목하고 있습니다. 한편, 한국 정부는 동맹 간의 신뢰를 강조하며 대응책 마련에 고심 중입니다.",
+                "original_title": "트럼프 “러-우크라, 에너지 휴전 합의”…구체적 내용은 없어 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVW8zRG1HdElNVUc3eTRHbkFXZVZxV0hBX2ZtLUtwY2xDLUFIR3B5czFvM0xGQlVlQ0QtaGEwQ29ZZVpxeDUxeWNGZzIwcXFveVBFVXlOZk9TMVVWN2V6NG1qenJQNVpPRzhDU2licmRjcDhXZHVoZWJrSHBlVDcxSllB?oc=5",
+                "pub_datetime_utc": "2026-10-11T16:09:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:18 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Prabowo Lepas Langsung Kepulan",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Prabowo Lepas Langsung Kepulan",
+                "original_title": "Prabowo Lepas Langsung Kepulangan Presiden Mesir El-Sisi di Halim - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlNhdDdUZU1ONGx0WVhOSTlGcDl1czQzRzhmNExsOTV2MHRsZnAtTnM0aWhvSURMRjBBbFhmc280T3RjcGZzQUxGN0FXakQ1TVp4cnRDMFpEamMzU2IzaDU4MFllWS1uUDRLMHd4ZnB1OVc4UFllQWtnWENjTkpXS194UG80RWhFbUtpSTUtTjFCTl9TWThhZlBxbmFYdVViSmw1cE1qZ2vSAa4BQVVfeXFMTU1JWS1sZkl4QWk5YXpoN1V6NWdaMDU1TjN0XzhmUzFZTHFyVGlQaU5RQWJGY2JhY1lWLXlPZm44eF9lQXdxTTFmRXNnMDFpR2ZiUGxjYTk3SmNCUDJrZFJIWmdXTkVJcW9uNW51dExqSFdJSlBNOUFNLURSV1JYWGJ6S3d5bDVxS0UwREhVcXRsQVRLdHZZMERXa0xkZ25BM185X1l4VEVTTTFLYzNB?oc=5",
+                "pub_datetime_utc": "2026-10-11T12:14:24Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:18 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "리야드 공항 공격",
+                "hook": "사우디 리야드 공항을 겨냥한 후티 반군의 무차별 공격으로 사상자가 발생하며 충격을 주고 있습니다.",
+                "script": "사우디아라비아 킹 칼리드 국제공항이 후티 반군의 미사일 공격을 받았습니다. 이번 공격으로 공항 내 사상자가 발생했으며, 사우디 정부는 강력한 보복을 예고했습니다. 아랍권 국가들은 즉각적인 대응을 촉구하며 연대 의지를 밝히고 있습니다.",
+                "original_title": "مطار الدمام يتعرض إلى اعتداء .. والطيران المدني السعودي: جار استكمال تقييم الأضرار - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxOLWF4aDBhcUJ5T21xNlZDd291ZnRzUkRxcnMyNzI0VHkxWmQ3dzdfWlE3T2pjUzE3ZmwwZ1g1VWNpdGhzZXMxUGxaU1pGY1VBTzY2WkQzcXU4MGh1a2FUNDNTWnp6TVFWZjhoLTdXU0t2bFRCeHNmZzc3WXE3Mnh0bU42M2hNQ2FCRFlLWk1ZbzMxU0xzazB5RGlvVFE1TnhkSE5kRlVnckNuSk9yOXp1X1dQUURKY0FBNExoREhpSHNrNFhVNjI5bWpaN0p6ODFVM2dBNzNPd0VrYm9WZG1IRWQ3TDUxeTNYZjZIX2c0ejRpalptSHo1OWpkdFN2ell2Y18xeHpEZW16TmdZOE14OFp4UnFGRXVrOWd2eFdyRDNLSUZyTGx0S01EVXZaa09vNVhydWJQdThudXNZYmRveFdYVEJ4Ukx4ODl2WmpYc2htbUVWREZaMlE1UUM3blplOWZ1ekxfa2UyLTJEZ21PcTBCV3d3U1Y5aXYxN3FLT2RiMXY1aWNVWW5RT3BlRTBsMlRlYURZZzJDdVUtVkVwQUhnSFQtVlZYdEFyY0FZN0doUGVSXzN6MWlGeWFhV0s3RHhVMVpXLS0wSzE3T2xSZmxabVBFcnJwX2Z5M0NFd2RoY1lhMjJJVGcxZEd5VktwOXZ4b0F0MEQ0MkJtZzQwcmpldmFoY2lnT3lXSlB6dGhiNFVrQkdNdS1KTzFGbVFxZnRpSVZxamFvbW92S3ZSVnljOVJ4cnhvQkJmd2RBaWp2aGZYaDBSOWtDcm53SENVNDB2RXE1ZUlscmtmZGtIV1BiLUswdXNkVlRvSDNjZlg3ZmtlNlotZXNrZVJBZ9IBgwVBVV95cUxNYTAzM3hYQWx6ZUhpb1NsTFZBa2FvMVJ2LVJzak5meVRsZ0tNSTJHNFNMbGxuaXVYM1BqdWF2SV9kel9qTjJGQ3daWGoyOFJFVk9pVlN1VHBaNGk2MVJpSThrMFNHN00zQVdDLVBVTU81bWtYb3dkWHdmUFdpN25PcjZJUE5fZHVSdzRBU0w1NkxZUy03QjJsa1didXBSTGxOMFRIRjdjVlJYTVdvZ3Fsc3pFRlo1bFRRUm5FdFFFcVVOTkwxN3J2dlpJd29pR3g3Y0lmT0VZYmVOQ0hoeTNoQlpVeVVqT0x6T0NpU0dtT0YyMlRNeU52YjRxTm9BUmljTjlqeXVCRTY2Wko2ZDVlYnhmU0w5bDBIbnZBQ1pjZldNWVFyLXZqQUtSQUxsaE8zRUNYWklEOHhON3VJM1RiejFSYWJjQnhmZGhwV0lfT1pCQ2xuVXhUcVFqM0NTNEJQY0RwMXF4ZFJmSFhIM1lZMzhMaEQxS3pCQVJYTU8tcGJ3R2EyN25tZXBIUTloZ21qOHR3UjVoSzk3MVZ6LTJYV1JvdXRZYnNyN3VlUENXNl92R2gxbUdYTE5NTkF0Rm1kZnZGTGcxMGU2WlJHRjNaVWlUWFgwUGlRRE1hZmhidnZwd0JlQm9fYnZQY3pWMENiRFdxbzVWV051dnl5Sk40Xy1RNml0Q01UTmlBbHRSWDZQMmIyWFdYVEpFdnl0clE5VTI4UF92TjV4QVA2ejhvZFZIS1lzbU53ZnBCcmtYVHU1bm5zWUwwREZNV3VQd21CT1VEX3NsVmlQSDVUMUk3ZzZhNVRvWDBncTlJbm4wZGVfYUJqMUZfVHJqV1RqVE94Ty1n?oc=5",
+                "pub_datetime_utc": "2026-10-11T18:33:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:18 KST",
+        "current_rank": 14
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 정국 혼란",
+                "hook": "정부 계약 논란부터 끔찍한 범죄까지, 지금 남아공에서 벌어지는 일들입니다.",
+                "script": "남아공에서 주마 전 대통령의 입원 소식과 함께 가족의 수백만 랜드 규모 국가 계약 수주 의혹이 터지며 정치적 파장이 일고 있습니다. 한편, 디프슬루트에서는 끔찍한 성폭행 및 살인 사건으로 지역 사회가 큰 충격에 빠졌습니다. 이외에도 케이프타운 화재로 수백 명의 이재민이 발생하는 등 사건 사고가 끊이지 않고 있습니다. 혼란스러운 남아공의 현재 상황, 지금 바로 확인하세요.",
+                "original_title": "Government eyes supervisory order on asylum ruling - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ0tWTDdNWFBIclE2em5ZSERnT1hEXzZ3MzNCeWx5dHMwMXJEbjFpc2Nsb0c3czBFQ0hFcjE4OGhocDZYVm9zd01zUm9meUkwel9SUFlDNDg5cHRPU19PNEhyYjdWR0JlLWJrbloxYnZUT203SFBRRnVsczkwcUdzSnNPVWVFZE5xR29WTVBR?oc=5",
+                "pub_datetime_utc": "2026-10-11T12:56:43Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:19 KST",
+        "current_rank": 15
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "트럼프 휴전 선언 파장",
+                "hook": "트럼프의 갑작스러운 휴전 발표에 당사국인 우크라이나가 당황하고 있습니다.",
+                "script": "트럼프 미국 대통령이 러시아와 우크라이나 간의 에너지 휴전이 시작되었다고 발표했습니다. 하지만 젤렌스키 대통령은 이를 금시초문이라며 부인하고 있어 외교적 파장이 커지고 있습니다. 에너지 가격과 전쟁의 향방을 둘러싼 트럼프의 전략에 전 세계가 주목하고 있습니다.",
+                "original_title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences? - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1ZOSzFDM3Yta3pYdDE1N2VlbTBTN0hJaTRJZkUtVGJ4NGY4V0ZwVkMtMmxQQjR1aFhhTk52M1FNeDI4bTlaZFhIMjBBaTV4eXRfaHloN2xrQUprTy1qZnlVa1VPYWZyaGh4MTdzZ2o2QkFZRVJFYVFuYmZRS0ZDR280T2RoaU9yRkI1MW9zV09RdTMzZnFLMHlnS19uMnRnRjIxT0dzWFhSa0J5NmfSAbMBQVVfeXFMUE9VUEo0X1M2UllxWXNLYVd4dGV6UVVjRk5GUVFyWnNpNUVTMFU5Z2dyVm1lZ2R5amJKR3lyTGk0RXpmRmdZN0dLVzNZSVpLUVM2NGFuYXdjU2dLQUdneFVsVjBTUWlvMF9CdXJMQm1QS2lQRm1LQXliajI4M3lZdlZqcXEtOU5aWWowWnZCa0Q1VjBtMG92Rmt5WUdTdWRERmtCMXpJWGZpTW1MY3J6R1J2c1U?oc=5",
+                "pub_datetime_utc": "2026-10-11T14:43:39Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:11 KST",
+        "current_rank": 16
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "좌파 노선 갈등",
+                "hook": "프랑스 좌파 진영의 분열, 글뤼크스만은 무엇을 선택했나?",
+                "script": "라파엘 글뤼크스만이 LFI와의 결별을 선언하며 새로운 좌파 연대를 모색하고 있습니다. 멜랑숑은 이를 강하게 비판하며 Parcoursup 폐지를 주장하는 등 내홍이 깊어지고 있습니다. 과연 프랑스 좌파는 분열을 딛고 다시 결집할 수 있을까요? 격동하는 프랑스 정치권의 소식을 전해드립니다.",
+                "original_title": "EN DIRECT, primaire à gauche : Raphaël Glucksmann affirme que sa victoire est celle de « tous ceux qui croient que la gauche doit rompre » avec LFI et tend la main à François Hollande - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxObXYyTmRaTlRuWWVfYkxBZjhEaWt4QWxtY3lNVWFySUN0bE95UzFHaEF0ZE9McEl5WkJqbXNHUnhfS2FBS0pIWGU5MWFZRlFRSDhNcGEzTUtSYlR3RmpGNEF0bi0tVksxUU5zdUU2SEhIVWlqbHhwaGxNX1dRdjJyaXlPaXROS3lTek05SFF5NE5NY2xQdEQ3TU5ERWpZNTZKR2w3cGtqU3U0a2FZME1YTnpxXzlFNlVwNFVWWHlSRUt2eGpjeW5FSDN4R1JiblJOWERjY2FCWVp1LWRONU5QM212LTlwVy05UGlubTdlQnNRS01ZVTktMjZjLVhXQVAwT2dKT0RkdE50VGNsSkRqbndYc3dQNTBqdVgyalA5VklEcXo4Wlo0TjNkSUhUajhwVU9SNGxjQXRWYmFvc2syMjZvUDVPbXBDOXJncy1LbkhoVnhJelV0VlJjSHg1dnpPT1NxTW9uaElEZnNCbTU3anFJYnB3bV9CeUdUdnN3?oc=5",
+                "pub_datetime_utc": "2026-10-11T19:24:53Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:14 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "사우디 공항 피격",
+                "hook": "사우디아라비아 리야드 공항이 공격받으며 중동 정세에 다시 한번 전운이 감돌고 있습니다.",
+                "script": "사우디 수도 리야드의 킹 칼리드 국제공항이 후티 반군의 공격을 받아 사상자가 발생했습니다. 이번 사태로 사우디 당국은 즉각 대응에 나섰고, 국제사회는 긴급 회의를 소집하며 상황을 예의주시하고 있습니다. 중동의 긴장감이 최고조에 달한 가운데, 추가 공격 가능성까지 제기되고 있습니다.",
+                "original_title": "Son dakika... Suudi Arabistan'ın başkenti Riyad'da havalimanı vuruldu - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOal9rVGNLSGs5V2FKaDRHRFd4VWVmcW1ESmdobENaTzNFN2p1ZGpNUW9wT0s3MC1BeFRnVmdOZVdaek1Ya1RDV3Z0a3o4NUxnYnpzWVJjRjZwYUdUb2tNUWpYd2hjNGtDWk81QmtlN29MWjJTYTNzeERSZTZiQnFZNHhYVmhweEJ0SFJXOUkxMGRNYnlCZVZCN0FXZWRNb3lWWEVNdEU3dWY3Y01YVUl1aUdFdy1kNXdORjRYY1h1U3o4VGlOWnc?oc=5",
+                "pub_datetime_utc": "2026-10-11T19:10:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:18 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "아르헨티나 폭우 비상",
+                "hook": "슈퍼 엘니뇨가 아르헨티나를 덮치며 기록적인 폭우와 강물 범람으로 인한 비상이 걸렸습니다.",
+                "script": "2026년 슈퍼 엘니뇨 현상으로 아르헨티나 전역에 극심한 폭우가 쏟아지고 있습니다. 우루과이 강이 범람하면서 인근 지역 주민들이 긴급 대피하는 등 피해가 확산하고 있습니다. 정부는 재난 경보를 발령하고 피해 복구와 구호 작업에 총력을 기울이고 있습니다.",
+                "original_title": "Ataque al aeropuerto de Riad: muertos y heridos - Diario El Día de La Plata",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGZOSm0tU3d3UWhVc29IMlBBRm15UDY0SWRfQVc5ZkhsOVEtekpfcG1EcU9hUnhyVkd1dHNjQjAxOVBrUTRnVU1nYTEyWlhxbHE4UTNMbldFNXVHS0RyM0Jucmc5WElZTTFfREpWTlItRWdGQWo5VDBfNjRrc053eDFFcFdqNHhnNkNaSllrSjBnajlEZWlmTFB6VUluQQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T06:17:16Z"
+            }
+        ],
+        "last_updated": "2026-10-12 04:35:18 KST",
+        "current_rank": 19
+    }
+}
