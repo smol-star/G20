@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프의 돌발 휴전 선언",
+                "hook": "젤렌스키도 몰랐던 트럼프의 '에너지 휴전' 발표, 도대체 무슨 일일까?",
+                "script": "트럼프 전 대통령이 러시아와 우크라이나 간 에너지 시설 휴전을 선언하며 전 세계를 놀라게 했습니다. 당사자인 젤렌스키 대통령조차 '처음 듣는 이야기'라고 반응하며 외교적 혼선이 빚어지고 있는데요. 과연 이 갑작스러운 발표가 전쟁의 판도를 바꿀 실질적인 평화의 시작일지, 아니면 또 다른 정치적 계산일지 전 세계의 이목이 집중되고 있습니다.",
+                "original_title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pTXNOa29VTU9DTUM2MFZOZko1TUs0cWRiOE1fUTIyYUUzcS1oTjNsLS1NMnhld2xFc1E3Y1Jac3VqOXEwUnRxTkpmNXF1dzM3WDlHTnlXVFh5M0k?oc=5",
+                "pub_datetime_utc": "2026-10-11T22:45:58Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:42 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중동 전쟁 확전 위기",
+                "hook": "후티 반군의 사우디 공항 공격, 중동 정세가 걷잡을 수 없이 흔들립니다.",
+                "script": "후티 반군이 이틀 연속으로 사우디아라비아 리야드 공항을 공격하며 중동 지역의 긴장감이 최고조에 달했습니다. 미국 등 서방의 개입 가능성이 커지면서 확전 우려가 현실화되고 있는데요. 멈추지 않는 공습 속에 중동은 지금 일촉즉발의 화약고로 변해가고 있습니다.",
+                "original_title": "胡塞武装与沙特持续互袭机场 美若介入中东战事有升级风险 - 央广网",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MZXlnRmUwRWdaTi1HTWljMTNrTHFhdU5kVXJlXzJVdFY1MjJDNVlYQXhjS19CRHJKdzhENlVRWDlQXzVkb1JWYkNESFlMcmtTUkZDakN1SkxLUlU3cHpLa2Z3LUphR2x2?oc=5",
+                "pub_datetime_utc": "2026-10-11T23:47:33Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:42 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 정치권 위기 고조",
+                "hook": "정치적 파트너들과의 갈등이 폭발한 독일, '방화벽'은 무너지고 있는가?",
+                "script": "독일 정계가 중대 기로에 섰습니다. 메르츠 당대표를 향한 압박과 연립정부 구성의 난항, 그리고 AfD의 부상까지 겹치며 독일 정치권에 균열이 가고 있는데요. 복잡한 이해관계 속에서 독일이 안정적인 국정 운영을 이어갈 수 있을지 전 국민의 시선이 베를린으로 향하고 있습니다.",
+                "original_title": "Diesel-Streit: USA drohen Ukraine laut „Financial Times“ mit Stopp von Waffenlieferungen - WELT",
+                "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeF9yLUtHRXhMWF9mcUxTRkNQdE03ZDVUMTN4V2NDZ1N2OVdnMWs4TVpURmxwcGV1c3AtTkJXWlkycUxkOVBwR0c2Z3VJVjFjN19aVTVCSmI5WDZLd3ZHMnVqcXpYOVpWMXA4RkhkendKcXl5djNtaU1abThOc0NveFJBX210VlZwSUNIbFctczRaaV9tQ0RJc3hXYzIzU2U4bEpCUFNUOS1CVzQzM2VNdkw1Q3lRbVIxRlFnRlhURFNOcU05Y0RQdS1fa1BuYzBzTEdvQ3RzVnJmQnFUVk95OHpGM1p1ZlFZdkdqQnlwYw?oc=5",
+                "pub_datetime_utc": "2026-10-11T23:36:56Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:42 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "일본 열도 잇단 참사",
+                "hook": "평화로운 일상을 덮친 끔찍한 비극, 일본에서 무슨 일이 벌어지고 있나?",
+                "script": "최근 일본 곳곳에서 충격적인 사건 사고가 끊이지 않고 있습니다. 잇따른 인명 피해를 동반한 축제 사고와 곰 습격, 그리고 엽기적인 살인 사건까지 발생하며 일본 사회가 큰 충격에 빠졌는데요. 안전한 일상을 위협하는 비극적인 소식들이 연일 이어지며 공포감이 확산되고 있습니다.",
+                "original_title": "兄名義のキャッシュカードで現金引き出した疑い、妹逮捕…兄は住宅の地下物置で遺体で発見 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IOUg1SldJWTY2Z1BpMl8zampLX1lld2kxVHlkeE5Sal9lb0JLbHU4SENrYU4xbjlxUUF1aWxkQTBSY1AyTzRDY2FEU1FTWExuTG5tZEpKYWJwTG1VRXVIYWg1VlFHQQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T17:42:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:42 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "모디의 대규모 개발",
+                "hook": "인도의 미래를 바꿀 13조 원 규모의 초대형 프로젝트가 시작됩니다.",
+                "script": "나렌드라 모디 총리가 첸나이 메트로 2단계 노선 확장 등 총 13조 원 규모의 대규모 개발 사업을 공식 발표했습니다. 인도 경제의 도약을 이끌 이번 프로젝트는 지역 경제 활성화에 큰 기대를 모으고 있는데요. 인도가 야심 차게 추진하는 이 거대 인프라 사업이 어떤 변화를 가져올지 주목됩니다.",
+                "original_title": "Yemen fighting expands as Houthis attack Saudi airport again: What to know - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVTS1ZGSF8wX1ZNRk8wdUFmVFd5SmkyNWlkZmktVFRNNUxqSWxwUF8tT01GN2d0RzNtWmxSY0Y5aHJ1YlBWWHB3cjh4OXRjczc0UlNtWlJFc3JpUzlPMkZTS0laSDVOakFxZTVpNVZ0U19JUi03RTVvWVZGVlY0U0JUcDlPODJMZ1paTW9VUUp2M3VaSUFKVl91TENySDVHYXQ0RVQ0SlBEWUlTOUHSAbMBQVVfeXFMTVRZSG13RHl2RzVyQWtTSE9pb09YdldWYXcwSXBBOXRDeERqRGdwQXZFd2NfS2tjY0NxbDJwbTgybXFHeldfOHBaeVo5RGNRVnBsOXRya3JTTHc4T0RYS09BdGIydkFpMHlKX056NDhLc2w3a1o0ZHJzQkdRamtfMmZyQjB4MWktOEZqVXRfRXhfNWVwQVdwSUozemRzemkwR2puUmxBRFVDSHZBQXFZeUVIRDA?oc=5",
+                "pub_datetime_utc": "2026-10-11T20:00:54Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:42 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 뒤흔든 러시아 개입",
+                "hook": "브렉시트 투표에 러시아가 개입했다? 영국 정부의 공식 인정을 둘러싼 파문.",
+                "script": "영국 총리가 브렉시트 투표 과정에 러시아의 개입이 있었다는 점을 분명히 하며 정국이 요동치고 있습니다. 국가적 의사결정에 외세가 개입했다는 사실에 국민들의 분노와 의구심이 커지고 있는데요. 이번 폭로가 영국 정치권에 어떤 후폭풍을 몰고 올지 귀추가 주목됩니다.",
+                "original_title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzc1VDRBeG0yTGxXNkJYVjB3TVh3ZlF1OVExT3NCb184NzYxM0pmQVhMbG9od1p2X1drSmo1ck1nZS1aNjdPRUdqSU1LSUlaZDhYVU8yOGcwVS1UMFVaUkpBdmJyYUJpN29YaGpoTFlRXzBaSC0wRUR3bEhGaFRCcDFvNFVxT3dMYUJzeWoxdkEtM0VhLVN3Mg?oc=5",
+                "pub_datetime_utc": "2026-10-11T15:56:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:42 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "글뤼크스만 좌파 통합",
+                "hook": "프랑스 좌파, 극우 세력 저지를 위한 대대적 결집 시작!",
+                "script": "라파엘 글뤼크스만이 좌파 연합의 새로운 리더로 선출되었습니다. 그는 극우 세력에 맞서기 위해 분열된 좌파를 하나로 모으겠다고 선언했는데요. 특히 불복종당과의 연대 거부 입장을 재확인하며 정치적 행보에 큰 변화를 예고했습니다. 프랑스 정계의 지각변동, 과연 성공할 수 있을까요?",
+                "original_title": "EN DIRECT, primaire à gauche : Raphaël Glucksmann, élu dès le premier tour, promet de « rassembler » la gauche pour « battre l’extrême droite », et réaffirme son refus de s’allier avec LFI - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQdEoxWWdFRURGN1pyUlROVE5KZEVrYUQxRUUwS2NmN0hEY2VVT3BONzNLc09pa0hobk9zQXZic0ZBZldyWEctRi1fd3N0bHF3Qk94TlVjcnVVV3pqZ1c0MlVZQ1RqSnhjYXI4N3dlRmswTGc4ODByMFY3U3JTWExxX2h3STh5Zk5XOGl6TFhyS2VJSzhfMmluNHNyTGdWQzNCV2VReUxuREtka0tJZ2Rndk9wUzltRzFzSDlybFc2X21iQWg3bzJYTjBuYmRfRmF4TTJpQVU3MWlMS3dUbTZiT0d1WUFabW1MYnRIZzREdnBSNWRFVVBpNy1zdC11eWtPN3A5YVJNQzBaaVdxMGg5bTBVclNvZXQ5eDNZRTdwbDNsR3B4c0lTcGRMRmQ0YzZ5RUFFOEhCWU5tZkJiaksyNy1OSXN4Q2lsU0RnRDdLcDhjd0VRTk9zRF9NWDE4ZzMyUDNiWkU4Vjc3OGw0M3Exa3BRcHE3a0hvMDRR?oc=5",
+                "pub_datetime_utc": "2026-10-11T20:31:26Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:47 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "이탈리아 7명 부상",
+                "hook": "평화로운 자전거 라이딩이 순식간에 아비규환으로 변했습니다.",
+                "script": "이탈리아 시냐에서 자전거를 타던 그룹을 향해 차량이 돌진하는 끔찍한 사고가 발생했습니다. 이 사고로 7명이 부상을 입었으며 그중 2명은 현재 위중한 상태입니다. 경찰은 정확한 사고 경위를 조사 중이며, 지역 사회는 큰 충격에 빠졌습니다.",
+                "original_title": "Il Papa e il nodulo polmonare, ecco come si diagnostica e quando si interviene - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNOVE0WVVJT1Z2STBiWDEwbzJkU3NnRU9WODRBbmhkQVkxNFpodFhGeG02ZG9IbjltWngwbzQyeVRGREg3Y3pISjlSdzZlVHBDX18tWXFIRWhXY2ZOSV9GcEM4cHZpNlJrV1NDVDg4a01ud0tPWjVTRnJzNFJrM3lyR18zT0VrcjdaeTlfcmMwXzlBSWs3UGtGd1VnZmsweVVmbU5OQWMxc3FxWHhmdlVXbXZMT0NjbnlJVkZ0b3ltQUlYX1JKcHJ3TkE3SWpieWlMOWwtMEZsekZLSEtsQ3pOaTdhWUo3YzhDdEZKQ09BaHpWWWF6eGNCVnEtM090XzZmRHBncnFtRzlzM2pzZ1lDV01wUUxlaFFqMFFn?oc=5",
+                "pub_datetime_utc": "2026-10-11T14:54:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:47 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "Corregedor do TSE suspende pre",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Corregedor do TSE suspende pre",
+                "original_title": "Corregedor do TSE suspende preliminarmente ordem de Nunes Marques e libera canal 'Exército do Lula'; decisão final será do plenário - G1",
+                "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0hUbThhb09tNHZYWWtlRlBkcGdYQll4MTlnQlM4b2laYUN2cWJ0dVloVmVMaExWQkxvNXVjbjhXNWc1c1dpdGtud3oyNml3YlYweVJsdmx0WXp5b2dUY0pMTmNVWWhZQzBzd3NLRU84ZzFlbjJtX3Z1Q2xMeGtkTU54ZWg4U2lmbGozUlF0eUNCN2lrdklLNWNIVnNNRUNiZHk0dXkwd0R5TlNkTEtWZGV3UmF0eHYtemkxUExsU1daaE9oTU5vQ1VYcEN0WDdudGNQZ0VPZE9IcldkRlJyTVFGeVQ0YVBtUDdMSUNSRWZVTGJOa1I5clRGY1JCb29vZzdoRUxnSkE2ODdDR3FnRDlyZ9IBogJBVV95cUxQVWVnYlhaTzhGQkF3ejVHMUhNZ0cydUlqaEd3UEZCeWtTd0RtdGVlN29wLVpRT2VMMXpSMGh4SUpDTlBxdnNWZ0dXNkdiSnRtWXgxS05LSXNSVXBSdUNiS2VHQVh3TklYUlRBdTlpQmZidDAxclRYSGYwdVNNVG9MeHp6YlF5TXN6cXhzZ3RVb0hfd0RVZjRKaUN5UkQ0eVVSb3ZXWFlMWVhyX0hZNGtzWEYzZjV3R0pGYWU3UnB0eVNEdkM1WFlkaC1aZkhGOWFNVVRpWl8zamhSX2lJYlZQVkQweV8zWUs5M0JwWmJMWFFoMGZRQnozTHdIcGpsMFRmelk4UFNxNkZRYWdvc0Vsdnk4dGo2bTl2U2FReWVvRlJFUQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T18:52:38Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:47 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "허리케인 '시몬' 상륙",
+                "hook": "멕시코 할리스코주를 강타할 4등급 허리케인 '시몬' 비상.",
+                "script": "4등급 허리케인 '시몬'이 멕시코 할리스코주 해안에 근접하며 국가 비상사태가 선포되었습니다. 강력한 바람과 폭우가 예고된 가운데 당국은 주민들에게 즉각적인 대피령을 내렸습니다. 이번 태풍의 경로가 인구 밀집 지역을 향하고 있어 막대한 피해가 우려됩니다.",
+                "original_title": "EN VIVO del huracán ‘Simón’ categoría 4: El ojo de la tormenta se acerca a tierra por Jalisco - El Financiero",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM2E1MzVsZWZrZ0NIaDVIYU9wZWZoQmdGOUY5NS1SSmlWV3h1U191bFdfWHdxcDlTVjNCVEFNWEZLellURGxKM2xHT2I1bTNqTFlWQzB0QzVFNlN5eU9VdW43SktGZDl2ZldIRHgyUGRjVUJJc0lESnU3aERMeEl6UWVScUJuYnJSajRQSm5ackhJRDlGWHVkQ0NUZnNOQTNzcWEyaGM3RnJJQjZGRGtCbzJzdTQ4YUk0d1FiX0hKeElNSVJFSnlnb0xDaGowdE1EMjhLb2ZRX0c4U2c?oc=5",
+                "pub_datetime_utc": "2026-10-11T15:29:27Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:47 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "트럼프 휴전 의문",
+                "hook": "트럼프의 '러-우 에너지 휴전' 선언, 실체 없는 공수표인가?",
+                "script": "도널드 트럼프 전 대통령이 러시아와 우크라이나 간 에너지 휴전 합의를 이뤘다고 주장했습니다. 하지만 당사자인 젤렌스키 대통령은 '처음 듣는 이야기'라며 당혹감을 감추지 못했는데요. 러시아의 공습까지 계속되면서 트럼프의 발언이 실제 외교적 성과인지, 단순한 선언인지 논란이 커지고 있습니다.",
+                "original_title": "[단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’ - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLVHpzd3ZjS2x6ODZ4MEFCaFh5SXNHNVJ3d0VWZkJjR3hXSXlhNENhdzhIWjJQSExlM25nck1EMHpIREdUdHU5U3hXTDFoS2ZYbHppS0xIT3VBd9IBX0FVX3lxTE8zMm41WGU1dTJ4ajhLSFNaZm1fQ2pobUl6VDV3cXpqNHdfYzAtVTVOdGZHd3NfUktjZkptLURneUY5U0Y2S1hJOGxCNGRzU1kyN0g4VWg4MlR6UzhiSmFR?oc=5",
+                "pub_datetime_utc": "2026-10-11T21:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:52 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "공항 공격 비상",
+                "hook": "사우디 공항을 겨냥한 후티의 테러, 왕국의 대응은?",
+                "script": "후티 반군이 킹 칼리드 공항을 포함한 사우디 주요 시설을 타격하며 중동의 안보가 위협받고 있습니다. 사우디 정부는 즉각 영공 방어 체계를 가동하고 피해 상황을 파악 중인데요. 파키스탄 등 주변국들도 사우디의 안보를 지지하며 후티의 도발을 강력히 규탄하고 나섰습니다.",
+                "original_title": "بعد استهداف مطار الرياض: ما خيارات السعودية لوقف هجمات الحوثيين؟ - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90NHB6Sjk3MjQ4My05R04wUGE0a2FQWVpxanAtd3FNY29TQloxSmo0SXRMM2tJNk51emt2bjZCLTktZWFPeHYxZHNYS1d3M2FKWFZNRmFHNW1Vajc0VHfSAWNBVV95cUxNZWxkZWItR1Z2d3NjU3NUeURmd2lfX3VSd0FGMzgxOWgzS2w1V29jaWpoeHpVamtYUWZxeTVYZXVCd01jT1JtNlIyNWF1Q0hFNjhyZDJPcXBDWEl2MDgxWmZRZlk?oc=5",
+                "pub_datetime_utc": "2026-10-11T16:58:16Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:52 KST",
+        "current_rank": 12
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "아르헨티나 교도소 이송",
+                "hook": "아르헨티나 역사상 가장 거대한 교도소 이송 작전이 시작되었습니다.",
+                "script": "데보토 교도소의 수감자 326명이 마르코스 파즈로 이동하는 대규모 작전이 펼쳐졌습니다. 장갑차와 중무장한 경찰들이 동원된 이번 이송은 아르헨티나 교정 역사상 가장 큰 규모인데요. 도심 한복판에서 벌어진 긴박한 이송 현장에 시민들의 시선이 집중되었습니다.",
+                "original_title": "El papa León XIV anuncia que será operado de un nódulo en un pulmón - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41WUtrQ2lIQkZ4bG1XeWtMRVFRUm0tX2h5ZW5VYkx5MGNrdHZFVHJqcGk2Z1AwUUdwLUh3V1Q4QTZDQUtPczZiNktGOHZ1TF9rUGo0M2oyRTJpckhN0gFiQVVfeXFMTnBULXNWRW5lazNpd0lZU2VZaTA1VGlqdDJ0dHpvNFRnMUdfMzFYTGotN2YwODUxZnROYUh3WVhES2JzcnN6bjF2NU0yYXRRak1ZdW9uRlhZUnpfVFN4VFRLM3c?oc=5",
+                "pub_datetime_utc": "2026-10-11T19:58:01Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:52 KST",
+        "current_rank": 13
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "성범죄자 재출소",
+                "hook": "캐나다 온타리오주, 위험한 성범죄자 또다시 거리로 나왔습니다.",
+                "script": "온타리오 경찰이 반복적인 성범죄자의 출소 소식을 알리며 시민들에게 각별한 주의를 당부했습니다. 재범 위험이 높은 인물의 석방에 지역 사회의 불안감이 커지고 있는데요. 경찰은 시민들의 안전을 위해 즉각적인 경보를 발령하고 감시를 강화하고 있습니다.",
+                "original_title": "Carney says U.S.-Russia diesel supply deal hurts Ukraine peace cause - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1BRaE5XZTFDRjhhaHhMUHdRXzFzZ055Y2FIS3RqMVpKbjgzX3pDSzlQRHFWYlJoaC1jOGpteTMwRTZwanowdEF1VGNvZlF1dE4tNWxXWF9tMFd0bVYtdEE5UU81cjBFajhEZkpFRzZaSnJ2ZDgxYW5VMlVaQnhIOXBLck1zUi1xclpHTkNaRXlQLXpNb3VPOHhlSjBLRDZnbzZtQk9rNTZ0RzNLYWc?oc=5",
+                "pub_datetime_utc": "2026-10-11T19:02:01Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:47 KST",
+        "current_rank": 14
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "모스크바 인근 400여 대의 드론 공습, 긴박한 상황 발생.",
+                "script": "러시아 모스크바 외곽 지역에 400대가 넘는 드론이 쏟아지는 대규모 공습이 발생했습니다. 제트 드론의 추가 위협까지 제기되며 일대 주민들은 극도의 공포에 떨고 있는데요. 일부 주택이 완전히 파괴되는 등 피해 규모가 커지고 있어 러시아 당국이 비상 대응에 나섰습니다.",
+                "original_title": "Хуситы объявили аэропорты Саудовской Аравии целями для ударов – атака в Эр-Рияде унесла 12 жизней - БИЗНЕС Online — Новости Казани",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QRlpSOGVXT19LMW9TOHBWWFlkenZBZFdDZmZLeDdfaUJ1OFhoQzNzUWk5SXptRno3NThXclRlUUdqVGh5c2IzWXhXNy1PSU9iSmlLVdIBU0FVX3lxTE5JdGdiUTFIdFpKSG03TDcyYV9EN0Q3UlNNVnBwQlVDMzN4Q3pTbzRPNjRMZW1TbThRRGVkVDJVd2kyVkNrZi1EZnZDLWZHRi1FM0pF?oc=5",
+                "pub_datetime_utc": "2026-10-11T09:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:47 KST",
+        "current_rank": 15
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "시드니 10대 살인",
+                "hook": "평화로운 시드니 서부, 13세 소년의 살인 혐의로 충격에 빠졌습니다.",
+                "script": "호주 시드니 서부에서 13세 소년이 한 남성을 흉기로 찔러 살해한 혐의로 기소되었습니다. 평온했던 지역사회는 이번 비극적 사건으로 큰 충격에 휩싸였는데요. 경찰은 현재 정확한 범행 동기와 경위를 조사 중입니다. 어린 나이에 벌어진 잔혹한 사건에 호주 전역이 들끓고 있습니다.",
+                "original_title": "‘Do not break it’: Ukraine backs ‘energy ceasefire’ after Trump declares surprise deal is done - SMH.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDg2UGlBM09mM0FzeFhnczBWX2FSTXFOcGJ3TU52RFpCci1MdHR2djc3cDc0R2J6RzBSU0I4R1NFaUhxWkJOS0hRd3FJdU5aQjlGZzlPdW8xLTQxQllsZGI5eDZBMUNyd1BIZlE1ZjJxOGpNX2NFbndWZUtKUE43VGkyOXdSRl9CYnNUeExGRFMyeEhYWjRwWGY0UzNKQndlNFpnVlFlbXc1VUN5eEpnZ2NQMWw3V2VKNEItb0xLMnA?oc=5",
+                "pub_datetime_utc": "2026-10-11T16:36:40Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:52 KST",
+        "current_rank": 16
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "후티 공습 참사",
+                "hook": "리야드 공항을 강타한 후티 반군의 치명적 공격, 중동 정세는?",
+                "script": "후티 반군이 사우디아라비아 리야드 공항을 향해 무차별 공격을 감행했습니다. 이로 인해 다수의 사상자가 발생하며 중동 지역의 긴장감이 최고조에 달했는데요. 사우디 정부는 강력한 대응을 예고했으며, 국제사회는 이번 사태가 더 큰 전쟁으로 번지지 않을지 촉각을 곤두세우고 있습니다.",
+                "original_title": "Rentetan Serangan Houthi ke Riyadh yang Kembali Telan Korban - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVG1URG9lZHlGVUstaERJaTl1VzF5Z0c4d3V3X29nRFlsODJsZFB0Nkg1d3J5OFNoQmJacmx6LXdmY2lYMkJxb2tsXzJDNWJ1RXJma1ktVElmblJRaDlZOGs0NkRRYkozT29pV0pQdzFVbmxsUXdUZEF1eHFjdkhYQkJRZFhQLXFacDVLQ29kZFk2aXU2TEk0ZmxIYnFodGFLTkU0WnVXdmZVUXPSAbABQVVfeXFMT3FscE9aeTZxQUhxQjk2RV9zOVJBanJLTm5kcUxJR3YtMHdUMnA1dUwyMWZRNVVOMmtrUlhfc3FIY1ctTk1RaTJXVUI5cG1lbTEtY2twZ1pRMkg5OHp2eUZjLXUtTE05dzFhT2F1U2V5WkpCTEEwaGFCNVl6b29YT1lUWkZfWHRIZUl5SUhBbmxNU0laREhUYU9PeU5za3FuU1ZGSjNlWWs1LUZLQlpHM3g?oc=5",
+                "pub_datetime_utc": "2026-10-11T23:00:04Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:52 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "터키 대형 사고",
+                "hook": "마니사에서 발생한 끔찍한 교통사고, 11명의 소중한 생명을 앗아갔습니다.",
+                "script": "터키 마니사 지역에서 견인차와 관광버스가 정면으로 충돌하는 대형 사고가 발생했습니다. 이 사고로 11명이 현장에서 사망하고 27명이 부상을 입어 병원으로 긴급 이송되었습니다. 현장은 순식간에 아수라장이 되었고, 당국은 정확한 사고 원인을 조사하며 수습에 총력을 기울이고 있습니다.",
+                "original_title": "Manisa'da çekici ile tur otobüsü çarpıştı, 11 kişi hayatını kaybetti, 27 kişi yaralandı - Anadolu Ajansı",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeEQwTDVvQlFTWUJTMmlUWVhQSVh3Yk5WU25hOXZTdmJTbGRDUXJOaE1hSDVxRExzcjJQeGdjSzhwUHlRRHR1Q3I3eE5SUEIyZUN4Qnl1Wkp3RnBIRnFKd1AyWjItVzNkY3pITW4tbjNYOWMwN1hiMkx6aXh4X3NpVlR6SXJNNDVRNWNsSnRPNlhuRjFrd3E4WldZUlh3dXlpazZIQmFxTHMxYS1UekRqU25UNkl1SVJyeHpsYVlxOHdhZw?oc=5",
+                "pub_datetime_utc": "2026-10-11T19:09:23Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:52 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "남아공 긴급 재난 상황",
+                "hook": "폭염부터 화재, 강력범죄까지 남아공이 지금 비상사태에 빠졌습니다.",
+                "script": "케이프타운에서는 50톤 규모의 교량 보수로 극심한 교통 대란이 벌어졌고, 설상가상으로 대형 화재가 발생해 수백 명의 이재민이 거리로 내몰렸습니다. 동부 케이프 지역에는 강력한 뇌우가 예고된 가운데, 딥슬루트에서는 끔찍한 살인 사건까지 발생하며 치안 불안이 극에 달하고 있습니다. 정부의 이민 정책 논란과 경제적 난제까지 겹치면서 남아공의 이번 주는 그 어느 때보다 힘겨운 시간을 보내고 있습니다.",
+                "original_title": "Cape Town motorists face Monday delays as 50-tonne bridge section repaired - News24",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWllRNjlwZ3l4RDNZbjUtdjY2RE1leS0yb2xvMFdKSHRLeERLRWN4MHVLTl93Y24ydlQ5b0ppVUlMMHBqT0U3eXJGdDFlZnM2R1RZNGl1V3VwVDQzMHNtQnNEcXU1S3JqSFJBdFlIY2w1TEN4ZEp3VjdNMVlwY1ZSLTF4TUFSdWtnaE1EeG5BRzhZNUx4blJCbllPWDVpUUdPdE50LUZrUmFTckFubFR5OW1ZQWpBQUctQkQxOGU2NmQ?oc=5",
+                "pub_datetime_utc": "2026-10-11T20:06:11Z"
+            }
+        ],
+        "last_updated": "2026-10-12 09:36:53 KST",
+        "current_rank": 19
+    }
+}
