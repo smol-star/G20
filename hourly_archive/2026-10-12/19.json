@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프 에너지 휴전",
+                "hook": "트럼프가 선언한 에너지 휴전, 과연 유가 하락으로 이어질까?",
+                "script": "트럼프 대통령이 러시아와의 깜짝 에너지 휴전을 발표하며 국제 유가가 요동치고 있습니다. 하지만 공화당 내부에서는 푸틴과의 디젤 거래에 대한 거센 반발이 터져 나오고 있는데요. 과연 이 위험한 거래가 미국 경제에 어떤 파장을 불러올지, 지금 바로 확인해 보세요.",
+                "original_title": "Skies over Saudi capital Riyadh largely empty after deadly Houthi strikes on airport - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGszbTdESk0xU0twcE1ZOHg4VFpzN2lzeWQ0ZDJseVpKczh6cE44eTNOb3ZDS3dnVnZJN3RCNE1wVDI0djVodU41LTN3WkVIemI0NWlucWpKY0tvU3JMeEM2YVN1OTBsdW5mZDVXeWhFcXdyQ1pGRjBVNTR6SmpBSXhzSXRObWtSTjlYcEJzOUxsX2Ezb28yZ1FrU083bzNpNmd2VlpjUkxnaE5PdEliNWpxeU5QNkp1V1JmcXlFdUJ1S01zcHc?oc=5",
+                "pub_datetime_utc": "2026-10-12T10:03:57Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:41 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "부패 척결 총력전",
+                "hook": "중국 당국이 쏘아 올린 부패 척결의 칼날, 어디까지 닿을까?",
+                "script": "중국 중앙정부가 부패 척결을 위해 고위직 인사들을 잇달아 정조준하고 있습니다. 특히 사법 당국은 불량 식품과 뇌물 수수 등 민생과 직결된 범죄에 대해 무관용 원칙을 선포했는데요. 사정 정국이 가속화되는 중국의 현재 상황을 분석합니다.",
+                "original_title": "外交部回应对巴拉圭、伯利兹相关人员反制：对其加以惩戒以儆效尤 - 新京报",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xWU51MHExNnhHdldvcWpfWFRzcEtXakVHckdleVhCejRxYWpBcHZSWElmbkZVcDBFbDlqa011Z1M1eG9weFFEMy10dmR1d1M2NjRFR3NmcE1Sa0VKQWhTTG4zM1E?oc=5",
+                "pub_datetime_utc": "2026-10-12T07:28:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:41 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 새 장관 인선",
+                "hook": "독일 정계가 술렁인다, 새로운 노동부 장관은 누구?",
+                "script": "독일 정계가 장관직 사퇴 이후 후임 인선 문제로 뜨겁게 달아오르고 있습니다. 슈바이처가 차기 노동부 장관으로 유력한 가운데, 정치권의 갈등은 더욱 깊어지고 있는데요. 불안정한 경제 상황 속 독일 정부의 행보를 밀착 취재합니다.",
+                "original_title": "Nach Rücktritt von Bas: Schweitzer soll neuer Arbeitsminister werden - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2ZjM0tuWWZ6dWpReFJmMjljMUF5YXBRamprWm5POUN6dzFQUzJtdzYwdDJ1N05idnZqNFQyT1dRT0Utc0RYQmFfSUl3VXRDMHhVWVlibWZ6Mm5IVzV3YXJYbkRrY1cwam81YUJwVlV6U0JFOV9HV2hXTUloTzBVbVVnVzNOcllOSWYwQjZfQTBhYmFROFE?oc=5",
+                "pub_datetime_utc": "2026-10-12T09:16:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:41 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "북한 미사일 도발",
+                "hook": "일본 열도를 긴장시킨 북한의 미사일 도발, 그 목적은 무엇인가?",
+                "script": "오늘 새벽, 북한이 탄도미사일 2발을 연달아 발사하며 일본 전역이 다시 한번 공포에 휩싸였습니다. 한국군의 미사일 훈련에 대한 반발로 해석되는 가운데, 동북아시아의 군사적 긴장감이 최고조에 달하고 있는데요. 긴박했던 현장 상황을 정리합니다.",
+                "original_title": "サウジアラビアの安全保障、脆弱さ浮き彫り 国防「主軸」の米国、支援応じず - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DYjFfWGxnQ0kzaVd4RmdNUndiUDBZdjEwMDhzSjBMMlRKcy1CeTctRjJ6dktlb2hTYW1SY01vcXQyYllLM2xJYnNDR0R4MXR3alFWZ0pMY2FhWml1bzU0T0toZw?oc=5",
+                "pub_datetime_utc": "2026-10-12T02:44:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:41 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "노벨 경제학상 수상",
+                "hook": "올해 노벨 경제학상의 주인공, 미국 학자 2인 선정!",
+                "script": "2026년 노벨 경제학상의 영예가 미국 로버트 홀과 마이클 우드포드 교수에게 돌아갔습니다. 이번 수상은 현대 경제 정책에 새로운 이정표를 제시했다는 평가를 받고 있는데요. 전 세계 경제학계가 주목하는 이들의 연구 성과를 짧고 굵게 요약해 드립니다.",
+                "original_title": "Anti-CEC row LIVE: Delhi Police denotify Jantar Mantar as protest site; suggest three new locations - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElLMlliNTdTbzRTN0w5TGZBdE0xZVVrbzVLeURjM0gzaUktMVlMVVA0TmFSdVh5bTFLMWt6and4TDRrR3V3SWhRTHB3d3hNRWtZYXVOcFFHbHV4SUtIVjVpaVdWUS1tZllLanJlakZrYk9WUnp0R1VBQnpETXVtdVZCTmotOWR5cm5KZnZCTGlrb2hmN1VUQXBpOFpZZENXZU9fOFgwNU1pektGamhVYXZRQllYQjZXQlVsb0tNMUY2VDBueUxqOEJZOA?oc=5",
+                "pub_datetime_utc": "2026-10-12T10:49:12Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:41 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "브렉시트 러시아 개입",
+                "hook": "영국을 뒤흔든 브렉시트 러시아 개입설, 진실은 무엇인가?",
+                "script": "영국 정계가 브렉시트 당시 러시아의 조직적인 개입 의혹으로 발칵 뒤집혔습니다. 야당은 정부의 안일한 대응을 맹비난하며 강력한 진상 규명을 요구하고 있는데요. 영국 정치권의 최대 스캔들로 떠오른 이 사건의 핵심을 짚어봅니다.",
+                "original_title": "Yorkshire Wildlife Park remains closed after fatal tiger attack - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcS1WTFIzSkxKa08weXNSZjl5VkFjaTFWWk96NEkwZlAtNEJndl8tbVA5TTFsSHlBb3htWkEyY1E0cFJ2VmxHUVF4eEVXbGpXMXJjNlRsbVRKZEZKblE?oc=5",
+                "pub_datetime_utc": "2026-10-12T07:43:20Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:41 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "학교 내 총격 발생",
+                "hook": "평화롭던 교실에 울린 총성, 프랑스 사회가 충격에 빠졌습니다.",
+                "script": "프랑스 오바뉴의 한 중학교에서 학생이 교장과 교사를 향해 엽총을 발사하는 충격적인 사건이 발생했습니다. 현재 당국은 즉각 현장으로 출동해 수사를 진행 중이며, 교육 현장의 안전 문제에 대한 공분이 커지고 있습니다. 학교에서 벌어진 이 믿기 힘든 폭력 사태에 프랑스 전체가 경악하고 있습니다.",
+                "original_title": "A Aubagne, un collégien blesse un principal et une professeure avec un fusil de chasse ; Laurent Nuñez et Edouard Geffray se rendent sur place - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQYWVjYm96YnMxS0plSkE2QkdtVDAwRWRxYlhJbDFUNkc2MGs5dFBGSV9nVXZDektmLU1yU19uNmlXcDlwRkh2ek44RHJNSDV3RzZMU3NJM2FnQkd4OF9sQmhja2R0Ylpta1hzb3BNc2lVc1VvRW5xVFMyNFdDdUdqSFIwaGwyU1ZuSkdIam0wbEV3WERWazVNNmY5ZGNXLUkwbGUwbmJENmRzWmtXYlVZYjRudVpRVjZ4cldralRFbUZRdXRqcEhRZDNKX2t6bEs5RFc5b2FVQlJLb2JhR29FSWlHOUZWTTF3WjRBNVB4Y2pWR0RKa0RxTkRWVTd5QkNRcUV3a0poRjBCczBsUUZFZ3hPQUNNZEJlb3JFRDdQeDlSaEtwTXNseDVyNFkwVE5l?oc=5",
+                "pub_datetime_utc": "2026-10-12T10:19:32Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:45 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "동굴 속 고립 구조",
+                "hook": "사르데냐 동굴 아래 10미터, 갇힌 청년을 구하기 위한 사투가 시작됐습니다.",
+                "script": "이탈리아 사르데냐에서 동굴 지붕이 붕괴하며 청년 한 명이 지하 10미터 아래로 추락해 고립되었습니다. 구조대가 긴급 투입되어 필사적인 수색 작업을 벌이고 있지만, 현장의 지형이 험난해 구조에 어려움을 겪고 있습니다. 부디 청년이 무사히 가족의 품으로 돌아오길 간절히 기원합니다.",
+                "original_title": "L'intesa sul diesel con gli Usa esalta blogger e media russi. Ma l'Armata è ferma e i cieli pieni di droni - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnR3a2lCMzRMc2ZLd1J3T2RBcVJ0YkZFb0dvcTRsNklnc2FZY2t4YUVCR2RfaDA2ZlVDaHpmZElQRzhFWlhZZXpzSUhrcTBDbGRXOUdHdzR5WklieS1KT01Ca25uejhIeUVjUzFXdHVNQ2dVQkhnVFk5eFpxSmM4X3dCWmFqSEdyNlJkeWhMWnNpMkR4TmMyQzRDOTVPWW43T3M2UnpyblAzMC10MTlLWXJB?oc=5",
+                "pub_datetime_utc": "2026-10-12T06:11:15Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:45 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Nunes Marques atende campanha ",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Nunes Marques atende campanha ",
+                "original_title": "Nunes Marques atende campanha de Flávio e suspende canal 'Exército do Lula' no Whatsapp - CartaCapital",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1ZIT3RZaG1COTJ1Y0FwYUN1OWVTWmtmUlZ1dENEeWlub0xkblp6RXBDM19jbTRxUDFMZkppN2E1WVcwR2IxV0VrUkRJeV9QRDRRZzV5N0YzRXducDBoeENSc1F6M3ZzdGZHRlJMWEZwQzBWQ0d4elFUSkpzRmVRY0dZMkVHaVcyaGlmZmRTNWw1ZkVmbjZ2bjlhcElYakp1dUJxZVREYy1XYzNNazZidS1MbV8tQVgxVEFwUDQ2b255a1Rh?oc=5",
+                "pub_datetime_utc": "2026-10-11T15:49:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:45 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "분리주의 정당 당선",
+                "hook": "퀘벡의 선택이 캐나다 연방의 미래를 뒤흔들고 있습니다.",
+                "script": "퀘벡 주 선거에서 분리주의 정당이 승리를 거두며 캐나다 연방 체제에 새로운 시험대가 올랐습니다. 이번 결과는 단순히 지역 선거를 넘어 캐나다의 통합을 위협하는 중대한 정치적 분기점이 될 것으로 보입니다. 캐나다 전역이 이번 선거 결과가 몰고 올 후폭풍에 긴장하고 있습니다.",
+                "original_title": "Oil prices drop as stocks rise after Trump touts 'energy ceasefire' - Euronews.com",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnhINXRsZVZacWt1VnZWYkkxZlRSeUU1QVZoM3E2d0RVM00tWElyMTVKNzdNWGN3dmViQlZfb201MnowQ3dwSW54ekEyLTRmOUdVSmx4OHBORHlRZEVodmR5RjJrN3FwRVRWY05qeEVSYk1qbnhidjVKeGVmUmUwT1dPcm42NnlHU2FETm5ycU9INDVpaC1QNlZYbXZabnlLODktOXln?oc=5",
+                "pub_datetime_utc": "2026-10-12T09:26:38Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:45 KST",
+        "current_rank": 10
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "밤하늘을 가른 드론의 공격, 러시아 지역이 다시 한번 긴장감에 휩싸였습니다.",
+                "script": "러시아의 한 지역에서 야간에 발생한 드론 공습이 포착되었습니다. 러시아 방공망이 즉각 대응에 나섰지만, 최근 계속되는 드론 공격으로 인해 주민들의 불안감이 극에 달하고 있습니다. 전쟁의 여파가 러시아 본토로 점점 깊숙이 파고들고 있습니다.",
+                "original_title": "У Трампа в соцсети настало энергетическое перемирие. Комментарий Георгия Бовта - BFM.ru",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBJaXAtLXZsckVDc2lXMmt6enNxcEE5U3NaUEF6VEpyT0MyVUo3UkVDUjVyUW9PS3NNZWlKTWJQMjhONkZR?oc=5",
+                "pub_datetime_utc": "2026-10-11T22:26:06Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:45 KST",
+        "current_rank": 11
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "허리케인 사이먼 북상",
+                "hook": "강력해지는 허리케인 '사이먼', 멕시코 태평양 연안에 비상이 걸렸습니다.",
+                "script": "허리케인 '사이먼'이 세력을 키우며 멕시코 태평양 연안을 향해 북상하고 있습니다. 당국은 즉각 예방 구역을 설정하고 주민들에게 긴급 대피와 시설물 점검을 당부했습니다. 이번 주 멕시코 전역에 강한 비바람이 예상되는 만큼 각별한 주의가 필요합니다.",
+                "original_title": "Huracán 'Simon' se degrada a categoría 3; mantienen zona de prevención en el Pacífico - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzJVT3BkZU9yYmUyUl93cmZQSE5BU0ZnTF9IZ0tKVlU0R0lNRWxhTnl6UHZ5OGdGRFo4NThNa09USEVLRWRCZW4zWDdOcXBDelJRT2locHdiaGk2cEtESGJXd1ZqS3dTa01ib3RYaW9QNVRwS1hPTTJJTDJrT1FrUzBsdV9uRmMyd2RYZ0JZY2E5eWYzdkI5Z2p0SUc5NVFFdmx4Y3R3NUt1Y2QzMWZReEpkbFNWRGJTUnpvbXd1WllubDJaalVadUxKaUNKU1lKcUE?oc=5",
+                "pub_datetime_utc": "2026-10-12T00:37:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:45 KST",
+        "current_rank": 12
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "경찰차 추돌 사고",
+                "hook": "평화롭던 도심을 덮친 경찰차, 한 남성의 생사가 갈림길에 섰습니다.",
+                "script": "호주 리밍의 사우스 스트리트에서 경찰 추격전 도중 경찰차가 민간인 차량을 들이받는 충격적인 사고가 발생했습니다. 이 사고로 차량에 타고 있던 남성이 생명이 위독한 상태로 병원으로 이송되었습니다. 당국은 현재 추격전의 적절성과 사고 경위를 면밀히 조사하고 있습니다.",
+                "original_title": "Australian man agrees to plead guilty to one charge over Thai teen's death - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzVNejZXU0xUWVo4ZWMwQ29NTVo0RzdVV051a2tkcGk4TXNaN3huMlZncVMwS3U0RU9NdW0wSmpxUkE3R1U4VW5zVGVvLU5KM25rYW9sWDBZa29hMnJfSGFDVHphNVkyd3duM2FjeGpKczVBUThWZ1N6WFc0azNpRkIxMlNrUFZjNFlHNEd0Qmw1V0RYcVRRaFlzRERRYWM?oc=5",
+                "pub_datetime_utc": "2026-10-12T06:36:11Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:52 KST",
+        "current_rank": 13
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "북한 탄도미사일 발사",
+                "hook": "도발의 수위가 달라졌다, 북한이 극초음속 미사일 발사 4일 만에 다시 탄도미사일을 쐈습니다.",
+                "script": "북한이 한국군의 무력 대응에 맞서 탄도미사일 두 발을 발사하며 한반도 긴장감이 최고조에 달했습니다. 전문가들은 이번 발사가 단순한 훈련을 넘어선 노골적인 무력 시위라고 분석하고 있습니다. 군 당국은 추가 도발 가능성을 예의주시하며 철통같은 대비 태세를 유지하고 있습니다.",
+                "original_title": "민주, 한동훈 딸 봉사활동 '대필 서명' 의혹 제기‥재수사 촉구 - MBC 뉴스",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YS1ZRTF9xdGVpbVNWWnpKczRDa2I1N3A4bllxSVNKUzA0VzBZQzJfcVgyT3Zab2dwSlhpRFoyeTdMaWhPT21UbWJnemtwcDFyTENHclpjdG5SUEJoWU12cmhoSEV5SlBJZlF3eU1CSXNfS21CWnhjdtIBeEFVX3lxTE1oMENNaWVweXU2MXZqNFJZc0xRd1NWbHVBdjAwY1NlM0c3Y2ZuMUFYaVJiWF9KVnE4NXhDMEp1V2FVUGgycF9EQng5UFdXOXNBNjc5LXFROFZIRG1lLUxJMC1FajZpUEZJZ0dObWwyVmJMZkFzY2lEOQ?oc=5",
+                "pub_datetime_utc": "2026-10-12T08:01:42Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:52 KST",
+        "current_rank": 14
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "산불 대응 총력",
+                "hook": "인도네시아를 뒤덮은 검은 연기, 대통령이 직접 칼을 빼 들었습니다.",
+                "script": "프라보워 대통령이 산불 사태 해결을 위해 경찰청장과 주요 장관들을 긴급 소집했습니다. 확산하는 산불에 대해 말레이시아 등 주변국이 지원 의사를 밝혔지만, 국내 대응 체계 재정비가 시급한 상황입니다. 당국은 이번 사태를 국가적 비상 상황으로 규정하고 즉각적인 진화 작업에 착수했습니다.",
+                "original_title": "Potret Bandara King Khalid Arab Saudi Diserang Houthi Yaman - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS3puWHBTOHlMSURoZ0ZoR1JKd0tra2tRdUV4bHM1dTJWeVBxVWlJeGhZc1JGb1BtMlVIWnkzVWtIMUhYbnVVdVJ4bElCSDlUbWFzUU8xdVY4QzFCMW9WYzZwUERWZUI4VnVMWHBtTVR4T3RYWjBZcmVUbkc1TDRMWWRFdWNSNDF5SDF4VVdGU1ZlSVMwY19iNFZLSkNoLWM2aDJWTNIBqgFBVV95cUxONHRCV2thUElkNFBsRVcwaGNtc3pxN25SdlFROFRLWGNWUWYxWGV1Wk01bWFBak42YUt3NWxDS25Qelg0TDFNX1ExVlJRX2RENU9WbnJmYlhQTFh4bklGZndjZUljRkRuUDVvaHhxaTBwQW0yX3lhQTI1bjlLYnpra2Z5blVzM3B6cE0zMW5BUnJnSGdNLVBGam10LVVObERWNXRTUlBVQVJMdw?oc=5",
+                "pub_datetime_utc": "2026-10-12T05:30:27Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:52 KST",
+        "current_rank": 15
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "공항 공격 비상",
+                "hook": "하늘길이 멈췄다, 사우디 공항을 향한 후티 반군의 치명적인 공격.",
+                "script": "사우디아라비아 킹 칼리드 공항이 후티 반군의 탄도미사일 공격을 받아 운영이 전면 중단되었습니다. 이번 공격으로 인명 피해까지 발생하면서 사우디 정부는 강력한 보복을 예고했습니다. 미국은 사우디 내 자국민들에게 즉각적인 여행 주의보를 발령하며 긴장감이 최고조에 달했습니다.",
+                "original_title": "استمرار إغلاق مطار الملك خالد.. وإشعار أميركي بـ\"الحذر\" - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNaF9aRUVUWnQxMWVsOGcxR2VuN3dXd1F0NE5SOFBVYVNMRFppOVdSV01ReUxZcEtJVWJ3OVJLUnJnNGZ0TktuSFFoZ0d1LUNHeTh4YWd0SE5NVmNRcXVDdncydklGUVktSjM5VGRnbjRacllVRW9uMzVHR0phR3VSSnpnSWo2UXFTNVRuc3Z1MWczZG9LemlVQzFJZUZnZTlSM1ZQSmJ6UkRFVlBHb250eTNvOWZnOUhZMGxkbDNtQnlDb2RXQzM0ekhWSm1UcEM3S0RmaldvcExGVk9OQks2OHRLRk5jaGliWVZhcUdoYjZpeVh6c0RHbVFiMVRJWUUyZG11TTd0Ykh6VjNITkxNS00wcjZMTTNSZXowT2JxR3hXb0hxVEdjdUxpU0x6eFduUkpIN3JJWFpRMWdpUTVHWm4yZmhBdktUZkJndjc3LXlHVHJ6SG1Fa0g3WGJSUjJUUmdPX1MwMmw3Q2EyLU9IM0kyMG9WRnNTN2JZWl9HU21waGNjV1lnVFJvT0NOWF9nbGJVc2tMcDZSZHlMSXUzbVphbFpCZ2xOR2hCNEcxN0RLR0FVdVJNbkhXRjV4Vmhac3fSAccDQVVfeXFMTXhSMmhheVB2WjlWb0pqaEFINnFvMDNlYU9GanQ4cFY1Nnk4bGwyNk5QUnZHRnFmdlJOLXRITTl3eVYtQms1YlZZZVpzcEQ3bWxjbkJrbEpBb2JlcEZFelpEeFhlckRHaTBWTU5tbzRDbDdtR3lpUzNPbXpFOFlacFlBYTBYZ19BV1ZIVkFpS1JjengyblludWRvaXVSYU8yZzFqRGJJNU5CWnREQlFXTWx3Sy1xTWYzeFdRVlRienRNSzlIanUxQ0h2NkpmRHZRekp4d01rcFExZVNPWFprNXRXcVROWm1hc3hyZHNJUWEwTUN1MG5HaUp3NEtta0tKWG5iendPZ1FZTkM4dUo4dk51WHBmYzVxcWNSR2JzQ0haVEtmSXlPZ3FSWHhNQnFRMkwyMDlYRGRzakQ4WHprUzJnZjZwYUowYkxmMGtfb3oxNFFLcWN2ZmVUSEpkaGMwSFdnNnk5REZKVmpqTjJ4TFBEclpZZGxGTDhMZWZDUUkyWlh0Qk5JMDdiblpNV2xaQXpRY3pPdUtQQWN2Z0M0WGlLYlJtYkRpdjlsZVRmcGZvLUxZdXFEbE00dHBGSWlidmI5VnZZSFE?oc=5",
+                "pub_datetime_utc": "2026-10-12T06:16:04Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:52 KST",
+        "current_rank": 16
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "후티 공항 테러",
+                "hook": "순식간에 아수라장이 된 리야드 공항, 사상자 300명 넘어.",
+                "script": "후티 반군이 사우디아라비아 리야드 공항을 겨냥한 대규모 공격을 감행해 12명이 숨지고 300명 이상이 부상을 입었습니다. 이번 테러는 국제 사회에 큰 충격을 주었으며, 각국 정부는 일제히 규탄의 목소리를 높이고 있습니다. 현재 현장은 구조 작업과 함께 긴급 대피 절차가 진행 중입니다.",
+                "original_title": "El Encuentro Plurinacional de Mujeres y Disidencias copó las calles de Córdoba - Página|12",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjdYbDhiNkU1N0xNVEF4R2FrMnhvMm04MVA5ZUw1VzlXSnhJYUtfSlNwckwyRnE0VERTbWt6UXZlOVNMSUZPU0VYLXEwd1diWEpsMGM3dXRmN3kzREstX2EyT2x3YnRsekhISEhxVy1zWlJiWlZjS2swOVpaM3RraVBNbExCbFgtZEFBbXJRYjRwblQybmhzU19fcDNkT3BsLXlmc2w4clUweDB5R1ZaWjl1M1BqYzQxcUE?oc=5",
+                "pub_datetime_utc": "2026-10-11T23:01:00Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:52 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "버스 전복 사고",
+                "hook": "여행길이 악몽으로, 안탈리아 도로 위에서 대형 버스가 전복됐습니다.",
+                "script": "안탈리아와 이스파르타를 잇는 고속도로에서 승객을 태운 버스가 중심을 잃고 전복되는 사고가 발생했습니다. 구조대가 즉시 현장에 투입되어 부상자들을 병원으로 이송 중이지만, 정확한 사상자 규모는 아직 파악되지 않았습니다. 당국은 과속이나 도로 결빙 등 사고 원인을 다각도로 조사하고 있습니다.",
+                "original_title": "Toplu taşımaya bilet fiyatı sınırı geliyor - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTG5nRmNTTXZFN1dNVmRBQndhTVFvaGlxWnk0dmFBYUNMb1l6THpORWl2VEl3dkVqcnZYNF9QRmxnLTBoZTMwejF6amlwX05GaWNYUWhvNDQ3R1JOSlBiUmVrSlFORFJibW1xc2cwb05Uc1E1dXNWdHlwaXBqd3o2TjlSbVdvcHA1?oc=5",
+                "pub_datetime_utc": "2026-10-12T08:12:14Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:52 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 강력범죄 급증",
+                "hook": "평화로운 일상을 위협하는 끔찍한 범죄들, 남아공에 무슨 일이 벌어지고 있나요?",
+                "script": "최근 남아공에서 끔찍한 살인 사건 용의자 4명이 검거되었고, 충격적인 성폭행과 영아 살해 사건까지 잇따르며 치안 불안이 극에 달했습니다. 정치권은 내분으로 혼란스럽고, 수험생들은 입시 과열 경쟁 속에서 고통받고 있습니다. 사회 전반의 시스템이 흔들리는 지금, 과연 남아공의 미래는 어디로 향하고 있을까요?",
+                "original_title": "Breakthrough in Elizabeth 'Tsontso' Moselakgomo murder as four suspects arrested - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTkhqaWdCeXZ2LU1KN2duakE4U1FUaC1CUThQV2xRWHQyakxkQlVOcDFOeWdGTXNOeERBaWJZNGM0cFRFS0Y4ZzdaYVR0Y19WcDZlS3F2b05Cd1VpbVVpdGZEX3ZBbEFrazFvbDFydE5rSU5ZWTJKdnp5a3VIUlVic3hhSG81Xzh4ZFR4Q3hZTWVJbzZwNU9MYkJZUmJIazloVUtTMDBMSVB4WWY5QmVN?oc=5",
+                "pub_datetime_utc": "2026-10-12T05:36:50Z"
+            }
+        ],
+        "last_updated": "2026-10-12 19:58:55 KST",
+        "current_rank": 19
+    }
+}
