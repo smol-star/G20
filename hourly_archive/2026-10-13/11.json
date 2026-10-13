@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "식스플래그 롤러코스터 참사",
+                "hook": "즐거웠던 놀이공원이 순식간에 아비규환으로 변했습니다.",
+                "script": "조지아주 식스플래그에서 놀이기구를 타던 남성이 추락해 사망하는 충격적인 사고가 발생했습니다. 목격자들의 증언에 따르면 탑승 중 갑작스러운 사고로 현장은 즉시 통제되었습니다. 현재 경찰이 정확한 사고 경위를 조사 중인 가운데, 놀이공원 측의 안전 관리 책임론이 거세게 일고 있습니다.",
+                "original_title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjdzXzdVOVh5OVVkeXRrSlNpQXBuMTBWQzhqRDUtbG9uY1ZET0trR0xXNmlIQUhBY1hRS1BsVm8yRENMUE1MZTRxaEtsUmFoaEFUSXFuTXpqeVpqMHd5a1ZYOEtnT3ZvV1NhNmZYMUg0WnlGenFVal82aFp3c2psT25Fc0dRSUNWbkNobw?oc=5",
+                "pub_datetime_utc": "2026-10-12T23:10:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:12 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 항공전시회 개막",
+                "hook": "하늘을 수놓을 역대 최대 규모의 에어쇼가 시작됩니다.",
+                "script": "중국 항공전시회가 30주년을 맞아 역대 최대 규모로 화려하게 개막합니다. 이번 행사에는 1,100개가 넘는 글로벌 기업들이 참가해 최첨단 항공 기술을 선보일 예정입니다. 세계의 이목이 쏠린 가운데 차세대 항공 무기와 우주 기술의 향연이 펼쳐질 것으로 기대됩니다.",
+                "original_title": "长征精神薪火相传 - 求是",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CTUJrUDJoX2phS3laZTJoSENQenV3RlRINUJ0MFVqeTZ2SmJreVViWXhyd3JPM2FpV3pTVWZnTlRYZ0pQNU96dkg3Q0g4ZVdVUUpsMEl4aGlKNDUwZlk0ZXYwMGJrU2dFWEo0bXNZM2tXaHowdDhVYVp5OXQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T00:43:49Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:12 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "나토, 러시아 대응책 마련",
+                "hook": "러시아의 위협에 나토가 구체적인 방어 카드를 꺼냈습니다.",
+                "script": "나토 최고사령관이 러시아의 공격에 대비한 3단계 대응 전략을 공개했습니다. 유럽 동맹국들을 보호하기 위한 구체적인 작전 계획이 수립되면서 긴장감이 최고조에 달하고 있습니다. 유럽 안보의 운명을 가를 나토의 이번 대응책이 어떤 파장을 일으킬지 주목됩니다.",
+                "original_title": "„Rente mit 63“ vor dem Aus? Möglicher Nachfolger lehnt Bas-Plan entschieden ab – welche Jahrgänge es betrifft - Frankfurter Rundschau",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXNKWFAyUzdpWUxiekN6MmZGS1E4dDZHZDExOGFYNkxpZzRTM0VTQTZZQl9rdmE3d3FNa0g0Z19NRU9sQUFFa1gydVhtY1JnZDhTX29sM2JRcFB3YUU4Q09BX04ydEtlV3VXdUN2U3cyLVlIVVlqQTJ3cmJsX3RpVUxyWkFBc1lCT3VRVjd0MHNMQ3FrU2ZwX3NlX20wUTZLdU9sOEtkdXpJeHhYOFE?oc=5",
+                "pub_datetime_utc": "2026-10-12T10:40:41Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:12 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "요코하마 흉기 피습 사건",
+                "hook": "평온한 식당에서 벌어진 끔찍한 흉기 살인미수 사건.",
+                "script": "요코하마의 한 음식점에서 남성의 등을 칼로 찌른 쿠바 국적의 남성이 경찰에 체포되었습니다. 가해자는 살해 의도는 없었다고 주장하고 있으나, 경찰은 살인미수 혐의를 적용해 조사를 이어가고 있습니다. 일본 사회 내 외국인 범죄에 대한 불안감이 다시금 고조되고 있습니다.",
+                "original_title": "プラスチック工場の倉庫火災 丸一日経過も消火活動続く - テレ朝NEWS",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iMEZ6d1Y1SUlpUFZzbHZlMUpjaTgzcTU3MlJQc1E1NE5UclExMmZmTDNsX0wtWUJ0TVo3RlIwWlBMTkJRSngtZHB5YjFITm8wby12LUVpaDkycTNrdE1Demt6eUVFYk1GWHpTS3k0MmdwZw?oc=5",
+                "pub_datetime_utc": "2026-10-13T01:46:14Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:12 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "파리 시장 화재 발생",
+                "hook": "파리 명소 '앙팡 루주' 시장이 잿더미로 변했습니다.",
+                "script": "파리의 역사적인 앙팡 루주 시장에서 원인을 알 수 없는 대형 화재가 발생했습니다. 소방관들이 긴급 투입되어 진화 작업을 벌였으나, 건물 대부분이 전소되는 등 피해가 막심한 상황입니다. 현재 부상자 발생 소식과 함께 화재 원인 조사가 진행 중입니다.",
+                "original_title": "Collège d'Aubagne : \"Qu'est-ce qui va changer demain ?\", demande le Syndicat national des lycées et collèges, qui appelle à \"arrêter la politique de l'excuse\" - franceinfo",
+                "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNUUg5RThCRHRtNjJLa1kwZnJIMy1pTjlHOVBWU1pObktXaGRQcE1sWUE2NlFMUlNiLXdXOEJDbndQcUxuSU1GazM0VzJQRmowSzZpeEppWnV3SGV1dTUzSWVHaE5KWmpnQTNOa1hXczBOQWZMdVduOWhaQUNEMlAzRHA1QXJ3cFlsRXBQelBjQ2lZdi1jNmk0elYxb3p3dlFBcWVkc2gxaEx6Wi1jdHlhM093R0FfNDNhcldyY0xKWlVkbjBNSGotWW05RjhPdGRaa01QdjBlUUpWMlhNOTJVOUJnak9wNW5CVVZiakItSDlOTi03bFhqMDNqUG1tcER6aTdjZGhGQnNvVnBFNUY5ZTdjTkF1M1BnTU91LTBRZERHRl9fdFNV?oc=5",
+                "pub_datetime_utc": "2026-10-12T20:02:18Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:18 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "살비니 대표직 사임",
+                "hook": "이탈리아 정계가 살비니의 갑작스러운 사임으로 들썩입니다.",
+                "script": "마테오 살비니가 당 대표직에서 전격 사임했습니다. 이는 재출마를 위한 절차적 필요성에 따른 것으로 알려졌지만, 이탈리아 정계에 미칠 파장이 상당합니다. 향후 당권 경쟁과 정치적 셈법이 어떻게 변화할지 관심이 집중되고 있습니다.",
+                "original_title": "Louis Prevost, il fratello (Maga) del Papa: «Pregate affinché non ci siano ulteriori complicazioni. Sono certo che si riprenderà» - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWs1WGlHU2NmZmFfOUJLbW44THNuWTN6QmN3SnBUU3V6SzJkUzBTX2lmZWpLMVZudVdycVM4dnVoZURfSVQwckRDMTJPLTVDamJ4cC0yZi1xcEZCN09iM0JsZ09pU0dnUVhUemRHYjRoRkdGdzloVWdCTG1vVk96bFVBX0ZfRjhlbmtBRUlPaEF2a1hqeFNYRWNaaWJTNzMtaTlOSmtLRUxmWndCUnRjMzhFNXAwQdIBuwFBVV95cUxQY2xOM2xYQU9lcFBlOUpvWjYzRy1PelBERDF5VWRfTmVpRFJRVGNmQTRjVWFvb2RjZ1VXRWp2NVY5VEZzUVUwZUdnSVJoMTBGVzU2YUEwWVFDeGZuQzNMWFkzeWJPZGhpTzlfSHdFOENNTXktN3YzRXhGUV9vX3FqU19UMWFjZVJwT2RxSS1FaThkbDhJM19SVnc1R3Q4S0VnbzRaVWdTb0RyQ0h1MUoyS0lIWlJpck9hcHN3?oc=5",
+                "pub_datetime_utc": "2026-10-12T16:31:10Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:18 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "브라질 대선 열기",
+                "hook": "룰라와 볼소나루, 막판 표심 잡기 총력전.",
+                "script": "브라질 대선이 결선 투표를 앞두고 극도로 과열되고 있습니다. 룰라와 플라비우 볼소나루 후보는 종교계의 지지를 호소하며 지지층 결집에 사활을 걸고 있습니다. SNS상의 허위 정보 논란까지 겹치며 브라질 정국이 한 치 앞을 내다볼 수 없는 상황입니다.",
+                "original_title": "Nunes Marques apontou descumprimento de acordo com TSE pela Meta ao derrubar ‘Exército do Lula’ - Estadão",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa0NpUlIweXA4ZmY3OHQ5dDFPd3NYNWNDR0xIaXJaSlA5MHlGVnNjNzZYT3dBNk9SaWVaZUw2RGQtTjZBZU1yRXk1OUZ0cjNPNTZLZ3hVRkU0X2hLYkRUY3U3YlhSNEpIRUV4V1RCYkZ4ZWRQRnVMUXVJR0RsWW4ybXJLRVJ1R2U4T0VRQWZ4OEJRYnc2c0hLNzlWd0VGSGVaajZDcHRXQVhuMEdCMU4yNFlnOXk4Nm1qUFoxdUVzclRpRUFJdEZrY2txQlNOLW1TRjJpNFN30gHbAUFVX3lxTFB5aW9qU3UwNW8zdGlzNFJHQmxXYlVyV3hRVTR3WkxNYW4wdnV1Q08yZFBrMWNHWDF2cHVOaDJMb2dNMnlnbGhkSDR1ZjJrSUwzOFJ4Z1VFUlJwcHJXNnBNSGZqRnFlM2J6cHBfSHFUOEtOdGdULTJLT1hJeVBfMW1DM1ZrcVU3STdFc0J0RlRRRkFmWllKZUN4eGp6SVdzaXJFVG9uWDVRTEt6bXR2TzZrZ2xXT0tScmRzRFU2aWVpRFlOWFQ1RktaZVV0Vnl6YU1fYWdlT055VlFXRQ?oc=5",
+                "pub_datetime_utc": "2026-10-12T21:51:28Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:18 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "에너지 휴전 가능성",
+                "hook": "트럼프가 중재하는 러시아-우크라이나 '에너지 휴전'의 실체.",
+                "script": "도널드 트럼프 당선인이 푸틴 대통령과 젤렌스키 대통령 간의 에너지 휴전 합의를 이끌어냈다고 주장했습니다. 하지만 현장에서는 여전히 공습이 계속되는 등 긴장감이 가시지 않고 있습니다. 과연 이번 합의가 실질적인 평화로 이어질지 전 세계가 지켜보고 있습니다.",
+                "original_title": "Трамп заявил, что Путин и Зеленский поддерживают идею энергетического перемирия - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MQkFVbHlEdGtqeXdDbmdOcWhFQVllRVFWRTFvUDloT0R1OS1jUGV4Q1ZJYXVPVHJ4Z1JGSnZiamRzQk5oaHF3Yy1xZHhBZ9IBS0FVX3lxTFBKaTc0Z2VjcHZfMjhzeWowRzBRNmF5QkJoN2c3UWkyekFESlBWUkFGNjVpVm90U2tQeHJ4cXAzYzV0Qm1tYmJ4OW5Jcw?oc=5",
+                "pub_datetime_utc": "2026-10-12T21:30:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:18 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "시드니 붉은불개미 비상",
+                "hook": "호주 시드니 도심에서 치명적인 독을 가진 붉은불개미가 발견되어 주민들이 공포에 떨고 있습니다.",
+                "script": "호주 시드니 서부 지역에서 치명적인 침입종인 붉은불개미가 발견되어 당국에 비상이 걸렸습니다. 이 개미는 쏘였을 때 극심한 통증과 알레르기 반응을 일으킬 수 있어 매우 위험합니다. 현재 방역 당국이 즉각적인 섬멸 작업에 나섰지만, 주민들의 각별한 주의가 요구되고 있습니다.",
+                "original_title": "Invasive deadly red fire ants found in Sydney’s inner west - SMH.com.au",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1hJRGtqeWcxOXV0aUtKcWJuWUM4NDhtTFB6Y3FKSVNISkpCcnd3c1JsNFZMaENXRFEyV2x5RU9QTEl6SUtCNVh3YkFsN3pEY2ZmUVllMmNGVUt0MXdFSWo0MTRQQkdrTVNSOERZTTNEN0hYTExsd1lUOWFsNWZ0UDM5Q0xPWUdEWVdYRWpKRlhKSERwVXQxSlUyNmRTcjJZSXFJWlJPak1yUFgxNWh1U3Iwc0ZIUQ?oc=5",
+                "pub_datetime_utc": "2026-10-12T22:57:24Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:25 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "우크라 파병 북한군",
+                "hook": "우크라이나 전쟁터에 투입된 북한군 포로들의 한국행 가능성이 뜨거운 감자로 떠올랐습니다.",
+                "script": "최근 우크라이나 외무장관이 북한군 포로의 한국행은 종결된 사안이라고 밝히며 논란이 일고 있습니다. 우리 정부는 북한의 파병을 강력히 규탄하며 외교적 대응책 마련에 고심하고 있습니다. 한반도 안보를 뒤흔드는 이번 사태의 추이를 지켜봐야 할 시점입니다.",
+                "original_title": "강경화 “백악관과 소통 한계…미, 정보협력 문제 해소 안 됐다고 생각” - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42N2hvRGVndnM3TTg1UTdoYnVvb2xHelJHUXFkWXRFcDRieGhWUGVfaUZ2aXpqU2ZOZnFhdlZybGlXRzk3Z1lSRXN3dWs0Q2FOdzZwM3A5cG5EeUdDUkp6QVFRMVFBOVFDdGlvX09Hbw?oc=5",
+                "pub_datetime_utc": "2026-10-12T22:51:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:25 KST",
+        "current_rank": 10
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Bandara Riyadh Diserang, Komis",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Bandara Riyadh Diserang, Komis",
+                "original_title": "Bandara Riyadh Diserang, Komisi VIII DPR Minta Jemaah Umrah Tak Ditelantarkan - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0pCRzN3dHVrWnpDSXFrRUdwajJkbTdPc2cyUVR0RmtQSnZDcjQ3R3d0Nmo1RTF4UURJcDJWRGRJMXpoWHp2SC0tVTc1Rm9BSWhBMHJxR3JnMjZwQnA4alpuMzFpSTlTM29tLTlQd0Nnel84NmlhLVVsSHVWUVUwZ0NUbFljMno2RElPUm9MNG9TQmNMa2V5WDFyZ1BIRGVDUEpXamdDZ0VfakwtYTNjWnUxYUJRYzjSAbwBQVVfeXFMTW8ycXZmZEdVT2tXdUNzWjk5WlN1dnMzSTFXOHJ6ZTdJSUgxZmV4REViWnNQZHNIWUZvZzRrSzRNX0QyVS1yUGZ6S3U1QmttTzQzTXFxRGdFTE1sTkpZRDdoR2gwdmRvUjRmcTA1S1c2THZsY2FfZXZuSm1OVmlLenBRUU9xb290RDNXQ1Jadk1uQm1acVgwTWpPWE9UaDNaS1NGUVEtYTB6WlVJblo2V2h3cHBpbGFEWG5KcE8?oc=5",
+                "pub_datetime_utc": "2026-10-13T01:18:21Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:25 KST",
+        "current_rank": 11
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "아르헨티나 인플레이션 위기",
+                "hook": "아르헨티나의 치솟는 물가, 9월 인플레이션 수치가 다시 한번 경제 위기를 예고하고 있습니다.",
+                "script": "아르헨티나 통계청이 9월 인플레이션 데이터를 발표할 예정인 가운데, 민간 전문가들은 물가 상승세가 다시 2%대로 반등할 것으로 내다보고 있습니다. 경제난이 지속되면서 서민들의 고통은 가중되고 있으며, 정부의 경제 정책에 대한 국민들의 불만도 커지고 있습니다. 아르헨티나 경제의 앞날에 다시 한번 먹구름이 드리우고 있습니다.",
+                "original_title": "“Nos vemos pronto en la Argentina”: el mensaje de León XIV a un obispo argentino antes de su operación - TN",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2hEQTQ3OFRoc3ZrRGhkTzQ2Z0lBWFVKNE1tbjFEN1ZDTDVETE5UOW1yYjI3LWt6YkxfRVNjenc2NHBCdDBhVzVqS0plemsyYWl6M2MwX3N3YzlFa2x2YVp6NkJ6N2FzMnVaWE16aDRFUzhiSnRoUVhIV05zSzQwMlpPbmhTSXZVNnF0N1dGMXAxTnZYM2Nrdm43TS1xV0R5Vm9pZEJZWDhNN2ozQlk2MndzaklmY0dULTJkRzJLYmZxUEkwQXRvWGFxS0ZrZjI1MlZubtIB6AFBVV95cUxPUlNneTF4eVdaRmZKaFlqa1oyX0FFOWdGcXdXX1U2MlFTSjJJRHBWRXc5ZGVteGlHb3lRcXpFX2J4NUlNOC1heUlqU3hpdE8wWFZBOW9xMmgxSkQ1cXpIN3FfTUhITklyZU1XTTczdFJyUk92WU02SjdCYl9GTjlEajhRSFhNY0VBRGU3N3dUbGdwbkZYbFJrMGlxNWdYWS1PQnlJOEhNTlZ2VXVkWl81RjJ3N204SmsxcXlZMjZ3VVZfQ1dxZ3gyeFZLd09BZG1NUE42Z0ZXT1hmdlBRRWhLMHNoR0dzWFA2?oc=5",
+                "pub_datetime_utc": "2026-10-12T15:56:52Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:25 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "남아공 외국인 혐오 격화",
+                "hook": "소웨토 상점가에 떨어진 7일간의 퇴거 명령, 남아공이 분노로 들끓고 있습니다.",
+                "script": "최근 소웨토 지역에서 외국인 상점주들을 향한 강제 퇴거 압박이 거세지며 사회적 갈등이 폭발하고 있습니다. 온라인상에서 번진 외국인 혐오 정서가 실제 거리의 위협으로 이어지면서 당국의 통제력이 시험대에 올랐습니다. 경제난 속에서 외국인 노동자를 향한 적대감이 극에 달한 상황, 과연 남아공 정부가 이 혼란을 잠재울 수 있을까요?",
+                "original_title": "WATCH | Gwede Mantashe accused of undermining COSATU - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OeWRzVFhCLTFOR2I3NUEzVVBPc3lyQjZQZUZVWFRfaGU3WkwzWXNmZTRycWQ2eXpGeTBTTkVoXy1mc29FVlZmZC12T2UxRkxkN3NiajZzWTc1RWU2VFdVTjc0M3lCdnNaVTNNRnl5VXZYb3ZGZ2czaUFtUGk0dw?oc=5",
+                "pub_datetime_utc": "2026-10-12T18:19:03Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:27 KST",
+        "current_rank": 13
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "델리 시위대 강경 대응",
+                "hook": "델리 시내 곳곳이 봉쇄되고 있습니다. 무슨 일이 벌어진 걸까요?",
+                "script": "델리 경찰이 잔타르 만타르를 시위 금지 구역으로 지정하며 강경 대응에 나섰습니다. 대법원의 판결 이후 지하철역이 폐쇄되는 등 도시 전체가 보안 비상에 걸렸습니다. 정부와 시위대 간의 갈등이 격화되면서 시민들의 불편과 불안이 극에 달하고 있습니다.",
+                "original_title": "How BJP, Modi government step up to counter Delhi protests - The Indian Express",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkpYeVJXemZxTHJBakQzMTRETmMtYzNjVDFhb09QSC1KX3FHT0VOMUE1Vnd0R2RVWEM4ZGR6MGNMUk9BZmtVM0tHbVZvQkZLRHk3azU0WXMtamd6aUpVVERFVE9aYWJKOFd5Q2ZCcXRZcEF4UFJtREhVOEh2SThKQzdPVG53alUxS3duRXkyVXRUZ1FVMTlPZmhpOGxCMVhvVEMxeGtYWWc0MEZfQktNV1BHZ3BwckFnTWZDVlN0QWNaZ0RVWjY2SDJONNIB0gFBVV95cUxOU1NKUnV1UVE1eFVtZFZtLXd0NnMxN01SZ0ZkczdLT2lXeTFNUWxRTTVGcVdMczZFMWdmVlozUklxMjV1RXctVG0wTy1BUnpuMEhJOUFJT0p4a1l5ZDN2dE5tSTQ5Tkl4R216S0hsWWhHZzJIZkpfUEM2ZnM0SVpEOHE4dnk1OEpWa1ZXWXVuUjBFZG1uS0FpTkFXQnR3YnV3dU5mNHpER1czRVBzOUtIVUhRMmxObHpBSjFNSjlMMFItVDg1UHotdWZJTW54enlSRnc?oc=5",
+                "pub_datetime_utc": "2026-10-13T00:32:36Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:12 KST",
+        "current_rank": 14
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 수감자 조기 석방",
+                "hook": "영국 교도소의 과밀화 해소를 위한 대규모 석방이 시작됩니다.",
+                "script": "영국 정부가 수용 인원 포화 문제를 해결하기 위해 수백 명의 수감자를 조기 석방하는 2단계 계획을 시행합니다. 범죄자 사회 복귀에 대한 우려와 교도소 운영 효율성 사이에서 논란이 뜨겁습니다. 이번 조치가 치안에 어떤 영향을 미칠지 영국 사회의 이목이 집중되고 있습니다.",
+                "original_title": "UK PM Burnham says 'status quo' with Brussels 'not good enough' as he details upcoming EU summit - Euronews.com",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaV82Y3NYTF9PUV96ZkpDRlhWbUZsUE8xaEVhWXFCdzNBUmJKS2VKTkhDbFpjN0FTbGFhdnU1MUh6U2ZsTldyMUp2cmtnMDFUNnBsQ0ZtcXphaVNyWlZBNE5OYVEwV05ubFRMaDdDYThjX3VIeGNPRlhGbHM5VFFqYllCRVVCLWtvSTA0a3pHR1JvN1BFSllaV29RaTRGNGd0a3FPcVdUTXJRal9raFRCNlZPbmFUQVRZNHIwVUtCdUtTY1dG?oc=5",
+                "pub_datetime_utc": "2026-10-12T16:30:04Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:12 KST",
+        "current_rank": 15
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "미 의원 자택 압수수색",
+                "hook": "미국 일한 오마 의원 자택에 들이닥친 수사관들.",
+                "script": "일한 오마 미국 하원의원의 워싱턴 자택에 대한 형사 수사기관의 압수수색이 진행되었습니다. 오마 의원은 즉각 반발하며 굴하지 않겠다는 입장을 밝혔습니다. 수사의 배경과 향후 정치적 파장에 미국은 물론 캐나다 언론까지 주목하고 있습니다.",
+                "original_title": "Agents search U.S. Rep. Omar’s Washington home in criminal probe as she vows she won’t ‘be silenced’ - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSllQMkxtclhnWGE2NzNjaENZM1Q5aTBCSVdSdktpUVd1a3ltQTV2ZnpNQkVvMU0xQ3pXelQyc04zTkphZHE5bFdpdTNnNWY4Zm92NkJta1NHTmhpZTNJNjZnMUxINnhfT1AyTmhWMm1BOFN6OGVqd3BGVDhCTVoyX0JUay16cGdpQWNMMkpLSG1xUkRvU3NNSGxxeWRycDFaUmNsYUxGRUZEWGFUWTN4Y1YyY0RSWEcybWZNS2w2cERqdFA2?oc=5",
+                "pub_datetime_utc": "2026-10-12T12:46:13Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:18 KST",
+        "current_rank": 16
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Huracán 'Simon', ahora categor",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Huracán 'Simon', ahora categor",
+                "original_title": "Huracán 'Simon', ahora categoría 2, pegaría en Mazatlán, Sinaloa; junto a 'Rachel' dejó dos muertos y 10 desaparecidos - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN2NUTmtEaHN3ZmoxSHpjcXNjTUI1LXhmbjMxSDFQOExIQ21ELUxSS1JtWXpnOWRXMVREUkFHY0hlZ0hiMlNFT1RCMDhTMW9LLV9jblVsRDBkaW1iOEFPYURTWnpKRm9oWnhKNnBtTHY0RmZXMTUxTURncUJ6RVRibXowbzEyc2lKMnRUQTNjRi1MYVF4enl1M01aUUxaaTBHVERkNTJpbHRjekRERHh6RHowM2h0ZktHYW5rb01Mc0V4c0pNU0xaRHZUbzcycGcxaGt5QWNlNndPOWtXTUwtZ2J2c3ZraG1KMkthWFhEZGN3TEFUMEVCaw?oc=5",
+                "pub_datetime_utc": "2026-10-12T14:53:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:18 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "터키 버스 전복 참사",
+                "hook": "아피온에서 발생한 대형 버스 전복 사고로 다수의 사상자가 발생해 충격을 주고 있습니다.",
+                "script": "터키 아피온 지역에서 시내버스가 전복되는 끔찍한 사고가 발생했습니다. 이 사고로 현장에서 사망자가 속출하고 부상자들이 병원으로 긴급 이송되었습니다. 당국은 현재 사고 차량 운전자를 구속하고 정확한 사고 원인을 조사하는 데 수사력을 집중하고 있습니다.",
+                "original_title": "Erdoğan'dan Kabine sonrası açıklamalar: 'Türkiye'de şahsım dahil kimse eleştirilemez değildir’ - Cumhuriyet",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWEJUeVFDMFJJdElsLUwyTmlQcDFzUzEtZHhtdVVqWnZNYUxvUDlmaWpXLV9OTDlWOHM5SlZoWEI5LTdESkNTdU9yRzRlOUFjWDRGQjF4OW9VSWdWZU80Y3R6LXp2T3N0UWhZcl8wZkdtSDhHMVZTcTFqQjFvNFh0Z0JOSUJMNG5udjBXT1d5WVZMZFlKNWpzeWY2aDd3UFJINlNIcXdGNjFFck1ieF94TjRENEwwY2J3cFB3bUhyV1JicTJyM2ZpOGJmMXVSTWVDajIw?oc=5",
+                "pub_datetime_utc": "2026-10-12T16:01:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:25 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "리야드 탄도미사일 요격",
+                "hook": "리야드를 향해 날아온 후티 반군의 탄도미사일이 사우디 방공망에 의해 완벽히 파괴되었습니다.",
+                "script": "사우디아라비아 수도 리야드를 겨냥한 후티 테러 집단의 탄도미사일 공격이 시도되었으나, 사우디 방공군이 이를 성공적으로 요격했습니다. 이번 공격으로 인한 인명 피해는 없는 것으로 확인되었으며, 사우디 당국은 리야드의 위험 상황이 완전히 해소되었다고 발표했습니다. 사우디는 자국을 겨냥한 적대 행위에 대해 강력한 대응을 이어갈 방침입니다.",
+                "original_title": "اعتراض وتدمير صاروخ باليستي أطلقته الميليشيا الحوثية الإرهابية باتجاه الرياض - صحيفة سبق الإلكترونية",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Fa041X3praUtXTEd0OGk0LUZKN29tdEJneFR2MTdLamc0amFBQUxPUGFLY0RMOWZBQmMxT1d2b04xb2JXRldr?oc=5",
+                "pub_datetime_utc": "2026-10-12T18:15:09Z"
+            }
+        ],
+        "last_updated": "2026-10-13 11:36:25 KST",
+        "current_rank": 19
+    }
+}
