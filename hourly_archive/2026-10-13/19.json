@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "일한 오마르 자택 압수수색",
+                "hook": "미국 연방 하원의원의 자택이 갑작스럽게 압수수색 당했습니다.",
+                "script": "이민 당국이 일한 오마르 의원의 자택을 급습하며 정치권에 거센 파장이 일고 있습니다. 구체적인 수사 이유는 밝혀지지 않았지만, 이번 조치가 단순한 절차인지 정치적 탄압인지를 두고 논란이 뜨겁습니다. 워싱턴 정가는 오마르 의원의 향후 대응과 이번 수사가 몰고 올 후폭풍을 예의주시하고 있습니다.",
+                "original_title": "Saudi Airport Attacks Pressure Trump to Boost US Role in Yemen - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2hXZVp5UFh3blFZQ1lvNTZMTlFFVEtqUEhNT0NqMy1GSjJrdnFDcHFQdFRZR0d0cEYzRzI4aGZfaExaRmVXeGdDSE5WSkFYVWQ5UGpzczlHUXA1SmJQdURnN3B5by1BN1lvTUJScVE3amQ4N3dKY00tZEhRbzhhZHdOM3RhbVpMNHpGcTdocHIyYkc5WDR3UTVMQkEyeGNsX0ktcVpiTXBuTFBGTFlRSkZFZ0U?oc=5",
+                "pub_datetime_utc": "2026-10-13T04:14:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "시진핑, 전국 보건대회 주재",
+                "hook": "중국 전역의 보건 정책이 대대적인 변화를 예고했습니다.",
+                "script": "시진핑 주석이 전국 위생 및 건강 대회에 참석해 보건 시스템의 근본적인 개혁을 주문했습니다. 고령화와 공중보건 위기를 극복하기 위한 국가 차원의 강력한 대응책이 발표될 전망입니다. 세계 2위 경제 대국 중국의 보건 정책 변화가 가져올 글로벌 파급력에 이목이 쏠리고 있습니다.",
+                "original_title": "习近平出席全国卫生与健康大会并发表重要讲话 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlkxRHNtTnAwVjMwYnRuSzM1czVDdWFVTlJHNnZSNHdiX1NXTGU1aGUyR3BIcjlUWUo4RmNaMkxjdnd0VHRHOEVPbUdnMWtSMFdmaVpNdlRUYV9VZEhhZ2UtTmRaZzJjTEc0cTFvRm4tSXJwNHlob0xBLWJkOWM1RWlNYw?oc=5",
+                "pub_datetime_utc": "2026-10-13T06:02:20Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일, 신임 노동부 장관",
+                "hook": "독일 연방 정부의 노동 정책을 이끌 새 인물이 등장했습니다.",
+                "script": "알렉산더 슈바이트처가 신임 연방 노동부 장관으로 공식 임명되었습니다. 최근 경제 침체와 노동 시장의 불안정성 속에서 그가 어떤 해결책을 내놓을지 독일 국민의 기대와 우려가 교차하고 있습니다. 내각의 변화가 독일 경제 회복의 전환점이 될 수 있을지 귀추가 주목됩니다.",
+                "original_title": "Alexander Schweitzer wird neuer Bundesarbeitsminister - n-tv.de",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGtzczVlMFNrNU00NC1qdFlRNUtreVMweW1VRkxPQ1BlR1RpQUFkRUNmSjJTelJWU0NSeERxVnJ4alRBUXZRb21BSTI1TzZrY1c1bmZVTkgyZko4dG5HcWEyQmhiLXFIX3NsOVhrZjJJZERTaXdINkctUmJFd3lkZWswbkxtdW5RaVNMRnpJWC0zbkRteEJCODNIX2d3TDY5WnVJU25GVEotVFVISGZSV2hMLVI?oc=5",
+                "pub_datetime_utc": "2026-10-13T06:05:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "簗農相「予算カット」発言、自民・萩生田幹事長代行「真意や状況",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "簗農相「予算カット」発言、自民・萩生田幹事長代行「真意や状況",
+                "original_title": "簗農相「予算カット」発言、自民・萩生田幹事長代行「真意や状況を正直に話し懸念払拭する努力を」 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53NEZXcjNZOUxsVkNtTzhXNkdPT283eWtUM3VSYjY0VUE0RllVdmJDZWFIdUdUR0w4QWFzNWo2d0tZY1dpdUhwTy1FMFZJU3dfb2F5STVVSVdzcUVMbHNmV1pmSDNnQQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T08:40:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "반마약 활동가 총격 사망",
+                "hook": "마약 근절을 외치던 활동가가 대낮에 총에 맞아 살해당했습니다.",
+                "script": "인도 펀자브주에서 반마약 활동을 펼치던 인물이 약국 주인과 다투던 중 총격을 받아 숨지는 사건이 발생했습니다. 사회 정의를 위해 앞장섰던 활동가의 비극적인 죽음에 시민들의 분노가 들끓고 있습니다. 현지 경찰은 용의자를 즉각 체포해 정확한 범행 동기를 조사 중입니다.",
+                "original_title": "Anti-CEC protests LIVE: CJP alleges detained leaders not allowed to meet lawyers, phones confiscated - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFpfc0xqZm55Q2JBU1BDZnVtUDYzWlI3NkRwZWdZVWQzY0VYLW81ZFRSZnFETjVpV0FOVnZ0TW5Ga3NXSXVkOUxKdGRubkpRdF9mSEJNdlFRNFRwSjBCU3BiOU1UVWM1eWFZbVJvbklVdGRFMjMxT3BoSV9maXFsRG1NMElfLUljMEc5M0VMQUZsTDdTa3BIYWFfa3ZXWE1kbTA2VDNJQ3lPcm04SGo5Q1dfUy1zZExPU2JIVHFERm1YQ0N4VzEzanZ2Zjh1bEdFVlE?oc=5",
+                "pub_datetime_utc": "2026-10-13T09:26:35Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "英 조기 석방 확대",
+                "hook": "영국 교도소의 과밀 문제를 해결하기 위해 대규모 조기 석방이 시작됩니다.",
+                "script": "영국 정부가 교도소 과밀 해소를 위해 수백 명의 수감자를 조기 석방하는 2단계 계획을 실행합니다. 하지만 범죄자들의 사회 복귀에 따른 치안 악화를 우려하는 목소리가 적지 않습니다. 정부의 결단이 과연 교정 시스템의 효율성을 높일지, 아니면 시민들의 안전을 위협할지 논란이 가열되고 있습니다.",
+                "original_title": "What happened in the Yorkshire tiger attack? Police issue update on man killed in enclosure - The Independent",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1BHYXhfeUctU000dDI0YnlFQTBCMDh5MXB2clZKbTVWYzlvY3dYa3hIVlo4N3FleHNua2hzc2p6OUxTclJDR3dyeDdBcHVYRVo3Qzg3Y202SVA4cjNycUZWeXV6U2NheXotaWpabXpPdlkzemt1Z0NqbmU2S1k2RU1DajVNY1ZwazhfWEo5UWYzcDJfVE1tQm55Rnk?oc=5",
+                "pub_datetime_utc": "2026-10-13T06:29:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "EN DIRECT – Mobilisation des l",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "EN DIRECT – Mobilisation des l",
+                "original_title": "EN DIRECT – Mobilisation des lycées : Greta Thunberg est «très fière des lycéens français», affirme-t-elle à «Libération» - Libération",
+                "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPME1NZXBqVGpidGszWGt1MDNtR0lWOS1CUEdYRFdNZF9nY01Oc2Q4RDA1UWVESzRvYW92YVM3UmROellUZ2NkSWNCLWRmUFpmUWNpSHl3QWg3cGhUZGVydFV0elF1UTVrTFh0VFpubTRibFNFYlhJM1JQZXRuMW5iZ0F2ZlMzcDQwckpRZkprVTEzV2pHZ09IazZtM25ocXBmUERTazFoeUFZZ0VtaVJoSTc5MmlOM01mZjlmYTc4d1FGOTQySFZISDFmQUdobDJINk5NY2xLamxuQm5xRUJySlpReUNYZWU2OTNQdXZQenFrMW1IZmNCcW1nT3VHT25IUW13Q09zYkliaXhKTkE0QUJHOFpGUQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T05:34:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Giorgetti: 'La manovra sarà de",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Giorgetti: 'La manovra sarà de",
+                "original_title": "Giorgetti: 'La manovra sarà definita dopo la chiusura della procedura Ue sulla clausola di salvaguardia' - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVVQ1QVdnNjVXdHRoZVFFbHNIRmJ1X1MtVDlpdnBfVTVqZnBSXzlYZjh3VlI5LXN2NFpGdWRSTkxMQ2QtNThUcFNXR1RINDRJQ0FPUi1Vd0xiUUEzSWN6SDgyOU1RU3lRYzZlcG50V01nekx5SEdqUlJJdGNJc0t0R00yOGg4MG1tSEhVaXg5Sl83VnRzTmxpazdJaUI2UTlsamlzUUk2M2w2TUR4aGFzQ1FmeWl3Tnh5dnV1Wjh1VUJ0TG9UNGFRQkpvbEdUQTdCRnIzelpGWXlwVTBnS0cwU2xzakdwdUM5eV82WlpaTVRPR2Ita2ttNE4xX0RfVVZoS1BzNGtucGRqa0Jp0gGSAkFVX3lxTFAwcUdKNmphZDhTV3V0MVlody0wNkdrYllfY0N5d2N6QlpSVDlVOTdGcVRxNEJQNTFFNEFSQVVrejNfVkVHYzkwdUlTVkdSQzlhYWwweTFXMDdlU2lnTnVwQmlDTjNGS1ByS2NrVFo1bG9na0RpS05Qa1VXTGJYUDlCVU1ycXkyckE5Wnc2LWk2WXg5MjlDNi1FNDBXN0l2VWVLamhaUnVFdVlzb2N0bkNzUVM4RTYycWNCUlBSQndmb2ZPVnZXWHpDc2ZVRFZ4UlZCY2lTNFZMLWwxQkFlT05uRVQ4U2Q2WjJSQ19uNDVkb0FFZ2o4c1ZsaDJKMWJZTUNGNDJvc2FIa0Rhc2FwRjNzZlE?oc=5",
+                "pub_datetime_utc": "2026-10-12T18:53:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "Nunes Marques marca reunião co",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Nunes Marques marca reunião co",
+                "original_title": "Nunes Marques marca reunião com representantes de Lula e Flávio - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnI2b1l1dGhfcTBRTEsxMGhZTW5ETmxBVHl4Y3dEenVQLXZlUzBBZS16R0xpSFBZMDBHQ0V4VTBJc2xjRWpBZlA2eDlyUjgzeEd3bmltLTdkZjVDRmI3SklONmRUTm0xR000eWZXbmx2aTNHVUc4Z08weHM5b0F3OEE0SFI5Y2RqdTNwZW80ZC1LMW8xY1lHRW9RLUl5RFNhSXdCVzBhSmtzQjJS?oc=5",
+                "pub_datetime_utc": "2026-10-13T04:14:19Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Canadians are staying away fro",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Canadians are staying away fro",
+                "original_title": "Canadians are staying away from Las Vegas — and it's becoming a Nevada election issue - CBC",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW05dm1ZOFFfcTBQZkFxUlJ1Q0xoQ2MwUHd1TkdDVVhuNnRMUWRxQWtJQy1IaGNxMnkzZm5CMjloa0VYV0MtVGxCM0Q3VTlBVUkyVXdqMkFodWxpd0NHajV3Wk9uYzk2WkhUQkhjNEZOSUgyUnNTQW50cU9JaVcxczF3US1WSXhSNVotekxB?oc=5",
+                "pub_datetime_utc": "2026-10-13T08:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "폭풍이 할퀸 도시",
+                "hook": "평화롭던 도시를 쑥대밭으로 만든 기상 이변, 현장 상황은?",
+                "script": "호주 전역이 갑작스러운 폭풍으로 아수라장이 됐습니다. 거센 바람과 폭우가 도시를 강타하며 건물과 도로가 처참하게 파괴됐는데요. 당국은 복구 작업에 총력을 다하고 있지만, 피해 규모가 커 시민들의 불안이 극에 달하고 있습니다.",
+                "original_title": "Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGNvX1VPM3dZQWpTWDdvSl9rV2E2MzFfUHpHaGQtOGZNSWxrMWxDWGRVc0FZT1A1TFFBNFVJdV9jNzZYNkl1ZV9BQlQtdHpPVnBTcWc2RTF5bkNpNFc2VVJIOWJJSGptWE1sSFZVVUc5QW9MY2UydmU5cFNIbDBqaVk5bnYxaUhGLWs5VkhKMldTLXpsaXpKbjVtQ0RieFJRU0thSGZ5S0U5NDR3dFRJT3EwVFRtZw?oc=5",
+                "pub_datetime_utc": "2026-10-13T06:30:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:44 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "마트 흉기 난동",
+                "hook": "인천 대형마트에서 벌어진 충격적인 흉기 난동 사건, 현재 상황은?",
+                "script": "인천의 한 대형마트에서 전자발찌를 찬 60대 남성이 흉기를 휘둘러 시민들이 쓰러졌습니다. 가방 속에서 다량의 흉기까지 발견돼 계획 범죄 가능성에 무게가 실리고 있는데요. 현재 1명이 심정지 상태로 병원에 이송되는 등 피해가 커 충격을 주고 있습니다.",
+                "original_title": "인천 대형마트서 전자발찌 착용 60대 흉기 난동 ‘1명 심정지·7명 부상’···가방 속 다량 흉기 발견 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WmNtOVB1bVZMWDNoV0ZQQnBxZTZhT1plUm9PWWxvUm5lT211WkJRXzFTaUU2SHZyLWQ1YnpWLVVlRnVNVWl3RURjUW01NTA3Sm5rUVBPQTlaZ9IBX0FVX3lxTE9WWVdKeVl0WlN1RGJHa0dQOXFCazBLZWhvay1CLVo3RUJWbkJDQnRLZ1owSkZPS0Z3QTVZR0xMclp3M3BkVHFFcEVwd2FYTHRETnllZ0hmVEFrblVXNmgw?oc=5",
+                "pub_datetime_utc": "2026-10-13T10:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:44 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Analisis Pakar soal Kenapa Hou",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Analisis Pakar soal Kenapa Hou",
+                "original_title": "Analisis Pakar soal Kenapa Houthi Kini Serang Bandara-bandara Saudi - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzFwejZZSUM4ckZaN2tKMzJkMEpkRjUtMXh4M2htV0VwYm9jd2V3OUZQX0VEd3ZWY0FSWDRKMlVFc0JpU1ZDTEwwQkNoNWJjdUR6aU11dEJGejhmcEJVTzFLczdRMGljVmh6WHRrQ182ZS1uekpuR1FGa2U5b3RYYXQwTWs3clYxWkNYMXpLWjVOR1BBV201Wk1HeHRpZDBzTmFFOGQ4R3Y3dFB5eWVJaFZsbEnSAboBQVVfeXFMTnhiakFSa0lQV0tTNUhPT293QzMxN0R0Ny03aElTS2IzT3NfemFlQ1RBRDY3azFkNFloRkdOUVdsVEk1ZG5rQkJqMGY5N05hVEU3ZmhySW5JaG8ybmgwV2tjamF5bkl5aXZIVEtWdzczVDBEOUh3OEVveGp6N3VEbFlySmRCV295dW12YS04ZEFOMExjRF9yT0YyTWY4QWFMWHhkeHBVS0E3SFZvcU16ck1fd2VlY3plR2FR?oc=5",
+                "pub_datetime_utc": "2026-10-13T04:48:56Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:44 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "사우디 군사 지원",
+                "hook": "후티 반군 위협에 터키가 사우디 군사 지원을 검토하는 이유는?",
+                "script": "후티 반군의 공격이 거세지자 터키 정부가 사우디아라비아에 대한 군사 지원 카드를 만지작거리고 있습니다. 바흐첼리 대표는 헌법에 따른 지원을 촉구하며 긴장 수위를 높였는데요. 중동 지역의 안보 지형이 급격히 요동치고 있습니다.",
+                "original_title": "Riyad saldırılarının perde arkası: Asıl tehlike başka! Yeni füze gücü ne? - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDFvVEltUTYtM1JZemlGLTRRMzdPTWlreFBiXzFMd0o5WWI5VlRIamkwMVVzZmp0TUVoYmYzOWE1VXJfcEhkTkZpSEdIMTN4TVlEbS1OSmh0R1ozTGtfXzhuSTJyZmpMZ2dwaVlLRXZXa01ZZjYwUVZTalRHU3huSEk1eG9JempmNkN3NU9tMmJ4Y2R2d1NoNkxheUFET3R4R1kxRUppTFVFbV9ZSWsxRGlWdw?oc=5",
+                "pub_datetime_utc": "2026-10-13T04:07:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:44 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "후티 미사일 격추",
+                "hook": "리야드를 향해 날아온 후티 반군의 미사일, 사우디가 전격 대응에 나섰다.",
+                "script": "후티 반군이 사우디 리야드를 향해 미사일을 발사하며 도발 수위를 높였습니다. 사우디 방공망이 이를 즉각 격추하며 대응에 나섰고, 트럼프 전 대통령 등 국제사회도 이를 강력히 규탄했는데요. 성지를 위협하는 행위에 대해 사우디는 엄중한 처벌을 예고했습니다.",
+                "original_title": "«الأرصاد»: استمرار هطول الأمطار على معظم مناطق المملكة - عكاظ",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BZUhxQmJNdkdEeDllLVBUeGlSYmJ5MUppYXUxU19jSlVLajRwQVE5TWdBNGNkY21BcXl0eW1ORU1SV0Z0NWw0YWpaUkNGNTJJY0HSAVRBVV95cUxOUEI4Sk5JQnNVVHhSeDJ2V3pMUE1jUVVNR3VWeHA2dk1kR25DZUwxa01od2tMVS1KZS1PaXgtSlBocWpqTkpvLU9waUpQa1Z1eVhSejQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T03:12:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:44 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "밀레이 경제 위기",
+                "hook": "성장 전망치 하향 조정, 아르헨티나 밀레이 정부의 경제 성적표는?",
+                "script": "IMF가 올해 아르헨티나의 경제 성장 전망치를 하향 조정하며 밀레이 정부의 경제 정책에 경고등이 켜졌습니다. 연이은 정치적 잡음과 정책 추진 난항으로 정부의 입지가 흔들리고 있는데요. 과연 2027년까지 국정 동력을 유지할 수 있을지 주목됩니다.",
+                "original_title": "La Corte y las fragilidades de Milei - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnhLRnVxb3k4Tk43QjhPV1RucWlHY204Q3hCbFFCd3F2cGZNdE9QNGl2NWROaW1XWHYzeGowN3o3WkN0WWZkZlozZW9LS2ltaFNhLXJzNGZILUYyREpOdWhmcmhZM21RWWcyWVdyTG8yblpUSmdYNXo2aE9BZUpoOWhqZk1YVFVwVEV4WEdPbw?oc=5",
+                "pub_datetime_utc": "2026-10-13T06:29:00Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:44 KST",
+        "current_rank": 16
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "남아공 경제 위기",
+                "hook": "트럼프의 관세 폭탄, 남아공 공장을 무너뜨리고 있습니다.",
+                "script": "미국의 대중국 관세 정책 여파로 중국산 저가 제품들이 남아공으로 쏟아지며 자국 공장들이 줄도산 위기에 처했습니다. 현지 제조업계는 경쟁력을 잃고 생산 라인을 멈추는 등 경제적 타격이 현실화되고 있습니다. 정부의 미온적인 대응 속에 남아공 경제의 근간이 흔들리고 있다는 우려가 커지고 있습니다.",
+                "original_title": "Shadrack Sibiya returns to court for bail continuation after resigning from SAPS - IOL",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFJFRUprU2p0VFFGcUdWQURFdHNEbG5tN09rSXR2b29uZ05hLUMwZTUxY08tcGNBbGdrTnkzYTVOTjJwTFpVOTlMUlZuWF8zUnBrd3FWd1NzWHBMVk4xd3R1LTRSMHg3ampvbnpmeGdKdXctYURiaUJEZmN3cVN4Z01qOGpUenB5QkpGSkRueGRBanhfVW1RXzhOZ0hOZzhtRnRqd2dNczV0eUNOaXZfQS0zMmhVcUVtU2cxUTdyQjNZSWR1cERITGJmWEc?oc=5",
+                "pub_datetime_utc": "2026-10-13T04:32:15Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:49 KST",
+        "current_rank": 17
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Из-за атак БПЛА часть функций ",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "Из-за атак БПЛА часть функций ",
+                "original_title": "Из-за атак БПЛА часть функций «Яндекс Рекламы» стала недоступна - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZEhhZmI2SEI2VExSelp6dVUzc2RxRldjQmVkVExVS21EdHk4bWZSeExnaVY1aHgyc2k3Yjg0YS14MzlFY2tNWGRnTE5rVVhWWEk0a3dlM19SN3N5V0djbjJSbXV4UUg0dWUwY3dCUXZXYTEwZjdjVUFvM3VPcTVRbjg2VQ?oc=5",
+                "pub_datetime_utc": "2026-10-12T12:59:20Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 18
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "IMSS y STPS se adelantan a meg",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "IMSS y STPS se adelantan a meg",
+                "original_title": "IMSS y STPS se adelantan a megamarcha y votación de 500,000 trabajadores; inician recorridos para atender demandas - El Economista",
+                "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOGJLdUNBVE1XOG5GeDlrUVZ6bzJjZlYzeUg3aEF6d1JJQ3lPOEdkQnNCOVgzNE1PQkNzenprVDB6UjlVb1BvdTBydkthcWU1QWRJTnBxbjd3RnYwcGp0T0NlTGJPWFcwSzltVlNvNEZWNjF6cWV4OTFOVmFmSnMwam8yM2xhZFlJa1hkSDVSS0ZjSXpUaFZXQVRoVFV3eWF0U3dqa0lIa3hIalF5UE9rcmREdFY1Vk1kX245UDJFTVU1cTZKWXFRanUzSlJlRG90THJDZnVPZU9paEctemNQWkRHRDVkazZmaFNjRGNUc9IB9AFBVV95cUxNZ015T3pvSl9QaGt2dmZ6YUhxbUY3cG43UFNXQnBBV1hibXJHQy0zZ0UyMHJUb2d1T0t3WGRGcy02RlZoeEZzTDBpSXNDdWVhT3ZEaHV5MG54bDZGVXFXVzloMjlqbVBBRThJWmxZZU1vb2lnYzZLTm51cGhERzI2Nkw5eUxxVTRWanlSQ203RjlHT3BNazIwdkxpT01vZWUtS0FfVTk3MFlTYnNuVGFyZW9WQ1Z6Z1pyb2c0SzI1eW9hSC1ZQ0RGdWpEWHdnUWdIZkMwOWd5MkU0WDBzaldyWWRQMURZakpiTlJjQmdGZC1wY3g5?oc=5",
+                "pub_datetime_utc": "2026-10-12T18:30:39Z"
+            }
+        ],
+        "last_updated": "2026-10-13 19:42:37 KST",
+        "current_rank": 19
+    }
+}
