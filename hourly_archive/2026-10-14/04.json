@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "Trump's ambassador to Greece, ",
+                "hook": "United States의 최신 주요 뉴스입니다.",
+                "script": "Trump's ambassador to Greece, ",
+                "original_title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct - AP News",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak5ZbXdiNVNTR2dUSG5BaXVDZlgyWEdLYVNWU2FiTTl6QmRQTk1BcmJ4VXFNWHVtYUFBOVdlRnpaUlNnV1ZFRkJtVDRXQ3JzeEUxMVkyUVhKRF9qQ2hQdFBJcEVTVWhCempCTGZ6cmpTME5RTHU0SWdGd0s1QnQ1R2hlUEFRc3RudnlLd0ZKd2w0VDZVU0I2Ng?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:46:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:48 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "第一观察 | 习近平总书记为健康中国建设取得决定性进展指明方",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "第一观察 | 习近平总书记为健康中国建设取得决定性进展指明方",
+                "original_title": "第一观察 | 习近平总书记为健康中国建设取得决定性进展指明方向 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGZtSUo3eGFDR2RfTW9pekVXQWItbmtGN0tGWFN1S1NIaEp6azdCSUp2TmRuVnpVSjBoYzY2QmdUd0NjeVM0anRuQnJWaEtobFVLV3BubVhGQnI2N1Zxa0ZXSFI3Rm9sdlRPT1EycEVBOERjbWMzb2loRkhfcUMtQkVZQVhTeGdYNDY5NGVB?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:15:33Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:48 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Grüne und SPD unterbrechen Son",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Grüne und SPD unterbrechen Son",
+                "original_title": "Grüne und SPD unterbrechen Sondierungen mit Berliner Linken - rbb24.de",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkc2YjRjQmZfODdUZC0tTENSaktFRHdjUWlVOENDS3VZeXluT0FwNk1oWDZfb1NEN2w3ZkpEejNoYkZMcy1EdzJFNE96dUR6ek9xcHlidEZ6YUptV2EwN2p1a2p0V0F0SFNvdkJaZzc5X3VXSDdad0ZTQk0wemdzRG5Bbm5oSHZHNUZxRmctcTBUeFljSnNraG9uUFJxOV9SNzd6TDRzbHcxbC1iVVZFa0lHQ2djNVMwTlpOSFB0UHpybTE5b3NqMXBaOA?oc=5",
+                "pub_datetime_utc": "2026-10-13T18:30:06Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:48 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "高市首相、簗農相の「進退」に含み…バス無料送迎問題では「違法",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "高市首相、簗農相の「進退」に含み…バス無料送迎問題では「違法",
+                "original_title": "高市首相、簗農相の「進退」に含み…バス無料送迎問題では「違法性あれば躊躇しない」と更迭辞さない考えも - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEbUM2V0xJYUlwcjJVU19Ld3VZN2NZUnBZclVfUjZNN3BxWEx5OGJFNmt3UUxFSVRCRDNwejVncENMendqa0p5UzV6N0Faby1VZUg4ME9rSU5zcnFuNnVXS0JoYzNtUQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T12:50:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:48 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Man killed by tiger at UK wild",
+                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
+                "script": "Man killed by tiger at UK wild",
+                "original_title": "Man killed by tiger at UK wildlife park named - Sky News",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjNaUk9XV216c3J0RFJCMTBhWklQMjFmX2RnSW1Wb2JSNlFNZ3kzYUZyTHM5TlhoWHJZUU92dnpYdnUteFdHY1V0R3FrYk9iTFMwZ2JTVjI5bXRFRXpHZmE5YUFjT0ZYd0NWMEN0X2p5NjMtY09yMlg4b21NWW5WYTJOMVJUdE9nSC0wQg?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:25:59Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:48 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "Le Parquet antiterroriste se s",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "Le Parquet antiterroriste se s",
+                "original_title": "Le Parquet antiterroriste se saisit de l'enquête au lendemain des tirs dans un collège à Aubagne - franceinfo",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTUhYTE8zNFE2el9qVFRGVFhvMVp3SXdXaXU1eVlQcHRfZF9wMmxIWUpyM1JtZ2MwWWxGYkgxS0ttSXR4TDZ1STY1VWtYSkpYS1BsNmNfaUhLMmIzWmZ1UTFtUDhQRWl4dVMyM2VYYXRGWU9DY19lVU44eFAzMUF6eXIyYVpCcjEyZmR5RVA4Z21JZ2pERVotem4wdE1TZ0V1NGYwMWhONl9TNkFwejNiT2RHX1lkY2ZqaXpJdGZWbWEwVFI2VjIxTXl3Q21pZ1JSMkhLTVNSQkQwWDZoMnV4MnRR?oc=5",
+                "pub_datetime_utc": "2026-10-13T12:24:41Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:49 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Terminato positivamente l'inte",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Terminato positivamente l'inte",
+                "original_title": "Terminato positivamente l'intervento del Papa al Gemelli - Terminato positivamente intervento al Gemelli - RaiNews",
+                "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbloyMmtHSEtGS1ZPSHBSWTZUR1FydkZXT29qVktaZVFEam5SWXhObmxPbHJaWDQ0RXZndGlmWE9YZGRkYm9YbThLYVAzaEFuVWdUQ2h2WGRGaDExRl9JNG5fV1hUNm5QNnpZU1NtZmRkNEJBZ1N4eDVEc19xVkVjWGt0VnFwNXdRSEhMSm1VUGZmbTlVbkNtQWlKU3NJLVo0aG1fc2l1ZEhWV1lHVGxHTmNlWFk5X3otZjZWWC1iUWJOaUQ0RFkzazVUbmJZZF8yak1HR3c2aFc2bkRia3VsWnZSVmV6bmhQS2ZmdUxxeUVmaEFOZnFtdE1OR2FZamZLSUR2VGE5ZFJJaUJEczgwQ9IBlgJBVV95cUxQWnZjVzJ5MzEyeFFyVjRSdjhvbnJHcVB6a3FNM05RUE5tNEREVWo2ZmNqWDNlaWZtWTd2VzRSeVZVRDlCbTlvMzd6YzVXNnlseF9sUF9TdVcyT1daR1pqaGt2YndOdFk0T2NZOHYxc3RlZENzeVp4VTZCWTNXUzBweTQ5NWFoVGFmUzBRMEg1MkRSbXlGd3BTWUIycHltUU5IRFJ0OXgzMnlIR0tGQngtVzl0SUtOdmU1WUk5Y1Yyc2lwemJvaTJTR2hoYnBaSEROY1VSclhsRU50M0JGUlJnRGVZcVBFbU9Gb1hGS0FHM01uTDU3YUhNUDJQaTQ3VzBSMm41M0lGVHBGdnFiYWtGLVIwc2Z5dw?oc=5",
+                "pub_datetime_utc": "2026-10-13T17:51:16Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:49 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Campanha do PT registra 'Exérc",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Campanha do PT registra 'Exérc",
+                "original_title": "Campanha do PT registra 'Exército do Lula' no TSE após Nunes Marques suspender canal e impor regras para funcionamento - O GLOBO",
+                "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRGg0eVl6ekx1d3d3aGF3QWhsN3FMRW9nTTRtLTBwNnlMNkN5b2llSDAtbzRFQ2VwZ3R5N0NvYnVFenZRUDhuTjJNX2xwQ1JXOEt1NWtxV2dCYUFqaHdOWDJkeU9HbjZ3NEtyUldEb3dlZjRfSl9TcEwxQWgxSENlR0w4ZFVWWDc0WkJEZDNhS0prbS0zdjhSNjFjTTUwa1pNSDFwWi1IWUpseFZUdHhPY3lkX3BaV3BJajFsM3FEM25lZUlDTHNldDdBbjg1dDF5aEY4OGJjZGtkRkJYQXdoLWtBeDVWdGVDeUpjbTFtRURyV3FKUDMxS04wdGFiZ9IBjAJBVV95cUxQSjBpXzJRUEZENlFtbDNPUFRNSk9tLWh4T0pESmNvUFJRS2daRG5JZUlHWDNlZXJtQ2FHa19XNjBHeEozTWFPbU5XMFNUSjFYYno0eWVKSHF3QnFwQnFwc0d5NGZydmpqb1lVdU1BWkFHZlo1VE05RTE2by1vbmZyWmh4ZGJWSlFSTjJkYUhmVGJHSTRuRFhVYnRZMzhvUUgxYTAyTE5kZGpfSktkOE85Vm5zMFhwcWU1UjktdXU4Zk45VWpVRFJWVk1xYzJHeFpoUXk1eXZzYTNYM25pZFNnOGlGNzdnZlZ1NkdlNVZjN0h6YkdiZks1ZU91ZmVmclZjMzF1SXpnNV9EeUNZ?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:46:32Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:49 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "2 roller coasters closed at Ca",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "2 roller coasters closed at Ca",
+                "original_title": "2 roller coasters closed at Canada's Wonderland after someone dies on similar ride in Georgia - CBC",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZk84ZGc2SUpPSzZ0LTZFaTZVN2FiUGdXUjB5ZFFjT0ZPdGQzTVN1QnN2d2VmSVhDUS14RjlIdVloOHlHZXdHdmFnZGE4cDlJdHlJV2JRby1rYUN4X1h2Ym9uc1d1Y1FMUk5WaklJSmpUVGhXQVo4OVVobVphWXBFWkRMcmNEMFRTSmhn?oc=5",
+                "pub_datetime_utc": "2026-10-13T17:18:34Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:49 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "Японский журналист Имаи Юки ар",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "Японский журналист Имаи Юки ар",
+                "original_title": "Японский журналист Имаи Юки арестован до 12 декабря по обвинению в шпионаже - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DWVdKbFhqdUFBekZibHJBNnhGUzR6bV9BUjZZUl8zT3VQM3pMVEp4ZXd4cVVQZndWcXpRLUZQRzBkOWNJbzdLeWxPRmZvaEXSAUtBVV95cUxNX0F5UmRfNmRfeHI0aGxZTGVGZ1NJSnhXamxFOXVjejdLLThjYzdqdVQzTHcyOTlfeXZLV3hkVW9xYzVodnFORVAwb1E?oc=5",
+                "pub_datetime_utc": "2026-10-13T15:20:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:49 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "Hay demandas legítimas en el I",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Hay demandas legítimas en el I",
+                "original_title": "Hay demandas legítimas en el IMSS que deben atenderse, afirma Sheinbaum - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sQXRuOVpBbjE1eWpMMTJ3NjVPTGl1RFFFVTltNEhob25UbTlBR2phWlBLTjhMcEMxUlJwYkxtZHVIdE1hQ1l4U2cycFQ0LTNKdlhtRU14MjBDOVI0LWhXTDdIWlNXUQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T09:21:56Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:49 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "제주 4살 비극",
+                "hook": "온 국민을 울린 실종 사건, 결국 차가운 주검으로 돌아왔습니다.",
+                "script": "제주도에서 실종되었던 4살 어린아이가 끝내 숨진 채 발견되었습니다. 아이를 애타게 찾던 가족들의 호소는 결국 안타까운 비보로 끝나고 말았습니다. 경찰은 정확한 사망 경위를 밝히기 위해 수사에 착수했으며, 전국이 깊은 슬픔에 잠겼습니다.",
+                "original_title": "이 대통령 “흉악범죄 대응 체계 강화…중대범죄 위험 정신질환자 대책 필요” - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wN0VEWGFlanJEbGZWZDc4eHdmTGp0Y3AyMV92aWpDT3VhdHpSR255ejI5c0ZlaEJlN1hzc3lOanI2alFiS2N2b2FJTnA1RDIwX1prNTNTWm5CQm41RlhWZU9VUW10Y3kybzVJ?oc=5",
+                "pub_datetime_utc": "2026-10-13T15:50:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:56 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "인도네시아 재난 횡령",
+                "hook": "국가 재난 구호금을 노린 부패 스캔들이 터졌습니다.",
+                "script": "인도네시아 국가재난방재청 고위 관계자들이 재난 구호 자금을 횡령한 혐의로 전격 체포되었습니다. 국민의 생명을 구하기 위한 긴급 자금이 부패의 먹잇감이 되었다는 소식에 시민들의 분노가 들끓고 있습니다. 사법 당국은 이번 사건을 철저히 조사하여 엄중한 처벌을 예고했습니다.",
+                "original_title": "KPK OTT Sestama BNPB Cs Terkait Korupsi Dana Siap Pakai untuk Bencana - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTE5LZmdaaTV4QlpBdUpIcl9BemlMR3lQVWR0OUhrZUQ4alpFU2MtdzRMVzI5YnU0SC1jaXhRYk1oTlpkT0MzeU9BOVZ5dmdOOG44eS1zRlNWTzJVbmlpSVhVUFBJcHFlTnZtWkxpdG9ZeWYwSGR0OGhYYXJNbkRWQnA0bFlPblRYWWItTGdhUG53LTVSdmNHdG5LZm5aSTVmVm1LNVNQUGdrbFFaZFHSAbMBQVVfeXFMTmJHbnF6QzRVbUxoWmhIV3Znb2NmRUhpSVhodUFfelRUczhuQXZxcjB0WTZ2MHZTb3BNZ3RnRXp3OTVBNkgxMUZNTTBaVFdJTTRmUkdBbXE4bGNBMGJiZURFemI2b3JRbXFtaFlLcGlHLVBjZ0N4SDJBNGx0QUJaTWhDbElOZXl3S1Fsb3VPVWcxMWNYZXdFZEJ6VG1ZNUgzM044ekwxSlVVYUg1S3dwdzlIX2s?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:23:53Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:56 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "강풍과 폭우 경보",
+                "hook": "이스탄불 시민들, 오늘 외출 전 반드시 날씨를 확인하세요.",
+                "script": "터키 전역에 강력한 폭풍우와 강풍 주의보가 내려졌습니다. 특히 이스탄불을 포함한 12개 지역에 기상 악화가 예고되어 당국이 각별한 주의를 당부했습니다. 갑작스러운 기상 변화로 인한 피해가 우려되는 만큼, 이동 시 안전에 만전을 기하시길 바랍니다.",
+                "original_title": "Mersin'de Başkanvekili seçimi yapıldı: AKP umduğunu bulamadı - Sözcü Gazetesi",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHByeDREQzRtcm9KWVA1ZUJTWTF1MW9GZElhQ3kzX1plUHZ3Wk1NQjdUZ243TU92OEZzVENWc3lmd09HYXpjbU9CU1RuR01PdlpnTHZ2WmRBb0phTEdTNEhQZGdEbl9NZmkxV2hKSXVpWWNxdFhGT3lKWlQ4ZGNYVE9kZEM1NnRMWWR3U2RnWDZwSE0?oc=5",
+                "pub_datetime_utc": "2026-10-13T13:23:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:56 KST",
+        "current_rank": 14
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "영국, 포클랜드 석유",
+                "hook": "영국이 밀레이 대통령의 경고를 무시하고 석유 시추를 강행합니다.",
+                "script": "영국 정부가 포클랜드 제도 인근에서 석유 시추를 승인하며 아르헨티나와의 갈등이 심화되고 있습니다. 밀레이 대통령의 강력한 반대에도 불구하고 영국이 독자적인 행보를 보이면서 영토권 분쟁이 새로운 국면을 맞았습니다. 양국 관계가 다시 한번 얼어붙고 있는 현장을 주목하십시오.",
+                "original_title": "“Nos vemos pronto en la Argentina”: el mensaje de León XIV a un obispo argentino antes de su operación - TN",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2hEQTQ3OFRoc3ZrRGhkTzQ2Z0lBWFVKNE1tbjFEN1ZDTDVETE5UOW1yYjI3LWt6YkxfRVNjenc2NHBCdDBhVzVqS0plemsyYWl6M2MwX3N3YzlFa2x2YVp6NkJ6N2FzMnVaWE16aDRFUzhiSnRoUVhIV05zSzQwMlpPbmhTSXZVNnF0N1dGMXAxTnZYM2Nrdm43TS1xV0R5Vm9pZEJZWDhNN2ozQlk2MndzaklmY0dULTJkRzJLYmZxUEkwQXRvWGFxS0ZrZjI1MlZubtIB6AFBVV95cUxPUlNneTF4eVdaRmZKaFlqa1oyX0FFOWdGcXdXX1U2MlFTSjJJRHBWRXc5ZGVteGlHb3lRcXpFX2J4NUlNOC1heUlqU3hpdE8wWFZBOW9xMmgxSkQ1cXpIN3FfTUhITklyZU1XTTczdFJyUk92WU02SjdCYl9GTjlEajhRSFhNY0VBRGU3N3dUbGdwbkZYbFJrMGlxNWdYWS1PQnlJOEhNTlZ2VXVkWl81RjJ3N204SmsxcXlZMjZ3VVZfQ1dxZ3gyeFZLd09BZG1NUE42Z0ZXT1hmdlBRRWhLMHNoR0dzWFA2?oc=5",
+                "pub_datetime_utc": "2026-10-12T15:56:52Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:56 KST",
+        "current_rank": 15
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "AKA driver thought gunshots we",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "AKA driver thought gunshots we",
+                "original_title": "AKA driver thought gunshots were fireworks - TimesLIVE",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0hDbWF6c2ZzMlFsVnpGNXkyekd2N0ItSDl2VFhGb01FVy1LUEVKQU1VMTJiN01lZ2ZuT2lMaDhiTDJMblN0a2xydV85TGFvTEZ5TExueHZwOGdZdE9YTDBvMGdNZmZQT3EyMDhETV9iTzFfZHlMY0RRT2FCeExudjhoVHRHZHRmQ19WV3VVdWpRLTZCQ20yaVF2MXFzRVl2a3c?oc=5",
+                "pub_datetime_utc": "2026-10-13T13:37:06Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:57 KST",
+        "current_rank": 16
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "Supreme Court Registry clears,",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Supreme Court Registry clears,",
+                "original_title": "Supreme Court Registry clears, numbers Rahul Gandhi’s plea against SIR-CEC within 24 hours - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcS1oVkZNUVBiaTJ4X1J5N1ZEdDNCMUdyN3YtUTdZTXNQQktaZWkxdkJOWUZBbld1aHY3dDU4ZW9iRnB4ZTI1cE9VYWxTLVhCbTFvZWpnUlI1Q2ZEWWpLaFdYNjNUSlE1ekZwbGdFNEFXbmVFaXctanFsV2U4TWdlb0poaVJuQlRreHRUYXE3VzRueFJoaGNaaVdRYmI4R0JQQXpPRWdSM1JkVUxVTUJKZ3RLUFhlY01kQTd3Z2NPVGxYcTZZbnhBTTNkLXJxdER2OEtVUzgtLW53cThDSnc?oc=5",
+                "pub_datetime_utc": "2026-10-13T04:02:37Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:48 KST",
+        "current_rank": 17
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "아동 폭력 급증",
+                "hook": "호주 사회를 뒤흔든 충격적인 아동 대상 범죄 데이터가 공개되었습니다.",
+                "script": "최근 호주 내 아동 대상 성폭력 및 가정폭력 사건이 급격히 증가하고 있습니다. 전문가들은 소위 '매노스피어'라 불리는 온라인 문화가 이러한 폭력성을 부추기고 있다고 경고합니다. 사회적 안전망이 흔들리는 지금, 우리 아이들의 안전을 위해 무엇이 필요한지 다시 돌아봐야 할 때입니다.",
+                "original_title": "Toyah Cordingley's killer appeals murder conviction - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnZDVHBHMGNUMThYdkZlczJEWHF3Y252UWROdGpOZUhHNlp2YVNLQTluenZuV2x1TG5RRDNLU21PVWhSbEN3NEZ2UWRfcHhHU3Y2cVpta05Bc1BXUjRWZUhPUEFKYnNpTXBnM25YaEd1eVRiLU5GTi1sUmRFVzE2TEFTTEgzQU9mZXU4dHU0RHZxM1ZJUVExRQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T06:32:58Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:56 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "후티 반군 격퇴",
+                "hook": "사우디 상공을 위협한 드론, 전격 파괴되었습니다.",
+                "script": "사우디아라비아 북부 상공에서 후티 반군이 띄운 드론 3기가 포착되어 즉각 격추되었습니다. 이번 도발에 대해 사우디 정부는 성지 및 민간 시설을 겨냥한 반인륜적 범죄라며 강력히 규탄했습니다. 연합군은 반군의 전쟁 자원을 무력화하기 위한 정밀 군사 작전을 이어가고 있습니다.",
+                "original_title": "اعتراض وتدمير 3 مسيرات شمال الرياض - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNak91MTVJNnpzRkdrRE9ZRjlrZ2lQbkQyWFFGbXNHc1Z3ZGF5dFVvX1VuMTNPWGZmY1Ntb1NZQzQ3SThkNWhYc1MwaTZZRndaSkVoellwaXFSQ0QxWDJqVWluUE85akhzQ1VEbmJTQUFOUHZZbzdEXzJIN3JNWFl2V0hpR2Fjc0g3VVRnRkdrUVpubVpZRTlva3RRTFhPcnNaampRUG5iQUR3S0hXQWo0UkxSYTZSSzNEYVEybTcwM3ExT2JkMG5Vc2R3UXR4N2pVMDhLS2hwLTMzRU9BUHNZZ0o5V1J6SlJGam1HUEVCUE85WHlDLXRKUTMtN21SZ2dxRmJSX2ZMdzZ4cDA3eklFcGxTbzRIcTRucDRfM09XdFlEUHUwaTRZMU01d0NyRElRZm83dy1udjg4V0F0ZGpDMUQ0NjNfLUs2MmVYLWR2c19YWDBBWmJITFdQYjRYOEZFZUItOFl0aDdxbTFVaHhhOGI5cGU1TUhxNFNqdDRGZ9IBhANBVV95cUxPQnNYWVEzVGM1eGNodXlpOE1vMDAzeUVMSkNGOWdRNTBVSU5Cb0g3NjFTOWItdkpYZFQwVjR0azJGMlhWZlVIVjdBTHZhaDdBemRmV0tGeDVscnNMbkwwdWtMYkxxbzhXeEZQbmhsZmo3VV9uM2FaMUZyUDM2V3hSZGlrU2NxMkhkQXVhSEcyWFNzX0JZVUQxSm9WUEZGbWduUFh6R3hOVHZjamJGM0hQUkttZFhqU2Y1T0p2OUc0MzJyM0FvVFFuV3Y1NDB1X1RCNXpMRERab204Q0JoM2ZsNmtnZUM5c0drLTMwSGw4NmVtX2ZjSGpPTkx1NzZuaGFHcFhVSXVWYzViX0NVZU8zMF9FMWhnanFGTTdSMGJzclNadURoUllYeS0tS1pBZW83bmNFRzNiRXZudVpkN2JValNocTVJZldEQjlRRHEyS2EtdUdzaGlfUnF6Q0hjTjI4ejVMaU5xenMzemgxSVVMVHhWMktra0dVUldlUGVnUlVHdVVR?oc=5",
+                "pub_datetime_utc": "2026-10-13T11:41:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 04:19:56 KST",
+        "current_rank": 19
+    }
+}
