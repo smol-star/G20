@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "공화당 하원 장악 위기",
+                "hook": "공화당 내부에서조차 하원 다수당 지위 유지가 사실상 불가능하다는 고백이 터져 나왔습니다.",
+                "script": "최근 내부 소식통에 따르면 공화당 지도부는 하원 장악력이 이미 한계에 다다랐음을 인정했습니다. 트럼프 리스크와 각종 스캔들이 겹치며 정국 주도권이 흔들리는 모양새입니다. 다가오는 선거에서 의회 권력 지형이 어떻게 재편될지 정치권이 숨죽여 지켜보고 있습니다.",
+                "original_title": "Katie Zacharia May Have Committed A ‘Crime’ By Claiming She’s A Lawyer, Complaint Suggests - Forbes",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2E4TEpxa3h4WW5MLVJFOE84Y2FXandDTmlFY0E5TUJzVy13SUgxZnN2TWNYbEpzNjBmU1V2OS1JNmJsZjBVY3BzVDZjZnp1WGZsRDNQQkoySmdRbXUxZno5LVBQUzFyTGpsU2p3WmtadFJhNEdlY0p6clI3UVVOZ09ITXBQZ3NVTzBlYkJfRl9TdHpubWlBdTVGSDZtSUJtLWRqXzNZUWNpNkVkNWV4N1hwa2EwX0xnNFZHb1NSTXlkcDdlZklPVkRCbndsa2xZOUE?oc=5",
+                "pub_datetime_utc": "2026-10-14T16:09:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:27 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 대표단, 쿠릴열도 방문",
+                "hook": "중국 대표단의 남쿠릴열도 방문 소식에 일본이 발칵 뒤집혔습니다.",
+                "script": "중국 대표단이 분쟁 지역인 남쿠릴열도에 발을 들이면서 영유권 문제를 둘러싼 긴장이 고조되고 있습니다. 일본 정부는 즉각 강력한 불쾌감을 표하며 외교적 파장이 일고 있습니다. 이번 행보가 향후 중일 관계에 어떤 변수로 작용할지 국제사회의 이목이 쏠립니다.",
+                "original_title": "携起手来共同维护多边贸易体制 保障全球产业链供应链稳定畅通 - 同花顺财经",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15Q0l4M2Zrd25GUXF2ODhBd1RQdGNCa3VLazBnVGR6MTAwWGJEQXAxcUJPYV9lTTgtV2hadDgzME9IcHdSSjBFVERRX3V5WE9CNGNzZkVETzBaNHF1cnNkSg?oc=5",
+                "pub_datetime_utc": "2026-10-14T21:27:24Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:27 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "노르트스트림 폭파 기소",
+                "hook": "독일 검찰이 노르트스트림 파이프라인 폭파 사건의 배후로 우크라이나인을 지목했습니다.",
+                "script": "수년간 미궁에 빠졌던 가스관 폭파 사건이 새로운 국면을 맞이했습니다. 독일 검찰은 이를 전쟁범죄로 규정하고 본격적인 기소 절차에 돌입했습니다. 우크라이나 지원을 두고 고심하던 독일 정부와 유럽 사회에 큰 파장이 예상됩니다.",
+                "original_title": "Champions League: BVB bekommt die Klasse von Bodø/Glimt zu spüren - sportschau.de",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVlKYVNpRkxsc2I1RGtwQ3g0MTRGa3hWWnhndHVOS1cxbnRDUzhfMEdxR0tyWVdUR254bmxQeGNQSjV5WlZ1WTUtTjRudVl2Q2gtTGR4WXhCZzdHZFVJVUN0RXhjX0swWWRVd1l5RWhSQjVvQno1YVJCU19mbm82cXplT3AwQlM0WVdrYnE1UEZwVGFSM2RIbVMzdmNhLXVidWZBbDFn?oc=5",
+                "pub_datetime_utc": "2026-10-14T20:49:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:27 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "독일 화재, 인도인 사망",
+                "hook": "독일 건물 화재 현장에서 인도인 3명이 사망하는 비극적인 사건이 발생했습니다.",
+                "script": "독일에서 발생한 건물 화재로 인도인 3명이 목숨을 잃었습니다. 현지 경찰은 고의적인 방화 및 살인 혐의로 용의자를 긴급 체포해 수사를 진행 중입니다. 양국 간 외교적 대응과 향후 수사 결과에 인도 사회의 관심이 집중되고 있습니다.",
+                "original_title": "Meerut ‘blue drum’ murder case: Court sentences victim’s wife Muskan Rastogi and her partner to death - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmxLZ0kzZldnNVA2OGR2ZlNWU1dlMEZyRERzWkV4V2JTVkhXVHRsNVU2Tl9vTEh2TXZISWNTN2hrMVcxa3dKb1JqTnZDS1ZSZ2RjMm9GdS1kQUVNektIVnZ3dnBTVkRNYVk3Ylc4WkJicWhaSGlpQWUxYlVtMk93TTliV0ZQTUpjMDJybzVVTldkb04tekI1ZmxUcGRqeDREUGJLMVBXNDVtclE4WTR1S2VaMGVlaVVrY2lXZ9IBwwFBVV95cUxQQ2VhV0Q0Ul9DOGtTMnZhZUdsNTVrV0Y0c2stb21iV3N0YkZ6VUhLOXdWZEp5aTExR0JybmhRZkh0ZVM4RXNEcmVXU2h2SnBRRVpwb01jMDREZWdYZlE5U1JXWWdJeVJzUHBpZ3pRNXlVSmJDeHZjY2QzemVHRlR0ZEtmMjF6eXctY2doM1E2U0k5cFZ1VGg2WWgydE53d1h1UC1SVkV6SFZzNHJyRDQ0djQ3b1phS1Ata0IzbmZMOEF6b0k?oc=5",
+                "pub_datetime_utc": "2026-10-14T11:19:31Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:27 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "러셀 브랜드 재판 시작",
+                "hook": "영국을 뒤흔든 러셀 브랜드의 성폭행 혐의 재판이 마침내 시작되었습니다.",
+                "script": "검찰은 러셀 브랜드가 철저히 계산된 방식으로 범행을 저질렀다고 주장하며 재판의 포문을 열었습니다. 영국 전역에서 큰 충격을 준 이번 사건은 유명인의 성범죄에 대한 엄중한 잣대를 요구하고 있습니다. 배심원단의 결정이 향후 그의 커리어와 영국 사회에 어떤 영향을 미칠지 주목됩니다.",
+                "original_title": "We are behind you and that will not change, PM tells Zelensky - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1dlVSRml6bUdtTzF6MWxBZ2M4UlZ2OVJJVTdhRWxQTTJvQjB6RF9LWlZDVkd6N01LYzlIenJTTzJGZ01lUzV6R1dzT3NvZmk4UXVPLWc2U2N0U21Senc?oc=5",
+                "pub_datetime_utc": "2026-10-14T17:07:37Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:27 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "프랑스 학교 테러",
+                "hook": "온라인 살인 예찬 문화가 현실의 끔찍한 비극으로 이어졌습니다.",
+                "script": "프랑스 오바뉴의 한 중학교에서 발생한 테러 사건이 충격을 주고 있습니다. 이번 사건은 실존하는 살인 사건을 미화하는 이른바 '트루 크라임 커뮤니티'와 연계된 프랑스 최초의 테러로 공식 확인되었습니다. 온라인상의 왜곡된 팬덤이 어떻게 실제 범죄를 부추기는지, 사회적 경각심이 최고조에 달하고 있습니다.",
+                "original_title": "L’attaque dans un collège d’Aubagne, premier attentat terroriste officiellement lié en France à la mouvance True Crime Community, qui glorifie les tueries de masse - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPbV9ZUWM5VmUyMjU2clFHTkZFckQzdjBMYXB2N1VoTnFTcXJwcEZjSDU1eTRZRmM1LVFQUWpCLVFyLVZBTGFQSjEybkhHRC1lTXBhd2w2T2hrcXlpb2MtRXUtMkRPYTRUVUQ3Z3hXWDhVX1Z5MEdoY2JBNEc2TXpMOFVkRHg4R2ZXRmFnMzEzSHo2cTRodGhURlhkLWFJdmJFeFhwZmVNd1NZa2hsdVllTUc3MllSVWlfWVp6WXFYMWVROUlTUzA4QVpIUWpRaEIydHBjc0RWMTlzVTJzTHNMY0NJUEtVVlRKZzVRR2J3M2ZlbFIxZklJNG5XSEI5UkxSQm0yMFZjVktlbWNDczVkTUJYRTF1cnI4THpySU1FRUtlVEYwOHlwQWc3aGtES2ZiN1JNZk4tWnp6YTNxTXBQSGVzS0xvQ2hURk5pLW9R?oc=5",
+                "pub_datetime_utc": "2026-10-14T18:48:59Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:30 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "교황 폐암 투병",
+                "hook": "전 세계가 교황 레오 14세의 건강 회복을 간절히 기원하고 있습니다.",
+                "script": "교황 레오 14세가 폐 선암 진단을 받고 긴급 수술을 받았다는 소식이 전해졌습니다. 다행히 현재는 스스로 호흡하며 식사도 가능한 상태로 알려졌지만, 전 세계 가톨릭계는 깊은 우려를 표하고 있습니다. 교황의 쾌유를 비는 기도가 이탈리아를 넘어 전 세계로 이어지고 있습니다.",
+                "original_title": "Meloni sfida i deputati di Vannacci: \"Dimettetevi o è trasformismo\" - Il Fatto Quotidiano",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXJmOWt0N094QThGOW5jZkpSRmxYREQ3dHpJMmRhM1hIWERXZmsxMkZzYzV3TDhNcVAwY3VERVFnVU9TTmp1TW80NFpmRUpuS3lLMEV2dDJuUXJMY3NESHpYeFJncDdxQm1CRnd4YUtSSjBiVkoteG1hOUZNeDhsU015bHd6VTQxOS1lM2dPTm0wcTFMT3k5SVVUd1A?oc=5",
+                "pub_datetime_utc": "2026-10-14T17:28:58Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:30 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "브라질 대선 격돌",
+                "hook": "브라질 대선 2차 투표, 오차범위 내 초박빙 승부가 펼쳐집니다.",
+                "script": "브라질 대선 2차 투표를 앞두고 플라비오 보우소나루와 룰라 후보가 2%포인트 차이의 치열한 접전을 벌이고 있습니다. 최근 AI를 활용한 캠페인 논란까지 겹치며 양측의 공방은 더욱 거세지는 상황입니다. 브라질의 미래를 결정할 이번 선거 결과에 전 세계의 이목이 집중되고 있습니다.",
+                "original_title": "Quaest, 2º turno: Flávio Bolsonaro, 46%; Lula, 44% - G1",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONldXaWFYWWI1WFJPcjR2SkNoZTdUMTJadHRvbk5idjZQZ3AzU2dTVjEyajFlZHJlbHZiaktISzUteFJ2dkdtZGVlVmgwb2tBU1NxOV9SeUNBMVZSczRGQkJCZ29lQVhvbkJWdExET1JPVExPZlF0MTBMdW1zYVYtX3J5R0ZVb2czcWVIWWZyRVpITkhXQlVZVEVhWUVxd01fMlpIYnpfYm45MDZfb2pjQnpnTWJxRlXSAcYBQVVfeXFMTV9oZGJOdmlaS2ZGSTVfMC1CX3hra0U4dDBlMEhqaVUtS2dlMUpXdUVYZ0tLbU1aaW5FRWtXQ0xYMFZveDc1TVc4Sm9nRjBNb1h0dWlFcjRPamg0VE1LYnI3QjNDS2JWdi14bElRb19WTEl2TGFxMVhueWVMUUxZV25YS0xOQ3laYXpOeDR3akVQZV8zSUFnRk1Bckc4MU14QWtnWXh0cDFlWm45NzlnMEJUNFlvT3gxbk9PMXpuRWdwVmpTTnpR?oc=5",
+                "pub_datetime_utc": "2026-10-14T21:05:05Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:30 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "러시아 사이버 공격",
+                "hook": "러시아 주요 IT 인프라를 겨냥한 전례 없는 사이버 공격이 이어지고 있습니다.",
+                "script": "최근 러시아의 대형 데이터 센터와 정유 시설이 연쇄적인 사이버 공격을 받으며 비상이 걸렸습니다. 푸틴 대통령은 사이버 보안 강화의 시급성을 강조했고, 스베르방크 등 주요 기업들은 피해 복구에 총력을 기울이고 있습니다. 전쟁이 물리적 공간을 넘어 디지털 전선으로 확산되는 모양새입니다.",
+                "original_title": "Главные заявления Путина на совещании по вопросам кибербезопасности - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUmRhNG1pR3BibjFYZ3ZMa0pnQTIzbWFxR1I0cEtkaG5sbktPam5TWkp1TXRQY2xkdnlwMXNUVXZxSkpUV3lZZVkxUlRPaTlJV280SFNyRDdXSDc2MDdyYmRyclZNTlZEcjdPRWNmd3RZV1g4OHl4aXdDS05LZ0dPVDgtenVxTlU?oc=5",
+                "pub_datetime_utc": "2026-10-14T12:57:43Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:30 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "카르텔 잔혹 고백",
+                "hook": "250명을 살해했다는 카르텔 조직원의 충격적인 범죄 고백.",
+                "script": "CJNG 조직원이 이탈리아 방송과의 인터뷰에서 무려 250명을 살해했다고 고백하며 멕시코 사회가 충격에 빠졌습니다. 카르텔의 잔혹한 범죄 실태가 드러나면서 셰인바움 정부는 폭력 콘텐츠 유포를 막기 위한 강력한 행정 명령을 내렸습니다. 멈추지 않는 카르텔의 공포, 멕시코의 치안 위기가 심각합니다.",
+                "original_title": "Monitoreo de la tormenta tropical Trudy, en vivo - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0pGU2pxMDU5OHZjcTc0U0h2ZV95MkFUa0R5c19ZUVpGX3NhRFl5cDRWNlZZMzY0NXVLZ3Z1aVhTRFFFcks4NkRVNzhNMGY2UVl0cmdrVTM4TUlIMF9DQ1hoUWJXejF5RTF6OWlRcFlPY2NtUnhqcEJqMGdIbDZqdzZpdEl2cUhrVTFWa19R?oc=5",
+                "pub_datetime_utc": "2026-10-14T15:30:11Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:30 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "병원 내 휘발유 방화",
+                "hook": "평온해야 할 대형 병원에서 벌어진 끔찍한 방화 사건, 그 내막은?",
+                "script": "시드니의 한 대형 병원에서 환자가 휘발유를 이용한 방화 공격을 벌여 충격을 주고 있습니다. 이 사건으로 피해자는 심각한 화상을 입고 치료 중인데요. 경찰은 즉각 수사에 착수했지만, 병원 내부 보안에 대한 시민들의 불안은 극에 달하고 있습니다.",
+                "original_title": "PM walks away from ATO credit card boast, internal Labor morale hit - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMzBCVEROZVVpeUFKRHEzUldBRDNTQXNFcDJCVUhwcXhpNjlESFdjYUNZckpPMDJDSXVRczNsQk9LRHkya21LRHVqbmNXNjlUNWRHeWR4Uk5OcnR5bUNCMnc1TXFtTFlRcTJ0eW1GYy1DcGtoRERaSDZEYno3VnJwRWJYY1FuTTRBX21yaVNZTEJDSEhsZkZIRWJ3bXhmbjQ4eXk0Q0V0WndUZHZkZUI0WDVQektTNnp2Y2F6RTdSZEVOckJkMG1sU2RHOWNFRjFCdkpSdmVkSllHNmFaOUhGRlhIVmhrbjFfU1h3cm50RnBxYmhlcVNtWmQwWW1SelpuOXc?oc=5",
+                "pub_datetime_utc": "2026-10-14T19:14:36Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:34 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "흉기난동범 집행유예",
+                "hook": "살인미수 전과자가 또다시 휘두른 흉기, 법은 왜 관대했을까?",
+                "script": "과거 살인미수 혐의로 집행유예를 선고받았던 남성이 또다시 흉기 난동을 부려 사회적 공분이 일고 있습니다. 전문가들은 이미 재범 위험성이 높다고 진단했음에도, 사법부의 솜방망이 처벌이 참사를 키웠다는 비판이 쏟아지고 있습니다. 시민들의 안전을 위협하는 사법 체계의 현실, 과연 이대로 괜찮을까요?",
+                "original_title": "인천 흉기난동범, 과거 살인미수에도 ’집행유예’…재범위험성 ’높음’ 진단 - 연합뉴스TV",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96Rmx2YmIxR0hRbEJHTWNpYWpCWlVqSjRudGcyMnF4UUtJZHBRRXNRREtpekZBVzN5b3l5NHNMZUdyWTdOVUw3VkpXY3ZpR3lmNUl0cjB1YWVlcTRpWmlHOWJrZFcxbzA?oc=5",
+                "pub_datetime_utc": "2026-10-14T21:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:34 KST",
+        "current_rank": 12
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "이스탄불 폭우 마비",
+                "hook": "도시 전체를 집어삼킨 기록적인 폭우, 대학들도 문을 닫았습니다.",
+                "script": "이스탄불을 강타한 기록적인 폭우로 도시 기능이 일시적으로 마비되었습니다. 안전을 위해 4개 대학이 긴급 휴교를 결정했고, 기상 전문가들은 추가적인 재난 위험을 경고하고 나섰습니다. 갑작스러운 자연재해로 시민들의 불편과 불안이 가중되고 있습니다.",
+                "original_title": "İstanbul'da sağanak hayatı olumsuz etkiledi - Anadolu Ajansı",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0xIbmdGMXZWdjFqcjZhbWZhOHZ0cThyTjRNUkk1cXJjZ1hjQUd5cDRJWkNDc2UyeEt6WldYTXdEdWM2bXhxREt4dzVMV1VlV3hnY3FKWUJLVmdnRFJva2VFelZhODM4RE9EUTlFaGZRQkNMWmpEdVdzRmY2V0tzYmUtenJLODR0ZHc?oc=5",
+                "pub_datetime_utc": "2026-10-14T18:14:36Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:34 KST",
+        "current_rank": 13
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "밀레이 대학 정책",
+                "hook": "대학 예산 삭감으로 촉발된 아르헨티나의 거센 반발, 그 이유는?",
+                "script": "밀레이 정부의 대학 재정 삭감 정책에 맞서 아르헨티나 전역에서 대규모 시위가 예고되고 있습니다. 과학과 교육의 미래가 위협받고 있다는 학생들의 외침과, 개혁을 멈출 수 없다는 정부의 입장이 팽팽하게 맞서고 있습니다. 아르헨티나의 미래를 결정지을 교육 정책, 과연 타협점은 어디일까요?",
+                "original_title": "Quién queda a cargo del Vaticano y cómo funciona la Iglesia católica mientras el papa León XIV se recupera de una cirugía pulmonar - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iVFVjdVE5SlRacDdreDBrR1ZzR2NLODczYjlmQUl2cXp5S3EtZXl4cW5DdUQ5V3RiandhdmxoUnozajMteGxNU0VRdkpjb2QzR1A5aTNLNjFLOUFq0gFiQVVfeXFMTk1uZXQ5RUpKSksxRkxxRi12emVGUjFYUE9rZ3RKT0o5NnB6emJjOHNIYWZDdkJydEk0bHZXV0NUNGZZdFdOVHp0RTRudERhNE9kMVFFWlBXZWh6SFlvVHdueXc?oc=5",
+                "pub_datetime_utc": "2026-10-14T13:11:10Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:34 KST",
+        "current_rank": 14
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 강력 범죄 급증",
+                "hook": "경찰과의 총격전부터 연쇄 살인범 처벌까지, 남아공의 충격적인 사건들을 정리했습니다.",
+                "script": "최근 남아공에서는 현금 수송 차량을 노린 강도 용의자 3명이 경찰과의 총격전 끝에 사살되는 사건이 발생했습니다. 한편, 악명 높은 연쇄 살인범 로즈마리 은들로부와 공범에게는 추가로 10년형이 선고되며 법의 심판을 받았습니다. 정치권 역시 MK 당의 내분과 지도부 선출 등 혼란스러운 상황이 이어지고 있습니다. 남아공 전역에서 들려오는 긴박한 소식들을 계속 주목해야 할 시점입니다.",
+                "original_title": "Mike Shingange elected as Cosatu president, Zingiswa Losi now general secretary - News24",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWFXUTBwQVVWbEJEOVhaQzQ3V2RzWl91bDBKMk92NmtFV2NDR09TZGxONkg1VWFmQ1FocGxOMlNodGpYa1Y5MXVyTWdudUR4SHVFZVV2TXZNVENXUW04MkRSXzhGUjJFemJIb2NZNTEwenNoekJLbjYxYzV5QmNBSWdCdXY3Q0NNUEpZeU00Yi1FbTNaZmdqZ1dBTlVQUm0xcjcwb1dTU3FNOG9nSTVac2ZxVHJwLVJVLVJqZGNRdGJJZw?oc=5",
+                "pub_datetime_utc": "2026-10-14T11:53:19Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:35 KST",
+        "current_rank": 15
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "簗和生農相、首相に辞表提出 道路予算カット発言などで引責 -",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "簗和生農相、首相に辞表提出 道路予算カット発言などで引責 -",
+                "original_title": "簗和生農相、首相に辞表提出 道路予算カット発言などで引責 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZVdhU3lWOXJCLUtJRnhYVVdFUXNmVkhmbExydlpnMjhENmIyYXJ3V0p4QmN1SFRxTkVXQWttZlpnMTZxN1NnSFE2WmUzQ2xVaExkQmtHTW9IRDhIZlIzZVdGZFhqUXZ1bGhROA?oc=5",
+                "pub_datetime_utc": "2026-10-14T09:48:02Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:27 KST",
+        "current_rank": 16
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "What does Alberta’s referendum",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "What does Alberta’s referendum",
+                "original_title": "What does Alberta’s referendum separation question even mean? | About That - CBC",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12SlBldzFpSVExSllFQ0RVTlFnN0tFSWVnUGVDR2ZTSUdVUkk2dEk0SDlYNTZwVmpSS09nbWxFeHlhWk41WHlqZlNfR05hdVdkZXpMbi0xREpNdw?oc=5",
+                "pub_datetime_utc": "2026-10-14T19:04:11Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:30 KST",
+        "current_rank": 17
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Pemerintah Bantah Tolak Bantua",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Pemerintah Bantah Tolak Bantua",
+                "original_title": "Pemerintah Bantah Tolak Bantuan Malaysia Tangani Karhutla: Sedang Komunikasi Melalui Kemlu - Kompas.com",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUE4zX3oyck1QUl9zZnlUcWRyZ0lxbkt1U0Iwem5ELXBuSFFwRmxuMVB0VUZfWTdnNWZ1bHRrbEh3a2hGLVY1MDAxTmpSWDItbHRqRXpsSVpkZlNDUXhLbFdSMEpEMTcwd0Y5dndXMjV5RjhQcFhvUFJtek5fMHluaGFtNW05NWhqUHM1Qzk0VnFSU0lsbzJvVHlhUno3MWV3V01GWktIWGphVGlZRFF5eFNsNkJ1UkZ1N2JOTVJLalZsZ3gyelF1ZTlzbS1rM2pRNUxn?oc=5",
+                "pub_datetime_utc": "2026-10-14T05:49:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:34 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "아람코 공습 피해",
+                "hook": "후티 반군의 아람코 공격, 중동의 긴장감이 최고조에 달했습니다.",
+                "script": "후티 반군이 사우디 아람코 시설을 겨냥해 대규모 공격을 감행하며 중동 정세가 다시 요동치고 있습니다. 이번 공습으로 시설에 상당한 피해가 발생한 가운데, 사우디 측은 즉각적인 보복 작전에 돌입했습니다. 에너지 공급망을 위협하는 무력 도발에 국제 사회의 시선이 집중되고 있습니다.",
+                "original_title": "الدفاع المدني يُصدر تنبيهاً بإنذار أحمر لأمطار غزيرة على 4 مناطق - صحيفة سبق الإلكترونية",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4ekpaOEJtUmdIM2h4S081Tm1TWXZHM1NKNHpHQW1oT25wUUpSVjlDRTM3MXVpd3pwNy1HYnNSSUVORWR0cFRv?oc=5",
+                "pub_datetime_utc": "2026-10-14T09:19:45Z"
+            }
+        ],
+        "last_updated": "2026-10-15 06:45:34 KST",
+        "current_rank": 19
+    }
+}
