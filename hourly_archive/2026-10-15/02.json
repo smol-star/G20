@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "Ukraine says new Starlink rest",
+                "hook": "United States의 최신 주요 뉴스입니다.",
+                "script": "Ukraine says new Starlink rest",
+                "original_title": "Ukraine says new Starlink restrictions disrupt military as it reels from intel gaps and Trump clash - NBC News",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFZxOFpYUkhfNjVDUzFoSUhVQ3JRdERHWXdlbk1PUW9zc0tvNEo5cnVnODNTUHA0V1lmX1hyVERYc2FtX0d4MjMzdVZOVGpETjNTTy1FaHpFakZKYzQwWW9RV2hJeE9nQ0JoSUs4c0FJVE1ZSUdsWk5zSmxJcHVEaHJza2NjSEd1RmNYNVM0MHUxcDV1dzBraTB2UUh2RzhSdk05VmMyOUhVeEdKcFZjXzZGYUhTSlE?oc=5",
+                "pub_datetime_utc": "2026-10-14T15:55:34Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:49 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "第一观察 | 习近平主席向广交会致贺信传递高水平开放强音 -",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "第一观察 | 习近平主席向广交会致贺信传递高水平开放强音 -",
+                "original_title": "第一观察 | 习近平主席向广交会致贺信传递高水平开放强音 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFYwMXZVLUQxajdaMmpCa3pmUm9xaGRRWHVDV0hPV3ZHb21Tc2FQeG9DZ0I1YkpYZTNRcjZ4eWVvRmJVdXZrbWJoV2t6LWdFaEtJOUh1MTg5Tk00SVZHOG4xRVV1bWhfSDR3MVZkVmdlWXV6T011Q29kWTNLaUoxeS1PUl90X2pOTnpzMnFB?oc=5",
+                "pub_datetime_utc": "2026-10-14T16:23:08Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:49 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "［深層ＮＥＷＳ］簗農相辞任、「麻生氏から自立して行った内閣改",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "［深層ＮＥＷＳ］簗農相辞任、「麻生氏から自立して行った内閣改",
+                "original_title": "［深層ＮＥＷＳ］簗農相辞任、「麻生氏から自立して行った内閣改造裏目に」「高市カラー確立に時間」…渡辺喜美氏 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5X09SVFRNcVVHV2RlLTNXdmdQODE2b1NWWkZ4ZlAwLXRpOW4ydGQtNnlOUmNYZ3R5b1VOeWVCbVZ6eURxQ1BjQjNBeU1lRWJocDdsUXlWTnR5OTlYeWR6d3piQTl5UQ?oc=5",
+                "pub_datetime_utc": "2026-10-14T14:23:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:49 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "Ankita Bhandari case: Rahul, P",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Ankita Bhandari case: Rahul, P",
+                "original_title": "Ankita Bhandari case: Rahul, Priyanka Gandhi meet parents protesting at Delhi’s India Gate - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc3I4bk1GaXRKaUc4dDl6YVhHcnN2SnRSampsSHAyd19Sa0daQTZWenVRaVI5ZTB0NzdIUFlWaHA1QWRvTmJUOU5fbGpaRXdQenppTlVrOVB0NTROaUVXQ3pscGlRSEc1d0ZLamhnM2Ffb2RRV3V5bEdiTGtLRHBZVUxLYUZFcTlXMWx2XzVNTVVoUDJseDBDblZIcEtPdS1VQTlIWEJxNzBWMkRVd0Y3OVpuRzhJWnhxSmZaWnZpZ3hVUkRjbjRZRW1BOGpxaS01OW03YXQ2OW16LWEyVExZcVBmNHV1UldvOExz0gHyAUFVX3lxTE9MLWFhdUI0Q2hOMmtfZEVqZDRUaEs1TjNxd3pJa1l0eTJJNmVWYjVldnFpVWZjMGs0UVVnWnE5UE53U2ZiSWUwaHBiZHNZejBWdXRrSTczejA4bG9USmtkbWQ3SXRqaDZ2WTlOblpVaVBsLTllLTRJb2Z1RHRadldKbVRZWkllamRBZjJlRVg5TkQweksydHh5LURZMURKbWtVZG5RQVU0RjIzY3FUcFphVU9ZVGFQTVVOYUNQc2JIMmNtY0dob01SUHNJRjF0TDh1Vjc5QkkwaTFtTVMwNllIQnplTzAzTG5oYU5JMkN3LUlB?oc=5",
+                "pub_datetime_utc": "2026-10-14T16:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:49 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "Santé du pape : une « nuit tra",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "Santé du pape : une « nuit tra",
+                "original_title": "Santé du pape : une « nuit tranquille » pour Léon XIV ; réactions après le diagnostic d’un cancer - La Croix",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUpiam1lQ2N3dmRlMy1IX1BBTF9WVzhYSnRFYVlvczhWNFFHYjdMM1pDbkhWWVlGTjJvd1hWeks2QjVqaS0xQUEycFdwTEVfWHAzRTNrTF9YNzRGbmZHWlp2cXJ3Y2lMcm0zUVFEelh0c2pqb29LZEJwbmo5TENsY0pJY2tEN1BkdWNzLWE0MXRhWXp6TTJZbXRmSktwejdyRXdaZ0hubmlza0pIU2ZvWmJUTQ?oc=5",
+                "pub_datetime_utc": "2026-10-14T07:08:38Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:54 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Il fratello del Papa, Louis Pr",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Il fratello del Papa, Louis Pr",
+                "original_title": "Il fratello del Papa, Louis Prevost: «L'annuncio uno choc, anch'io ho un cancro. Ma mi ha detto di non essere in pericolo di vita» - Corriere Roma",
+                "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNdnFLUFk3V3kxTlY1a3ZLOGpYYXZzRy1ZakFIWEFGbGlkSWIxS1dxN042dy1rQ1FRVmlZWWFWUHUwVklaWWVKdXoydkxLRlBKYmZ3T3BNSjB5dElPSmJMQmZURlZaUV9Zb2JMRU5QZnVhaHJOb0Zoc2dMU0xMc2JGZl96QjdicTFYQjRnN3EzOG55U1BrQUgwMjR0eEhhSzdCRlVYN3lFX3ZETVJxc19yMm1HZlBaaHkwRWR1M0VKQjc1NHp1U0lwWlBPTGQ4Z0dNWURsZFRDQmtOWFI3WWgxcG5wMVNMVUQwcFdhTHpxUk4xTFQ1b25GTUs2dVM2cjRmV1MzOXZ4Z3p0YnEwXzRyTG1VaC15dC0xazFkS0NyUEQycXVFRFNTck5VS0NORUlrdVZKdktlWWNCYjFR0gHCAkFVX3lxTE1YR29haWZtV1N0X2doNnFzTTUxdHdNcjlLNUxMOGlRdWRlMVkzaEhiRnBXS2loYmczcFpleHNWSm83ZTlTeWR0aVFDY01zcVBPd29KVE9HZUNRaXl5b3FfSmtrVmtBNGI5NUVJYTFDbm9NZkthYVRiRzlNalNGc0N3MlR6SUlXeE5NRVczeE0wS0hRaklhVWFZaExYQkdpcks0ZjE5UlB5SU9kMXVOQy1pdG9PRTBSZUVhWjd5bEE1VzVsVF9RS3RJcUxFbTJ4TzJmTFJLcmNSTVBqc3d5V05lcjhLdFR6eUhwYWRORVlPMmkxUmhHNHFkMEhzM3pTZUJvWkU0S3FaU295QVp5SDVoa2dkcWlkMjZzOU8tUHRobkh6NzY0a0hPUDlsUkpfY000XzZwQ0Q5RFU2T2UzeHc0dVE?oc=5",
+                "pub_datetime_utc": "2026-10-14T12:51:38Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:54 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Oposição se diz ‘a favor’ do f",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Oposição se diz ‘a favor’ do f",
+                "original_title": "Oposição se diz ‘a favor’ do fim da 6×1, mas articula contra a PEC no Senado - CartaCapital",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2ZrMGRIZE15MFB2YjAtNDFNSEZXOWhhbmt6dnU5NVNpb1daZ2pvNU9QZW1ZOGV5N3ltZHQ4T2R4Z01PV28tNEd3dl81WEVIVl9wMmJNQ3RUMXhsUHFmMm95T2R6czVkTDI5clRnWkRROFZ5VnVsRzZHRjRRU1dhNzBLZ0Itc1ExQWNuVzVGYXU1Y1NUTEc2WnJva0p5MTlFVnhqRks1TnRKTnUxRWFxQ2d5d1dsZw?oc=5",
+                "pub_datetime_utc": "2026-10-14T11:39:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:54 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "«Сбер» подтвердил атаку ВСУ на",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "«Сбер» подтвердил атаку ВСУ на",
+                "original_title": "«Сбер» подтвердил атаку ВСУ на дата-центр банка - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWlkQTlXeXdhMkZOdnVseG4wYmlENVdJX19nRVcyeHBXSjBkVEJuS0Z3X0swUUJJN2lBWkM4WGdzWU80bUY2eE1BZmh4YTVBM2FLM2JLeGVLYl83cmRldW5vQ25veUJiQ3lPTTkyVUt1TEk5S1dzeHl3T00tYzVaZFduMnc?oc=5",
+                "pub_datetime_utc": "2026-10-14T07:09:29Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:54 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Trabajadores del IMSS amplían ",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Trabajadores del IMSS amplían ",
+                "original_title": "Trabajadores del IMSS amplían protestas y demandas - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FT1dpZVRreDZoMXlucWdWZl9jczhVZDYtazNFUkVXUGdlWjB5TEItUGpwbkt6alktcVl1REZCc2lBbVRFZnB4SG9sTy1fY3VSS2RFOWFwUWNCOV96OUVRbTdwMkl1dw?oc=5",
+                "pub_datetime_utc": "2026-10-14T10:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:54 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "여야, 김지용 중수청장 후보자 인사청문보고서 내일(15",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "여야, 김지용 중수청장 후보자 인사청문보고서 내일(15",
+                "original_title": "여야, 김지용 중수청장 후보자 인사청문보고서 내일(15일) 채택 - KBS 뉴스",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRmtYbjJEWmluWS1YcWdKS3hLSnRqTFg0eTI2X2x2OU1NUUNLUWpYYWFHRm84V05lWG9WRU1ZdnVtM2JEVWFHZ2pHSXJWWHY0Q1dGYWVzYm5ReWs?oc=5",
+                "pub_datetime_utc": "2026-10-14T14:07:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:55 KST",
+        "current_rank": 10
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "عام / الدفاع المدني: سقوط شظاي",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "عام / الدفاع المدني: سقوط شظاي",
+                "original_title": "عام / الدفاع المدني: سقوط شظايا نتيجة اعتراض صاروخ باليستي في مدينة الرياض نتج عنه إصابة مقيم من جنسية عربية وأضرار مادية محدودة في منزل سكني ومركبة - وكالة الأنباء السعودية",
+                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QQjFSTjNzWTh4R1liaW9nR3c4WWlBZ1pISXNYWWR1eUh4cHN3ZVdaaG95eHpBU0h2NjFXVlZGLUtwZk9OblE?oc=5",
+                "pub_datetime_utc": "2026-10-14T13:20:16Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:55 KST",
+        "current_rank": 11
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Landtagswahlen – Landtag in Sa",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Landtagswahlen – Landtag in Sa",
+                "original_title": "Landtagswahlen – Landtag in Sachsen-Anhalt beschließt AfD-BSW-Antrag zum Ukraine-Krieg - SZ.de",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUS1uYm0xVkNKQTlXY0dGRlp3WjZUS3ZCOVFlSl9HcXBadm9OSW1ucEtZWU5HQkptY2h0Yk5yRno4Y1pieGVnS3d6V0g1ODlrQnBHSmExTUdUdUp5LUZGaWtkM09ubl9LWElXZ0NxV3puRnJNTlZWX0hqZU15cVhkNTFIWWE1czVDdzk2dFhiZnZGUnhuaEViWkV5dkhsR3luOWZUdFA4SQ?oc=5",
+                "pub_datetime_utc": "2026-10-14T11:45:40Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:49 KST",
+        "current_rank": 12
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Starlink restrictions affectin",
+                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
+                "script": "Starlink restrictions affectin",
+                "original_title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EdnZ0dWdlazJpMUR4dU9zMGRkdkFhVTlVREI0WkxaUnRrb2FYY3B4WlBpejdGYjFnNF9jQVFibEpxQlNrQ09Iem02ZE00OUU1RThabTB0RjY4Uy1mWEE?oc=5",
+                "pub_datetime_utc": "2026-10-14T07:21:50Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:49 KST",
+        "current_rank": 13
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "U.S. ambassador warns Canadian",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "U.S. ambassador warns Canadian",
+                "original_title": "U.S. ambassador warns Canadian politicians: ‘Keep your nose out of American politics’ - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJDdWFSdG5EbE1IZmFSdjdmOTVuSGJGejYtSV9tRHY5eENIX3l0RU5nRGNKeUxTRXhITWlfV0V3WXBOQVFqUFBNVzF5bG5QRklWNTBLYzE0S3pRMXBUcXBmeDAzU01tdWVmQ2tpU2ZNVmhKXzhmYkk1dER1TFdwSkVUWHFoRmFJYlQyR3Nyc3BDUDg0T3E1dl94UjEyUmRqb2JaVUhaUi1McFlCMGFxMGxPSDdmTHk2QnFzQTZR?oc=5",
+                "pub_datetime_utc": "2026-10-14T16:22:43Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:54 KST",
+        "current_rank": 14
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "Boy sentenced to seven years' ",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "Boy sentenced to seven years' ",
+                "original_title": "Boy sentenced to seven years' jail over crash that killed grandmother - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm5lSzhwa21VdmVxTDE4MlNMc3JVYkpfdDF0NzBNUmxydWd6eTZBd0h3ekx5WUF4YVBFVlNJR0tuSjk2QkFfOWxGTkU5VVZjWmFzRkRoZ1lCbmlPRzBGTTVCXzl0RHB1VFo0WEQ5LXd3SDFwWFNzd29FV1pudmc3cV9OWXVucmNGY0R2YjRybWI2S1VPSW5mZVNwTHNOVHlkTzQzem9FcGtQcFUwTWtV?oc=5",
+                "pub_datetime_utc": "2026-10-14T07:16:21Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:55 KST",
+        "current_rank": 15
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Barbuk OTT KPK di BNPB: Duit R",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Barbuk OTT KPK di BNPB: Duit R",
+                "original_title": "Barbuk OTT KPK di BNPB: Duit Rp 3,3 M, Kripto, hingga Ratusan Gram Emas - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHNkWVNTM3loX01Ld0dOLW9Sa2pwS2poQ2gxQkk4LXEwMkhoOUNzWGpDd2Y0Y242TFQ1REFZU1ZNdTc5aHNFcHZUMHZEV1k2VVdKMFY0eGgzenJFUC1PX1RGV1kwR2hKVklpeVRXWjJvNm1MaGJXbjNxZ05YcnI2ZHpRdXJUMlRHR3JqLTRsUjdjZTJwdXR3TUhtNW04M2xURHJNcUNwb1VPUGJN0gGyAUFVX3lxTE0yUS11Z1dYQW5BSWp5eHZPQzZRZWRSblYzam9IWXN0aU1zUm56N0dQdFlUUTFpcE10bEJqNnFabENQVFhUbTBYcFc4Rm1DT0JaTW5mNFZtQjN6dkl6dFgxbFRPcHMxTFdQdmRQUF9DOEtoRmk4MmFhcWlacFVhbkxEOUhtRW15alJXb1N1cHVSbUZXQUtHMXVkRlBLcTlSTmdjUEJlREFPZ3FJYXFDeHIwYnc?oc=5",
+                "pub_datetime_utc": "2026-10-14T13:34:55Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:55 KST",
+        "current_rank": 16
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Vali Gül'den İstanbullulara \"d",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Vali Gül'den İstanbullulara \"d",
+                "original_title": "Vali Gül'den İstanbullulara \"dışarı çıkmayın\" uyarısı. Okullar tatil edildi - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMm9vVGZUdjhua2ZETkJYLWQ5clExZWhtV1FMbWdWSjVhOGJNUUl5ZWxaektjN1QtdnozUWRqcDl2YWlSd0NScGtOcWVmWVFzdU9aQ0ZTcXc5UVN6X0tpSHlkdS1BUGRvaUVrU1NoTEU2Y3RnUC1feEl1eDhzVUVtU0ZR0gGHAUFVX3lxTE5OZVJ2WWJxZnVDazR4TDRHX1hHZmZZU0dSOGdyS1V6VlpoaDJUcEVQSS1fNDFpYkpZUmluLUJWRmV1Q3FYZS1pNkhfNHpObnRYUHNreFoyNnFyeFZFSGlucHhIVkxQTkJtUnFXaUEzX1BtcmhwYS1YRkZSYWRWOC1iVTZBS3hQVQ?oc=5",
+                "pub_datetime_utc": "2026-10-14T15:38:04Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:55 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "La salud del papa León XIV: \"P",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "La salud del papa León XIV: \"P",
+                "original_title": "La salud del papa León XIV: \"Pasó una noche tranquila\", tras ser operado por un cáncer de pulmón - Diario El Día de La Plata",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2sycGpRNmpoRENCRDhoM2wyel93OXh1cGRJS254LTdkZVV5RktyaDJkN0h1Qm5hVUtTeWswcHlWakhYbHhOWHpwYkxXNkVaZ2k2dVRQVHhJaWVmVEpvUFJwOERBYmduNVdJZWhnamxxLWZHUGRHUk5XYmJsUkdFMDVMdlhRNGltWkN3b0llRVNFaEJBTWdrSUYxYldqV3FsLWdNM2xhbmdSMzhCQlBWUDZKVFdjcjY4cDJDZU5nblJoMlFCSkdrNmdB?oc=5",
+                "pub_datetime_utc": "2026-10-14T10:53:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:55 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "남아공 경제 위기",
+                "hook": "쇼프라이트가 경고한 15년 만의 최악의 경제 위기, 남아공에 무슨 일이?",
+                "script": "유통 공룡 쇼프라이트가 남아공 경제가 15년 만에 가장 낮은 성장률을 기록할 것이라고 긴급 경고했습니다. 치솟는 물가와 불안정한 전력 공급이 민생을 벼랑 끝으로 내몰고 있는데요. 현지 전문가들은 소비 심리가 완전히 얼어붙으면서 국가 경제가 심각한 침체기에 진입했다고 분석합니다. 과연 남아공이 이 거대한 경제 파고를 어떻게 넘을 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "Camps Bay tenants sent packing after raking in over R3k a night while stiffing owner R1.4m - News24",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVlQ1allHWmdKZ01XLXUwd3ZGY0VZTkZHRU5VcWRYUlU2bWhjeDRyMmoxbnRHMlFwTjk1d3g0c0U1Tk42RmZXbEgtZ3VvY05pYm40Q25Va2lyTnVlV1FCdjJzV3ZOaXMwWFF2YVZ4b01mSDdjNk9ad2dEWVdLQW0wVHFScGt4YjhTaHdWOG1RVXhySDlkbGZWRWxkVkV1aFpJYjNFRWlvUlZXTlRSNXhpQkx0eVFGY3I2R3hJcUdYSU1rMWxOanh0WXdUZ3habDRlNWhjRGdPRXZKcWZSLVl5d0RkRWRnOXk5M0pn?oc=5",
+                "pub_datetime_utc": "2026-10-14T13:34:23Z"
+            }
+        ],
+        "last_updated": "2026-10-15 02:16:59 KST",
+        "current_rank": 19
+    }
+}
