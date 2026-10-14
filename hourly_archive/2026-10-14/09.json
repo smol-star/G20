@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "김벌리 길포일 사임",
+                "hook": "부패 의혹으로 물러난 주그리스 미국 대사, 파장이 일파만파 번지고 있습니다.",
+                "script": "김벌리 길포일 주그리스 미국 대사가 심각한 비위 혐의로 결국 자리에서 물러났습니다. 미국 내에서는 이번 사건이 단순한 개인 일탈을 넘어 외교적 신뢰 문제로 확산될 조짐을 보이고 있습니다. 관련 당국은 즉각 조사에 착수했으며, 파문은 쉽게 가라앉지 않을 전망입니다.",
+                "original_title": "Kimberly Guilfoyle, U.S. ambassador to Greece, resigns amid misconduct allegations - NBC News",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0QtQnJyNUhDbjlLeVE2NEczcEhMR19SV2s3bjc2V1U1bXRkcUtBemctSE9HeXlMSHNZd0lnNmRhZFVjOUg5R0NEWW1oWUpWbHZ5NTRtd1VPZzNLbE44bDJwM04yTlV2a0xBWnNJUnUzVDdKZzVPQkRXY1NJZ0Iza2FTdDJHTVJkS0czNEtXVEhwR0ZENW81bnRha2cwc2hMRzZacFdPRC16TFlMaEZjRVdsQ3U?oc=5",
+                "pub_datetime_utc": "2026-10-13T20:45:09Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:08 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "랴오닝함 서태평양 훈련",
+                "hook": "중국 해군 항공모함 전단이 서태평양에서 대규모 실전 훈련을 강행했습니다.",
+                "script": "중국 해군 랴오닝함 항모 전단이 서태평양 해역으로 진입해 고강도 훈련을 진행했습니다. 이번 훈련은 실전 대응 능력을 극대화하기 위한 목적으로, 주변국들의 긴장감이 고조되고 있습니다. 중국은 앞으로도 해상 작전 범위를 더욱 확대할 방침입니다.",
+                "original_title": "奋力推动健康中国建设取得决定性进展 - 中国科技网",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtTEFnQ2l0U2ZfMkhCWnpQVFpfbTNkQXUtRHFreTlBejNWWkduVG9YWGlFNW5hd1JBZVZYVmw0Zm9CT1BVYnpIMTVyQ2E5dW1hWjhXOVQ1N0RiOTNvdHZQM19MdHBtYV92bVE?oc=5",
+                "pub_datetime_utc": "2026-10-13T23:31:54Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:08 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 1,200억 잭팟",
+                "hook": "독일의 한 익명 플레이어가 유로잭팟에서 무려 1,200억 원의 주인공이 되었습니다.",
+                "script": "독일 역사상 손꼽히는 거액의 복권 당첨자가 탄생했습니다. 유로잭팟 1억 2천만 유로의 행운을 거머쥔 주인공은 당첨 직후 모든 외부 연락을 차단한 상태입니다. 전국이 들썩이는 가운데, 당첨자의 향후 행보에 전 국민의 관심이 쏠리고 있습니다.",
+                "original_title": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei - STERN.de",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlAyNFp2NnFWWk03UDRVWmRJVWszNHZONjhGMEUxUDdxM3pYYUVYMG5FQmNUbDZkTzdveE1teU53WDBkWHRLVzhUUm1QYzBYZ3dQZTZVTmR0XzBxQkNjQ3ZKMWxYZjRfMVdaNVdQNjhYVHVJX2ZpdjNseVJPQUx2T0RFVVplVVd3YWxHWWpBZF9LOUpKNG41OG1KOXB3UlduaDBiQTBtS1UxSklIdGNhOHFEcjU1Uk1ndC1r?oc=5",
+                "pub_datetime_utc": "2026-10-13T17:46:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:08 KST",
+        "current_rank": 3
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 학생 대규모 시위",
+                "hook": "프랑스 전역을 뒤흔든 48만 학생들의 분노, 무엇이 그들을 거리로 나오게 했나?",
+                "script": "프랑스 전역에서 48만 명의 학생들이 거리로 쏟아져 나왔습니다. 교육 환경 개선을 요구하는 목소리가 커지는 가운데, 경찰과의 충돌로 이미 36건의 감찰 조사가 시작됐습니다. 단순한 학생 시위를 넘어 프랑스 교육 시스템 전체에 대한 근본적인 변화의 요구가 거세지고 있습니다.",
+                "original_title": "Mobilisation lycéenne : l'intersyndicale de la jeunesse revendique 480 000 manifestants à travers le pays, le ministère de l'Intérieur en dénombre 161 500 - franceinfo",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLUNZSWU3UWRfNzZkX1ludnl3LVNvRGVBNUZiSmtmREJMTlJyS2hfbUM1YS1KU1dQZnhrYi1iVGlSanduVmQzeWY5UUpnRjlLVjZURm5yZnRIN21UZHUtbEg3bFdXQ0o5T0pwQzFTTmtCVW1yNlhOb256MVk5Sm42c3FzQk41V24zeGxBVEliYllLdmpVTGpUb0ljN0JPOXNJVWx5VndTdmw5dzF3cVBLc3E0Q19IeEFFdXlLTmlnanVxRnpNRHFFVllLdHYyZml3SUYwZ1ZKYVUyd0hYWUxlbF90WUZHRVFJN2VfWlNsM3E5bnVXT2tJMndlYw?oc=5",
+                "pub_datetime_utc": "2026-10-13T22:07:51Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:13 KST",
+        "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "교황 폐암 진단 충격",
+                "hook": "바티칸이 밝힌 충격적인 소식, 교황의 폐에서 악성 종양이 발견되었습니다.",
+                "script": "최근 수술을 받은 교황의 폐에서 악성 종양이 제거되었다는 바티칸의 공식 발표가 나왔습니다. 이와 함께 이탈리아 정부는 도로교통법 개정과 예산안 통과 등 바쁜 국정 행보를 이어가고 있습니다. 갑작스러운 교황의 건강 악화 소식에 전 세계 가톨릭 신자들의 우려가 깊어지고 있습니다.",
+                "original_title": "Il Papa operato al Gemelli, asportato un tumore maligno al polmone - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR1ludmZiNHJORFhydFJ1Nm9ObkljVktSdng1X3pQeTlaMG5Pc2Vmc3BfXzFJUEFzTzd0TFhPQURiODZkMEYwVWl6M3Z5NVVoSWFkQUo1dmMwb3RRZ3kweThRcERPbndGWDUxOUR5RVNoODNpVVFXSWpFX0x5Z2dLYUxWbDdTaVVYTFhOLW9FUGJyTkt2dVdFTXptUFZtWHEtZURaaUFsbE5CUWhkS2xuNkRHYkU2UmJxZDhDSW9DUlE4TUo0Q29KbGswemxhWFpMamRUaTlDVHMxbFZPc0oyUF9VenB5U2NHaU5r0gHwAUFVX3lxTE83LXF4dHowZl9nSkNUZlhTY3dqTmRRVFB3UVB0S09nT1BVUzZpMHRxT0lqWWtJV0RiX3BReHlQYk9JVVp6czRSNHJpa1hrQjJ2c2Yzb3FvZklnOEVZZ2JMc1FYY0FfcGQzd3hlWFFqWmxCWEFDT1FQcUZ4aEdRYk5OY3hiXzBnMUE5cy01VjFVQ3F6MnpaQV9nOU85Wk5xRVVPQzZPbEk4SGNHYTN4bTZ0ZHBpeEpwVHJIRHlnTVRZU3VDNDUwZFZqNVhqZGdVSlJRWFJFMFQwOVQ4LVNJdXFLQXhtcmtqSUluX0duZ0d0ZA?oc=5",
+                "pub_datetime_utc": "2026-10-13T22:14:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:13 KST",
+        "current_rank": 5
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "룰라, 부채 탕감 선언",
+                "hook": "선거를 앞둔 브라질, 룰라 대통령의 파격적인 부채 탕감 카드가 승부수가 될까?",
+                "script": "브라질의 룰라 대통령이 선거를 앞두고 소상공인 부채 탕감이라는 강력한 경제 카드를 꺼내 들었습니다. 하지만 경찰의 과잉 진압 영상이 공개되는 등 치안 문제와 정치적 갈등은 여전히 뜨거운 감자입니다. 과연 이 정책이 지지율 반등의 열쇠가 될지 전 국민의 이목이 쏠리고 있습니다.",
+                "original_title": "Lula diz que pressão popular levou PL a mudar posição sobre escala 6 X 1 - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEN4VGZ2c2oydUlKdDZrV0R3ODNMZ1gyUmhnMkdVNkRXS2xaRHBPSmV1TFJ0ZmgyOEQxc1JqcjI5WWtoY0djaUNaWkpIX0tDaXBIcF95dG1HUTItTHpzY0ZRTE5CZ2hsNkdSdE4wblJaWjNla2tNSmhDSmZ6ZElvR0xvRThLR2dnZi1xWDc0RnJaUjFsZ0FIZG8wd0k0THlqY2ZyU21ZNXU5bjBEWGppSGk1TWFfTk0?oc=5",
+                "pub_datetime_utc": "2026-10-13T18:55:43Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:13 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Pope Leo has lung cancer, Vati",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Pope Leo has lung cancer, Vati",
+                "original_title": "Pope Leo has lung cancer, Vatican says - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFVDeGo1RjM5RXRnUFpzbGxDNUZSRGtYLXBxS1ZoVXdMZjFKdWF3cnZtQ0ktZ1BHNG5rTzRuMEZNdzBfNFJaV2lyaFBGLUI5UUhfMS1lVkVkazgxSmJpVVlvSm5DbGNpLWl4N0Y4UmdfNjVuVDZFYTlIUzNaSWhVRjNXQnVmcFBrM3R0YjJia0xoTHpsN21xYnBuM2JzVGFXZ1BPVmZhXzAydw?oc=5",
+                "pub_datetime_utc": "2026-10-13T21:12:35Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:13 KST",
+        "current_rank": 7
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "멕시코 열대폭풍 비상",
+                "hook": "멕시코 남부에 상륙한 열대폭풍 '트루디', 대형 허리케인으로 격상될까?",
+                "script": "멕시코 남부에 열대폭풍 '트루디'가 형성되면서 대형 허리케인으로의 발달이 예고되었습니다. 자연재해 경보와 함께 멕시코 전역에서는 의료 노동자들의 대규모 시위와 사회적 갈등이 겹치며 혼란이 가중되고 있습니다. 긴박한 현장 상황을 실시간으로 전해드립니다.",
+                "original_title": "Trabajadores del IMSS inician marcha en rechazo a propuesta salarial en víspera de consulta sindical - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOGNGUW5SbXFIdWZqQTZKOWJMNjltZ2ZKQmtWZ2E3VE8wdzMzRFJLeTBUbHA0MU5aYnBncWVkak56UUZ1OXRuV0Y3VHlQYWM2cXg4bnZLTHA1Rk02LUNobEFLTXlPdXZPUWl4YkdwbXQ3LVBEaXBnUHFuYnN4dVVLdGFLQUY4M0w1c1RlbktaWFB0TlhmNF9pbGt5RHVMbmFKenhaaU5pbDRPMGNGQXpMSERLdFpab3pVRWNkeWxhQ2oxLWdxSXVxUHhQX25pb0ludU8wblRId2tMT1RJRzNv?oc=5",
+                "pub_datetime_utc": "2026-10-13T22:34:06Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:13 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "시드니 12세 소년 살해",
+                "hook": "평화로운 시드니 거리에서 벌어진 끔찍한 총기 살인 사건, 경찰이 범인을 검거했습니다.",
+                "script": "시드니에서 12세 소년이 총에 맞아 숨지는 충격적인 사건이 발생해 지역 사회가 큰 충격에 빠졌습니다. 경찰은 즉각 수사에 착수해 용의자를 체포하며 사건의 진상을 파악하고 있습니다. 어린 생명을 앗아간 이번 사건의 구체적인 경위는 무엇인지, 지금 바로 전해드립니다.",
+                "original_title": "Anne Aly accuses Liberal MP of racism after 'stoning' comment - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkNfMkpTdVpwSnJXN3J3c3lncWlmbTNBQjFiSV9vakhqbnpwOWlCOUdXYkZUdHpfMXFxQXYwRUJwUndIWk9KdUxzUzRQYkVhTDFvUmV5X0s1WWhZdGFsRGtUa3BxbGxmcGNjN3JfRzZSYWxTc0lQSlhkZ0lYUlBrLTVxLXhNOUtvVDZuSEl4SVVka1U3WGltT0E1WmM?oc=5",
+                "pub_datetime_utc": "2026-10-13T08:14:30Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:17 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "인천 전자발찌 흉기난동",
+                "hook": "전자발찌를 찬 50대 남성이 도심 한복판에서 흉기를 휘둘렀습니다.",
+                "script": "인천의 한 길거리에서 전자발찌를 착용한 50대 남성이 시민들을 위협하며 흉기 난동을 부렸습니다. 일촉즉발의 상황 속에서 시민들이 직접 의자를 이용해 범인을 제압하며 더 큰 피해를 막았습니다. 과연 이 남성은 왜 이런 끔찍한 범행을 저질렀는지, 사건의 전말을 확인해 보시죠.",
+                "original_title": "인천서 전자발찌 찬 50대 흉기난동…시민들, 의자로 막으며 제압 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EY1NxQTlzNFNscDQwNmVFUF9QU0FuRUJ0Uk9DdmFhVngyc2xyMTNJU0xiVU05RGNDNVRNTVJCRmhoN2dhUlRhZUFzeUJzSDRyNWlSanR0WU5LUDRHNnhXcjRqVQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T15:50:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:17 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "리야드 폭발과 긴장",
+                "hook": "리야드 상공을 뒤흔든 폭발음, 후티 반군의 위협이 다시 고조되고 있습니다.",
+                "script": "리야드에서 연쇄적인 폭발음이 들리며 중동 지역의 긴장감이 최고조에 달했습니다. 후티 반군의 계속되는 공격에 국제 사회의 우려도 깊어지고 있습니다. 과연 이번 공격의 배후와 향후 중동 정세는 어떻게 변화할지 지금 주목해야 합니다.",
+                "original_title": "Trump’tan Başkan Erdoğan’a peş peşe övgü: “Ona çok büyük saygım var” - Takvim",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZG5NZlpBV0FxVmVLMEVxVkRyRE9aLXhHWVF3QlZaUlNTNUhLX0IzV29TZGUyajdoLUt4U2t1eVU0ZW1kNzJJYnBYUWV5NUVjbXNRbWpFMzJZSFBXdGVpM3FTcUN6RGlHOXRiRTh4cHBjVjYwaWdIOUR3ZHV4U0RNWWVNdFBNNmEwbWs5Mk5pZnRPVGlM?oc=5",
+                "pub_datetime_utc": "2026-10-13T15:54:42Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:17 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "아람코 시설 공격",
+                "hook": "사우디 아람코 시설을 겨냥한 드론 공격, 긴박한 대응 현장입니다.",
+                "script": "사우디아라비아 다란에 위치한 아람코 관리 시설이 드론과 미사일 공격을 받았습니다. 다행히 인명 피해는 없었지만, 국가 핵심 인프라를 노린 공격에 사우디 정부는 강력한 경고를 보냈습니다. 후티 반군의 도발이 계속되는 가운데 사우디의 대응 체계가 다시 시험대에 올랐습니다.",
+                "original_title": "السعودية تعلن اعتراض صواريخ ومسيرات وسقوط شظايا بالظهران - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNUzFLa1VmRkxoRmVVZUlNaXdmVTc2eElwR2pnWmd1bUNIbmVYczcyMm9XUE53bTZMZC1XRC01Sk9vRmFQVXJkOE1GNTVNS0cxbUVaQnE5SmlFbERSTmRvM1B4dk9mMmZhdkJyZDFnOWpZOTUtS2dGaHcyY0hOMVF1bDQycEE4V3lodWU1SWk5dTFyQTRCWThWTFpUSk95WkxMUlBDNVE4U3ktOGlKYVd2YnB2dk0yTk9maGkwM3BEMW5VRWh5ZUdwMU5EWHB2VFRySDhQa1hfbko3S0tNTFhjbWVkcnhpV0xmMzg5X1U5SnRTMXN6dUUwdkxfcGwxY1FCTjduMjNxS0ZRVzdzbVVDWUJKSXFVZU9iSzU2bG9PTW5DcnVsdEZwalpsYUhreWpFTjlBN1ppeHBVcVNnamkwLV9tdHhkelMxNW5NUTY0TkdabkFyWnZuSkUxVnhjWnpOTnFIRFBOQVplR1pJN2U2U0xVOEczVjNldXdUUUZlRlVnR1E2a3dUNlJuRGtSeEQ0VDFTQVJNeTNXNkUwOTF1dTlza0RRelBXaUswWjBFQXFwNTZRZEpHc1dPRW9lWG5YY0dCcjBoV2t1QU1WUGFrU3RON1RNaGZuVE1KOFNWQUM2VWROb2lQZW5yNUpCcVlj0gH2A0FVX3lxTFA0T2txRWZRMXp1SjZVN1R0eWZCNFFrX0RFeG9ySjZEN3c4bmcxX180RXlOenZTTlJfdnlfbGhEVEpNV0ItRTIzQi16UE1RQTcyZ2UtWFdIcGNxcUxMbDVHcWh2ZmY4LTNGc0NXVmZGYjk3QS11N2wwVW0wZzF2R1hzUnlEd1RwNHhGOFFtUGh0RGhXSmczR2tlRkVRb240ZnlvOGNVaFFkQnFEc0FaNk9lOTdGaXBqQjAzMzBna2xCYlh4Um9lbGZDQVZfek5UUFppaGlPRmdON0xDUVlmYkpTZTdXTEVZVGo5MXZLOW9oVldHc185VTEzUXhCdzRhMm9Bby1ZbnlYRGh2QlU2VzNRQ3oxQVlHaHhpaVpwUTBGOHVUUkFsNTdfbUY2OWpyU2cyQUYybU1HbmxRVy1VZHlqcmRubGxlZlhLTS1vR2psQ0J1T0oySUlvMWI3M3JWZ0YtbGZDVkwwMTNyejhzOGc0aV9UQ180ZmhndFk0VklWQl9oUFVVYzBUS0VaUXlpcDhGc1FJNkRGWmsxU3VKVkthRnVvZFhXdjQzYng4WC15MHhXblVhajhFdmdJam5LZ2NPMUE2VXMxUDlUQzZFSTg2dElQdVVobEotSlFROGRpSC01NVlVZ09CTHliRUl3bFcwcXg0ZUE?oc=5",
+                "pub_datetime_utc": "2026-10-13T20:13:39Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:17 KST",
+        "current_rank": 12
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "교황 폐암 수술",
+                "hook": "레오 14세 교황의 폐암 수술 소식에 전 세계가 안도하고 있습니다.",
+                "script": "레오 14세 교황이 폐암 제거 수술을 성공적으로 마쳤다는 소식이 전해졌습니다. 바티칸은 교황의 건강 상태가 안정적이라고 밝히며 전 세계 가톨릭 신자들을 안심시켰습니다. 수술 이후 교황의 회복 경과와 향후 행보를 상세히 전해드립니다.",
+                "original_title": "El Vaticano confirmó que el papa León XIV fue operado de un cáncer de pulmón - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWpnMXBwS0FIM2tVcHV4dTY4QVg3TUpkVHh6QU0xVzlqYXNZakdjWTdlT205RHVIZmwtc3V0LVhrZmVMWDRKWS1qVlU5cU5OYVBNMExNM1FJN1BrVy1XZERUMGVSZnVIQ0EwbVlVQUF3dWNYUkRiaTFPcHlLT0gxQk0tQlFsSUZpNl9zcHBPZFBrODA1a0VDUy1pTUdSaTBkX3MyVWhpVDF6WElIbXZ4YzNjdHVxX3d3OG1CT09NRTY1NHd6MnBYZGw3RjJ2WEdo?oc=5",
+                "pub_datetime_utc": "2026-10-13T20:52:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:17 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共",
+                "original_title": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共同通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTmJadDlyVllJaTQtU1VFRDMzeW5ybmdOTGo5cVlacXh6VGNwR0JWLWNfUEhnWndMS3ZxSEhtWW5zdjA1X0FWSjNkcWxSM1A0ci1QZHdzMGhvSXF5S2hqZ0pmYXg5Y2FyaGFXOUhuY0ptR1NlSUI0bkZqUEVidjA?oc=5",
+                "pub_datetime_utc": "2026-10-13T15:26:18Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:08 KST",
+        "current_rank": 14
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "비하르 보트 침몰",
+                "hook": "인도 비하르주에서 발생한 보트 전복 사고로 어린아이들을 포함한 다수가 목숨을 잃었습니다.",
+                "script": "인도 비하르주 바이샬리 지역에서 보트가 전복되는 참사가 발생했습니다. 사고 당시 수많은 인원이 탑승해 있었으며, 구조 작업이 진행 중이지만 안타깝게도 다수의 어린이 사망자가 확인되었습니다. 현지 당국은 사고 원인 파악과 함께 긴급 구조에 총력을 기울이고 있습니다.",
+                "original_title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’ - CNBC",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVFFfdmI1bHhKNGxVb0JUbGlSaVhzWUV5b2ctYWVkcWdrWThYd3RRcGl4OF9Id2p2akNKdm05OGZKTFQ0YTU1bTZxRy1NWTk1cl91ZjVocVZ2dmh1MWZEWnhhM1J2eWJFTms3ODFEbUJvUUJBSHg4RlhQTdIBgAFBVV95cUxOeXo4ZTNjbXoyaUQtNUhnTVF1OTZIVlctbF9paWgwZUlOWVFhS3Q0X3p1eENkbXM4dkM1WTlSZ1owZFlCX1BEbk5iUV8teDdZbnNlRkh6TGpvSWQxNFFtT0FneF9xUkNBWHQ5MFhWVmtpdkhvSWszUS1rME0zVS01Ug?oc=5",
+                "pub_datetime_utc": "2026-10-13T06:52:39Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:08 KST",
+        "current_rank": 15
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 MI5 경고",
+                "hook": "극우 극단주의자들의 테러 위협이 그 어느 때보다 심각한 수준에 도달했습니다.",
+                "script": "영국 정보기관 MI5 국장이 극우 극단주의 세력의 테러 가능성이 급격히 높아지고 있다고 경고했습니다. 특히 온라인을 통한 급진화가 실질적인 공격으로 이어질 위험이 커지면서 국가 안보에 비상이 걸렸습니다. 당국은 감시망을 대폭 강화하며 대응 체계를 재정비하고 있습니다.",
+                "original_title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wVFVHZU5mTzlGMzBRTXJDRE5wbEpLYnBscktidlNDdFk2VDRQN3YtUnZEWlFFU2JadFJrQVRreGtLdlNuelBnU0tsdGZCa2d1bVhPcVNtUXRuM2JDbGc?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:21:15Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:08 KST",
+        "current_rank": 16
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "러시아 연쇄 드론 공격",
+                "hook": "러시아 본토를 강타한 야간 드론 공습, 긴장감이 최고조에 달했습니다.",
+                "script": "러시아 전역이 우크라이나군의 드론 공격으로 몸살을 앓고 있습니다. 키이우를 향한 러시아의 보복성 탄도미사일 공격이 이어지며 양국 간의 전면전 양상이 더욱 격화되는 모습입니다. 멈출 줄 모르는 공습에 국제사회의 우려 또한 커지고 있습니다.",
+                "original_title": "Главные заявления Трампа о сделке по дизелю, Украине и Ближнем Востоке - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzlDTE5YN0lTUDRJMjBIRVBLTmFxWVFlZUNLRTRIcHFkaks5R0thOTRQaVdTamZ4SWZNSDg4bEdlRXByNUxZbEpoRlVKMXEyVWpFeFBialpiendZdFhnU09FcFF3X3AyYTRxWEFxdFBETkl1Y1R3OXlhN0pnN21qdzZwNzZLd3V6T1Y4aEl4bkVTdw?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:58:01Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:13 KST",
+        "current_rank": 17
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "인도네시아 산불 비상",
+                "hook": "인도네시아 전역을 덮친 산불, 국가 재난 사태 선포 요구가 빗발칩니다.",
+                "script": "인도네시아에서 대규모 산불이 지속되며 환경적 재앙에 대한 우려가 커지고 있습니다. 정부의 대응에도 불구하고 피해가 줄지 않자, 국회 내에서는 산불을 국가 재난으로 선포해야 한다는 목소리가 높습니다. 현장의 심각한 상황과 정부의 대책을 긴급 점검합니다.",
+                "original_title": "Breaking News: Konflik Riyadh Memanas Piala Asia 2027 Terancam Ditunda - https://janalokajournal.id/",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1RWS0NqX2tSNU1hRWZkR2J5Q1lVMF9VUkg4YTk0aGc0N1U2LW95MEVuRV9ibnU5S19COWVfZm8tTHRNSmJTQzZzNDhZRHh2R1p0UGo3ZzFOWFljNnd3UTZLeEtrdGY4a0tvMkdiTDhjRHJrbHo0a2tDMlB2am9BU3hLazg3QWNYUjV3eUszNm5EbkpTZG1VT3hCdw?oc=5",
+                "pub_datetime_utc": "2026-10-13T11:03:25Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:17 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "남아공 정국 요동",
+                "hook": "총선 앞둔 남아공, 노동계 몰락부터 거대 정당의 파행까지 충격적인 현 상황을 정리합니다.",
+                "script": "남아공 노동계의 거물 코사투(Cosatu)가 민심과 동떨어졌다는 뼈아픈 자성을 내놓은 가운데, MK당은 자금난으로 선거 유세를 전격 취소했습니다. 한편, 에쿠르훌레니에서는 총기 난사 사건으로 2명이 사망하는 등 사회적 불안이 극에 달하고 있습니다. 250만 헥타르 토지 분배 계획까지 겹치며 남아공의 미래를 향한 국민들의 불안과 의구심이 최고조에 달하고 있습니다.",
+                "original_title": "Cosatu’s Zingiswa Losi admits federation ‘out of touch’ as leadership race intensifies - News24",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUxDdC1MZGY1SWRiam9JdVdUX3pkX1RnbU1EdWE1YVQ5aEROUjRSc3hSZDVDM1pCd29VOFI0OEZ0bjhWZ09IdTY1WVNGVHN1dVFSQzdUQUhTTEI0QjlLZFdEX0lody1YWVV0Q1FTWUpBUWFVbFo0azI4WDc4RE91Y0pZc2dsM3ZOV1M2Q3p6bGRRYzQweTd5QnhJd2FZd0xTQUpGZXo4RVYxRURLVV9ZZ1JteVkwWUVRSXUxQmFqZVNDdUxyUlFBRw?oc=5",
+                "pub_datetime_utc": "2026-10-13T19:26:51Z"
+            }
+        ],
+        "last_updated": "2026-10-14 09:20:18 KST",
+        "current_rank": 19
+    }
+}
