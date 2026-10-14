@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프의 파격적인 사면",
+                "hook": "트럼프의 중간선거 공약, 이번엔 '사면권' 카드 꺼냈다.",
+                "script": "트럼프 전 대통령이 중간선거를 앞두고 파격적인 승부수를 던졌습니다. 바로 당선 시 대규모 사면을 단행하겠다는 공약인데요. 이를 두고 정치권의 찬반 논란이 거세지고 있습니다. 선거 판도를 뒤흔들 트럼프의 사면 카드, 과연 유권자들은 어떻게 반응할까요?",
+                "original_title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle. - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wZTV4M2g1SF9xSFpkeHdlSHIteENvMGZWVGx1YnU3YmhHRHJCZF85T2pnd2VDTW9OMFMwZVBTa0R1QkIxQkVLay00VzlSM2dPZnNwWWZudFdxM2RNQkNSaWFmbXdXUXpJM0dpMUQ0cEg2X0Zr?oc=5",
+                "pub_datetime_utc": "2026-10-14T01:49:34Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:00 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국, 10년의 건강 혁신",
+                "hook": "건강한 중국을 향한 10년, 그 경이로운 변화를 조명합니다.",
+                "script": "지난 10년간 중국은 의료와 건강 분야에서 비약적인 발전을 이뤄냈습니다. 건강 중국 건설을 위한 끊임없는 노력은 인민의 삶을 어떻게 바꿔놓았을까요? 오늘 영상에서 중국 보건 의료의 지난 10년과 미래 비전을 한눈에 확인해 보세요.",
+                "original_title": "勇闯医学前沿 筑牢健康根基——健康中国建设的十年奋进之路 - 紫荆网",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcU5xNmFPcnJqNWR6VnVhOTZ2NjZGVXhLZ0RqS0lLX05Vd2VHaVdHUlVVbUZzZFRhZ0JiWnd1Y09QYlcwZktpRFBCS0hoZzcxREpsMHJ4QlpBWFdMRk5IcUt5MFhUa3VaamFieGFUVTBhcVJCM0lEZ2VxS2d6OFQxQmlVN1NEOEowQUhacjIyS2NGUkI2?oc=5",
+                "pub_datetime_utc": "2026-10-14T02:01:37Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:00 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 유로잭팟 1,800억",
+                "hook": "1,200억 원의 주인공, 독일에서 드디어 탄생했습니다.",
+                "script": "독일의 한 행운의 주인공이 유로잭팟 1억 2천만 유로, 우리 돈으로 약 1,800억 원의 당첨금을 거머쥐었습니다. 역대급 규모의 당첨 소식에 독일 전역이 들썩이고 있는데요. 평범한 일상을 뒤바꾼 이번 당첨의 주인공은 과연 누구일까요?",
+                "original_title": "Grüne und SPD unterbrechen Sondierungen mit Berliner Linken - rbb24.de",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkc2YjRjQmZfODdUZC0tTENSaktFRHdjUWlVOENDS3VZeXluT0FwNk1oWDZfb1NEN2w3ZkpEejNoYkZMcy1EdzJFNE96dUR6ek9xcHlidEZ6YUptV2EwN2p1a2p0V0F0SFNvdkJaZzc5X3VXSDdad0ZTQk0wemdzRG5Bbm5oSHZHNUZxRmctcTBUeFljSnNraG9uUFJxOV9SNzd6TDRzbHcxbC1iVVZFa0lHQ2djNVMwTlpOSFB0UHpybTE5b3NqMXBaOA?oc=5",
+                "pub_datetime_utc": "2026-10-13T16:42:05Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:00 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "러시아, 일본 기자 구속",
+                "hook": "스파이 혐의로 러시아에 구속된 일본 기자, 양국 관계는?",
+                "script": "러시아 당국이 홋카이도 신문 소속 기자를 스파이 혐의로 전격 구속했습니다. 러시아는 일본이 기자를 이용해 정보를 수집했다고 주장하며 강력히 반발하고 있는데요. 이번 사건으로 악화일로를 걷고 있는 러-일 관계가 더욱 얼어붙고 있습니다.",
+                "original_title": "高市首相、「カット」発言巡り簗農相の進退を近く判断へ…「支持者の無料送迎」も法令違反か見極める考え示す - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yQWpFQUJDeXIwUTJ4MzRPVDJwaTFxbGh4Z0xibllXaGR3VWJHWlM1NFVvUERwSngyUXVxdmxMMmhONEh3Y1l3MXRNM3ZTbXRvYlBTQi1RbTZIMXNxaE9uMzFKc1pLZw?oc=5",
+                "pub_datetime_utc": "2026-10-14T03:30:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:00 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "인도 비하르 보트 전복",
+                "hook": "평화롭던 강가에서 발생한 비극, 13명의 소중한 생명을 앗아갔습니다.",
+                "script": "인도 비하르주에서 보트가 전복되는 안타까운 사고가 발생했습니다. 현재까지 13명이 숨지고 다수가 병원으로 이송되었는데요. 당국은 실종자 수색에 총력을 기울이고 있지만, 피해 규모는 더 늘어날 것으로 보입니다.",
+                "original_title": "Anti-CEC protest LIVE | CJP’s Saurav Das and Ashutosh Ranka sent to 5 days judicial custody in trespassing case - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQajdEMy01dnFNVmU3bzhUdXFDWDZUcDk4MXJ5ektaYmsyMUM4aS1ET3JhY3hHQVZhSFI0Q3NWZnpaN2lxRmtrSEFTTVV4QXo1d3J3djhwWEhOQl9DbG5NTDNVUEZNQ2FINGM3MXV2NnlSY2lNU2ROVkt4WWNyZk5JZTk3Rk9XdWozSnUtaGxQcUl1bHU3cTZnWElVUGVhMjRVRmtmbk8tTWVrQ1drVnYxZTd5d2tPYk9YZ0RRZWtYdmFBbGh2SWxTWFFyamdzTFpKNXVZOHc1M3d2VVRLOG8xYkR3X1JPWFR5VldJWVJHdGk0X2JvYWdiUlI3b2dVN3RzajlURXFBVQ?oc=5",
+                "pub_datetime_utc": "2026-10-14T04:46:06Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:00 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "MI5, 테러 위협 경고",
+                "hook": "영국 정보국 수장이 경고한 '새로운 테러 위협'의 실체는?",
+                "script": "영국 MI5 수장이 우익 극단주의자들의 테러 위협이 점점 높아지고 있다고 경고했습니다. 국가 안보를 위협하는 새로운 징후들이 포착되면서 영국 당국은 경계 수위를 높이고 있는데요. 영국은 과연 이 위협을 막아낼 수 있을까요?",
+                "original_title": "Family of man killed by tiger at wildlife park say he suffered from 'significant mental illness' - Sky News",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjNaUk9XV216c3J0RFJCMTBhWklQMjFmX2RnSW1Wb2JSNlFNZ3kzYUZyTHM5TlhoWHJZUU92dnpYdnUteFdHY1V0R3FrYk9iTFMwZ2JTVjI5bXRFRXpHZmE5YUFjT0ZYd0NWMEN0X2p5NjMtY09yMlg4b21NWW5WYTJOMVJUdE9nSC0wQg?oc=5",
+                "pub_datetime_utc": "2026-10-13T22:24:59Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:00 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "프랑스 시위 격화",
+                "hook": "파리 도심을 뒤덮은 폭력 사태, 시위대와 경찰이 충돌했습니다.",
+                "script": "프랑스 파리에서 열린 고등학생들의 시위가 결국 폭력 사태로 치닫으며 큰 충격을 주고 있습니다. 시위 현장에서는 경찰의 고무탄 발사로 학생이 부상을 입는 등 과잉 진압 논란까지 불거진 상황인데요. 이번 사태로 프랑스 사회의 갈등이 최고조에 달하면서 당국의 대응에 이목이 쏠리고 있습니다.",
+                "original_title": "« Une poignée d’abrutis qui sont là pour décrédibiliser le mouvement » : à Paris, la manifestation lycéenne s’achève dans la violence - Le Parisien",
+                "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNU2ZBbTB6SmFzUHVZbkNDSkpDemlsd0o0b3RtQUotSVFLbDlFRU9VX3U2NFlHSTRuQ3RiTzhGY2JpLW1RSmI2UW85cGlJbTBseGpJRF8xVVZGQnlRc0N5R0VvVmFfSnNUWTM5dzY2QncyOG1YZ21sQl9QTERIc2tzeC1NX2M1WV9rYW51NW1iODJ2OTdBb3dUVEFyRVhZWlJndFpNMkhTLXE2T3dWXzR3TlhZN3dNdERnT01iZXRsMUZvZ3k5SkFEaU9TcVMxeFdfajlKdVQ5eHBfc0Q5eDZiTTJQWFpHM21UMHBWajVKdFdjVDUxd01uZXRNa3hER2NraWxDRGpvZHd0ZWVmdjFHX3djYnhMTDgzZEI3SjlfNl8wUjQxNndOODdZcEhWQQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T18:49:08Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:04 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "러시아 전역 공습",
+                "hook": "밤하늘을 가르는 미사일, 러시아 본토가 흔들린다.",
+                "script": "러시아 주요 지역에 대한 야간 공습이 잇따르며 본토 안전에 비상이 걸렸습니다. 특히 사라토프 지역에서는 드론 공격으로 민간인 사망자가 발생하는 등 피해가 속출하고 있습니다. 전선 밖 본토까지 위협받는 상황 속에서 러시아 정부가 어떤 보복 조치를 내놓을지 긴장감이 감돌고 있습니다.",
+                "original_title": "Что известно о ночных атаках на российские регионы - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkVPdFdrUk9Hc0V3WjBzV2xyTTFXaGNHdk5HZWRXZDNkNGJIamdtZ2p2bjJ6RF9TbUczMGhGR2J4aVp2QlF6UXkwXzViblk4WmpOZW1ocHg3eURNbmdzZVI0TWRHQzJMRGhDTDJySGN1cU54OUEzcmE0THg5TWdNRnJULWlQeFlPaDAyYXNn?oc=5",
+                "pub_datetime_utc": "2026-10-13T07:19:22Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:04 KST",
+        "current_rank": 8
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "인천 홈플러스 흉기난동",
+                "hook": "쇼핑몰 한복판에서 벌어진 끔찍한 흉기 난동, 현장은 아수라장.",
+                "script": "인천 구월동 홈플러스에서 전자발찌를 찬 60대 남성이 시민들을 상대로 흉기를 휘둘렀습니다. 이 사고로 1명이 심정지 상태에 빠지고 8명이 부상을 입어 긴급 이송되었습니다. 평온한 쇼핑몰을 순식간에 공포로 몰아넣은 이번 사건의 전말을 전해드립니다.",
+                "original_title": "김지용 중수청장 후보자 \"약자 대상 범죄 보완수사 빈틈없이\" - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDAyc0pLOVZPN3dxaGNJSDktUzVjOTRkSTUtQ2hsXzBsSllVNTdsRVlLNEgyNkR2eW9POXB5Qy1LZk5Ic1otbEF1OWV6dDVycGRPWHp2YXJ0eFo0T2NySGdoNlJURzUteTZ5YWNDNmJjX2VKWUg4NHE4REY2dndWd2UtbmUtb0E?oc=5",
+                "pub_datetime_utc": "2026-10-14T01:38:00Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:08 KST",
+        "current_rank": 9
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "4 Fakta Terkini soal OTT KPK d",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "4 Fakta Terkini soal OTT KPK d",
+                "original_title": "4 Fakta Terkini soal OTT KPK di BNPB - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWZ4dEFreVpfRzVIUGYtSVF2OFlUU2JScUl2aDdiRFdmdTY0SjhBLS02TGV6bGJPSWhXRWJkSGJ1VFlObFptcVhoTzY1dUtsdE5QSWszNmJweTNDVEN2MlBSdXhDM1BvODBXeHlCWjVsOXAzTEZ0YTFRMm9wSHgzMk5R0gGHAUFVX3lxTE5KUXJGSDhaOHc1Q2oxQVBuYmV2WkIzNTMxQ244dE5yZllGWldjNFp4dVFwb0FZTnFiUmoyS21HYUpfUWJLbGVnUTdTald4aHdiMldKNkswWmhqSXoxZi1ob3J4cEMzTjMyajE1R25wNWNrSTlKVGNwWmZ0Smprc2xndnBGUzItNA?oc=5",
+                "pub_datetime_utc": "2026-10-14T01:12:41Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:08 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "이스탄불 언론사 압수수색",
+                "hook": "경찰이 언론사 본사를 들이닥쳤다, 무슨 일이 벌어진 것인가?",
+                "script": "이스탄불의 Halk TV 본사에 경찰 병력이 전격 진입하며 긴장감이 최고조에 달했습니다. 최근 불거진 펀드 관련 수사의 일환으로 알려진 가운데, 언론 자유를 둘러싼 논란이 확산되고 있습니다. 현장의 급박한 상황과 이번 압수수색의 배경을 정리합니다.",
+                "original_title": "Başsavcılıktan fon soruşturmasına ilişkin açıklama - Bloomberght",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVQ2NlRXOVN6WHh0dktXUzVVSkt2YU1MakdyOTFsVHY1UW1GMFRDRGl2NTlrMGJNaFp5SmMzTzZMc2xjX0dBT2gxblJWOUJsZ2J0X0FjdWFHU0VDY1lIbzUxdS1KdVBmck1fYVBRYUVFa21ZRklxQXZManR6dUVnZmo1ZmM0M2hZaVVGYm1uWQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T18:12:33Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:08 KST",
+        "current_rank": 11
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "아르헨티나 대학가 시위",
+                "hook": "대학가에 불어닥친 대규모 시위, 정부 정책에 정면 도전.",
+                "script": "아르헨티나 전역의 대학들이 정부의 교육 정책에 항의하며 강의실 점거와 거리 시위를 예고했습니다. 다가오는 대규모 행진을 앞두고 학생과 노동계의 결집이 가속화되고 있습니다. 과연 정부는 이 거센 반발을 어떻게 잠재울 수 있을까요?",
+                "original_title": "Qué es un adenocarcinoma pulmonar, el tipo de tumor maligno que le extirparon al papa León XIV - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpX1ZqVkk4WmRfVnRHV0RlbFlkczVDRGpoMFRkb241cGFCalhCbG5Pc0k5RDJGQXZQQWJvOVBMTTl1UmlwYW5IZ09UZ2RrUXJZVzc3SENoZzdsVFVm0gFiQVVfeXFMT2NWVTc5bnFSTTNCRlc5R3A5Y0JZM0ZyU3RKeG5jbVg0UGtuSFJiYUR3RjR3V0lCSnhkOTB5T2dfZXBpV1BPUXVrMko0U0JWUnVpdEQtRkdvRXhDdWdSREgwMWc?oc=5",
+                "pub_datetime_utc": "2026-10-13T22:41:26Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:08 KST",
+        "current_rank": 12
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "이탈리아 경제 경고",
+                "hook": "장관의 분노, 텅 빈 의회에서 울려 퍼진 경제 위기 경고.",
+                "script": "이탈리아 조르제티 경제장관이 텅 빈 의회를 향해 '경제 위기의 먹구름이 몰려오고 있다'며 강한 불만을 터뜨렸습니다. 정부가 추진 중인 예산안과 감세 정책을 두고 내부 갈등이 깊어지는 가운데, 이탈리아의 경제 상황이 한계에 다다랐다는 분석이 나옵니다. 과연 이탈리아가 이 난관을 어떻게 돌파할지 귀추가 주목됩니다.",
+                "original_title": "Codice della strada, via libera del governo: dalle multe più leggere ai documenti digitali, ecco i punti della riforma - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQTWVTSGQ3aWxtd1JnZzhtNW1oMGp4V0I1RFYyTGRBcGFqZ0hBaTREdUExWUxENzhsaUhzNjlmem5YWjFkYmR0MDEyQ3dTZGNJaUdkWElQYkxUZ1RINEQ5a2M3UTloLXJuaHBGNDVyM1JPUng1MXNRZXdEMzd3TmxSa3RwYnRlMVN1X2lKeGJVVmk1eFlSLUFqOEs0MFRlSVJVbVItWTBVMTV6N1JJSWdvRGFMOUczU1dITmxwT0lxNVlYNmRCYzh0cTFvZlh3TUlpdnJJMmNRNTBnUmZNb21qc3VrdnVlZTVVdzRqYnlROTRtQ3pIaDBSLXUwcHBEckh3YUJESmVrdEY1cWZHRzBLd1JYLXhjeVkxNjZiejRRU2J0bDZkaU400gGsAkFVX3lxTE4xTjB4ejd0WVZEMGFSbmkwYU9FVU05cVRCT1FVVERnMmQ4RmFPdW5TbXhHRnBKcGpfcVozdU5GUkttaUhRYkFNWmJtSDZnSDJqbEtqdFlNeUhuREJTSll6cUZGa0ZIYW1OQnhJMElWdlFHRVR4THNQUWFMSlFpUkNRdjR1T0JHa3RPZnZrbGUxZDVIcTl1VGgxM0l1V2FuT3gwZ1U5TEd6VzdaX3FiWjZ0YTlsaThfTHFTc1NaZmlGbEg5dFdEQzIyUlNXNE1kWGd4cTBaYjI2Wmx1UGRQS1B1ZlpVMGRaN3N4M3lETDhfV0ptb1k0aU56MEIwLXhzTnpSbUQyMmRrM05sSDhGTFNvUHMtN1h3aUVwazktWHdNSHVMUW5sQ3gxUVFLMQ?oc=5",
+                "pub_datetime_utc": "2026-10-13T19:37:53Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:04 KST",
+        "current_rank": 13
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "브라질 정치 격랑",
+                "hook": "룰라 대 플라비오, 브라질 대선을 둘러싼 거리의 전쟁.",
+                "script": "브라질 전역이 대선 열기로 뜨겁습니다. 룰라 지지자들이 11개 도시에서 대규모 시위를 벌인 가운데, 여론조사에서 룰라가 플라비오 볼소나로를 앞서며 정국이 요동치고 있습니다. 한편, 경찰의 과잉 진압 영상이 공개되면서 브라질 내 공권력에 대한 국민적 분노도 임계점에 달했습니다.",
+                "original_title": "Corregedor eleitoral insiste que discussão sobre 'Exército do Lula' ocorra no plenário do TSE - G1",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYTBRRE1OZ09PelFHNkdmU0N5UFR5aFcwWXRZYk1RT0VwUHY5SGR2Mk5WQkxOVXZCYzlMME5YSmpiQTUwSE9iMXZkOUswYTZTZDB0QTBxMkhaWUFMOWhFWTFpck9uWFJsamxsbDc2WXdDeXNtbWhqTEhBNWxkQ1lUUXVDUUxlenhzVUk2N3dralA2ZGF4eDlyMjYxdXVuS0JFckZ3YmdxaVlESGRNR3BFaVB1dDd2UVNPaWQxOTVZNExFaGhzOW91clNIZlFLd1BGcF9tdDhOdm50bGRJQUt30gHuAUFVX3lxTFBsdnZlQ2pZTW5lZ1BYUzFtQWxSNW5sUW1fWkhXZTdJSDc2MjlfVk9TdXBMRGNFSmhlUlBRWGExc2pjLVZ0U0lFbFJob1VSZ2E4dDRPZmlEVEc0dTdLcFdpc1FZbUxWRFBZd3B3T0tvMjB3b3NrRnZpZzJ1WDA0bVoyUWJPSk1FUVlLQW5Ca25rbnktZGF3NHBOSnUzZ0o5Yi16VlpfTUJJdktpT1pBZmtBRHZRdFZyeEljTjFCZi1XaWZraVNWdW4tWGRPaGJwdzluYm5SdUZjbWZ3OEtvN216YnJIbHptcDNrbWpUNVE?oc=5",
+                "pub_datetime_utc": "2026-10-13T22:59:20Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:04 KST",
+        "current_rank": 14
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "A Brexit scholar travelled to ",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "A Brexit scholar travelled to ",
+                "original_title": "A Brexit scholar travelled to an Alberta separatist meeting. Here’s what he took away - CBC",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczVaVGFQWVBlcW5HWno0OEJOZnA0VHBiVGNYYlJtTW05LW90blRleVJ2QV82VGh0YmxKQzZRSDhDVEtDQm5yVEJQcWJyNzQ3dFJjNWp3UlJvRUdfM3BkZV9xVzRrUzNkMjVrTkRQeFo0VndWbzFoNnMxem94UVVBaHJ1UHFLbFB5VVhha0pLa1AzdHNET25OdW5NcndJbWdpcmh3?oc=5",
+                "pub_datetime_utc": "2026-10-13T22:33:50Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:04 KST",
+        "current_rank": 15
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "멕시코 카르텔 제재",
+                "hook": "미국과 멕시코의 합작, 카르텔을 향한 정밀 타격.",
+                "script": "미국 정부가 멕시코 타마울리파스 지역의 카르텔 연루 기업과 인물들을 무더기로 제재하며 압박 수위를 높였습니다. 이와 동시에 멕시코 전역에서는 학교 내 정크푸드 금지 법안이 통과되는 등 사회 전반의 개혁이 속도를 내고 있습니다. 카르텔과의 전쟁과 사회 개혁, 멕시코의 변화가 시작되었습니다.",
+                "original_title": "Huracán ‘Simón’ baja a categoría 1 y avanza frente a Nayarit y Jalisco: ¿Dónde lloverá HOY? - El Financiero",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSkJka1ZiNUI1VU1DMjFpaHNfa3RvNzFFUEwyQ29TOF93cGs3UlkzWjg0RlBwNTYyTHBoeVZ6eDNPRXdYMmY4QjZqZlJsalZzUXVIMk80ZmQ4TjctVW9PT1N1MFJSakxKN0R5WXJNOTh1dG5xRURkdlhGMm1wNlJvVmVwQnl4NWNzS09UVWVnQ19aclltVUdRdVd2T1M3R0ZUckZGRXItT19lalNtRFdOeURTZkVTaUdMYXdwRGJVTFZNZTJDVldHSUQyWGNVSUg2S3dIeGpn?oc=5",
+                "pub_datetime_utc": "2026-10-13T13:29:06Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:04 KST",
+        "current_rank": 16
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "시드니 12세 소년 피살",
+                "hook": "평화로운 도심에서 벌어진 끔찍한 총격 사건, 범인은 누구인가?",
+                "script": "시드니에서 12세 소년이 총에 맞아 숨지는 충격적인 사건이 발생했습니다. 경찰은 현재 용의자를 체포해 조사 중이며, 지역 사회는 큰 슬픔과 분노에 휩싸였습니다. 정확한 범행 동기와 사건 경위를 밝히기 위한 수사가 긴박하게 진행되고 있습니다.",
+                "original_title": "Court dumps Plibersek heritage decision that halted $1b gold mine - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalQ5SFk0bjZobFdfR0xMWTRrcWZQTkRVSUJzY1ZOR0w1SlpmQ0hRTnp0T0ExbkRwWTZqOXZWZ3F6R3hFcnVmVi1VOEtRa3Y0RVRTamlUbkhEYm9SdlVVZWwxZFZtS1VYOVI1TE9YT245c1hsWmJaeFdGbkkxNlUyRjBZYTJZMk9rNE1aNkNPRmNRYUNKVUFOeFlackFwUENHeVBUSVdIdw?oc=5",
+                "pub_datetime_utc": "2026-10-14T00:20:18Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:08 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "후티 반군 유조 시설 공격",
+                "hook": "사우디 유조 시설에 떨어진 미사일, 중동 긴장감 최고조.",
+                "script": "후티 반군이 사우디아라비아의 아람코 시설을 겨냥해 또다시 공격을 감행했습니다. 사우디 당국은 즉각 대응에 나섰으며, 영토와 자원을 지키기 위한 강력한 보복을 천명했습니다. 잇따른 공격으로 중동의 안보 불안이 다시금 커지고 있습니다.",
+                "original_title": "السعودية تتوعد الحوثيين بعواقب استهداف مكة والمدينة - الجزيرة نت",
+                "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPTnpwVEZGcW42YjlkNGdyNzBkd3BFbWMwbWhwTkR5VnVDRC1hSmdwemZ1M1QzTUdrd1dZcGswTTJhcWJ3TVdFYlFMNUIyeksyYWhFTXI4NFNOV29BaXk5RnlGVkN1eGEzZDFZU0VTQ1A1RXhBX1o4ZnhuWlNGWkdPTy1QcU9VVjF3N2g4MTBBY014bFYyQm5nbU5EdVMtYkdJblFJLXZVUEhsRFBDZTNCZk9lRmdQcmNjWE40T2o4cHY3RG1DR0xnSkZDYThFdEctbkFMUnhhSjNBWGVfUEFGR2Rac0I1ZEUzcGdRR2tfaXVPVlFMdGQwdXFmbE01dGVoOFRZUks5ak50SVZCei1BdjViWkp2SzczV3QtVzA4TUw5UUU3Tld4TzJiQ1BwbnNBOUdVb2Zjb25DQdIBvwJBVV95cUxQakNUbEF3Y3NYZjVjRnM0QUhzNjd6MGIzdG9mY3BkMjZmcUxZRlJuX0Y2dURNU2RvR2N3eGcwYmc3SFBucW5mczIxWktmSFB0ZXRGNlZCWm04SWF6NGR3T3BKNy1wQlRsNktjZ2VKZ3BFQk4wSEdkRndXVG11T0dCQ0hKYXJtUmdWU0tQLW9pQXFIQ3BEQ0NhT2ZNZ0xBN29xLTctOW9hYmNlM3N4Z3d3MFdXb2hmRFdSSzRHZ3BScGNRRUJJX1Fsa0c4VnRjRk9QSUcybG50dTgxaFV3VHFVbjBZQU5Tdlk1MmNRRTY5cERlVmJEeEp1a3pTdk5JUEZBT1lfckVudHU3MmlLTUx2cWNPeGJMcFBKMnZzS245ekZDLUFtMDQxLTAtUTZvaVJBcUpVNUR2eUl1dGRYYU5z?oc=5",
+                "pub_datetime_utc": "2026-10-13T18:38:57Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:08 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "주마 전 대통령 재판 확정",
+                "hook": "2027년, 제이콥 주마 전 대통령이 마침내 법의 심판대에 섭니다.",
+                "script": "제이콥 주마 전 대통령이 모든 항소를 포기하며 2027년 재판이 최종 확정되었습니다. 수년간 이어진 법적 공방 끝에 내려진 결정으로, 남아공 정계에 큰 파장이 예상됩니다. 이번 재판이 국가의 정의 구현에 어떤 전환점이 될지 전 세계가 주목하고 있습니다.",
+                "original_title": "Zuma fails to challenge ruling that forces him to face trial in 2027, drops all appeals - News24",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblJBUjc5SnFjVmRTQVh2UklvS3JGdFM3MzVXdElYWHFFNkVkZFlHX1hrVUNEQWxPTnNkYzBUT0xUWmExZm0xOTR2b05RcVNzYjV0NVRkVzlpVE5ic1B3ekROOTUwZC1YWWpSWWtLdHlRd3Y5Z01yY1JMLXpxMy1sWGx1OEVvQmgxSmxvUnlrdDN3VTFMaUp0aE44Q1J5cFU5SGN6bDZSRzNKeEt1NDBDcHdTU2VyT09QSTREaU9uNHNjX21Jck1CZlVMYU5Fb1lRS3ZSVi1zWWdrRGpFemhlQi1xSWJOeE0?oc=5",
+                "pub_datetime_utc": "2026-10-14T02:50:57Z"
+            }
+        ],
+        "last_updated": "2026-10-14 14:02:15 KST",
+        "current_rank": 19
+    }
+}
