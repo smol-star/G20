@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프의 거침없는 경고",
+                "hook": "언론 유출자는 총살해야 한다? 트럼프의 충격 발언이 미국을 뒤흔들고 있습니다.",
+                "script": "도널드 트럼프 당선인이 기밀을 언론에 유출하는 정부 관료들을 향해 '총살해야 한다'는 극단적인 발언을 쏟아냈습니다. 단순한 경고를 넘어선 이번 발언은 언론 자유와 정부 보안 사이의 팽팽한 긴장감을 고조시키고 있습니다. 미국의 정치권이 이 위험한 수위의 발언을 두고 격렬한 찬반 논쟁에 휩싸였습니다.",
+                "original_title": "Voters press Talarico on economy, healthcare and mudslinging at Texas town hall - CNN",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2ozbnc0N1pNcEFFOEMwdTEwS0ZKeS0xeFFhMWNnTnk3VE9qNDNEVi1VYmdpSmQ5b0dzYzB6N09QSV8wWnJnZTlibjA5OFZDTXFFVThtOHl3LVZsSEwxd1VyVzBhcGhqekE2UHg5V0FQWHpEZnA2Q1JnbEVPa0x4cw?oc=5",
+                "pub_datetime_utc": "2026-10-15T02:57:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:41 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국, 세계 유산의 힘",
+                "hook": "천년의 지혜가 현대 농경을 살린다! 중국이 새롭게 지정한 세계 관개시설 유산의 비밀.",
+                "script": "중국이 4곳의 고대 관개 시설을 세계 관개 공학 유산으로 새롭게 등재하며 유구한 역사의 가치를 입증했습니다. 천년 넘게 이어져 온 이 지혜로운 수로들은 오늘날까지도 광활한 농토를 비옥하게 만드는 생명줄 역할을 하고 있습니다. 과거의 기술이 현대 농업과 만나 어떻게 지속 가능한 발전을 이끌어내는지 전 세계가 주목하고 있습니다.",
+                "original_title": "锣鼓一响，醒狮启程！第140届广交会盛大开幕 - 南方网",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HVHQxNlNMbjhyTUMxWlVXWjVXakdsUHgzNmVMMlE5a2lrQXRuSDZndUZfRTlkdnppczFid0pXVVNfS1pSc3BQZ1pGZ1dTNXA0X1pLZ1hvMXkxcE9ZQ3N0S1RTQVAzMUdz?oc=5",
+                "pub_datetime_utc": "2026-10-15T01:40:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:41 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "EU-Spitzen verhandeln über Hau",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "EU-Spitzen verhandeln über Hau",
+                "original_title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fbHRuV0FyNkhKRnFoT0VpcV82d1FXeVVxRm9JVG5Gd2Q5Y3QwU1d1ZEE5SUE5emZqMER3X1VFYWRHX2hNNndxM2xCcDZhUUhxaVZ1VHBWMXhTcUJzTTM0MHZlTGI3U0RYaUstQ2hfZDNFQks5cHFR?oc=5",
+                "pub_datetime_utc": "2026-10-15T03:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:41 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "다카이치 내각의 고군분투",
+                "hook": "화장할 시간조차 없다? 다카이치 신임 총리의 숨 가쁜 국정 운영.",
+                "script": "다카이치 사나에 총리가 예산위원회에서 국정 운영의 고충을 토로하며 이목을 끌고 있습니다. 화장 고칠 시간조차 부족할 만큼 쉴 틈 없는 일정 속에서 내각 체제 정비에 총력을 기울이고 있는 모습입니다. 일본 정계의 새로운 리더십이 과연 복합적인 위기를 어떻게 돌파할지 관심이 집중됩니다.",
+                "original_title": "農水相に武部新氏 高市首相、体制立て直し急ぐ - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tOXdEdkljRnAtejZ1amREcXN1WHRPS3JnZ214QThLQkxoakhMMUZqdzJOS3FRUWtPMXB6MlRIYndROGRVUG1UQU96WXE2amNNN3BTelZROVhEbkFpNy0xMHZDSQ?oc=5",
+                "pub_datetime_utc": "2026-10-15T04:02:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:41 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "독일 건물 화재 참사",
+                "hook": "독일에서 벌어진 비극적인 방화 살인, 희생자 중 인도인 3명 포함.",
+                "script": "독일의 한 건물에서 발생한 화재로 인도인 3명을 포함한 안타까운 인명 피해가 발생했습니다. 현지 경찰은 이번 사건을 단순 화재가 아닌 살인 사건으로 규정하고 용의자를 체포해 수사를 진행 중입니다. 해외에 거주하는 자국민의 안전을 위협하는 사건에 인도 사회의 공분이 커지고 있습니다.",
+                "original_title": "US Teen Goes To Hindu Temple For 'Mass Shooting', Jammed Rifle Stops Him - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2xHZDY5a2ctTDE4LUVVWl9tTjlCbTh6S1JSd0ExNWI3cGp6SXhUX1BZM2w1eVBRUDBScUZkTVA0TkxOZWd2RG96Y0FvckxodTJ3ZmZvTXhTY0YxOVVTamJmTF9yNHpiY0hjMmQ1a3NfS3ZRTVdVTTRTN2hudkJ2czhUaTJBLTRXSnFUb3RtVlNuZ0ViNUgwbVhrLXV3VEhFUDBqZGJaNUhoUnNf?oc=5",
+                "pub_datetime_utc": "2026-10-15T01:57:50Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:41 KST",
+        "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "러셀 브랜드의 몰락",
+                "hook": "유명 코미디언 러셀 브랜드, 법정에서 드러난 추악한 실체.",
+                "script": "영국 검찰이 유명 코미디언 러셀 브랜드를 '무자비한 성적 포식자'로 규정하며 본격적인 법적 절차에 착수했습니다. 대중의 사랑을 받던 스타의 충격적인 민낯이 드러나며 영국 사회가 큰 충격에 빠졌습니다. 정의의 심판대에 선 그가 어떤 처벌을 받게 될지 온 국민의 시선이 쏠려 있습니다.",
+                "original_title": "Starlink: Musk says US government may be behind slowdown of Ukraine drone speeds - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRmg0WG9zMXM4aDNZVGRPZjRVRFJQMEdMSU9CRlRsSkI2eWtnanJiRGlQNi0yV3VIMF9KY3F4YmxsMkVIZl9wWWQzRFFyTzIyMG9DbFIxWDlXMklBd1E?oc=5",
+                "pub_datetime_utc": "2026-10-14T20:17:09Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:41 KST",
+        "current_rank": 6
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 학교 충격",
+                "hook": "교실에서 터진 총성, 14세 소년의 충격적 범행",
+                "script": "프랑스 오바뉴의 한 학교에서 14세 학생이 교장과 교사에게 총격을 가하는 충격적인 사건이 발생했습니다. 가해 학생은 즉시 체포되어 구금되었으며, 프랑스 사회는 큰 충격에 빠졌습니다. 학생들의 분노와 불안이 고조되는 가운데, 학교 안전에 대한 근본적인 대책 마련이 시급하다는 목소리가 커지고 있습니다.",
+                "original_title": "EN DIRECT, guerre en Ukraine : « Nous sommes en train de perdre un partenaire puissant », déplore Volodymyr Zelensky, qui se sent « trahi » par l’accord conclu par Donald Trump sur le gazole russe - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOTWZfdVZBYk5MN2lHbzF4a0pVbzFfMGVpdUF2UWs2bGRWWjNUSUl0alRrWFh2UkpqSnA3RXk5RW5STGNPemZvNC0xX3U5YlVFU2tuNS1qSWg1N2tteDNvaHRNY1VjWlZmSnhFdEg2MWhpZnNlcnp5LVhrQ2hZMF9VWVc5ZmFaM3paWXlfUDhIR0ZCOHpTSjJ5RG5tMXJXanR2VFkzb1RIQjNIaU1CclgtNGJTcWFtYzUtRHlNamxFLTZJR1RaWnVQY1dIMVhwbGFnMndscXJXVDE3ZUw1RVR0Y2t3NzhuMEE5RG1aRmN6YmpuVUZQU0hVdUdaZmJqcG5JeVp5R3BKRW9Hd1BzM2RUSnhocU9FTUZYZWkzMDdZOGl3b1JWemVHWFgyTVpxMzkyTWs4N0R3aWVWRkJudU5LbnJkbFh6aFZCQU5ETGhlNm81MFY0M0dqSDVfNHVuQ294a1llTzZHM244OEhYZVBRUTJn?oc=5",
+                "pub_datetime_utc": "2026-10-14T23:07:23Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:51 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "주 4일제 도입",
+                "hook": "브라질 노동 환경의 대변혁 예고",
+                "script": "브라질에서 주 6일 근무제를 폐지하고 노동 시간을 단축하는 논의가 본격화되고 있습니다. 근로자들의 삶의 질 개선을 위한 이번 변화는 많은 찬반 논란을 불러일으키고 있습니다. 과연 브라질의 노동 시장은 이 거대한 변화를 어떻게 받아들일까요?",
+                "original_title": "Quando começa a valer o fim da escala 6x1? Entenda etapas até redução da jornada de trabalho - G1",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDN1VnhwNWtWaVN1TzJkNE5CblBGeV94Y1k0MlEyU1I2N2NPZWR4ZUhHeTNzRUJUQ1kyRW1NUVdSUWVOSy0wTWl0RmNTRmRSMTRuZ2txOXZIOV82anZTUWxKTTR6RXlwRjFsbnB3Qmg1Sk42N0JMbzdxVDNvUi14MVhyOHNnNUc3ZFA4Q0ttT0RaRHpFS2pvN2pFY001MXBUUnVkRVhSdnVfWTDSAboBQVVfeXFMTVcyRURjVTI0UnMyaFFUOEI1V2ZPbFRVQ0x0Zi1tdDBsOTNUN2o0Q2hWX2Ezekp6NERMdHUzQm0yYWlGMjB2LVpabm91V0Q4bEszMGhwb0FodndNc0R6NjBBSUlDMWdPd3BtaHptSk8tRmJsNzBsVXFtd19iT0t0NFNmMS0tQXVIYWRmZm9oeUYzd2NJVjNBZjRhWlNYVlgwUk1jVTJMaTBhcGY5S0wtY0RrTXZUcGpQR3lB?oc=5",
+                "pub_datetime_utc": "2026-10-15T01:00:24Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:51 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "캐나다 토론토 습격",
+                "hook": "암호화폐 노린 잔혹한 납치 사건",
+                "script": "캐나다 토론토에서 암호화폐 자산을 노린 폭력적인 납치 사건이 발생해 충격을 주고 있습니다. 놀랍게도 체포된 용의자 중에는 캐나다군 소속 현역 군인들도 포함된 것으로 밝혀졌습니다. 치안 불안이 가중되는 가운데 경찰은 추가 공범 수사에 총력을 기울이고 있습니다.",
+                "original_title": "B.C.'s major party leaders to debate tonight ahead of provincial election - CBC",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWNzaW5EbGFMT3h5YUhfdEpWU21kTHo1bW5Ybk1EWGw0Zmd5Qzc1aVZEUnpvdjlLdzN1b096dXNSWURoc05Ob3Q0LU9sU0JiTHBXMXh6dmZTelJkOEhab09ueTVQeEQ2XzhGejF5WE1nampqb0staFlOMkZLZlpJMHd3UkpOMDlUVWVIRVpMNEVNa3h4a2ZmeWQ2dUtfSC16MXZ1UE1jZkI1eXdFLUFFZ09JWjljdWJOWThQRUNXTlNVSGtzdkphQUhQTklvYXM?oc=5",
+                "pub_datetime_utc": "2026-10-15T01:30:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:51 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "러시아 물가 급등",
+                "hook": "식탁 물가 비상, 계란 가격 폭등",
+                "script": "러시아 내 계란 가격이 단 3주 만에 7% 가까이 급등하며 서민 경제에 비상이 걸렸습니다. 전쟁 장기화에 따른 경제적 여파가 일상 물가까지 빠르게 침투하고 있는 상황입니다. 치솟는 물가 속에서 러시아 정부의 대응책에 국민들의 시선이 쏠리고 있습니다.",
+                "original_title": "ЕС отказался разморозить часть российских активов для возобновления переговоров по Украине - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55eTFOeFk2RWpDZlJ4VFdtb2sxVzAxQmJPRHhTcDlYRmlBRS1jb1hiUE9qdVdUR0JVV1ktNVE3U3MyR0Y1Y1NPX1JWd0JJZ9IBS0FVX3lxTFBCdC04TUtxb2VCdnBFdEFpTlR5SFN5cmNYLWVfMjJHQk9Lckl3Q045UEh2d3NZek82ekhHcTY1bVROLVBSeFp5czZyMA?oc=5",
+                "pub_datetime_utc": "2026-10-15T00:42:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:51 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "멕시코 폭력 근절",
+                "hook": "SNS 속 폭력 콘텐츠 사라진다",
+                "script": "멕시코 정부가 플랫폼 내 폭력을 조장하는 콘텐츠를 강제로 삭제할 수 있도록 하는 강력한 법안을 통과시켰습니다. 클라우디아 셰인바움 대통령은 디지털 공간에서의 폭력 확산을 막겠다는 강한 의지를 보이고 있습니다. 표현의 자유와 안전 사이의 치열한 논쟁이 시작되었습니다.",
+                "original_title": "Sheinbaum minimiza marcha del IMSS y acusa de oportunistas a políticos que participaron - El Economista",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQndtUW82UUY1ek5UZTZaNzB5TjlXaEtDamZTblZTVThVaUJmT09DX29LalVtbmpCUXFHWWlxc0MzcnJhblNZenNpRzl0X0VNNWNCLVBLRUlFN2xfUDNGY3VOQWpNNHNPMTBaSnBOZG9NWnZCVHFFemhCTXkxdlpkaXBCUEVDZXEtNUF2NllrV0UtdVBJQllWaEtmYXV0NmdNR3NNcHBaQnRHTVVCX2pIYkRTeFNuZGdKcjhBVDktVy03U0xZTjF3LUVCSWZxVWfSAdQBQVVfeXFMTzJ5aElKdkdTa3VjaDktcTI3TGJVcFlXbzFIVDhfUE1LYmVBWU1la3RvU05zLXFhWGc2YS1Oa2Joakhudlp2dThMTllZTjg5YTAzNk44eEpYYlZIZkVpVTcwZmlwai15ZmdBNzhJSXBWbTQ2VV96TFhENDlHX3JSVWVfYXVNd1NVa2p3WHFCTk5jbzRUbk5QSVk1V3R0OWVldTVRUWk4ZXVDdXU5aWg5OUtwX2FoOE9BWnNFVG1fM2s1aUI2clpjRUtQV1ByQXl5ZEpKTmY?oc=5",
+                "pub_datetime_utc": "2026-10-14T16:35:46Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:51 KST",
+        "current_rank": 11
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "호주 해군 함정 몰카",
+                "hook": "호주 해군 함정 내부에서 숨겨진 불법 촬영 장치가 발견되어 군 당국에 비상이 걸렸습니다.",
+                "script": "호주 해군 함정의 선실에서 정체를 알 수 없는 불법 촬영 장치가 발견되었습니다. 군 당국은 즉각적인 조사에 착수했으며, 보안 체계 전반에 대한 심각한 우려가 제기되고 있습니다. 기밀 유지가 생명인 군함 내부에서 벌어진 이번 사건으로 인해 호주 국방부의 내부 관리 부실 논란이 더욱 거세질 전망입니다.",
+                "original_title": "Breaking: Greens senator takes leave amid allegations of comments towards women - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXBrWmZjMWM3SG9iRGM0S09kV3hEVF9QY1Q3QW9NSXVLR2RMYVU2S3pQajN6RFJrMjFLbmpWNDViZnJiODVCbEhXNWNSckI5TEtRR1FZa3VHRHZJSHJTZnhxV3Q4Nzh3eFpMcEV2eVpSMGhNcVZ5NEUyTlhjWFRDMVRwNjRoUHNYbzlPT282VzRwT25BcU9Bby04Z1lLbGtNMnR4UDltNXc?oc=5",
+                "pub_datetime_utc": "2026-10-15T03:45:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:55 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "흉기난동 막은 의인들",
+                "hook": "흉기를 휘두르는 범인을 맨몸으로 제압한 시민 영웅들의 필사적인 2분이 공개되었습니다.",
+                "script": "길거리에서 벌어진 끔찍한 흉기 난동 현장, 시민 5명이 의자를 들고 범인에게 달려들었습니다. 이들은 부상을 무릅쓰고 범인을 끝까지 추격해 제압하며 추가 피해를 막아냈습니다. 자칫 대형 참사로 이어질 뻔한 순간, 시민들의 용기 있는 행동이 대한민국을 다시 한번 울리고 있습니다.",
+                "original_title": "[영상] 의자 들고 맨몸으로 흉기난동범 맞선 ‘의인 5명’…필사의 2분 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53QWdRZGFSYnRLbWNtUVU4cUtQQkdsY0JJTzQ4UWlGYVBXbzJiYXRDVUxvNXAwd04wZFJ0VTAtYUc2T1pxQnM2T0E4Y05LMnVfa3RjcGk4NmszTzJxVGZHcHpzODRDRV9jeFZ0WVlJNFJ6Zw?oc=5",
+                "pub_datetime_utc": "2026-10-15T02:03:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:55 KST",
+        "current_rank": 13
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "인도네시아 산불 확산",
+                "hook": "인도네시아 전역을 집어삼키는 산불로 인해 생태계 파괴와 대기 오염 비상이 걸렸습니다.",
+                "script": "인도네시아 곳곳에서 발생한 산불이 걷잡을 수 없이 번지며 서식지를 잃은 야생동물들이 생존 위기에 처했습니다. 짙은 연무가 인근 국가까지 뒤덮으며 시민들의 건강과 교통 안전까지 위협하고 있습니다. 당국은 진화에 총력을 다하고 있지만, 건조한 날씨 탓에 피해 규모는 더욱 커질 것으로 보입니다.",
+                "original_title": "Bahlil soal Kelangkaan BBM di Bali: Stok Nasional Aman, Distribusi Terkendala - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXotdzhFdGlmeHNMd1lZVHlJbnBVcGZhZ2E0U0I4ZXZLcFk4a05sSmxHMUg4U3JSYnJmcVJDUmc1QU5PNG41bkFiU1FlY0U4TVlCM0NzR010dFM3SXBoSk93VW16T1hmNkxnVXA5VWFiX3lkSUlxWV9ZRTlfMkRzZVJWOXlfWXRrbV9vNVdTUnNhbkl6cFVmdHREZnFuNUJlNllhaEQ1M1B0VGFuZ2VXVUI2X0pUd9IBuwFBVV95cUxOcVd6RnFoSy1lVkZiWmxrSXBtMFd0T1dUZVBkbm0yWmdOMkdxN0I3MmxwZ3ExNjJqSU9SSm01NHdSSkJ4YnNDTHdjUEVVNkFOZnZWcVBkSTVtMTVkWVVBV2NkX3VxaktJUnpTcUJWZy1ucktZaDJVY2hCYld2endQckI0bzg3aUhuN2xvMnI2bHVDakJ3V3lfRlJ2a3Y5TFVUUmxrZnFsalpJZTlBZ0NuVmhzWGZPMHlGeU5J?oc=5",
+                "pub_datetime_utc": "2026-10-14T11:39:16Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:55 KST",
+        "current_rank": 14
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "이스탄불 폭우 참사",
+                "hook": "기록적인 폭우가 덮친 이스탄불에서 안타까운 인명 피해와 도시 마비 사태가 벌어졌습니다.",
+                "script": "터키 이스탄불에 쏟아진 기습 폭우로 도심 곳곳이 침수되고 교통이 완전히 마비되었습니다. 안타깝게도 14세 소년이 감전 사고로 목숨을 잃는 등 비극적인 상황이 이어지고 있습니다. 당국은 시민들에게 외출 자제를 당부하며 비상 대응 체제를 가동했지만, 추가 피해에 대한 공포는 계속되고 있습니다.",
+                "original_title": "İstanbul'da sağanak yağış: Sel, su baskınları ve yoğun trafik - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSVZjVy1FNVhCWGVuNGhXWTlEWkl0enBrUXZWS2dRbE9wSTE4cU9xY3MtNXk2bWd3TVh4NkI3emV4bzhaSWlmaXlZaTQyclVidURvWGdvdFlhZHZVNEHSAWNBVV95cUxOQl9DeC1jYk9BSEkydk1IcTNCamFJNWRoMXAzR0RLS3FMNnR1ZHpvU29QUVd2bzRJWlJkeEFqTnZPZWtfV0kzUXdaME01TnI0eFpMTXltT1dzUk9tSWQyWjBWTG8?oc=5",
+                "pub_datetime_utc": "2026-10-14T22:36:52Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:55 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "아르헨티나 대학 시위",
+                "hook": "예산 삭감에 반발한 아르헨티나 대학생들이 정부를 향해 대규모 거리 투쟁에 나섰습니다.",
+                "script": "아르헨티나 대학가에 거센 분노의 물결이 일고 있습니다. 정부의 일방적인 대학 예산 삭감에 반대하며 학생들이 대규모 행진을 벌였고, 법원까지 정부의 방침에 제동을 걸고 나섰습니다. 밀레이 정부의 경제 정책을 둘러싼 갈등이 대학 교육 현장까지 번지며 아르헨티나 정국이 격랑 속으로 빠져들고 있습니다.",
+                "original_title": "Diputados. Llaryora se suma a la ofensiva contra el DNU 70, pero con la sesión lejos del quórum - La Voz del Interior",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUI2WWtURFVSZ1VWWHpRTmF3QUk3ZEt5UDdhcVFicmxnNFAtVlNBd0JPQkEwNzBlbXl6ejkzRXZMUS1aSHZvZF9VeW1hRHhENVY2aUQ0WEoyWWNXRGFrUFJpaFJhVFpfVTdOVGdvSjI3eTdiWS1mMllNb1RsVkg0eUt3VkZLNWthUC05SUhKRTdkU2xiUURhN3lBWFhOQ04tQ280?oc=5",
+                "pub_datetime_utc": "2026-10-14T15:30:38Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:55 KST",
+        "current_rank": 16
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "멜로니의 경고",
+                "hook": "푸틴을 향한 이탈리아의 강한 일침",
+                "script": "조르자 멜로니 이탈리아 총리가 의회에서 푸틴 러시아 대통령이 유럽연합을 도발하고 있다며 강하게 비판했습니다. 멜로니는 러시아가 새로운 적을 찾고 있다고 지적하며 유럽의 단결된 대응을 촉구했습니다. 우크라이나 전쟁의 긴장감이 고조되는 가운데, 이탈리아의 외교적 행보가 주목받고 있습니다.",
+                "original_title": "La premier Meloni in Parlamento: “Putin provoca la Ue, cerca un nuovo nemico\" - RaiNews",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd1VTQzd1OTc2NW9ENnFmVUNmS0hUb252ZzJVaHFxUVlyMXVyTW5ZWmhqWmduTmpYYnVtTmpYZm1aUDdNMVpTN193bHh6ZWEyWllKQkxfTHNJRk5Ja2Vka3pfcF9DWFVtYUtBdjNnVkRkVTlZWjNkeV83dWR0YWlJcVZDU2NHOTROMXVWUkp0Z0J1UF9fU0kwQjVVX0xCMlZYM2V3Snp1Zmp4X2RqOE9OTnJpbDVYd1ltWmZPVnIwT0xSMjl6eWZCbmRjTHRQMWtDQ0xXMW42UTdDbFE3VngxaC1lZ0pHaXpRY3NN0gHwAUFVX3lxTFBmMnhYbF9lYk42VjZJMTk1RE9aVFhJSW1HNG5JZXdycXktYW1vX3d5WXUxYk9wV0M5SDZodW1CMjI0a2tKNUlpSC1mNFVNY0lrOUlzMWF6V2RwQVdkVjVGZ3JWTjQzeGR3eTlVdXdoTlE5UFJRSmhXenN2N1haOHZqT1p1RHUwcEx6S1pva1RoT3k2YzdHT0NVR2lXUFFYemtxVUlSREs4RmJzcE12SmowcFh5ZnAyTUFjNnhTODF0eHBoQ2xqV0c3UVdkTWZKaDY5V3VxQzJTekVvMFhEMjFQZEs0QTB6eUs0Sk5qMTJ4bw?oc=5",
+                "pub_datetime_utc": "2026-10-14T15:37:00Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:51 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "리야드 공항 피격",
+                "hook": "후티 반군이 사우디아라비아의 수도 리야드 공항을 향해 탄도미사일을 발사하며 긴장이 최고조에 달했습니다.",
+                "script": "중동의 긴장이 다시 한번 폭발했습니다. 후티 반군이 사우디아라비아의 핵심 시설인 리야드 공항을 탄도미사일로 공격했다고 공식 발표했습니다. 연이은 미사일 도발에 사우디 측은 강력한 대응을 예고하며 중동 지역의 안보 불안이 다시 한번 전 세계를 긴장시키고 있습니다.",
+                "original_title": "الحوثيون يعلنون استهداف مطار الرياض بصاروخ بالستي - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPZndQYTZGQ0I0Ui1yeEdVLTlqRFU3VUlES2puY3B1cFhlWGduRzRvS09JR3FOeFA5OVVoUjBFbFZWMkdQblJXWExsZngtX292eWJGcW8yT1V4V2ZvSHRjS3BjcEpXdXNnbHBrNkZlZDJMc3hkWDJxb2JLRzQ5eXhscjdINFlTemRZOFNyZ0lEaTB5UjJzLUp4MVZDeVRkRWZ2cExIVVJLamZPYkNNSHZ3NzdfQ1F6VFdkS2NqSXNSTlNnaFI4ZE5QOHNIWG9hdzFmb09UQ3I0TVZCMVo1WXRKN0l5RnhQVXdRRHg5ekFqT3YwVU9VeXRxbkZ3Z0VRVmEyVUdESzJEQXhNWC00cnNXZVF4VFlFSFdNUmRma0pqSi1la2trMDhCRVlRaW5HREdiNXdYaHhBWjQzWjd0cnUxaE1rX0puT3ljZ2hUcFM2eTBBREpnRExxYl9QUERnNGxxY2YzOUlLVXdyTnVWWVk2cGh2LUdEMW55RkNjekFxZmNzdEcweWtYT0Q5STMtaEppR08tMFU5M0JadTNwMjlTWGh3MWlSMTktaXMzM21TYi1IU2xFTUdUekJPZU9ZWTDSAcQDQVVfeXFMTTJVck1kOXd2SmNpNUFfeGV1ajBkX1VfSFRFVk9tYjVHX1dZSjBmRHBRWlQ3WUE4dkVScGI0bENxQVJSLTJzc1NCaFJRR19VMUJON3RpYmhxT1lpVFJVX0dlSDJxM0Y4MmloamdzZ3FLRFEzWkF4UHp3cmtMckpzSzUtMUdkNjk5VTdoazlyYkdoVndValJTbWNLRGl0SkZPbTVwVHhFSnBrNHNCNkowdHU5bFl5dElfZE9kM2dpWGpmRDBJa1lsdk9DX1c0bnBKMUkyV3hpOVdwMFFyLUlPVkttQi1XRWdKYkpIWFpJMnFqYWVZY2t5eTRNQm40ZExhLXJDMFd3UGZNNVNxUWxlaUh0ZlUzUE1USEpTYmpSLWZseWVmN0VhNDR4OXpLV215M1c2ZXkwNXlOVFVuUlA5bm9jeU56cUtXR3JmRTg3RFRsT0Z1UUI0a243UnhDd0pUX1lNNzlRb0Q1d2Vud2lIeVdTbUgwTGUwYVFVc0o5OFYtY2dtVk5jZTlhakdxckFDeVZxZ0hNM3hBeTBKeFJMMDkzaS10d0tacjRENDFmaHZRTVFJaXJmLWd1cjJ5d2djMldibUk?oc=5",
+                "pub_datetime_utc": "2026-10-14T18:22:31Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:47:55 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "남아공 500억 세금 폭탄",
+                "hook": "당신의 지갑을 위협하는 남아공의 충격적인 500억 세금 인상 소식, 지금 확인하세요.",
+                "script": "남아공 정부가 예상을 뒤엎고 500억 랜드 규모의 세금 인상을 단행하며 국민들의 경제적 부담이 가중될 전망입니다. 경기 침체 속에서 발표된 이번 세금 폭탄은 많은 시민과 기업들에게 큰 충격을 주고 있습니다. 전문가들은 이번 조치가 국가 재정 확보를 위한 불가피한 선택이라 분석하지만, 서민 경제에 미칠 파장은 피하기 어려워 보입니다.",
+                "original_title": "Umhlali stabbing accused appears in court as State vows to oppose bail - IOL",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlVJWktPdUNSazg1cHN3dnJ4cnlUNjNUUVNtbUJJZ0xOXzF4SzdwcTBGWC1QbjQyS1pzVlN5b2NfX2xqTkFicU5uV1JNUEY1b2dXX3d6Mi1SUFc0czVpMklJR1d4Uk85bld4MHdrd3gybHdTV2FsT2JhYnlaTk02NGZlRnU0S2p1NXNlT1JGa1lyNGRPNzdMQkJFZGVidVM4QjlHLXdzTkRYT1dDS2lLYk5KMDhTa0hVTXJSVGNJQQ?oc=5",
+                "pub_datetime_utc": "2026-10-14T16:31:59Z"
+            }
+        ],
+        "last_updated": "2026-10-15 13:48:00 KST",
+        "current_rank": 19
+    }
+}
