@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "Oregon Live Updates: Police In",
+                "hook": "United States의 최신 주요 뉴스입니다.",
+                "script": "Oregon Live Updates: Police In",
+                "original_title": "Oregon Live Updates: Police Investigate Deadly School Shooting in Bend - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dDZlRE5iVlF0ZHpEYlJHRHdITEpudTBSWFBvajFYcHloQ2Z5TmJ5SEVwa29Idkx2M2hNdFpoMG5kbjJPMjluUzZycFhTaE9oVlVORWxqZkNjbFUxZ1JNWE1FT0dxTnQzaGZLU0psaXB0X0VPMDkwWkdR?oc=5",
+                "pub_datetime_utc": "2026-10-16T16:11:21Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:33 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "习近平到内蒙古考察 强调坚定不移走生态优先、绿色发展之路 -",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "习近平到内蒙古考察 强调坚定不移走生态优先、绿色发展之路 -",
+                "original_title": "习近平到内蒙古考察 强调坚定不移走生态优先、绿色发展之路 - RTHK",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSnU0OHVxSnUybm40TTZGdnU1TTl6VWw1LVRWSzkzc3NGTXpoNzR1RV80Y2lxM2Q0VHZjUjRKbHNxX2JZLXdId0wyUTFWYldxVG1uYjlwdVI3dWgtcXNpQUFNbWx4NVRDWEppb1hTRXAyR1QxbXFDUjJCeUluRWhpUGpwTTE2UTdXRWpJ?oc=5",
+                "pub_datetime_utc": "2026-10-16T13:05:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:33 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Regierungsbildung in Berlin: S",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Regierungsbildung in Berlin: S",
+                "original_title": "Regierungsbildung in Berlin: Sondierungen gehen weiter - Belastung durch neuen Emde-Post - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnJaZG5kNjJlcmlSUzZkMU0tMnJhSTVNN0VzbE11YWt0cDhZZnUwREs4QjY3U2lQdXgzUjR3RXZzSzNQSXhoazhUb01zLUdMZ2xYbjJvOWpCUjg1RGNVd0tBRFdZU3I4aldXS3FJVk0zMVVSMlhpYS0wVWxYLVVtalNlbXBlMjllMV9nR2NhaUFSOWVyVzVtTg?oc=5",
+                "pub_datetime_utc": "2026-10-16T10:37:01Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:33 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "ＮＴＴドコモ、「Ｍ９・９」の緊急地震速報で「エリアメール」配",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "ＮＴＴドコモ、「Ｍ９・９」の緊急地震速報で「エリアメール」配",
+                "original_title": "ＮＴＴドコモ、「Ｍ９・９」の緊急地震速報で「エリアメール」配信されず…２０１２年からの不具合発覚 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52dHBFUElCb3g1QnlvNWdGaU9yOE1vUDBRMDNEZ2VUSmlNQVJGVV9pTWNjcERGNjdlcVpES3VDOTktS1QzR2p2Q1hGYXBYRGxvQXVJN1MyM05FRVdfbWN2X2JiaXNMQQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T13:31:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:33 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "Burnham says ‘too much time is",
+                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
+                "script": "Burnham says ‘too much time is",
+                "original_title": "Burnham says ‘too much time is wasted in those dramas’ when asked about Scottish independence – as it happened - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2o3NUMyOUU4b0tkQzN3T0w3YWhHNlRhOHBVQUhleGNkRFg2NDVkdFozU2JkdHg3WkJMcUZnWHhlYTFxZ3ZWUm5OT2JwX2VwODgtb2ZNZGlhSUhfOEFsWGhSMmVfV01HYVM2dlhSX0FadEFHWVB6T0FFYXFIcloyTExRMC1BQ1U2R0l2WFhSZ2JBRk80S3lXMW5ZMkt2V3pRdnFYZmdCU193UEJDclZpeHRRUHktSWhUN3VUd0k5ZEFWeXh3d0pMNnlxT3FpOW1kT2p2NEUyUk11S1JwU19JMDNjZDk?oc=5",
+                "pub_datetime_utc": "2026-10-16T15:18:01Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:33 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Manifestation du 17 octobre à ",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "Manifestation du 17 octobre à ",
+                "original_title": "Manifestation du 17 octobre à Lyon : blocages, retour des gilets jaunes... vers une journée noire dans le Rhône ? - Actu.fr",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOThLaHp4UmlaWTRWd0ZpYzZ1NUFlOG9WSFp3ZXpUcFVhcWtRZkxwOThiSGktUWNHeGJRckdONGtXU1NtSFNKMldlZ2U5TDZxVGg1VG9URkZYY0s4NDJsZFJtNmtVdTRfazBFNVJoU19pWlZEekd2Y2tpU3ZybHVabU4zZE9zRzFYaU9OTmcwc1FMZDRNbW1UcW55UlN5YTZNcTRSN2stcloya2tmejA4Q1hVMEZZMGJxaGRha1ZYOEo3dlBRU2Zkbl9BeW9Vc0U1VFJkb1J0amN3c2V2ZU9MQ0VkNERNTVprZDE1NmRldmRVS1Q4UjIzbV9Vcw?oc=5",
+                "pub_datetime_utc": "2026-10-16T09:30:57Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Leone sente al telefono Putin ",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Leone sente al telefono Putin ",
+                "original_title": "Leone sente al telefono Putin dal Gemelli e chiede una tregua per la città ucraina di Oleshky - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeE5YRmw3MXVZXzRQaUp4ajg2OFdFV2NpeUN6ci1ZV0FVZm1xaVY2RXJ1ZzhFX21QVm85SlpWd3dHdTBZNW9xb0tRa2RucXZQUks1c0Uxb2RWdFdrUE1scTMwRTlHd2tWa2Y4bGtQRU9tUzFrOGpsaERjOUU4WTZraFpvNnFOa3FOU3ZpU1d0Z0tuOUxBcDZRNlJwRFc3OUJGZ0NYNl9zLUVZUmVsRW9xTFVGUTkwQVJxaFFSblVfR0JpR1dFVEdvdHRxb2RzVVg1TDB4NFlKa2praXNBcHpOcjd6cjliQUJvSkE?oc=5",
+                "pub_datetime_utc": "2026-10-16T15:32:53Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "CNT/MDA mostra empate técnico ",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "CNT/MDA mostra empate técnico ",
+                "original_title": "CNT/MDA mostra empate técnico entre Flávio e Lula a 9 dias do 2º turno - CartaCapital",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjQyVXBGVVlXTEdraURvcDZQNk5XdVFjRm9hcGM5SlJXb0VoODVyRVlHTnY0QlotdEwzQTVHMmI3SlBlOVg2SmNwSjRGb3d3Y2lkZWozMlVEQXJFS216Y19HWWUzYUdRWTdRYVNzb2o1bGhRM0tTUWdYS2lxa195SHBva3RaLUR4SG1lWDl1MnQtaUpJVGRNa1NrYTVFZTExQ1YxNW8yVllWcFcwYndZcXNn?oc=5",
+                "pub_datetime_utc": "2026-10-16T14:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Danielle Smith has said no to ",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Danielle Smith has said no to ",
+                "original_title": "Danielle Smith has said no to a second referendum. But that decision might not be hers to make - CBC",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVhqTUxXaG5BQUdFckxpbW9LbndweTZNY0hWbnM1Y2RHR0cyb1kweHZJcnJveU8zX1p6TW5jQV8wT21sWmNXMzBPUm40UW5YNFhsczJ0MFBwMDlBVVU1b2wwZ0RTdnpRdGVhc0xDM0Z6SEVja1lLYTdPUEZtbmUtbU5tbG5GZ1BObnRGanpZT2JSdDFwOHVoYXU3cG9DNlBSbzZ1eTY3LVZ2Q0FOVGE2ZE1BYVpNVnNEaDBZelN5OGxUbDljRkg0eGRlZEREVWc2dXY5SVZ5cVZUQQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T14:29:14Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Пулково снова закрыли - ФОНТАН",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "Пулково снова закрыли - ФОНТАН",
+                "original_title": "Пулково снова закрыли - ФОНТАНКА.ру",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Q2prbUhsdWtQSmFiRkl2bXhWWjMtd1MzdG51ZDlXSmltRzRSYmNrNEFxQm5EdkltbW5zX0dsb1l3UVVmenZXVUkxa0JMVE1kV1d1OEM2dw?oc=5",
+                "pub_datetime_utc": "2026-10-16T03:52:51Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "WA Greens kept crisis comms do",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "WA Greens kept crisis comms do",
+                "original_title": "WA Greens kept crisis comms document about Jordon Steele-John - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFB4NGVtNmh1NXU4S3I0eUtZejdFVndfdzJXbmVHenhUY1N1WEEzb3lJeTZxRE94eW5wMU9KRkoyTGp3b0JuNkM5V0EyZUVjdElWUXZLbVJHOHZJcDI4aWtiSU5SaHJlTXhXZlotNUlWZmt5QnR3UE10VV8zZlgyMHNjcUxkWFFYVWVIc1F1ZVNLSGIyVDJN?oc=5",
+                "pub_datetime_utc": "2026-10-16T07:05:58Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "민주, ‘조희대 탄핵’ 논의 공식화…‘범여권 결집’ 승",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "민주, ‘조희대 탄핵’ 논의 공식화…‘범여권 결집’ 승",
+                "original_title": "민주, ‘조희대 탄핵’ 논의 공식화…‘범여권 결집’ 승부수 띄우나 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UeDVUc0xBaTdjS2Y2QVF6S3hBNmpTZ2ZpTzdmMWhQcHlnWV9INDUwVF93dEdweUpoNUN0U0FTamRndjFRR0tuRS1DdTV0WTMtM3IzTjZrakxDaE0tSHJNQ2loUXNJZEVYamRXeWJ4clFXUURF?oc=5",
+                "pub_datetime_utc": "2026-10-16T13:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "KPK Tetapkan Bupati Klaten Ham",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "KPK Tetapkan Bupati Klaten Ham",
+                "original_title": "KPK Tetapkan Bupati Klaten Hamenang dan Kepala BPK Jateng Jadi Tersangka - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2IxSVh6ZGQ0SExyd2Rrb3ZraVVGNFVTQVBncFpOa2t2WW1XVWFwNUxQWnBMRWlCb1NSZjN1b1Vyc2kzSkNpa0FLZFZWWXFGckFyNzEwVnBlbGVmLTV6M3VTZHItZEJ6a3JCcGZwenNhbFdqNHNVV3Rkc2RYR2JNZzN2ZjdPQlZYRVYwR3F0M1lqUHFoX1RERGxGWkw5bm50ZmVyd3U2RE0yU2N5b0NoNDhB0gG3AUFVX3lxTE5jeVJabWNFQW1oVThsN19MdWlWN2thMVJMbnFiRS1HX2hVdU1iY2poVWR3OHMwVE1NMk9SSlhaMlJCZ3o4aWktX3E0ZzVIbUxEMjZtZmxsTGNWRmxSVGhBbUUzZHdTaGNfRkJBOWp3SnNqd3JLY2k5Y0dxSHVHU0hWNTRidVBxRUQwdm9jRjA4OVdRT1drd0RJcUQ4UVRqeG10S0VaNDhiR0t5dVY5d0tHdXRmeGxLdw?oc=5",
+                "pub_datetime_utc": "2026-10-16T14:45:17Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "İstanbul'da sel felaketi: Can ",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "İstanbul'da sel felaketi: Can ",
+                "original_title": "İstanbul'da sel felaketi: Can kaybı 4'e yükseldi - birgun.net",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFI5TVJhMk1zaWVFODA2ZzNvZUU2eDNsZ2lNNzExWXRVbWptdnl4U3RqSWVVSms2VDRQVHE5blk4WDBZWWlCLWlwRXpTa2toTlFRbUIxWlA3OXc1ZDcwMmhhdjVkWEktMmZ1X0dYMmczVmtpUGY1NnZDUHE3NC0xN01wUERRUXdOOGxj?oc=5",
+                "pub_datetime_utc": "2026-10-16T09:33:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "تحالف دعم الشرعية يعترض صاروخا",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "تحالف دعم الشرعية يعترض صاروخا",
+                "original_title": "تحالف دعم الشرعية يعترض صاروخاً باليستياً استهدف ينبع وطائرات مسيّرة نحو الرياض - صحيفة سبق الإلكترونية",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10UFNMZGVWaUc5VFFjTDdYLUJHaEZpOWRweUUyZFBBZ0JfRUwtWFpsQUpyWldPV1ZRM240TWh5Z2hLWURKX0xN?oc=5",
+                "pub_datetime_utc": "2026-10-16T14:03:07Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Se conocieron las primeras fot",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Se conocieron las primeras fot",
+                "original_title": "Se conocieron las primeras fotos del papa León XIV tras su operación y difundieron un nuevo parte médico: \"Mejoría constante\" - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnRhXzJVSGpGN2l3b0VlNWRXc2ppNl9Ta3ZYM0Zpak81aWJIYUJzN09LQ3lfcXVreXJWeDJndWJ1M3lsYl9wUHI5R1Z0eWxzZXN4X0NZblYzNXRIcm9fQ1FBb1ZnWTJWajF1REp6VGJINHVRUE5UMFJNc1ZqVUZqRW1MNHkybjZMMGxxSGtyUzNtNjItMkFYNnEyYUlnbzRPNTcyQ2dtdWtXYmRfUXBZYXAwMmhBdTRYY19KYlhiUklxU2JPek9URDFCUXVjNUltaTFaaG5raU4xNkpwUmc?oc=5",
+                "pub_datetime_utc": "2026-10-16T12:49:10Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 16
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "'I'm dizzy' - businessman Suli",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "'I'm dizzy' - businessman Suli",
+                "original_title": "'I'm dizzy' - businessman Suliman Carrim tells court - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY21rb1YyeFRndksxcS1pcWNvZVVQTEJzY2RscFU0d3NHaUVFXzZISlAzM24xUGtaOU41azU2cFhZclhWOXRoX1R4eWRtczhpOTUwOXVvOU5JamhHN2kxV1F1Ymtxb0I3SXpNU19sRE9ycDJkaWpfX1UtMWNORWV0SmxHREd5SVl2UTF1WFdB?oc=5",
+                "pub_datetime_utc": "2026-10-16T14:14:41Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:35 KST",
+        "current_rank": 17
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "'You might want to explain. Un",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "'You might want to explain. Un",
+                "original_title": "'You might want to explain. Unless, you want me to': Rahul Gandhi's cryptic post over Rubio's Mumbai visi - The Times of India",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWo4bmQ2Z2RnVWlMWGRpdHFnMU96bFBLM2VfUmgxZTF4cWVqTi1SRnN6TWliWV9HZ09rRjViYm42MHV0R21HZkMwZEFqUUxVN0tyOWxiVi1KeVg2YjgxclQxRlV1YUYxMy12R19BY2tyS016UWNoT3d1cTFpSFZTNXBLTTR1UEVaanVPUFgxN0QyR1dRb3poNDhoendfc1JtY2VtemVMZHFXd2dNWDZ2ek1kLU1QcHlwMmVKM0p1T2I1RnZfbFZyUWtmWFh5RjhyVXlzVHFidTJkMDdxYXVqTW44ZEx3NnVUWDNSc3pzZmNKZmduZWtMNEg1RQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T06:49:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:33 KST",
+        "current_rank": 18
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "Zoé Robledo instalará este jue",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Zoé Robledo instalará este jue",
+                "original_title": "Zoé Robledo instalará este jueves mesa de negociación salarial con el sindicato del IMSS - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmtwSHoxVFZqVFhFWmRwTnd2ZkRoSGJ5Q1NlZmpCbU1palNoLXhuck9mejJ1VXpFb3lvQnZvU180SU5aS1lqWENCNk9NRHg3NUM2eUtDRm0wRnJYZjhONDdlMG0xQ1IwNy1hQThhVEFwV0RudlJLd1BnamFzb0Z0dlY1eGdQX0ZPVlY3cTlJQnRwQnY1ZzN0MjR4cUxHMjk0TUZNbGFMZGRlalZwOTZ6M19TWEdheFJPdFVzQnZkOTBKSG9zZG1SRWVnOEx3bGlheHlFUExR?oc=5",
+                "pub_datetime_utc": "2026-10-15T16:53:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 01:43:34 KST",
+        "current_rank": 19
+    }
+}
