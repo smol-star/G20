@@ -5,15 +5,15 @@
         "previous_rank": 1,
         "trends": [
             {
-                "keyword": "Oregon Live Updates: Police In",
-                "hook": "United States의 최신 주요 뉴스입니다.",
-                "script": "Oregon Live Updates: Police In",
-                "original_title": "Oregon Live Updates: Police Investigate Deadly School Shooting in Bend - The New York Times",
-                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dDZlRE5iVlF0ZHpEYlJHRHdITEpudTBSWFBvajFYcHloQ2Z5TmJ5SEVwa29Idkx2M2hNdFpoMG5kbjJPMjluUzZycFhTaE9oVlVORWxqZkNjbFUxZ1JNWE1FT0dxTnQzaGZLU0psaXB0X0VPMDkwWkdR?oc=5",
-                "pub_datetime_utc": "2026-10-16T16:11:21Z"
+                "keyword": "백악관 대변인 5일 만에 해임",
+                "hook": "임명 단 5일 만에 벌어진 백악관의 초고속 해임 사태, 도대체 무슨 일이?",
+                "script": "취임 5일 만에 케이티 자카리아 백악관 대변인이 전격 해임됐습니다. 트럼프 행정부의 인사 잡음이 끊이지 않는 가운데, 이번 결정의 배경을 두고 워싱턴 정가가 술렁이고 있습니다. 과연 백악관 내부에서 어떤 긴박한 상황이 벌어진 것일까요?",
+                "original_title": "Katie Zacharia is out as White House press secretary after just 5 days on the job - NBC News",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmxXWGtEcC0zbTRZcm9MeHBnV0JSbjVLSnFNelgyYTRjUWY1QmR6eFlsQmNWOHJqeUZwQkxrV3U2bl9OQklKOUVtRUl3b2NWS2lOWUlldl9udmNMcDlGZXJaSVc0OVRvVk44NUhLdWQ0VWdmelp3dFdJaXNxQW4xR2taQXRIb2RzcjVuUUJQVEdJNmdLTXdOTGtDY3JyUzBDSnZFbW1tbkRPZXE3MW9xREk1OTlFdw?oc=5",
+                "pub_datetime_utc": "2026-10-16T20:33:30Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:33 KST",
+        "last_updated": "2026-10-17 06:16:12 KST",
         "current_rank": 1
     },
     "China": {
@@ -22,304 +22,304 @@
         "previous_rank": 2,
         "trends": [
             {
-                "keyword": "习近平到内蒙古考察 强调坚定不移走生态优先、绿色发展之路 -",
-                "hook": "China의 최신 주요 뉴스입니다.",
-                "script": "习近平到内蒙古考察 强调坚定不移走生态优先、绿色发展之路 -",
-                "original_title": "习近平到内蒙古考察 强调坚定不移走生态优先、绿色发展之路 - RTHK",
-                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSnU0OHVxSnUybm40TTZGdnU1TTl6VWw1LVRWSzkzc3NGTXpoNzR1RV80Y2lxM2Q0VHZjUjRKbHNxX2JZLXdId0wyUTFWYldxVG1uYjlwdVI3dWgtcXNpQUFNbWx4NVRDWEppb1hTRXAyR1QxbXFDUjJCeUluRWhpUGpwTTE2UTdXRWpJ?oc=5",
-                "pub_datetime_utc": "2026-10-16T13:05:00Z"
+                "keyword": "중국, 식량 안보 강화",
+                "hook": "세계 식량의 날을 맞아 중국이 꺼내든 강력한 식량 안보 카드는?",
+                "script": "중국 전역에서 세계 식량의 날을 맞아 식량 안보와 농업 혁신을 강조하는 행사가 이어졌습니다. 특히 상품 주택 판매 제도 개혁과 결합된 이번 정책들은 내수 시장 안정화와 식량 자급률 확보에 초점을 맞추고 있습니다. 중국의 경제 정책 변화가 글로벌 시장에 어떤 파장을 미칠지 주목됩니다.",
+                "original_title": "习近平乌兰察布行丨鱼鸟归巢 只此青绿——走进黄旗海自然保护区 - 中安在线",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xa2NBRm40RGN6ME14SkJXT0xaWDlGdFA0WlVtNm1EUnI5Wi1mYlM1Nk1kVUZJTXE1Yk83N1JqeklrOHdEX1dGOVNJUlRSMTZZYmljaVJQTlowc05RdnBnWHlVMTZzUHlZOEJscQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T13:30:00Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:33 KST",
+        "last_updated": "2026-10-17 06:16:12 KST",
         "current_rank": 2
     },
     "Germany": {
         "gdp_rank": 3,
         "spike_score": 75.0,
-        "previous_rank": 14,
-        "trends": [
-            {
-                "keyword": "Regierungsbildung in Berlin: S",
-                "hook": "Germany의 최신 주요 뉴스입니다.",
-                "script": "Regierungsbildung in Berlin: S",
-                "original_title": "Regierungsbildung in Berlin: Sondierungen gehen weiter - Belastung durch neuen Emde-Post - DIE ZEIT",
-                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnJaZG5kNjJlcmlSUzZkMU0tMnJhSTVNN0VzbE11YWt0cDhZZnUwREs4QjY3U2lQdXgzUjR3RXZzSzNQSXhoazhUb01zLUdMZ2xYbjJvOWpCUjg1RGNVd0tBRFdZU3I4aldXS3FJVk0zMVVSMlhpYS0wVWxYLVVtalNlbXBlMjllMV9nR2NhaUFSOWVyVzVtTg?oc=5",
-                "pub_datetime_utc": "2026-10-16T10:37:01Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:33 KST",
-        "current_rank": 3
-    },
-    "Japan": {
-        "gdp_rank": 4,
-        "spike_score": 75.0,
         "previous_rank": 3,
         "trends": [
             {
-                "keyword": "ＮＴＴドコモ、「Ｍ９・９」の緊急地震速報で「エリアメール」配",
-                "hook": "Japan의 최신 주요 뉴스입니다.",
-                "script": "ＮＴＴドコモ、「Ｍ９・９」の緊急地震速報で「エリアメール」配",
-                "original_title": "ＮＴＴドコモ、「Ｍ９・９」の緊急地震速報で「エリアメール」配信されず…２０１２年からの不具合発覚 - 読売新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52dHBFUElCb3g1QnlvNWdGaU9yOE1vUDBRMDNEZ2VUSmlNQVJGVV9pTWNjcERGNjdlcVpES3VDOTktS1QzR2p2Q1hGYXBYRGxvQXVJN1MyM05FRVdfbWN2X2JiaXNMQQ?oc=5",
-                "pub_datetime_utc": "2026-10-16T13:31:00Z"
+                "keyword": "Regierungsbildung in Berlin: L",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Regierungsbildung in Berlin: L",
+                "original_title": "Regierungsbildung in Berlin: Linke-Fraktionsspitze rückt von umstrittener Abgeordneter ab - Tagesspiegel",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQlhGTE10eXpRN19HTXp2aGFNcFdoUXNGcGtmUDBJcnFTS3Y5NWhMUXdsQkoyV2ozZWN6THE0VGdEV1A4QWdvQ0g3RHpDZUtnd2dTWkx0UVVHRkxaZHhCYm9uTXBmMzN2RkZ1d1FFRDJfaGk4NDNVZDR5WW1TVnh5LWx0ejNhaEQtNi0zN1FYUUxPRDVIYm5wVURTY3VqYWJoN1ZKd2ZueldaV0w3bVdMV3NmSmRicnVGbURBLWVOaUFnejBLWURMZUtjcU1iTzR4R2pTUVptVTctUQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T15:46:34Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:33 KST",
-        "current_rank": 4
-    },
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 75.0,
-        "previous_rank": 5,
-        "trends": [
-            {
-                "keyword": "Burnham says ‘too much time is",
-                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
-                "script": "Burnham says ‘too much time is",
-                "original_title": "Burnham says ‘too much time is wasted in those dramas’ when asked about Scottish independence – as it happened - The Guardian",
-                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2o3NUMyOUU4b0tkQzN3T0w3YWhHNlRhOHBVQUhleGNkRFg2NDVkdFozU2JkdHg3WkJMcUZnWHhlYTFxZ3ZWUm5OT2JwX2VwODgtb2ZNZGlhSUhfOEFsWGhSMmVfV01HYVM2dlhSX0FadEFHWVB6T0FFYXFIcloyTExRMC1BQ1U2R0l2WFhSZ2JBRk80S3lXMW5ZMkt2V3pRdnFYZmdCU193UEJDclZpeHRRUHktSWhUN3VUd0k5ZEFWeXh3d0pMNnlxT3FpOW1kT2p2NEUyUk11S1JwU19JMDNjZDk?oc=5",
-                "pub_datetime_utc": "2026-10-16T15:18:01Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:33 KST",
-        "current_rank": 5
+        "last_updated": "2026-10-17 06:16:12 KST",
+        "current_rank": 3
     },
     "France": {
         "gdp_rank": 7,
         "spike_score": 75.0,
-        "previous_rank": 15,
+        "previous_rank": 6,
         "trends": [
             {
-                "keyword": "Manifestation du 17 octobre à ",
-                "hook": "France의 최신 주요 뉴스입니다.",
-                "script": "Manifestation du 17 octobre à ",
-                "original_title": "Manifestation du 17 octobre à Lyon : blocages, retour des gilets jaunes... vers une journée noire dans le Rhône ? - Actu.fr",
-                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOThLaHp4UmlaWTRWd0ZpYzZ1NUFlOG9WSFp3ZXpUcFVhcWtRZkxwOThiSGktUWNHeGJRckdONGtXU1NtSFNKMldlZ2U5TDZxVGg1VG9URkZYY0s4NDJsZFJtNmtVdTRfazBFNVJoU19pWlZEekd2Y2tpU3ZybHVabU4zZE9zRzFYaU9OTmcwc1FMZDRNbW1UcW55UlN5YTZNcTRSN2stcloya2tmejA4Q1hVMEZZMGJxaGRha1ZYOEo3dlBRU2Zkbl9BeW9Vc0U1VFJkb1J0amN3c2V2ZU9MQ0VkNERNTVprZDE1NmRldmRVS1Q4UjIzbV9Vcw?oc=5",
-                "pub_datetime_utc": "2026-10-16T09:30:57Z"
+                "keyword": "파리 시위 금지",
+                "hook": "파리 중심부, 시위 전면 금지령 발동!",
+                "script": "파리 당국이 엘리제궁 인근 등 주요 지역의 시위를 전격 금지했습니다. 치안 유지를 이유로 집회 원천 봉쇄에 나서면서 시민들의 반발이 거세지고 있는데요. 과연 표현의 자유와 공공 질서 사이의 갈등이 어떻게 전개될지 귀추가 주목됩니다.",
+                "original_title": "Mobilisation du 17 octobre : la préfecture interdit de manifester dans plusieurs secteurs de Paris, autour de l’Elysée et Matignon notamment - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQc2psOS1iVEtTMkQzTzFYSDNPSDhiVjFYZnBacXZQNHJMZllQV0FpSVdIM3NRTU9zZ2xDaF9hZXNhM3ZXX3NzdEdwdWk4NHM5eTlMbjJ3al9WSEh4NnRtZHpPcWlzX3lRQktBeEN0UzZiS1JHcFY4a21nTVNpQ3NyRWgzWWN1ODlqTnBzc05GejFoUDBaejQ0empiN284em9WcjRpbjFZS3Iwbmh0RHh0Wlo3NTJHNW1mT1drejV6U3B1bWtYNkxKa3hWY1U1RXdubmlBQ1BmTUNhWWRNcWpOUlRINlJ2VHFFajJ3Y3ZlNzhJanB3WHpLTy1LX1h5OEY0MWxIMnlkenRLZ21ZVGx6RVloOUFIZk56OXVLZWVGV0V5a05oQVROdVdDUzY4UQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T16:56:28Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-17 06:16:15 KST",
+        "current_rank": 4
     },
     "Italy": {
         "gdp_rank": 8,
         "spike_score": 75.0,
-        "previous_rank": 6,
+        "previous_rank": 7,
         "trends": [
             {
-                "keyword": "Leone sente al telefono Putin ",
-                "hook": "Italy의 최신 주요 뉴스입니다.",
-                "script": "Leone sente al telefono Putin ",
-                "original_title": "Leone sente al telefono Putin dal Gemelli e chiede una tregua per la città ucraina di Oleshky - la Repubblica",
-                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeE5YRmw3MXVZXzRQaUp4ajg2OFdFV2NpeUN6ci1ZV0FVZm1xaVY2RXJ1ZzhFX21QVm85SlpWd3dHdTBZNW9xb0tRa2RucXZQUks1c0Uxb2RWdFdrUE1scTMwRTlHd2tWa2Y4bGtQRU9tUzFrOGpsaERjOUU4WTZraFpvNnFOa3FOU3ZpU1d0Z0tuOUxBcDZRNlJwRFc3OUJGZ0NYNl9zLUVZUmVsRW9xTFVGUTkwQVJxaFFSblVfR0JpR1dFVEdvdHRxb2RzVVg1TDB4NFlKa2praXNBcHpOcjd6cjliQUJvSkE?oc=5",
-                "pub_datetime_utc": "2026-10-16T15:32:53Z"
+                "keyword": "교황 건강 호전",
+                "hook": "교황 레오네, 수술 후 기적 같은 회복세!",
+                "script": "폐 종양 제거 수술을 받은 교황 레오네가 빠르게 건강을 회복하고 있습니다. 현재 호흡 재활 치료를 받으며 상태가 지속적으로 나아지고 있다는 소식인데요. 전 세계 신자들의 응원 속에 교황의 복귀를 향한 기대감이 높아지고 있습니다.",
+                "original_title": "Papa Leone, le prime foto dopo l'operazione per rimuovere il tumore al polmone. Il nuovo bollettino: «Fa fisioterapia respiratoria, costante miglioramento delle condizioni» - Corriere Roma",
+                "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNX1pFUXBPYTJGUkVrZkltS2p0RFJhU21leUI3Y2dSWGY5Z005amdnUTNJcXk0VUR6QTdSdU82UkNrX0FXVGFZWXhwUEJGaFhONEZSdUo4MkdGUVRWbkZpV3pySi1xelNERWxNZ08wbmRBMGVqOFd2TnAxVzFaYmp3U3ZWNTI3Z05jS19MZ1B5dHdtVFRtWTlrYXpiNGpScFBsNlZHSkoxN3NSajllNnl5RHdNVkFqdW12RUpyREJNeHJxSW9DYjZJaGdmeXBiRWpTc1JCZXZ6UnY2LWF0bUNod3cwTWZ0cEhBX2hOaHBoWnh2aEhldTc3b3VBMWVDLW5ybUNXM2pfUm91R3BaWEs2Smt3OEs3Sm5MSUZQNHlENNIBpAJBVV95cUxQaDhJVU4yMnMzWjRxSUdrcXk1MEVMNUxobTJ4QkZxbXlReGpTa1FuNk1DVGV6OVM4d3lJei1SdHRCSEpSYnVRSlNaZk84V21LMEVORHFFX0FBVDYwRUh6VXBkdEdyelpjR00xdGU2NWo2NEE4c3RxQk11SXd3Z3k4VWJrZHFZR201SkVQamJ2VjVYbTJDVEZzWHYyZGk4Ym9vTVdlemIzNnJSZE1VbVFua0o4dEpTSDVrZmJtTVViUkZLUXExMDdCQnRZSkluazR0Y05oM2lPelYzdzFVUmJPUU82QmxaRnM3c21Jb2NUOUFfTDlzT3VlRm81N2tXbnY2dk9PMmV3LVNkNWJURmNoVG9WZkVNWkxlTllqVXBFcXo2emtz?oc=5",
+                "pub_datetime_utc": "2026-10-16T15:25:07Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 7
+        "last_updated": "2026-10-17 06:16:15 KST",
+        "current_rank": 5
     },
     "Brazil": {
         "gdp_rank": 9,
         "spike_score": 75.0,
-        "previous_rank": 7,
-        "trends": [
-            {
-                "keyword": "CNT/MDA mostra empate técnico ",
-                "hook": "Brazil의 최신 주요 뉴스입니다.",
-                "script": "CNT/MDA mostra empate técnico ",
-                "original_title": "CNT/MDA mostra empate técnico entre Flávio e Lula a 9 dias do 2º turno - CartaCapital",
-                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjQyVXBGVVlXTEdraURvcDZQNk5XdVFjRm9hcGM5SlJXb0VoODVyRVlHTnY0QlotdEwzQTVHMmI3SlBlOVg2SmNwSjRGb3d3Y2lkZWozMlVEQXJFS216Y19HWWUzYUdRWTdRYVNzb2o1bGhRM0tTUWdYS2lxa195SHBva3RaLUR4SG1lWDl1MnQtaUpJVGRNa1NrYTVFZTExQ1YxNW8yVllWcFcwYndZcXNn?oc=5",
-                "pub_datetime_utc": "2026-10-16T14:15:00Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 8
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 75.0,
         "previous_rank": 8,
         "trends": [
             {
-                "keyword": "Danielle Smith has said no to ",
-                "hook": "Canada의 최신 주요 뉴스입니다.",
-                "script": "Danielle Smith has said no to ",
-                "original_title": "Danielle Smith has said no to a second referendum. But that decision might not be hers to make - CBC",
-                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVhqTUxXaG5BQUdFckxpbW9LbndweTZNY0hWbnM1Y2RHR0cyb1kweHZJcnJveU8zX1p6TW5jQV8wT21sWmNXMzBPUm40UW5YNFhsczJ0MFBwMDlBVVU1b2wwZ0RTdnpRdGVhc0xDM0Z6SEVja1lLYTdPUEZtbmUtbU5tbG5GZ1BObnRGanpZT2JSdDFwOHVoYXU3cG9DNlBSbzZ1eTY3LVZ2Q0FOVGE2ZE1BYVpNVnNEaDBZelN5OGxUbDljRkg0eGRlZEREVWc2dXY5SVZ5cVZUQQ?oc=5",
-                "pub_datetime_utc": "2026-10-16T14:29:14Z"
+                "keyword": "주 4일제 도입",
+                "hook": "브라질, 주 6일 근무제 역사 속으로!",
+                "script": "브라질 의회가 그동안 논란이 많았던 주 6일 근무제를 폐지하는 헌법 개정안을 전격 통과시켰습니다. 근로 환경 개선을 위한 역사적인 결정이라는 평가와 함께 경제계의 대응이 주목받고 있는데요. 브라질 노동 시장의 대변화, 지금 시작됩니다.",
+                "original_title": "TSE aprova novas regras para vincular canais de WhatsApp a campanhas eleitorais - G1",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbkpGcENWSlJCVWV6Q05vRlkzQk1pQWFKSVpxMlljVlE1d0NlNXZJVEdfNHh6NVhfcUxxdTdLcjdTa2hwUnY1ZTFacFJDSFNKOWZ5OHR0eDRRQVJOM3NEUHdqeHVSaGl3dldlSHlGM0FpUE1JTmNVeTM2bXdySWVGd29PcHp1QXd2VE9wNVB2bk1PQ25pVG50NzE1SkFZdU84UXN4RzI4X0FhN091SDVEZm9mOXV5aW5pbE1kSTlzRV9IXzZicWhkUm15YXg2SFVmSzByWGYyONIB5gFBVV95cUxPUjRjQUFwQnRscUZXT1VjQUpXa1Z6VU1qUVNxUFNOdENDQzYzRUZrbFdOUDVIYjFKNmhNbHBnTHVIWEVkQUNEWU5LRTAxUnNfbk9adE5lX1VVcFg5QXduVWtLemM2Mk1kY21FandkNUJTZlo3STZ3cmtXWlBVQU5POVA4U0wtQTMwQmxZOG1yNFBTQ213OXI5dXFhMXRwaDF0eGhLUUhDdWI4NmZrVGdlbDBwMzNMbENnemhBaW1HajVRVEl3VHoyaDMyZlJRTHl4WGlXejZiVzBuVFdZQ1dhdGJVQzM4dw?oc=5",
+                "pub_datetime_utc": "2026-10-16T17:36:20Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 9
+        "last_updated": "2026-10-17 06:16:15 KST",
+        "current_rank": 6
     },
     "Russia": {
         "gdp_rank": 11,
         "spike_score": 75.0,
-        "previous_rank": 16,
+        "previous_rank": 10,
         "trends": [
             {
-                "keyword": "Пулково снова закрыли - ФОНТАН",
-                "hook": "Russia의 최신 주요 뉴스입니다.",
-                "script": "Пулково снова закрыли - ФОНТАН",
-                "original_title": "Пулково снова закрыли - ФОНТАНКА.ру",
-                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Q2prbUhsdWtQSmFiRkl2bXhWWjMtd1MzdG51ZDlXSmltRzRSYmNrNEFxQm5EdkltbW5zX0dsb1l3UVVmenZXVUkxa0JMVE1kV1d1OEM2dw?oc=5",
-                "pub_datetime_utc": "2026-10-16T03:52:51Z"
+                "keyword": "러시아군 진격",
+                "hook": "도네츠크 도브로폴리에 완전 장악!",
+                "script": "러시아군이 도네츠크 인민공화국의 도브로폴리에 대한 통제권을 확보했다고 공식 발표했습니다. 최전선 상황이 급변하며 군사적 긴장감이 최고조에 달했는데요. 푸틴 대통령의 군사 전략이 이번 점령으로 어떤 국면을 맞이할지 전 세계가 주목하고 있습니다.",
+                "original_title": "Главные заявления Путина на совещании с военным командованием - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzMxUHVWTVlNeUdxTUhHUk1ocVFZYTBWTms2N2dBckUtaUlqa0pCRUR1X1h2ay1GTkswSFd1TVhHa09kWDE4a1hNdmVxdDdEc3d6cFhlSnBhUzVtcENiQU5IWmJzRUNkdFU0bTVuanhGX1BheXFwYWMxUnJud2RFMFFlYlRhUDlrSVZBNk1ROWhoZw?oc=5",
+                "pub_datetime_utc": "2026-10-16T16:44:12Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-17 06:16:15 KST",
+        "current_rank": 7
     },
-    "Australia": {
-        "gdp_rank": 13,
-        "spike_score": 75.0,
-        "previous_rank": 18,
-        "trends": [
-            {
-                "keyword": "WA Greens kept crisis comms do",
-                "hook": "Australia의 최신 주요 뉴스입니다.",
-                "script": "WA Greens kept crisis comms do",
-                "original_title": "WA Greens kept crisis comms document about Jordon Steele-John - ABC News & Headlines – Australian Broadcasting Corporation",
-                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFB4NGVtNmh1NXU4S3I0eUtZejdFVndfdzJXbmVHenhUY1N1WEEzb3lJeTZxRE94eW5wMU9KRkoyTGp3b0JuNkM5V0EyZUVjdElWUXZLbVJHOHZJcDI4aWtiSU5SaHJlTXhXZlotNUlWZmt5QnR3UE10VV8zZlgyMHNjcUxkWFFYVWVIc1F1ZVNLSGIyVDJN?oc=5",
-                "pub_datetime_utc": "2026-10-16T07:05:58Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 11
-    },
-    "South Korea": {
-        "gdp_rank": 14,
-        "spike_score": 75.0,
-        "previous_rank": 9,
-        "trends": [
-            {
-                "keyword": "민주, ‘조희대 탄핵’ 논의 공식화…‘범여권 결집’ 승",
-                "hook": "South Korea의 최신 주요 뉴스입니다.",
-                "script": "민주, ‘조희대 탄핵’ 논의 공식화…‘범여권 결집’ 승",
-                "original_title": "민주, ‘조희대 탄핵’ 논의 공식화…‘범여권 결집’ 승부수 띄우나 - 한겨레",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UeDVUc0xBaTdjS2Y2QVF6S3hBNmpTZ2ZpTzdmMWhQcHlnWV9INDUwVF93dEdweUpoNUN0U0FTamRndjFRR0tuRS1DdTV0WTMtM3IzTjZrakxDaE0tSHJNQ2loUXNJZEVYamRXeWJ4clFXUURF?oc=5",
-                "pub_datetime_utc": "2026-10-16T13:15:00Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 12
-    },
-    "Indonesia": {
-        "gdp_rank": 15,
+    "Mexico": {
+        "gdp_rank": 12,
         "spike_score": 75.0,
         "previous_rank": 19,
         "trends": [
             {
-                "keyword": "KPK Tetapkan Bupati Klaten Ham",
-                "hook": "Indonesia의 최신 주요 뉴스입니다.",
-                "script": "KPK Tetapkan Bupati Klaten Ham",
-                "original_title": "KPK Tetapkan Bupati Klaten Hamenang dan Kepala BPK Jateng Jadi Tersangka - detikNews",
-                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2IxSVh6ZGQ0SExyd2Rrb3ZraVVGNFVTQVBncFpOa2t2WW1XVWFwNUxQWnBMRWlCb1NSZjN1b1Vyc2kzSkNpa0FLZFZWWXFGckFyNzEwVnBlbGVmLTV6M3VTZHItZEJ6a3JCcGZwenNhbFdqNHNVV3Rkc2RYR2JNZzN2ZjdPQlZYRVYwR3F0M1lqUHFoX1RERGxGWkw5bm50ZmVyd3U2RE0yU2N5b0NoNDhB0gG3AUFVX3lxTE5jeVJabWNFQW1oVThsN19MdWlWN2thMVJMbnFiRS1HX2hVdU1iY2poVWR3OHMwVE1NMk9SSlhaMlJCZ3o4aWktX3E0ZzVIbUxEMjZtZmxsTGNWRmxSVGhBbUUzZHdTaGNfRkJBOWp3SnNqd3JLY2k5Y0dxSHVHU0hWNTRidVBxRUQwdm9jRjA4OVdRT1drd0RJcUQ4UVRqeG10S0VaNDhiR0t5dVY5d0tHdXRmeGxLdw?oc=5",
-                "pub_datetime_utc": "2026-10-16T14:45:17Z"
+                "keyword": "트루디 허리케인",
+                "hook": "태평양 강타한 허리케인 트루디, 현재 상황은?",
+                "script": "허리케인 트루디가 멕시코 태평양 연안을 따라 북상하며 긴장감을 높이고 있습니다. 현재 세력은 점차 약화되고 있지만, 폭우와 강풍으로 인한 피해가 속출하고 있는데요. 정부는 비상 대책을 가동하며 추가 피해 예방에 총력을 기울이고 있습니다.",
+                "original_title": "El huracán ‘Trudy’, en vivo | El ciclón se debilita mientras se desplaza lentamente en paralelo a las costas del Pacífico - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yc3VqbWNZU0JVSHJ0eDl0blhyYktXbFlWMGVBM01HOFhRZDg3SlRfenZUS3JKY1l0SDhCYlVkaTNacjJDUmIyT1Z4TXNUaWd0WHhGb09ZQTViNm9ZZk85eVA2TzV3TklUN2dQRkgtdDI2by1N?oc=5",
+                "pub_datetime_utc": "2026-10-16T18:50:24Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 13
+        "last_updated": "2026-10-17 06:16:15 KST",
+        "current_rank": 8
     },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 75.0,
-        "previous_rank": 10,
-        "trends": [
-            {
-                "keyword": "İstanbul'da sel felaketi: Can ",
-                "hook": "Turkey의 최신 주요 뉴스입니다.",
-                "script": "İstanbul'da sel felaketi: Can ",
-                "original_title": "İstanbul'da sel felaketi: Can kaybı 4'e yükseldi - birgun.net",
-                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFI5TVJhMk1zaWVFODA2ZzNvZUU2eDNsZ2lNNzExWXRVbWptdnl4U3RqSWVVSms2VDRQVHE5blk4WDBZWWlCLWlwRXpTa2toTlFRbUIxWlA3OXc1ZDcwMmhhdjVkWEktMmZ1X0dYMmczVmtpUGY1NnZDUHE3NC0xN01wUERRUXdOOGxj?oc=5",
-                "pub_datetime_utc": "2026-10-16T09:33:00Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 14
-    },
-    "Saudi Arabia": {
-        "gdp_rank": 17,
-        "spike_score": 75.0,
-        "previous_rank": 11,
-        "trends": [
-            {
-                "keyword": "تحالف دعم الشرعية يعترض صاروخا",
-                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
-                "script": "تحالف دعم الشرعية يعترض صاروخا",
-                "original_title": "تحالف دعم الشرعية يعترض صاروخاً باليستياً استهدف ينبع وطائرات مسيّرة نحو الرياض - صحيفة سبق الإلكترونية",
-                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10UFNMZGVWaUc5VFFjTDdYLUJHaEZpOWRweUUyZFBBZ0JfRUwtWFpsQUpyWldPV1ZRM240TWh5Z2hLWURKX0xN?oc=5",
-                "pub_datetime_utc": "2026-10-16T14:03:07Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 15
-    },
-    "Argentina": {
-        "gdp_rank": 18,
-        "spike_score": 75.0,
-        "previous_rank": 12,
-        "trends": [
-            {
-                "keyword": "Se conocieron las primeras fot",
-                "hook": "Argentina의 최신 주요 뉴스입니다.",
-                "script": "Se conocieron las primeras fot",
-                "original_title": "Se conocieron las primeras fotos del papa León XIV tras su operación y difundieron un nuevo parte médico: \"Mejoría constante\" - Clarin.com",
-                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnRhXzJVSGpGN2l3b0VlNWRXc2ppNl9Ta3ZYM0Zpak81aWJIYUJzN09LQ3lfcXVreXJWeDJndWJ1M3lsYl9wUHI5R1Z0eWxzZXN4X0NZblYzNXRIcm9fQ1FBb1ZnWTJWajF1REp6VGJINHVRUE5UMFJNc1ZqVUZqRW1MNHkybjZMMGxxSGtyUzNtNjItMkFYNnEyYUlnbzRPNTcyQ2dtdWtXYmRfUXBZYXAwMmhBdTRYY19KYlhiUklxU2JPek9URDFCUXVjNUltaTFaaG5raU4xNkpwUmc?oc=5",
-                "pub_datetime_utc": "2026-10-16T12:49:10Z"
-            }
-        ],
-        "last_updated": "2026-10-17 01:43:34 KST",
-        "current_rank": 16
-    },
-    "South Africa": {
-        "gdp_rank": 20,
+    "Indonesia": {
+        "gdp_rank": 15,
         "spike_score": 75.0,
         "previous_rank": 13,
         "trends": [
             {
-                "keyword": "'I'm dizzy' - businessman Suli",
-                "hook": "South Africa의 최신 주요 뉴스입니다.",
-                "script": "'I'm dizzy' - businessman Suli",
-                "original_title": "'I'm dizzy' - businessman Suliman Carrim tells court - eNCA",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY21rb1YyeFRndksxcS1pcWNvZVVQTEJzY2RscFU0d3NHaUVFXzZISlAzM24xUGtaOU41azU2cFhZclhWOXRoX1R4eWRtczhpOTUwOXVvOU5JamhHN2kxV1F1Ymtxb0I3SXpNU19sRE9ycDJkaWpfX1UtMWNORWV0SmxHREd5SVl2UTF1WFdB?oc=5",
-                "pub_datetime_utc": "2026-10-16T14:14:41Z"
+                "keyword": "인도네시아 산불 배후 기업들",
+                "hook": "인도네시아를 뒤덮은 검은 연기, 그 뒤에 숨은 7개 기업의 정체는?",
+                "script": "싱가포르 언론이 인도네시아 산불 사태의 주범으로 7개 기업을 지목했습니다. 환경 파괴는 물론, 진화 과정에서 소중한 생명까지 희생되며 국가적 비극이 계속되고 있는데요. 정부와 군 당국이 대대적인 조사에 착수했지만, 기업들의 책임 회피가 논란을 키우고 있습니다. 인도네시아의 환경 재앙, 그 진실을 파헤칩니다.",
+                "original_title": "Suap Bupati Klaten ke BPK Jateng Sempat Ditunda gegara OTT Bupati Muara Enim - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXJxLVJWbUZ6VVVLaXBkcnNjb00xOEtGSm1vUk1xR01vd3Fna0UzandwblFaQ0ZPZVNBTmRQQnlBVFpvY3lDYUFsdERGQk1zbE1SWGQ0M3paUjF2N0JaZ0h2M1Z5UmNPNzBWY2l4YVZJSzlFNXJGeGlTSU5BY3o3Q2JqcElUUXNCSHM3Q2Q3VmRyaktELUNYNmZnNzJpUm1tVXNLeUtfRDRwV0tmWWxQSFdRN0J0VFnSAbwBQVVfeXFMUGZOMkQ5b2NrWHhfYXI0SXppdkJqV1BlbDJPbnB4SEhZbmRwWVk3OTdENmI4Y25QVnhidDR1TF8zS21CbkFTWGd0N2k0R2dlTUpQVG9ZTi1SQlJzbU9UcGRaeWRpcVpsdHZJOXc1UnBfRnlwblZjUVhIN0NhMDUtS3BZQXdYUFY0NHdfcmlkNVlvY1ZFTWdRTUN5ZFJ6RnowREEzalMtNl9OVkFTcXdtQklKbEdPMTJ2UnkzbFY?oc=5",
+                "pub_datetime_utc": "2026-10-16T15:49:25Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:35 KST",
-        "current_rank": 17
+        "last_updated": "2026-10-17 06:16:20 KST",
+        "current_rank": 9
     },
-    "India": {
-        "gdp_rank": 5,
+    "Japan": {
+        "gdp_rank": 4,
         "spike_score": 70.0,
         "previous_rank": 4,
         "trends": [
             {
-                "keyword": "'You might want to explain. Un",
-                "hook": "India의 최신 주요 뉴스입니다.",
-                "script": "'You might want to explain. Un",
-                "original_title": "'You might want to explain. Unless, you want me to': Rahul Gandhi's cryptic post over Rubio's Mumbai visi - The Times of India",
-                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWo4bmQ2Z2RnVWlMWGRpdHFnMU96bFBLM2VfUmgxZTF4cWVqTi1SRnN6TWliWV9HZ09rRjViYm42MHV0R21HZkMwZEFqUUxVN0tyOWxiVi1KeVg2YjgxclQxRlV1YUYxMy12R19BY2tyS016UWNoT3d1cTFpSFZTNXBLTTR1UEVaanVPUFgxN0QyR1dRb3poNDhoendfc1JtY2VtemVMZHFXd2dNWDZ2ek1kLU1QcHlwMmVKM0p1T2I1RnZfbFZyUWtmWFh5RjhyVXlzVHFidTJkMDdxYXVqTW44ZEx3NnVUWDNSc3pzZmNKZmduZWtMNEg1RQ?oc=5",
-                "pub_datetime_utc": "2026-10-16T06:49:00Z"
+                "keyword": "오키나와 초강력 태풍 접근",
+                "hook": "최대 순간 풍속 70m/s, 일본 오키나와를 향해 돌진하는 괴물 태풍.",
+                "script": "중심 기압 935hPa, 오키나와 남쪽에서 북상 중인 초강력 태풍 30호가 일본 열도를 위협하고 있습니다. 기상청은 전례 없는 강풍과 폭우를 예고하며 긴급 대피를 당부했습니다. 이번 주말, 일본 전역의 기상 상황이 급변할 것으로 보여 각별한 주의가 필요합니다.",
+                "original_title": "経歴詐称疑惑の米大統領報道官、「司法試験に合格せず」認める…トランプ氏は任命時「弁護士」と紹介（読売新聞オンライン） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HeUxKOEIzWkhaX2JTdm9YeHdMZFAzdE5RcG85WXBSRlExYTJGZGVLWTEtbm82RXM2NmZIekYxWlB2cjItaEg5RUp6OHhVakwtZG9WbXl6NGJXcU5xak1QSGtsWGUxT1Y3UzBMRGRFM25jdDMwRFg4SWM2cmFZT0U?oc=5",
+                "pub_datetime_utc": "2026-10-16T11:24:51Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:33 KST",
+        "last_updated": "2026-10-17 06:16:12 KST",
+        "current_rank": 10
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "인도-미국 무역 협상 급물살",
+                "hook": "인도와 미국의 대규모 무역 협정, 드디어 첫 단추를 꿰다.",
+                "script": "인도와 미국이 무역 협상의 첫 번째 단계에 합의하며 본격적인 경제 동맹 강화에 나섰습니다. 하이데라바드를 현대차 공장 최적지로 제안하는 등 인도 정부의 공격적인 투자 유치 행보도 눈에 띕니다. 세계 경제의 새로운 중심지로 떠오르는 인도의 변화를 지금 확인하세요.",
+                "original_title": "CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5",
+                "pub_datetime_utc": "2026-10-16T11:44:31Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:12 KST",
+        "current_rank": 11
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "백악관 대변인 5일 만에 퇴출",
+                "hook": "취임 5일 만에 해고된 백악관 대변인, 영국 언론도 충격.",
+                "script": "영국 주요 언론들도 케이티 자카리아 백악관 대변인의 초고속 해임 소식을 비중 있게 보도하고 있습니다. 트럼프 행정부의 불안정한 인사 시스템이 국제적인 우려를 낳는 가운데, 이번 해임이 향후 미-영 관계에 어떤 영향을 미칠지 관심이 집중됩니다.",
+                "original_title": "Katie Zacharia fired after five days as White House press secretary - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWxqU2d5Zm5UcDM0RldJOTVpQTZ1YVRlT3c4TnJpUHhraEZRY1QtMWYyLVo5bk5HRF9qUDhZY0RzNDA1X3JXdV9TelBfbDNscjJ5ZkFQRldTS1ZMR0E5Nk94SkJ0ZWdGY0FiTnFpa0NsLXNOdGNlaEd1aFQ0S3k0SVBZTzBoQWVjUnlGMQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T17:50:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:12 KST",
+        "current_rank": 12
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "백악관 대변인 해임",
+                "hook": "임명 5일 만에 해고, 백악관의 잔혹사!",
+                "script": "도널드 트럼프 대통령이 임명한 지 불과 닷새 된 케이티 자카리아 백악관 대변인을 전격 해고했습니다. 변호사 자격 논란이 불거진 지 얼마 지나지 않아 내려진 결정이라 파장이 큰데요. 트럼프 행정부의 인선 잡음이 어디까지 이어질지 지켜봐야겠습니다.",
+                "original_title": "Trump fires Katie Zacharia as White House press secretary after five days, advisers say - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVEwWDBoaFFFbHVwdzIyNlZ5Ym9GaC1HSnVxcmxrSGJNLXl1c09OT2NPZnhCRVhFSlVtc2F4YkJYYXhYQ1FNM0dHak9FbkJKVngtMzVrcjhqYmxHWHZrWFhveXEyMm9BZXd5X28xSm5KOWY5b0dqNWpSbzdSRktCYS1RdXRPdGFLUDd6blkzV3VOblVJVGJ3WWxrZXNxNTV5YzNueUtOX1RWdVhKYWNtaHVyMWJhbEthaFBacVhTNW1uUQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T17:32:43Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:15 KST",
+        "current_rank": 13
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "백악관 대변인 5일 만에 사임",
+                "hook": "임명 5일 만에 해고? 백악관 대변인 잔혹사가 시작됐습니다.",
+                "script": "트럼프 행정부의 백악관 대변인 케이티 자카리아가 취임 5일 만에 전격 경질됐습니다. 화려하게 입성했지만, 검증의 벽을 넘지 못하고 초고속 퇴장하게 된 것인데요. 벌써부터 행정부 내 기강 해이와 혼란이 가중되고 있다는 우려가 쏟아지고 있습니다. 과연 이 짧은 임기가 무엇을 의미하는지, 지금 바로 확인해 보세요.",
+                "original_title": "White House press secretary Katie Zacharia leaves after just days in role - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlpnbGh0TU1Ld0hUWXNFSGtBa0xoVlVLSFh1bDJIdkk5TzdKaWlUUENkc2EwR1dzSFh2MDdVRUFFaGhNMWc5OVdERl9SSmQ0cXpnQ3pZU282NU9PMHFpNWtEVENPanJYUmp0WjM3d0lVS04tRS1SeEcxWkQ1RUhoZGlEVVZiTkhKaXc?oc=5",
+                "pub_datetime_utc": "2026-10-16T18:40:17Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:20 KST",
+        "current_rank": 14
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "인천 흉기 난동범 신상 공개",
+                "hook": "8명 부상, 충격적인 인천 흉기 난동 사건의 범인이 공개됐습니다.",
+                "script": "8명의 부상자를 낸 인천 흉기 난동 사건의 피의자, 59세 최충락의 신상이 공개됐습니다. 평온한 일상을 깨뜨린 이번 범행에 시민들의 분노가 극에 달하고 있는데요. 경찰은 계획 범죄 여부를 포함해 정확한 사건 경위를 조사 중입니다. 더 이상 이런 비극이 반복되지 않도록, 사건의 전말을 정리해 드립니다.",
+                "original_title": "추미애 ‘재정 빨대’ 논란 속...李대통령 “소방관에 천금을 준들 아깝겠나” - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTM2X0xNS09hZTRxOW9VOFhYNGota2ItV1ZTOVNVcDRFWndsTDZzN3JnZkNTaDlPZXE4SmdOWkRzTnVndWt6ZXloYUowekF3SnVZTUoxMm1vRlN6ZWNXM2QwUW5CbEZqRktCQzhrSFgzaUlXUnpWNWNSR3Z4dUtsRTNRQnVuQVNr?oc=5",
+                "pub_datetime_utc": "2026-10-16T13:22:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:20 KST",
+        "current_rank": 15
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "이스탄불 폭우 비상령",
+                "hook": "하늘이 뚫린 듯 쏟아지는 폭우, 이스탄불에 최고 등급 경보가 발령됐습니다.",
+                "script": "터키 전역 36개 지역에 강력한 폭우 경보가 내려진 가운데, 이스탄불의 경보 수위가 최고치로 격상됐습니다. 이미 일부 지역에서는 침수 피해가 속출하며 구조 작업이 긴박하게 진행되고 있는데요. 당국은 외출 자제와 안전 사고 예방을 강력히 경고했습니다. 지금 터키의 긴박한 현장 상황을 전해드립니다.",
+                "original_title": "Kayyum tüm Halk TV çalışanlarına bu mesajı gönderdi - Sözcü Gazetesi",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemgtRFMtU09XSkpJV3RBa3Y0QU1zbU9Wb0MySEpkUlZYRHBBb3hiT2E3Z0JlZXQyTFpNMzR4dnIzZ3NnNEh3RW1qT3VnQW53VUhmOXdLN0ZwY2pyMElSVkZjaUhyWldsanhJNm5TN3NwMVpjZjVBOE1kQmxia0U4aExBcmk3eFRvOFRieQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T12:36:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:20 KST",
+        "current_rank": 16
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "후티 반군 공습과 긴장 고조",
+                "hook": "사우디를 겨냥한 후티 반군의 무차별 공습, 중동의 긴장감이 최고조에 달했습니다.",
+                "script": "후티 반군이 사우디아라비아 주요 시설을 겨냥해 미사일과 드론 공격을 감행했습니다. 사우디 연합군은 즉각 반격에 나서 100개가 넘는 목표물을 파괴하며 강력 대응을 예고했는데요. 배후에 있는 이란과의 연관성까지 거론되며 중동 정세가 요동치고 있습니다. 일촉즉발의 중동 상황, 무엇이 문제일까요?",
+                "original_title": "عمليات \"فجر اليمن\" متواصلة.. اشتعال المواجهات ضد ميليشيا الحوثي بعدة جبهات - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQdmw3VTdwN0Y5RGVQV25fQVdqVy1zYnZUSHYxMjhRRm02bm5qYmlNNWYzU2Y4N1NSWmNXelJUbUZJU2tIODRoT01DN1pPaWgyUWNiTUgyMTNLNnZUM3pjU25oVXNMQkhRaDBWVmNMdmRuOWpIMXdyaDVULWo4WXhJd2daWlhSendULXRoZHhhWklnd1pzNkJIY19jT01ZS2wxSlhmc0NnNG9hamRfekwxWnJWVVZLYjVGeElnYml0dE51UldwUUVGTGpMMUZSVHhEb3VUY2prXzJEOGIwUHItMExtb0tDbzRsd1c3YkxBNmFGZndCTGtwVmxiSUp2Q0c5MXptcHNFU05TcUliOWREZGswNklNMklJSDRTc01IUjVpYWc0b19WR3BuUTdEa0ZpcE51Mld0em1sSVNKclhhSVRkSDFUYTZQemY2ZU83cVpLR2pZeHVHYi01c2w3b19ma2pmb0FWVnVUZGRWWGpGc2ktdjhmbWpFS09FdkZkQV93VUpJQUU5WUJEZk80VWh0TjlMSndmalNIY1FVellkRWZreEp5RWllbHRsTVI4WHpjbm9YbUZiVU93S0plMEVNRWJ6ZGRScGt5Vy1FdTk1RTRYZzFFaHNVSUtQdzI4TTJ4dTBlUHNINUw4bnBOODQtNk8tcFRiUlRVc0UzQzZZTXE1QngtdldnREhMT1NWczJQbVdNOTJKN1ExbmxuSTk4NVF2WmxodjhuVm9xQ28tWXBPZ0RiRndaTG9KZVJlWFBuWFJWLU9kU2FfWlFWMnk0bDBxVjJudw?oc=5",
+                "pub_datetime_utc": "2026-10-16T16:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:20 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "La inflación mayorista se acel",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "La inflación mayorista se acel",
+                "original_title": "La inflación mayorista se aceleró al 3,2% en septiembre impulsada por el petróleo y el gas - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRmVUNXVfbVZfMVhyUXJpRHdlWEJXSHNFUkZQZHZoTTVkeVdjSlQzQndhSDRyOHljZU1mTG56Qnk1MkY1VDIwZnF6TUhERnkxTFFjd3k3M1VucTZ5emhkRm5Qd3FIWktYU2FFTG9jYjV3Mm5kUW5mN2NTdWxtUlFhWlROMm1aMGh0b01pV3F3ZW4xc2JxX3ZTMUhGNVY1NW1WNDdkaVFQWmFCWXE4NDB3VUwzM29Ha2pnZjJJN1FGX2c2OHQyR1hzZ0N2VG9yWEV4RFkxMQ?oc=5",
+                "pub_datetime_utc": "2026-10-16T19:18:00Z"
+            }
+        ],
+        "last_updated": "2026-10-17 06:16:20 KST",
         "current_rank": 18
     },
-    "Mexico": {
-        "gdp_rank": 12,
+    "South Africa": {
+        "gdp_rank": 20,
         "spike_score": 70.0,
         "previous_rank": 17,
         "trends": [
             {
-                "keyword": "Zoé Robledo instalará este jue",
-                "hook": "Mexico의 최신 주요 뉴스입니다.",
-                "script": "Zoé Robledo instalará este jue",
-                "original_title": "Zoé Robledo instalará este jueves mesa de negociación salarial con el sindicato del IMSS - La Jornada",
-                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmtwSHoxVFZqVFhFWmRwTnd2ZkRoSGJ5Q1NlZmpCbU1palNoLXhuck9mejJ1VXpFb3lvQnZvU180SU5aS1lqWENCNk9NRHg3NUM2eUtDRm0wRnJYZjhONDdlMG0xQ1IwNy1hQThhVEFwV0RudlJLd1BnamFzb0Z0dlY1eGdQX0ZPVlY3cTlJQnRwQnY1ZzN0MjR4cUxHMjk0TUZNbGFMZGRlalZwOTZ6M19TWEdheFJPdFVzQnZkOTBKSG9zZG1SRWVnOEx3bGlheHlFUExR?oc=5",
-                "pub_datetime_utc": "2026-10-15T16:53:00Z"
+                "keyword": "남아공 정치·사회 혼란",
+                "hook": "남아공을 뒤흔드는 충격적인 사건들이 연일 쏟아지고 있습니다.",
+                "script": "남아공 헌법재판소가 ANC 후보 자격 판결을 내리며 정국이 요동치고 있고, 대학가에선 권력 다툼이 격화되고 있습니다. 한편, 무가베 전 대통령의 아들이 마약 사건에 연루되었다가 극적으로 풀려나는 등 사회 전반의 혼란이 가중되고 있습니다. 이상 기후와 범죄 문제까지 겹치며 남아공의 오늘이 그 어느 때보다 위태롭습니다.",
+                "original_title": "Watch: IEC outlines next steps after ConCourt ruling on ANC candidates - IOL",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnc2cHQycTVkTzlENlhvX0dCdjRPcFJUdVI4MUx5SXFtMVdKY3ZQTDRGdU9fRjdfOFNyVlpjTktGV0RCNEpJSnFjcGhJX2l5d2dnNTd3c0pGaXBteVZXZDBRR0FHTERKTks0Q2RjbEVVSnpNYlh3VnlOSjBpbjlMc1hLZ040dWpKRDAyRXp0TGo1cFExb1I0VHdyZHFrc2tYdFh0S1lUNmhEQktlUTZSaElKNA?oc=5",
+                "pub_datetime_utc": "2026-10-16T12:09:44Z"
             }
         ],
-        "last_updated": "2026-10-17 01:43:34 KST",
+        "last_updated": "2026-10-17 06:16:21 KST",
         "current_rank": 19
     }
 }
