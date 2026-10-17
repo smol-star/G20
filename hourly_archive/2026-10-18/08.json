@@ -1,0 +1,325 @@
+{
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "Proteste in Frankreich: Aussch",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Proteste in Frankreich: Aussch",
+                "original_title": "Proteste in Frankreich: Ausschreitungen bei Protesten in Frankreich - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWVfclFlMll6SXpIa3BmNWRWYUFDOHZ5dnk0TGNQSTkxV3UxR1ZXeHNuOFl5MkdnWUFiemNSMC1JMWxhQ0F4WDg1dVFaTmdjLTNQeHVXM19iZEduc2kzS2VNZ3VvMnNad05JcDU1V2duMWlMMjUzSEVlVU9qWmVxekotaC05WGU1b0x3WWpDM3VWV28wN1RaalhDYjNVTUNtUnM1RnhzOS00UmFV?oc=5",
+                "pub_datetime_utc": "2026-10-17T22:08:55Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:06 KST",
+        "current_rank": 1
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "エジプト大統領、対サウジ軍事支援を表明「あらゆる必要な措置を",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "エジプト大統領、対サウジ軍事支援を表明「あらゆる必要な措置を",
+                "original_title": "エジプト大統領、対サウジ軍事支援を表明「あらゆる必要な措置をとる」…フーシによるミサイル攻撃からの防空任務か - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Hd05QRVZBcW1scTRDWmFfZTdEV1RRVUtnWlRHWFQydHY4cFV2YXFWb1dEMmZORW9TQV9yME82bENELVJpaW1qQUFIYTRIMXVKYXdoMlBUdVRUeV8wSERjWGh3?oc=5",
+                "pub_datetime_utc": "2026-10-17T19:03:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:06 KST",
+        "current_rank": 2
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "Kolkata pandal stampede LIVE |",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Kolkata pandal stampede LIVE |",
+                "original_title": "Kolkata pandal stampede LIVE | At least 19 dead in stampede at north Kolkata community Durga Puja pandal; PM announces ₹2 lakh ex-gratia - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbmN2Vk1hZ09hSTVzTndoR1JhUmhpMlMtaDhXRy01clFIQ2dRWTFDT0tMTEs2S2dXcmdWbjN6QzQ4OUQtdkRqSWhQUWtOd2ZqenFVWTRXRnVPaUJaaUptQzF3OFd4bTFLczVLWVRDVk9fVjAwRTRIZ1BoUFA5cmNlMk5QTWZHNHNseVVLSmF3b1ZtMEE3dkRPVlgwOG5qLW1xczJDc3dndzdxNGZfeGNNbGxXdHpvU2FLZ2N2Q2sySGMyMnhNWFlCaVcwR0d0TTR2TG05bktidHNCVWZ2YXfSAeQBQVVfeXFMUHluRV9jWFNSZmFBTnBiRXJEVnhnQWdLc0RhNWNOX2FVMEUwUTd4c25TQWpYRGUyTk9fSVd3RzV5RVRRd25oS3o0MXNiNWNWdnJmRUxRcGxHQ3NGc244MXRfdkk4STRWOXBqQTRMd1RXNmtzUUZ0cnRBSVhLZS1NUFVJeFNtX29XUnVBeFA3dEc3cU5FZWF2TXozZDh3TDdWNXpKWXdVeklPQWRrTW1KclBZUjdEb3ltMVRNLVRCcjk1N1FQdWVOM2ZNUGVrdGJrWXV1aFQyS0FUWWhJRHJ3V2RBWHRR?oc=5",
+                "pub_datetime_utc": "2026-10-17T20:16:34Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:06 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "Violent clashes, looting and b",
+                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
+                "script": "Violent clashes, looting and b",
+                "original_title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yM28xQnVUbkZEcWlZaVllaGZVUFRuNkRBNk5UVkRObVRubU5JcTZCNFZBT29uekpScDV6MlJpU1Y5SUpocFY5bU5VbUtCZVU3NGozNkhXVDdHa1dGa2c?oc=5",
+                "pub_datetime_utc": "2026-10-17T18:40:14Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:06 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "EN DIRECT, manifestations du 1",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "EN DIRECT, manifestations du 1",
+                "original_title": "EN DIRECT, manifestations du 17 octobre : le gouvernement annonce 550 000 manifestants, les organisateurs, 800 000 ; environ 400 interpellations ; « des violences urbaines d’une gravité inouïe se sont déroulées et se déroulent encore » - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNeFNaQmhGanVoeTFyYnk1Y21mS1BwYzZmSE8yaTljQmZKWjhESXJOU2VFZHpwYTZjQlZWTzRMSW55cXdLTWpGbE9XU3lQUU9yYlpLbGRaWG5jUjVjNVlOY2duOE9HVmtmVWE1S1FESGE0NjYtekhHMjBCcEpyUFZ0QkZmWmI4SHE3Q2FsNDQtWmhfLXRQSGxjQTBQN1JkaEFkTnljMERVMDYwRE1rME8tTmhBVHIzQjdTRHV2UkNOc3A3SDJCY0NOSjBweTlZdks5ckprNzVRWmFDai1BVXJrU3RLZjMzMlg4aXVHal9oNklkSFoyYlBfMXl5Zkkwbm4wRWJjNmFXTWRDWHU5NmxRbEtiZEptWXdWNG94Vy16bGtlZEttTi1QT1pFMl9ULWFBM3E1Tm1mVUNreGV5RnRwZHJGTWtSTURCMW11cFI4bF9DRFNuMjhyc283MG9DRTVQeDVITVpLU2E0RER5RWkxejNSTlpKNVJhMEwtYUVmcmE2aUd3djRwakxvQTNQQldvN3J1UTRWTkFDZXM?oc=5",
+                "pub_datetime_utc": "2026-10-17T21:35:30Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "Francia, proteste in piazza di",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Francia, proteste in piazza di",
+                "original_title": "Francia, proteste in piazza di gilet gialli e studenti: scontri e oltre 270 fermi in tutto il Paese. Il sindaco di Limoges: «Crollata la torre del municipio, danni gravissimi» - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX0NSaEJYQV9veDZ5Mll5TVJrMFlyR3BwUGc5SUUxMDRPTHNoRTAtV0hQUG0xdjQyeGZ3Q1VabG5RVENRanpwVnNvbi11QWYxaG9BcExkOV81Ym5iWEdhSnplbV9sa3hhZXNMRmZMdldISGpud1hSakRIbXhsbUFSRTlTbnR4THo1aUhMSVhMX3dPZExpTXc1Mjg5enFXZTA2NjVYY1RqdzBwVlhRQk1YeHRKTURwOHNra2pZMkJyNEVUOUZRVnJlX3d0REU5cVHSAdQBQVVfeXFMUGhnd2lXODQyaDVhSkVVNjB1N2RtX0xSeEF4ejNHYVNlSHVIckk1RW5XUmdUVGhaakJYRzhUTWFRS0JVdWs1djFUR1NZdWZCVVZsR295MG1XSUo1OC1TVEhoMXRxeWtGbjRjdTQ3eWprSFMtZE1nYURfN3dqbC1vVVRtR3NtX1UyOVBxVENINHJ1YUpSUk41eXctOG9wWXl1cW9TMC1UNXJWOTVuaEtrSGlhT2U0dzVIWk5oRWFvREpMQmp2TmNzeHk5ZTN0TzVZZ2F5Rmk?oc=5",
+                "pub_datetime_utc": "2026-10-17T21:41:16Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Zelenskyy urges support for ne",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Zelenskyy urges support for ne",
+                "original_title": "Zelenskyy urges support for new U.S. sanctions on Russia hours after Trump paused them - CBC",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Gc3hnSnpqd2lBNzJFT0l2alF1YjBEaVVyeHVBV2hweHdzX1pyZTc2Q1NDVUE2Y1dlcDF1OEZhdVlXTndrQ0R3VjBVMTJmQURsNWl3c0FSWHMxdlpDSVVmdGtyWF8zQWk0UFR2M0UwWV83VTc3RTV5Rmk1d0w?oc=5",
+                "pub_datetime_utc": "2026-10-17T12:27:41Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 7
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Boy, 13, charged with alleged ",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "Boy, 13, charged with alleged ",
+                "original_title": "Boy, 13, charged with alleged sex offences on Sydney walking track - Nine.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUctWkRnbWNFeFo2LTl2ZHlwN1NsUHd3TS11WHJwWkM4MTNUWjVqZkFSRlB1ZVpfbTFabnoxZUFDMlF6a2lZNFJqdnc2OFpqdkZjUWJmRXM2U3VNdjdKUzViWXk1b2JxMHdFT251WmRLc1ZyTkJaSHY4Z0tqcFZ6NTZ6dzV4eHFrYXBrX2ppUnpManE5cFVpY1h6aXd3YmZ5ejktOXJESEE4WEZscExoV3oyNmlVb1dZa2xpeUp5cGx5eTIzbU5nNw?oc=5",
+                "pub_datetime_utc": "2026-10-17T20:29:59Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 8
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "İBB davasında ara karar. 7 tut",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "İBB davasında ara karar. 7 tut",
+                "original_title": "İBB davasında ara karar. 7 tutuklu sanık tahliye edildi - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXZYc2FEdUtDaEwzVTZ3cFRGeU1KV1lIY0hvTTlnRVhVV01BTVo2ZGVRNmYwUnpvN0RhNllUdXR5cU15R3RuTzY1dVRoUDJlTWxWZm9rMktick9lNUVmSWZQeW1wcGZ5akNzTFhrZmx3VUhXa1dNdHRRbmFzYy1TUHNZZDJsZkxWeE9HNEh1VnU5Njd3MkZJdFVISnDSAaIBQVVfeXFMTnlKaHRGYVpkMWg1bTIzUU5Wa3IyRnpaaWdNbmMwU0tWV1MtT2FpektOS0VyeEpvR21yVG03ZVdUb3l2VDV5ZW9XemNrTHJseE1zSUFUUnYxUDRUVk9LVFJtTGxkZFZCWlNreEx5dkVLTWpOTzFtOVhQSlBxTnRGLTh5ZzVfcklETXdCb084UWZfck5YMnFzcVZlbUh2WjFPZXJB?oc=5",
+                "pub_datetime_utc": "2026-10-17T16:04:59Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 9
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "Police launch manhunt after co",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "Police launch manhunt after co",
+                "original_title": "Police launch manhunt after comedian Skeem Mafenya killed - TimesLIVE",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0xJR3FHbTdyWjJTczJIUjV4M05VZHRCdjNVSzBBWXE4S3dVd1E3a1JIQVZfOEFOUVZNVkp1ZGRTdzJ0dTVIOW43NWRrSnFUM2R6Q3VISzBnT2x2VUxDRTBod2V0a2U4TUJqTDdWQWRVQ3ZROTlTaWRQWVRWRVg1SG9RZmtNRWsxWnl6WW50TWNaVElBY1A4cWd1dTV2Q2R0T2pWbg?oc=5",
+                "pub_datetime_utc": "2026-10-17T18:05:33Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:14:36 KST",
+        "current_rank": 10
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 70.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "Police clash with protesters d",
+                "hook": "United States의 최신 주요 뉴스입니다.",
+                "script": "Police clash with protesters d",
+                "original_title": "Police clash with protesters during huge demonstrations across France - CNN",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fRUVuRk5wWnVyYThSZlZvdGpteHQ3U3F5M2ZQcjJlMXNobG9sTVBtcm1iVm80Q0RPalhtRmlhRGFIWmNLUDdNZWJOMWdtakdhS25sN3lPcDZ6MFVkeWp1U0Qxb3ByTHJlYm5uSXBUWm5KMGxGa1FjbzZOQ2I1QQ?oc=5",
+                "pub_datetime_utc": "2026-10-17T21:27:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:06 KST",
+        "current_rank": 11
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "法国外长谴责以色列定居者在约旦河西岸袭击法国官员 - 新华网",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "法国外长谴责以色列定居者在约旦河西岸袭击法国官员 - 新华网",
+                "original_title": "法国外长谴责以色列定居者在约旦河西岸袭击法国官员 - 新华网客户端",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVXJqMnZLMGZQYWlSTHpTcnhqdmY1TjZJdmJ3WllWRmVPWEQwWWxGZFItXzBLNjg0VVktdTAxTHV4TlVZZ2FmZUN6b25nMmJxYmk1OXVVUnF6c1ZKdFR5RW1XMlUwMEFwM2hxMGRGakN6OVpnUmJXbWgxclRMQjNRZktuaU9QNm4xckYxcm9ZcmJKNjdsM3g5X0RB?oc=5",
+                "pub_datetime_utc": "2026-10-17T21:58:11Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:06 KST",
+        "current_rank": 12
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Veja prepara reação contra Glo",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Veja prepara reação contra Glo",
+                "original_title": "Veja prepara reação contra Globo e deve expor relação da emissora com Vorcaro nas próximas horas - Revista Oeste",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNDZQQnNkLWpDNDlpemlsUzRZUE5ldFZvc28zS2t1T1hEWGNucVR1ZDZOM0JQRDlEb3BIVUV1bWhXNHRkQUNDakZCYnNLUmdZYU45TTk4VHhWM1Jlb1A1TzFBbkplZzhRb1dKbGJUbmwtX2NZY016VkpISGR0eTdNS3lHc214eEhKSmlObDBpajB6eXJSMENlSDNTVXdUSVFORzMwU2RqWW8xNHRxcnhnQnMtZzk5X0hFcmRUUFpudTdST2xuc0pmRjhXRQ?oc=5",
+                "pub_datetime_utc": "2026-10-17T15:11:39Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 13
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "Трамп заморозил «адские санкци",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "Трамп заморозил «адские санкци",
+                "original_title": "Трамп заморозил «адские санкции» против России - BFM.ru",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aZmxkclVyM3dYRDJndmxUX29BOVdJamVxODFEVERPVGJSbXM0OHJLaURKNERWRm9RWmFmRl93RmVOcG5f0gFKQVVfeXFMUFVUZjJ6dkVLTVBlbVhXSTgzSXA1c0NPeFI2bzVSSW5BVS1YOHhMUm5SbExoZFFmV3Z0dE9uZF9uVzlDZFNZMnFxWUE?oc=5",
+                "pub_datetime_utc": "2026-10-17T07:19:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 14
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Detienen a César Jáuregi, ex f",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Detienen a César Jáuregi, ex f",
+                "original_title": "Detienen a César Jáuregi, ex fiscal de Maru Campos, relacionado al caso CIA en Chihuahua - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEVZbDc0ZWJkTmpxMC1BNU81RkViNXd6VU00ZENUNExieURmS3p5OGhNS3o2b2dLakVaSGRFeVh4bEI1UmNLNjlSQ215Ql9SSTZOSkVFN1FqcjY4cko4dUYyc1pnYmkxSFQyWFdsbXZNVWJVenJIUXZIamRfRVo2UG9SUG5xSDJiMUxWcllzVEp0c2tHd2F0Y2dtYjR5c2tFUDFILW9LTGsxb1lFTV8xUTluR0xkQWlpNGpFMHRYYW95VXVSZVJkNTZPTENXSzBJTmRRTlNjRnY?oc=5",
+                "pub_datetime_utc": "2026-10-17T20:51:13Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 15
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' ",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' ",
+                "original_title": "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' - 한국경제",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53bjFyWUxmUzhIdVk5Q1FzVEU4U1BsXzV0VjZiY3BzVk9NT0k1bnM2aU9Ib0g2bXF1Q1MwQ253SjNMY0RiRjVhNEZMcURXS293bFRhSTZLTWxKQQ?oc=5",
+                "pub_datetime_utc": "2026-10-17T12:32:03Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 16
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Menlu Sambut Kedatangan Sekjen",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Menlu Sambut Kedatangan Sekjen",
+                "original_title": "Menlu Sambut Kedatangan Sekjen PBB di RI, Bakal Bertemu Presiden Prabowo - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEJIWXpVVlpXMkpRZkZYMmthbmNoaUFJaFVuRmFFSjdiSmZJQWpQQS1IV3E3a0FLMlAxMFNYZUpCRGtHaHVnMFRxcUlnLWtBR01XYndXb1F6TExhSXhMbWdrYzdaT25PdG1MQ05nNURTUUFpWmYwRl93ekNZb25XY2treWxyWTFpOHRIR2Jpc3dLdUtiRUp3dG8zMFNCajNtcEtzaHc4d2dvZ2hPbWs0a9IBtgFBVV95cUxOMEx6NkdTRFpCTnVPaVh0RHM3UG5Ja2JEZXA1a0JYQkF4dWdaRUdLam15b3E1b1B4YUp0SFViSi1MZ3VjM1dUalJORWVoWkxWMC1nWllGUkFKRVhEUVFyLWc2bWVhYVpJZGFVejU4ZXRoVGx5YnBSUzhMbHZLb1NHUjNuUkpPYm9lWjhGQkRyZGR5ck9jWEg3Sm5QVU1oY1MxMktDWmhLbmJma3pob2NadVpadnI5UQ?oc=5",
+                "pub_datetime_utc": "2026-10-17T16:24:20Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 17
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "القوات اليمنية تواصل عمليات \"ف",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "القوات اليمنية تواصل عمليات \"ف",
+                "original_title": "القوات اليمنية تواصل عمليات \"فجر اليمن\" ضد ميليشيا الحوثي - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQdmw3VTdwN0Y5RGVQV25fQVdqVy1zYnZUSHYxMjhRRm02bm5qYmlNNWYzU2Y4N1NSWmNXelJUbUZJU2tIODRoT01DN1pPaWgyUWNiTUgyMTNLNnZUM3pjU25oVXNMQkhRaDBWVmNMdmRuOWpIMXdyaDVULWo4WXhJd2daWlhSendULXRoZHhhWklnd1pzNkJIY19jT01ZS2wxSlhmc0NnNG9hamRfekwxWnJWVVZLYjVGeElnYml0dE51UldwUUVGTGpMMUZSVHhEb3VUY2prXzJEOGIwUHItMExtb0tDbzRsd1c3YkxBNmFGZndCTGtwVmxiSUp2Q0c5MXptcHNFU05TcUliOWREZGswNklNMklJSDRTc01IUjVpYWc0b19WR3BuUTdEa0ZpcE51Mld0em1sSVNKclhhSVRkSDFUYTZQemY2ZU83cVpLR2pZeHVHYi01c2w3b19ma2pmb0FWVnVUZGRWWGpGc2ktdjhmbWpFS09FdkZkQV93VUpJQUU5WUJEZk80VWh0TjlMSndmalNIY1FVellkRWZreEp5RWllbHRsTVI4WHpjbm9YbUZiVU93S0plMEVNRWJ6ZGRScGt5Vy1FdTk1RTRYZzFFaHNVSUtQdzI4TTJ4dTBlUHNINUw4bnBOODQtNk8tcFRiUlRVc0UzQzZZTXE1QngtdldnREhMT1NWczJQbVdNOTJKN1ExbmxuSTk4NVF2WmxodjhuVm9xQ28tWXBPZ0RiRndaTG9KZVJlWFBuWFJWLU9kU2FfWlFWMnk0bDBxVjJudw?oc=5",
+                "pub_datetime_utc": "2026-10-17T22:24:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "El impactante incendio de un e",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "El impactante incendio de un e",
+                "original_title": "El impactante incendio de un edificio municipal de 143 años en las protestas en Francia - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkdIb0hPNjNyOFhsajE1LUxUb3RKa0Rhb0dEV3BEd2VjcVFja3BGbkVQNldZOWdQWEJlQkNMYnRDcVpBV2dkMnpRd3lyMElRc09DNzN2OHVHNzU3LVVSZ1NuVENGOVFjcTdfRHpDVDN6ZlVLY2VCYUNSVW0xZ0lQU3oyX19wYXUwS1cwNGZPRXhGYXNzTElWRUhPTW0wWDUwWDhTQnFqUXlLalVsNkVuOE1rRUhmRkk?oc=5",
+                "pub_datetime_utc": "2026-10-17T20:52:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 08:10:10 KST",
+        "current_rank": 19
+    }
+}
