@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "Limoges Town Hall 'largely los",
+                "hook": "United States의 최신 주요 뉴스입니다.",
+                "script": "Limoges Town Hall 'largely los",
+                "original_title": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest - Fox News",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZU5GMUJ0MnNEanZ4SWN6TmlDSWJ5VUttanhFSW1YT1hkcU9INTNDWlkxMVMydkpPa1NUN1RhUnZncWY5YzdjbDZETWZwejlTMGIxMFJ4T2t0dUNWS01pYUxwWkl0MU9CcG5lTGxzSkhYcHplM1VOdUM3b1NwRkliTTdMYVlLZWloRVlGVjZ0TzNWOTBsUl95eHExcUdfVVRpdmVBUEdJcjl2RlVndjJxNzkyU0lBZFpzNXVwZjZoNUxic1ZqcTQ4M9IBzgFBVV95cUxNMG9LUWZwT3BxWEM1UVVrVEdmX0xtMkd0LW9LMHU4R3dJcDhkQVZkWmhDeE96RTFBX0ZiLTRfMFVHZjNwYjdUOXYwTnBCYTlfSDdpa3FqZVNLVWpBckR0SHdmOGgzY3BpU3plY09rQnJuTXhvUU1QMHpEYmJwY3FDX0J1SkcxM081UWcxTjd4UjVDa2tGLVpWTnl0eU4tLUpManJCT1EtNXBsSFp1UmRvR2VfVE1oZmEwRW5MTmVjOUpWRm1LNUV2Sy1udDdWdw?oc=5",
+                "pub_datetime_utc": "2026-10-17T22:56:37Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:13 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "算力成草原新特产，大模型扎堆落地乌兰察布 - 京报网",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "算力成草原新特产，大模型扎堆落地乌兰察布 - 京报网",
+                "original_title": "算力成草原新特产，大模型扎堆落地乌兰察布 - 京报网",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNTDRnOW9faEdYSnpVLXROVnNtNFQtNTdoSmRQamt5VFV4dnNJU0pMMV95YXdFazZQeGlFWU01a2pMeWNGbUpqYXBmRHozWTEwVV9ibjZsUkltbk1jU3c?oc=5",
+                "pub_datetime_utc": "2026-10-17T15:19:55Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:13 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "Ausschreitungen in Frankreich:",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Ausschreitungen in Frankreich:",
+                "original_title": "Ausschreitungen in Frankreich: Randalierer setzen Rathaus von Limoges in Flammen - n-tv.de",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcThaRi14RFk5UlJab0FzYURSQnlDckt1N05OcEZKNjZVS2tUNkV0cVZxQUhrdXdQX3k2M2NOMUhsMDhvcWlaNUpyLVpZaXJfdmxaem81N2NQcjN4ZldmbURROHk3VmdDdERaVUdIeXJNaExNQ1lPZEgxeGdWbW5iREhwdDcxYVlZbHp2dHdYRzFkUjEzd1ZHVQ?oc=5",
+                "pub_datetime_utc": "2026-10-18T04:27:27Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:13 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Kolkata pandal stampede LIVE |",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Kolkata pandal stampede LIVE |",
+                "original_title": "Kolkata pandal stampede LIVE | At least 19 dead, 25 others injured; CM Adhikari announces ₹25 lakh ex gratia - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbmN2Vk1hZ09hSTVzTndoR1JhUmhpMlMtaDhXRy01clFIQ2dRWTFDT0tMTEs2S2dXcmdWbjN6QzQ4OUQtdkRqSWhQUWtOd2ZqenFVWTRXRnVPaUJaaUptQzF3OFd4bTFLczVLWVRDVk9fVjAwRTRIZ1BoUFA5cmNlMk5QTWZHNHNseVVLSmF3b1ZtMEE3dkRPVlgwOG5qLW1xczJDc3dndzdxNGZfeGNNbGxXdHpvU2FLZ2N2Q2sySGMyMnhNWFlCaVcwR0d0TTR2TG05bktidHNCVWZ2YXc?oc=5",
+                "pub_datetime_utc": "2026-10-18T02:17:11Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:13 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "Town hall in Limoges 'largely ",
+                "hook": "United Kingdom의 최신 주요 뉴스입니다.",
+                "script": "Town hall in Limoges 'largely ",
+                "original_title": "Town hall in Limoges 'largely lost' to blaze set during French protests - France 24",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNExHdE5JRklyZmhnOHNGZUJNTHFBRmEtbm5lOWVUUVZjVlA5X0ctVWY1THNwVS1kbC1UUEdERlJlR0tEcDhMb245UHBFVmF0S2NMN2l3OFoxa3M2UThEcHdrS3FNMmllaGZYTjJXdmJadlp6VWJ0aFlxeFEyOGZORXpxaEFFQ18yWF9EOUF2NnFMbWZ2WUlCR3ZYWjNyc0VLZHJtNEl0X3BXSWx4Y1owdm5MeWpsYncx?oc=5",
+                "pub_datetime_utc": "2026-10-17T18:53:22Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:13 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "이탈리아 총파업 예고",
+                "hook": "이탈리아가 멈춥니다. 11월 20일, 전국적인 총파업이 시작됩니다.",
+                "script": "이탈리아 최대 노조가 140억 유로 규모의 군비 증강에 반대하며 11월 20일 총파업을 공식 선언했습니다. 밀라노 등 주요 도시에서는 프랑스 폭동과 유사한 폭력 사태까지 번지며 사회적 불안이 고조되고 있습니다. 엎친 데 덮친 격으로 주말부터는 전국적인 폭우와 기온 급강하까지 예보돼 시민들의 고통이 가중될 전망입니다.",
+                "original_title": "Milano, chi sono i manifestanti degli scontri in piazza Duomo: giovanissimi, non politicizzati, violenti (come in Francia) - Corriere Milano",
+                "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQV1l3a3BNbVY2bVdhRW1NMnNXcDlIZUhuaU10TUVXZm1fNGpreHJwX0JhWS1GZkN5QjRrZTZnQmVmODR6MzluUHJIMEtjSUZnV2oyWldTVzh4NFpPeUVBZGlEdEdrOVN5ZU9SNGgzemRDTFBxSlFtQ3pTT1JiTUhxbnNxLUVCcEh6T25WQVotZmw0TjRTdzFHQzB0R1ZKRTFNcUg0cXdOcktZekxiY1daZ1I1RUIwS3F0SmdFRnF0LVNUWGtlcGVuV0l5OU5ma3NpbDFVWjNLV1JxRjRCZTllcTd0YWx5SU5XN3NPYm5xMm1Wby0zY1JiNDN0WUJocjBET2R4RWF5TFFicHZUMTNHVHV3ZGNOVHVmdUZsQUlnamJfejF3Z3F4QTlsUEpnb1dMaDZzc2xhTVg1YXE00gHCAkFVX3lxTE50TmZoZjczdTY2ZU9wTEh2QVEzbWdCR29UQVVMaFRWd1FSN3RxUkZCSlBUSUdoVl92YUNXUllSM2owUmZtVXZOMHpIYVV3TTNEa3NVRWVTaTdEc09mcEdHODhfckt4ZHl0ZW1VbS01QnpzeVE0cXFlSHZIQzJScnFBR2tCTXF6aTFIckhWMVo3UTBVNTlkU01UOVZicHdPQnBQc0IyNVlUNFFicV9CakNtNjFCdlh5REd2bkFVLW55ZWhQTDJmTFZXelJnQ0ViZ29vam83R2Q1Q2MtWWdhbGpVc3hkQTg4VDR3UlZSSVg2TmZ6cUFvd2JGMTFPMC10bzZfeGpSVGZKaVF3OTlsajI4RVhycTdPcEpxMnZwSnFBczJEb3J2LXJZdEF6eTNrQ1lfNlNHc0dqX3p0cGdQZExpb2c?oc=5",
+                "pub_datetime_utc": "2026-10-17T20:17:21Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:40 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "브라질 시장 대혼란",
+                "hook": "주 6일 근무제 폐지 논란, 브라질 경제가 흔들리고 있습니다.",
+                "script": "브라질에서 논의 중인 주 6일 근무제 폐지안이 시장에 큰 충격을 주고 있습니다. 인플레이션 우려가 급등하며 경제 지표가 요동치는 가운데, 정치권의 갈등까지 더해져 사회적 긴장감이 최고조에 달했습니다. 한편, 선거를 앞두고 투표소 변경 등 행정적 혼선까지 겹치며 브라질 전역이 뜨겁게 달아오르고 있습니다.",
+                "original_title": "Lulinha esteve com ministros e Lula mentiu, diz Luchsinger - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHE4VDlPcTJmOHB5RGQwbDN1OFhDbmUzeXNGMEQySHJFdDFSNzlfTVJnd3VGci02QTVBdDhJNWplMjBsV3cyLUNJb1ZHYjRYemFjZXEycnVGZTU2b0dCQ1JvNV9NRXlVMEtUaVhIOXo2d2s3WkdHU1BUYWVXQjhyLVdoZXJZYWpGdVZITEh2YktQMEQ3QWNqbjBDcFd0bDRBNUE?oc=5",
+                "pub_datetime_utc": "2026-10-18T02:24:19Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:40 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "‘Significant casualties’ after",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "‘Significant casualties’ after",
+                "original_title": "‘Significant casualties’ after fire breaks out at CFB Wainwright, MP says - Global News",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JTmJ0Zk5feDctX2dLZWpKU2ZtNGRjemsyVG44ZzVsRV85S2RxdkN1MnNYRUdsMWJrMkphRkxkU2czRk0yR3NDQUlnRy1QbHhvbGtWVlF2dXNDTnJreUtMWUJFSDNqMW8?oc=5",
+                "pub_datetime_utc": "2026-10-18T03:41:02Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:40 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "멕시코 2등급 허리케인",
+                "hook": "강력한 허리케인 '트루디'가 멕시코 해안을 강타합니다.",
+                "script": "2등급 허리케인 '트루디'가 멕시코 해안으로 빠르게 접근하며 비상 경보가 발령되었습니다. 철도 공사 현장에서 발생한 전복 사고로 사상자가 속출하는 등 인프라 안전에 대한 우려도 커지고 있습니다. 셰인바움 정부는 의료 체계 현대화와 부패 척결을 약속했지만, 잇따른 사건 사고로 시험대에 올랐습니다.",
+                "original_title": "Huracán ‘Trudy’ se intensifica a categoría 2 frente a costas de Colima y Michoacán - La Jornada",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd1lQb0FOQXktbmdlRTFUZHRUdmNpZUQ4cWVPbnlXR1R1SDBqckdWMmtxVzVRZlV2YUNBWkN5ZExzSHFiYXRmUFh6QWM1bVV3VWMwNmZWNmlIX2xaaFk4MEg1dU5iaUhkR0ZsV05LWE5oajVmVEJZTlY5TUNoazJ2TDMwMUozWHNac3ZmU0cwelJIZW14a3VRTGFpTGdHVHMwdkVyVGo0aWR5cm9PWEtEWGtFX0loZFgwRXRYZDNjblJLU3NEcU1sUC00OA?oc=5",
+                "pub_datetime_utc": "2026-10-17T22:09:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:40 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "브리즈번 공원 개 습격",
+                "hook": "평화로운 공원에서 벌어진 끔찍한 개 습격 사건, 결국 경찰이 칼을 빼 들었습니다.",
+                "script": "호주 브리즈번의 한 공원에서 남성이 개들에게 공격당하는 충격적인 사건이 발생했습니다. 경찰은 피해자를 구하기 위해 현장에서 개들을 사살하는 강경 대응을 선택했습니다. 이번 사건으로 반려견 관리 책임에 대한 사회적 논란이 거세지고 있습니다.",
+                "original_title": "Council to euthanise dogs shot by police after man mauled in Brisbane park - Brisbane Times",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZjNuRm5XM05vWWFBUUpzOGxjY0hvWVJHbm13clpZaWM3ZjF2anBJc2prbVBJYzQzZzNBTXY4eEM3X0pKb1ZCekpBM2htYXhRZEZMUmFVaWNsTlp2aVdyNTJsclZJa2sxeXYzVllWeXRyV052ZlhRZzF2WXJOam5SMzJHdlFWVFVZTmhxT1o0Wll4WkVrck14dUF1SHk5N0gycGlZRGEtUzJZWUl5NlRlaVZ5U09rSGJKcU80ZloyNFNDTEd6a0Y0U1ZxQVNqX1VCQ2NSM1hCelNvekM2UW9KeHFB?oc=5",
+                "pub_datetime_utc": "2026-10-17T23:57:31Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:43 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "순직 소방관 딸의 눈물",
+                "hook": "7살 딸이 쓴 아빠를 향한 마지막 편지가 대한민국을 울리고 있습니다.",
+                "script": "대한민국을 지키다 순직한 소방관의 7살 딸이 남긴 편지가 공개되어 국민들의 가슴을 먹먹하게 만들었습니다. 아빠와의 마지막 이별을 받아들이기 힘든 어린아이의 순수한 눈물이 보는 이들의 눈시울을 붉히고 있습니다. 영웅의 희생을 잊지 않겠다는 추모 물결이 전국에서 이어지고 있습니다.",
+                "original_title": "\"아빠, 나중에 꼭 다시 만나요\"… 순직 소방관 7살 딸의 눈물 편지 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXdQb0d1dmJtMUpwU2JLd1dVMkExaV8wYlJsUnV1ejdNQnl2aVdnY3I5V1N1VUQwTktzbjRBZmlidDdHVk9vaFV4NkRNVUVRR3BiTmpqb3oxcHFtd0dQUGhidk82M1RNM3AtUjl5WU8yTXQ2QzZUR3lpSER3VDBxRmJTOC1Rdw?oc=5",
+                "pub_datetime_utc": "2026-10-18T02:18:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:43 KST",
+        "current_rank": 11
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "프랑스 시위대 청사 방화",
+                "hook": "프랑스 시위가 극단으로 치닫고 있습니다. 역사적인 시청 건물이 화염에 휩싸였습니다.",
+                "script": "프랑스 전역에서 벌어진 폭력적인 시위로 인해 리모주 시청사가 불타는 충격적인 사건이 발생했습니다. 분노한 시위대는 공공시설까지 공격하며 정부를 향한 적대감을 드러냈습니다. 프랑스의 혼란이 깊어지면서 전 세계가 이번 사태를 예의주시하고 있습니다.",
+                "original_title": "Violentos disturbios en Francia: incendiaron el histórico ayuntamiento de Limoges - Perfil",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTBtNE56R0Nabk5YN1pyeV9iVXdhTm5BM1VGX3h1TWFjV0toc1c3VDJVaDdNYWpVV0czSW1jMzBKeE1FZUdiRTNKNmJ0Y3p5a0hqUGNWcGYxampJZ01LV05NVFpRNVdlT2ljX1hvVk1DZkxFZGtIRFYzOUd3WGdwam9iWmo5djhUbFV3VWNIUFZfWXZNa1h0OXRMQTh2c2x3RDU1SFRuRmtCSDB2d2ZPemlQYm9jT3NsdTA0WFgwT1J0cGdhLWNDZXVmSWPSAdIBQVVfeXFMUG1ieFJ1S0ZXVy01SWhZYnJ3OUQ0R09aMlIzY0tFSnp3d2RSdDJoVnFnbGN0YmhwaS1sWW1US2w1RzN5dEpQNWt1MjJFMUZrVlIyTlR0SFozaVhsTjdhY1FCWUpiS29nMVV4TDhjRUtKd1dLekpwWEFXa1Y0YXpNSmM0SmlDdzVPVG9jYU0wc2hZcUxZUDdqUEJVN3l6dC1rSmJEMzF5QTV3VVBnOEc3alFZVWhBZkV5ZHluRGhiY0Q4bndqSDk4UDRmb1dzQ2N5S0Jn?oc=5",
+                "pub_datetime_utc": "2026-10-17T23:59:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:43 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "남아공 폭염 비상",
+                "hook": "남아프리카 공화국 전역을 강타한 기록적인 폭염과 가뭄, 지금 상황이 심상치 않습니다.",
+                "script": "현재 콰줄루나탈과 이스턴케이프 지역에 폭염 경보가 발령되며 주민들의 안전에 비상이 걸렸습니다. 라마포사 대통령은 가뭄 대비를 강조하며 국가적 대응을 서두르고 있는 상황입니다. 극심한 기온 상승으로 인한 피해가 우려되는 가운데, 정부는 주민들에게 야외 활동 자제와 수분 섭취 등 각별한 주의를 당부했습니다.",
+                "original_title": "'No favours for connected friends' - Zille tells DA rally - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWl6OHI3TWNKVGRtZXRuTXEyaTZnT2dCT3djOWhkY0NqckJvNkNrbURiR3BlZTZWbWJXVDZGNVN1RXZudlIyMWY2SmFaY3NNLWtnM2dkVzkxbVQyV2ViWXFkTVI0RDdELXhRb3lqdFBGTGNiMDV2dkNHR0tRb3NlMg?oc=5",
+                "pub_datetime_utc": "2026-10-17T14:24:46Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:47 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "フランス全土で大規模デモ デモに乗じた破壊行為で混乱 リモー",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "フランス全土で大規模デモ デモに乗じた破壊行為で混乱 リモー",
+                "original_title": "フランス全土で大規模デモ デモに乗じた破壊行為で混乱 リモージュ市庁舎ほぼ全焼 - テレ朝NEWS",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04bTZENzJfeHRiZlJfTHcxR0R1dDlrajR3NnpkVUFVbHI0VjVOVDJVWFFCR1R5cFZhbGt0Y2NQN2lhWGVPU3hOdXMyRWhES3BRak5VSUtNQy1rdUJmUnJjLXBPSER4ZVoyOG5weVJsZXJRbFZ0Tl9CSjNn?oc=5",
+                "pub_datetime_utc": "2026-10-17T23:55:02Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:13 KST",
+        "current_rank": 14
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "프랑스 전국 대규모 폭동",
+                "hook": "프랑스 전역이 불길에 휩싸였습니다. 도대체 무슨 일이 벌어진 걸까요?",
+                "script": "프랑스 전역에서 1,200명이 체포되는 사상 초유의 폭동이 발생했습니다. 릴, 마르세유, 리모주 등 주요 도시의 관공서와 상점이 불타고 경찰 150명이 부상을 입었습니다. 정부는 '진영을 선택하라'며 강경 대응을 예고했지만, 시위대의 분노는 걷잡을 수 없이 커지고 있습니다.",
+                "original_title": "Mobilisation du 17 octobre : 1.200 interpellations, 150 policiers blessés… Lecornu appelle à « choisir son camp » - 20 Minutes",
+                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQenRCeFUwSWhnN2hUdlQzYndEYVpDTVM5VnFrczBLWHZhMzd1QVZ3enpjdkVNMW9lR0Zpd1NtaGFRTWFzSWg0RnYwSzA3QnlGcWFCUnI1RmdzTS1hLVB3WGtlMjlRYklOZWNET3VqQjJkay1YNUNKdnpLUi1DUmdDdjhWYzVJeXdlY0d6dHVrQmhHcUl2emc3eXhGZWpkaTZGczlneTdqVmhraFFFQi1XMGJLNFJjaFFwVnB6MHJMbWRUS3dnNnByaFBYOEJLUFgwaHRWNE52VnNOMGxWcThJRFFkT2pFZw?oc=5",
+                "pub_datetime_utc": "2026-10-17T22:31:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:40 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "러시아 연일 드론 공격",
+                "hook": "모스크바와 레닌그라드가 뚫렸다? 연이은 드론 공습에 러시아가 비상입니다.",
+                "script": "러시아의 데이터 센터와 주요 공항이 우크라이나발 드론 공격으로 마비되었습니다. 푸틴 정부는 석유 수출에 문제가 없다고 주장하지만, 잇따른 공항 폐쇄와 항공편 취소로 민간 피해가 확산 중입니다. 트럼프의 제재 완화 발언에도 불구하고 전장의 긴장감은 더욱 날카로워지고 있습니다.",
+                "original_title": "БПЛА атаковали дата-центр VK в Ленобласти - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tWjhGbG56OHNYT3g3eGhiM1A5WkdabXpKei0wclRLdm5CWldKLTQ4OWV1NjF3X3VSYWhGdHJjQ0J4Y29Yb3dubmZ0Ni1OMlXSAUtBVV95cUxNLWpXc2FRM3dWeGRaSHFfd3hEdFlvbDlab1F2VjFZQ2tQdDBnZUp3MzNIckFjRjZUcEdWS1QtcnVScDZoWnlaM1hia28?oc=5",
+                "pub_datetime_utc": "2026-10-18T02:45:00Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:40 KST",
+        "current_rank": 16
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "PDIP Bakal Pecat Bupati Klaten",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "PDIP Bakal Pecat Bupati Klaten",
+                "original_title": "PDIP Bakal Pecat Bupati Klaten Hamenang yang Kena OTT KPK - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjdUUWVOdDByNlRvZEFlRzB5c1JoS29mRUptZlRqa1hlQzE3bFVIanFyT1JId2dsT1JydGpTU3VlNE5xRTJ2Z3phbjhZZ0lwcUVGbTR1cVE5cnpmMFdFRWJxZ0VPRmlkZG9NLVZlQVJZQUJKOWFXZWdCTU9TNVlLckF5TnlPWVI4TzViME8xZVF6RUlKN0ctY3plbXd2QdIBowFBVV95cUxQZmdjTlFSNHlXLUZKQlpxRVNOOWNTOEg2SW8wa0xCR3ZJemVmQS1lUk56Ni1wQUZ4R3BkamtOeUtMWGY3XzNIZ3JxNm9sc2I5Ti03TEFVU19GX1pMWFplUjhKWVp1WWktUHpjWS1mS3ZuS3ZjOTk2dUhuSVowZmwtdGRMZHFpeWw1NDk2Y2Frc2Mtb3VNbTFDeHRlOWV5a1lLUHlF?oc=5",
+                "pub_datetime_utc": "2026-10-18T01:47:07Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:43 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "프랑스 시위대 격렬 충돌",
+                "hook": "프랑스 전역이 시위대의 분노로 불타고 있습니다. 경찰과의 충돌 현장을 전합니다.",
+                "script": "프랑스 곳곳에서 경찰과 시위대가 격렬하게 충돌하며 도심이 아수라장으로 변했습니다. 시위대는 정부의 정책에 강력히 항의하며 거리를 점거하고 있습니다. 진압 과정에서 부상자가 속출하는 등 사태가 걷잡을 수 없이 커지고 있습니다.",
+                "original_title": "Paris'te ve Fransa genelinde protestocular polisle çatıştı - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hcU0tY2owT3JXVUMyV1FzclJzLXk3aGhJbm1GUHZ6QUVMVTVfYXUzRUh1U2dGcEhCdHFsOWhoRTRHSFExQ3NFUXdCS2hEaUd3UVBRRU9NZFI4SG9FQ2fSAWNBVV95cUxQWkRya3J1dlNiR0F2WVA5bnVPZ1NkUTVmQXY2VFlnRDNKdVNNazZPX3llWmhBdlkzUFBhXzg5TGlaT2VfV21rNndBU2lVOHdrYi1PcFVGZ2NNVEVUSktuanlod28?oc=5",
+                "pub_datetime_utc": "2026-10-17T16:07:46Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:43 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "후티 미사일 공격 요격",
+                "hook": "사우디 상공을 노린 후티 반군의 탄도 미사일, 방공망이 완벽하게 막아냈습니다.",
+                "script": "사우디아라비아를 향해 발사된 후티 반군의 탄도 미사일 두 발이 공중에서 요격되었습니다. 사우디 연합군은 이번 공격을 즉각 저지하며 미사일 발사대까지 파괴했다고 밝혔습니다. 잇따른 공격에도 사우디의 방어망은 견고하게 작동하고 있습니다.",
+                "original_title": "«تحالف دعم الشرعية»: اعتراض وتدمير صاروخين باليستيين أطلقتهما الميليشيا الحوثية باتجاه خميس مشيط - صحيفة سبق الإلكترونية",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQc2xNOHlndkZOMVkxUkZPVUZPd3BXa2JKeGJIWlNTWXoyZkVHMVlJZzFHd19fd0p3eVpCMy1lNFRTQnFFNUdV?oc=5",
+                "pub_datetime_utc": "2026-10-17T22:01:07Z"
+            }
+        ],
+        "last_updated": "2026-10-18 13:40:43 KST",
+        "current_rank": 19
+    }
+}
