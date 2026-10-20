@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 골프장 비하",
+                "hook": "트럼프가 자신의 골프장을 '쓰레기 섬'이라 부른 진짜 이유는?",
+                "script": "트럼프 전 대통령이 워싱턴 D.C. 골프장 개조 사업을 두고 법정 공방을 벌이며 해당 부지를 '쓰레기 섬'이라고 강도 높게 비판했습니다. 이번 발언은 그의 사업적 야망과 정치적 행보가 얽힌 복잡한 상황을 여실히 드러내고 있습니다. 과연 이 발언이 그의 차기 대선 전략에 어떤 영향을 미칠지 귀추가 주목됩니다.",
+                "original_title": "Trump Calls D.C. Golf Course 'Trash Island' After Court Hearing Over His Renovation Bid - Forbes",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTZpaFRjT0haQzB0THQ3czROYjFqWWg4ZlQ5Ukl5SHVwRTlta1ZqZWJ5RWJ2R1FOeU10dWpkTkllbWFvTEVIQndab3UwN0lNcmNXXzl2T0tkVHRQV1lRbUhmOTVVLWQ0TTlVYm9rdnM5OEtXSGxsUHJ0VVQwOTFEODEwZENxb19pek5WaWsyOFAtQXBVVDNqSDZVY1RxcUdXV0ZGaHBwQ3dTSzF1dTV2RXRWbGJxYUdjWWpnOXJkMHJ1NmVkQlh6c3hRQ1g3Zw?oc=5",
+                "pub_datetime_utc": "2026-10-20T08:55:29Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:21 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중-미 기술 갈등",
+                "hook": "딥시크 사용 금지, 중국의 강력한 반격 시작되나?",
+                "script": "미국 정부가 자국 기관에 중국 기업 딥시크의 기술 사용 중단을 요구하자 중국 외교부가 즉각 반발했습니다. 중국은 이를 과학기술과 경제 문제를 정치화하려는 의도라며 강력히 비판했습니다. 양국 간의 기술 패권 전쟁이 더욱 치열해지는 가운데, 글로벌 시장의 긴장감도 최고조에 달하고 있습니다.",
+                "original_title": "长征主题纪录片《走过万水千山》开播，以青年视角回望伟大远征 - 京报网",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qTzZjWi1RdFlQWkFjTnNYTmtQbkxybmtQUkZibnFuNWpiaVdEM2tjcXIzMzk4SW1nTHFZOFo3WEpuQkpoeW1CUmdFeWtRanFhbEtiblpzekFiLVVYZlE?oc=5",
+                "pub_datetime_utc": "2026-10-20T11:39:12Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:21 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "트럼프, 이민 정책 비판",
+                "hook": "프랑스 시위 사태를 본 트럼프의 충격적인 발언!",
+                "script": "트럼프 전 대통령이 최근 프랑스에서 발생한 대규모 시위의 원인이 이민 정책 실패에 있다고 주장했습니다. 그는 민주당을 향해 '마르크스주의자와 이민의 당'이라며 강한 비판을 쏟아냈습니다. 미국의 대선 정국이 요동치는 가운데, 그의 이민 정책 프레임이 중도층 표심을 흔들 수 있을지 주목됩니다.",
+                "original_title": "トランプ氏が仏大規模デモは移民政策の失敗原因と主張、民主党を「マルクス主義者や移民の党」…接戦州で批判 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EV0d6UFp3MGtfdFpNS1hqazd4VnB2V2tubzVxaXpNdGRRa2dNa1FBc3BaRVNMNVNsUnlzMFNOUkpFc1RIR2l0MndXaFFnTzVnRmkwbkNhZmRaS3RDaUdNcUxB?oc=5",
+                "pub_datetime_utc": "2026-10-20T12:26:00Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:21 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "인도-뉴질랜드 FTA 발효",
+                "hook": "인도 경제의 새로운 기회, FTA가 가져올 변화는?",
+                "script": "인도와 뉴질랜드 간의 자유무역협정(FTA)이 공식 발효되었습니다. 이번 협정으로 양국 간 교역량이 대폭 확대될 것으로 기대되는 가운데, 어떤 산업 분야가 가장 큰 수혜를 입을지 관심이 집중됩니다. 인도 경제의 도약을 위한 이번 FTA가 글로벌 시장에서 어떤 위치를 점할지 지켜봐야 합니다.",
+                "original_title": "Marco Rubio lands in Mumbai; set to meet Jaishankar today - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3lXNHQ4S202Z2dwOU43OGg3LTkzRVphYVBoV1ZqRjBQQWtsOUdJVU9WcGppRlRqSzZNMVUzanZhMGM2bGhGZGtKc29GVDljdVlyY3ZZUGdJXzR4SVlBRTNUMWdhTU9yWmtHYV9ZdFgtWlRNdmw2NVRqYUJGNjJvdlZSZl9EOFpNWUFtcDhKM2l4Q04zWGtFM1ltOVNMMzlh0gGnAUFVX3lxTE1FQXlIODY1MGpHYy1RTjdTajMtbUwzNVYxNVRGVi1wUUhOUzFOMkpUclEyMXAwdHA3V053MEt5MUtyWHltbTJQTU9xQ0VmRFZzUDllSU1uWFFCV3EtWV9BcFRyaHZHYzNkWnJJdlRTOHo1V2pVTFVxcE1TZDg0MkhsZU9lZkVzbzJOUkVPd3JYMGN3NWtmVDVBaFcxZkVpOWkxTlpNRi1B?oc=5",
+                "pub_datetime_utc": "2026-10-20T13:20:17Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:21 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "코로나 요양원 참사",
+                "hook": "영국 정부의 방역 실패가 요양원을 덮친 비극!",
+                "script": "영국 정부의 방역 대응 실패로 코로나19가 요양원에 산불처럼 번졌다는 조사 결과가 나왔습니다. 수많은 인명 피해를 낳은 이번 사태에 대해 정부 책임론이 거세게 일고 있습니다. 희생자 유가족들의 분노가 커지는 가운데, 영국 사회는 다시 한번 방역 시스템의 허점을 되돌아보고 있습니다.",
+                "original_title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzFEQ2J6UUt6NHd4TFdlWmdDcWx1VGtpZ29jNUdYZHFybGwwaUdaa2xoZU8xOVY2emE1Q3VXSjRUR0RHRlUtc0Q4MW45WGplQXBkUzZuTWFPRVBMZzluTTg2VnktZ1hwdXJ1S3V6UHdJWXBITF9EcHc3MHNISk1rdUZ0RktKZzlEUnhrZEVtVDdDdjV6ZDdWQ3FMZThnYll0M2VZX1drUVFJUVNQcmpKRjItRU5Ea3U2X3dwaE0zYTZVaDBzejlzU08wVTVodmpS?oc=5",
+                "pub_datetime_utc": "2026-10-20T11:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:21 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "프랑스 전역 격렬 시위",
+                "hook": "프랑스가 다시 불타고 있습니다, 거리로 나온 시민들의 분노는 어디까지일까요?",
+                "script": "프랑스 전역에서 고물가와 정부 정책에 반대하는 대규모 시위가 격화되고 있습니다. 정부는 강경 대응을 예고했지만, 시위대는 '제2의 노란 조끼 운동'을 선언하며 투쟁을 이어가고 있습니다. 혼란스러운 프랑스의 현재 상황, 지금 바로 확인하세요.",
+                "original_title": "EN DIRECT, manifestations du 17 octobre : Sébastien Lecornu affirme que le dispositif policier « sera massif » pour encadrer les nouvelles manifestations prévues samedi - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQYXNDXzgyR1J6UzRCek4tTHZ0RlJGa1JQZ3ZYRjV0QzRySGQzb0NmTmFDMnlwUWxDZEtlOHZ0OWYwek1VZ3V5ZW14WEtuSzJ6VU5xMGpxWXdNbWlNYU5XcERGWWd3bXR6U1RYaE1zN09mYVRrMV9zWTNPZ0hPdmxPaFJMYmRhaFQ2UDJHblJDN3p1cDBYZWNTLWVzVUEwd3hma3p6SEZPZE82UERpNlIybnotb0ppbEFfV2NFQlo0TG5UQTRqYVVDRk41WUJRY21LVHBfMGJqNEhEYjN5Mmk0SzBCQmRvY0s3Y29YeE1mQ0d6VkhqRUlST0hKX3JTcmdiRVRadnQ5eHlHY1M1S1RFS0tzdXNvakE3Ym1VLVoyS3FwT2U4c0hicDdicE5sdkV6alFjUVVOalJNRWdqZjVucU45eExOeF9KX0E?oc=5",
+                "pub_datetime_utc": "2026-10-20T13:35:51Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:36 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "브라질 대선 D-5",
+                "hook": "브라질의 미래를 결정할 운명의 날이 5일 앞으로 다가왔습니다.",
+                "script": "대선을 앞두고 후보 간의 공방이 극에 달하고 있습니다. 최근 경찰의 과잉 진압 논란과 정치권의 폭로전이 이어지며 브라질 사회가 요동치고 있습니다. 과연 누가 승기를 잡을지, 마지막 관전 포인트를 짚어드립니다.",
+                "original_title": "Saiba como estão Lula e Flávio nas pesquisas a 5 dias da eleição - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLV8zTVBpS0JDQUNza201TTJlc0xlZ3JKMUtGdmlfNmFSTzZuWHVfclBBVDljdnB3QW14eWN1blViVE1PRXBReHQySkgzdUhtZWhFT1owQUUtSjdHTjF1QlVEQzRmTVF1N1lQVUt2UlVNRk5hTG9Ua3NHalVfYWNYaDhzaXp2aHk1dF9RVjJIaVpFVGh1UndSTFZ6SXNKbXNScEVxTTFqZGVFSG5xbVE?oc=5",
+                "pub_datetime_utc": "2026-10-20T11:51:57Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:36 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "Alberta votes to stay in Canad",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Alberta votes to stay in Canad",
+                "original_title": "Alberta votes to stay in Canada, CBC News projects. Results on other 9 questions still being tallied - CBC",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmtYSHRtd09SNWxfWldranNscF9DZnFhVkpXSk1uQnRMQ193RTk5ZWEtc2M2UGRBNm1Ja3djbFVuV0tXQ1Z2TnktbFBWTndVUWcwREZNZHFZaUVIVVVpRDN3clQ2aklHS0lESlR3SEdlVEpPMjhEQTRObjN6dEFzVW1IZnctRU12SFR4ODFQSnc0Q1lRX0s1VjFPZGRzQTNfYUluNHhOU2l4elF4bXFUYzhQZWNXMXRnNWROcWVHYW03c3FV?oc=5",
+                "pub_datetime_utc": "2026-10-20T13:48:16Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:36 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "러시아 안보 위기",
+                "hook": "러시아 본토를 향한 야간 공격, 전운이 다시 감돌고 있습니다.",
+                "script": "러시아 모스크바 인근과 프스코프 지역이 밤사이 공격을 받으며 긴장이 고조되고 있습니다. 크렘린궁은 미국과의 관계가 수십 년간 회복 불가능할 정도로 악화되었다고 경고했습니다. 격동하는 국제 정세 속 러시아의 움직임을 분석합니다.",
+                "original_title": "Медведев: отношения России и США испорчены на десятилетия - URA.RU",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ldi1ZNW16aTREeFlDR0RtTEFtSHNkb085ZlVUa2wtT3NyNzFFa3FiUXl1NjQ0N251ZHc3VXFLN3lXU0ppQ3Q0?oc=5",
+                "pub_datetime_utc": "2026-10-20T06:59:00Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:36 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "의원 습격 사건 발생",
+                "hook": "호주 정계를 뒤흔든 충격적인 의원 습격 사건의 전말이 밝혀졌습니다.",
+                "script": "브렌던 뉴전트가 헬렌 헤인즈 의원을 공격한 혐의로 세 가지 혐의를 받고 법정에 섰습니다. 정치를 향한 폭력은 민주주의의 근간을 흔드는 심각한 범죄입니다. 이번 사건이 호주 사회에 던진 충격과 파장을 자세히 분석합니다.",
+                "original_title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb294T19kNHphU1MxTUw1WExlcU4wQmVvcFFvMERINDZMLWE3ekl6eU4zVmpST3d2UFZORG1KaFNlN25zNkJLR2ZtS2x0Q3BMNTFKdXV0Ukc0elhxMXFtZ0FzVkxCUkNBMEhUOHl2SUcwTTNiX1BlVFJ2Y0pYeFh0MUUzMFlsX3ZkZG05cGlpbHQ0dVNnOHBWMWFmRnQ3WDBXOUVKMjk2dEUyZ0V1U2p3T3lBaUw?oc=5",
+                "pub_datetime_utc": "2026-10-20T08:52:00Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:43 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "연쇄방화범 긴급 검거",
+                "hook": "서울 역삼동을 공포로 몰아넣은 연쇄방화범, 드디어 덜미를 잡혔습니다.",
+                "script": "서울 역삼동 일대에서 연쇄방화를 저지른 70대 용의자가 동묘앞역 인근에서 경찰에 붙잡혔습니다. 잇따른 화재로 주민들의 불안이 극에 달했던 상황인데요. 경찰은 정확한 범행 동기와 도주 경로를 집중 조사하고 있습니다.",
+                "original_title": "역삼 연쇄방화 70대 용의자 검거…동묘앞역까지 도주 - 동아일보",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwd19CRGdVNC1McnJzUXQwSTBGU2wyRC1Va1lWaHBSaUR4bjYzZFlobkhwREtDVjVJb0JaMzVjMGVkVXd4WkFtZ1hZMmlqT204YktvTFhMemFZRFBNekVvbTNRMWlucWtwU0tjb056WVFJazRsQVHSAWZBVV95cUxONkh3VkpIcm91Z3B0LV8tN1BSazE1UEtWSkFqS2pfRGJ4bkNEYVN4Ymd3cThuMkU4ZWtYRy1HWnZDSDNhajZUMTN0Q01yeE5hak1yWG1VMjJRVm5zWmRzMlhSQzBwOVE?oc=5",
+                "pub_datetime_utc": "2026-10-20T07:42:00Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:43 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "후티 미사일 요격",
+                "hook": "사우디 리야드 상공에서 발생한 긴박한 미사일 요격 현장입니다.",
+                "script": "후티 반군이 발사한 미사일이 사우디아라비아 리야드 방향으로 향했으나, 방공망에 의해 성공적으로 요격됐습니다. 연이은 도발에 사우디 정부는 강력한 대응을 예고했습니다. 국민의 안전을 위협하는 행위에 대해 사우디의 입장은 단호합니다.",
+                "original_title": "السعودية تعلن اعتراض صاروخ حوثي باتجاه الرياض - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOelRLaUtici1OYkxySTBtTUxJR3FNWmVZMTg1QTVpdmtncDhUamNqdWdCT1lsbUVaUzdPQjE2bUlUQ2FtWFdVWHV1R1pNWEhDUlI0My1WTTRvc0RtMExEaUg3bzhIRTV3amZqWS1uVjlna0hUNUprYWlwLUQ2WU04ZXpJbzVCbWxIYlhKY3Njc0k5eVk0aEJBUlhCMGtpQmxTUTNIdm82NzdwNHU1UGVXNGxPMDhqN2p5REVua3phY29zWlNNci1Fd2tCR0Nma3BpMGw0blRpcVBPbkUtZDJ1RVNjZ1RHb2xWc003OFQtSk5KTWdUVE5SMWhNQnE3RmhHTURmN01XSzYyR09xcWNQcEZzWnVRV1dsajVyVVVobEk5bW9PbmE3V2dIQjFESzhZYzFnd2lOaEpJamdNa1VTbEdRRUVkWVVGb29oTVVNNHFCUERqTWoyd2xwd1NEcVpJOTFjTHVGbEtyYnZWa0ZZYXNVQlYwZGhPWGhXRVFNcEwxdTdVREVqRU9teHMwckdvRnNYTXVDSFJBN1lVemE00gGkA0FVX3lxTE1MQkxYT1RENmp5bkNmTHA0MXZHY0FmUjR2eW5Sd285S2taUDV4U2NsLUFwWHlOOENkaXJDN19GQVh6bFRCQUhNNTZsWGVYckpkVExxM2pzeGRUTkUxbjZQT2ZrdWc5cEZXaEFkWVY5VldYMlZxR2M2LUNneUplcjU3NlVSakZKdGhWV2VDNWdkX1F5UGc2MTZDdTdkMHlpdFpVOHlkcFBia1lsUWxjcWphaE1LVjA0NEdXU2sya2FtYkNuQ05LQTNVcmlNQnhveFpSelRncnRpX001WlMtV0xpZ3lCaUc2NmIwQ1AtS2JrU3FwNERsYlVja1dQQXVMSE82bzlHX2F6TjUzZlBEaERkaEt2MG12a2kya01UMmlSSUJNSlh4X21sMmtYaW1GaEpPdGUybW1LRl93bjFEQnZEQ0wtd3hLWjhWc3o0aVBUTWRxYU5SZEhNWmM4UF9KREUwX19rY0FTcUtVWWgyVktoeUZhX01IUkc5SnROTTdxNG1mcnI5RDY2RDk5QV9pTnBNWkxoM3c3V1E0aW9hcDUwUDFwNQ?oc=5",
+                "pub_datetime_utc": "2026-10-20T09:08:30Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:43 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "남아공 수질 위기",
+                "hook": "마을을 덮친 집단 식중독, 남아공 브롱크호르스프루이트에서 무슨 일이?",
+                "script": "남아공 츠와니 인근에서 수돗물 오염으로 추정되는 식중독 사태가 발생해 주민 400여 명이 긴급 입원했습니다. 당국은 즉각 수질 조사에 착수했지만, 지역 사회의 불안은 극에 달한 상황입니다. 깨끗한 물을 마실 권리가 위협받는 지금, 정부의 신속한 대응이 그 어느 때보다 시급합니다.",
+                "original_title": "Bronkhorstspruit water crisis in South Africa: 400 fall sick near Tshwane - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGaThMNG9nNHhsU0FPRmVNeVdoQ0VLeUJwdGdBV1lqRlpwOFc3SDFQX2pRZndRbkJuaXpUdjZGcEhSdG9heHQ3YnZLS001LXRNcXdMSUFLRGtmQ2M?oc=5",
+                "pub_datetime_utc": "2026-10-20T11:09:09Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:57 KST",
+        "current_rank": 13
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "AfD 내부 이메일 유출",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "독일 극우 정당 AfD의 내부 이메일이 해킹을 통해 온라인에 무차별적으로 공개되었습니다. 이번 사건으로 당내 민감한 정보들이 유출되며 독일 정계에 거센 파장이 일고 있습니다. 정보 보안 문제와 정치적 위기가 맞물리면서 AfD의 향후 행보에 큰 변수가 될 전망입니다.",
+                "original_title": "Positionen zu Israel: Berliner Linke berät über umstrittene Abgeordnete Emde - rbb24.de",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVhiRl9XYmJ1QkMwNUdSU3B6Rm40WnhGYUJEdU5zakQwZlVyTnUzdFBONUtjaDJOVERTaE9KZ2JWVTVyTk9pbUFSbVZwdndiXzEwTW1Tc2FQOGd0UUMyUUFtMmtPN0gtMW1namVmTUt3WWllcHJoT3l1a0tjb2tMQnJFN0dtbEEwNWI4R0tnXzdnN3pHT2ZDYlhUNmFReHVZZURUVXlyVk9rZnJ5a3Q0dDRn?oc=5",
+                "pub_datetime_utc": "2026-10-20T13:02:00Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:21 KST",
+        "current_rank": 14
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "이탈리아 폭우 비상",
+                "hook": "이탈리아 전역이 기상 악화와 사회적 불안으로 긴장 상태에 빠졌습니다.",
+                "script": "이탈리아 리구리아와 엘바 섬 등 곳곳에 폭우 경보가 내려지며 학교와 공공시설이 잇따라 문을 닫았습니다. 자연재해뿐만 아니라 사회적 불안까지 겹치면서 시민들의 불안감이 최고조에 달하고 있습니다. 유럽의 중심에서 벌어지는 긴박한 소식들을 전해드립니다.",
+                "original_title": "Dal fermo preventivo ai maranza, tutte le strette sulla sicurezza del governo Meloni - Il Sole 24 ORE",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2VmRV9YLU02VXpSQlpQRW1YZzBzNVgxZkNJUDlyeG91U1d0WFNUT2pHSW52cVYwVVg3SDVfNmEtVEQ5QUdsMlJjSlZTYnJTMndXVlVyaGd1NVotT0ttenAzUkQ0dW5zODlRM1ZQaG9KckZZTXhyRG1LOUM4U2MtdTZOYVFqdGlEME1qZjBiZVoxTF9tMWdRLVpIS0Jwc3U4Q0cySExsRXJRNWR6?oc=5",
+                "pub_datetime_utc": "2026-10-20T06:56:52Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:36 KST",
+        "current_rank": 15
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "멕시코 CIA 스캔들",
+                "hook": "멕시코를 뒤흔든 CIA 요원 사건, 그 배후에는 무엇이 있을까요?",
+                "script": "과거 CIA 요원 관련 사건으로 전 검찰총장이 체포되면서 멕시코 정계가 발칵 뒤집혔습니다. 이와 동시에 멕시코의 자원을 노리는 일론 머스크와 미국 대선 후보들의 발언이 겹치며 멕시코의 지정학적 위치가 주목받고 있습니다. 오늘 멕시코에서 벌어진 충격적인 사건들을 요약합니다.",
+                "original_title": "Maru Campos avala la detención de su exfiscal por el caso de los agentes de la CIA: “Nadie está por encima de la ley” - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON01zYW9yN2pfa2ZhemJsWDJySmRLX3IwOXBucW4tZllLejdjSnUwS0E0SE5LUkplLVRjNmVnZFJfYjFpZEhaTlp4UU9tcVlnVHg4a0t3dW1xQWVMS21XeldycGRHTmEzTnhmOVVIX3loTGIwRXdkdkhMd3d4ekJ6eUNUMzB4OG9ob080Q2ZuSjVmZTFTOVZFZmFMcmhHZ21faUVlTjJBXzlha1JHTEJvMEc3cHU5R29feUViNkNpeW1JRFZDem5xN0VoRmFfUWxpb2JfNEp5WG0zSURZTGdMWG54SXhScU5sMWlfNA?oc=5",
+                "pub_datetime_utc": "2026-10-19T15:01:58Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:36 KST",
+        "current_rank": 16
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Trump Bilang Paris Akan Jadi K",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Trump Bilang Paris Akan Jadi K",
+                "original_title": "Trump Bilang Paris Akan Jadi Kota Muslim Jika Prancis Tak Tutup Perbatasan - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTh2bzhIQ080R0YyREktcHRwYzFGNDhBY0FWQnNQTGJQYmo0YWVfTHgxUmNmZzdzUVhING41MjJWWmEzclNsUG9XclFhUEtjYWVMRXNvVzFENGxta3NQSWZXblpXLUZwVEdNRjFzcDJDUmpIVXRaMXFxVXFlb2hpRWlieEJZNnlBOTQ0OFBjMWtTWlY0dHlvZkx2blhXQldFTW1xbTVoejdtNlpMTVNjc1pQalphYWt1OW8wQTNR?oc=5",
+                "pub_datetime_utc": "2026-10-20T03:45:23Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:43 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "사우디 군사지원 논의",
+                "hook": "터키 의회에 사우디아라비아 군사 지원을 위한 긴급 안건이 제출되었습니다.",
+                "script": "터키 의회가 사우디아라비아에 대한 군사적 지원을 승인하는 안건을 검토하기 시작했습니다. 급변하는 중동 정세 속에서 터키의 이번 결정이 어떤 전략적 변화를 가져올지 주목됩니다. 국제 사회의 이목이 다시 앙카라로 쏠리고 있습니다.",
+                "original_title": "Suudi Arabistan'a askeri destek girişimi! Tezkere Meclis'e gönderildi... - Cumhuriyet",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ25fd2hHWFJqM0tFbGdKd3FtWF9keDUxcmNSM3U1bWZpXzU0VVpFSU5WS2FqR19DUlhFRHpHTUpKYlVEam9ra2ZnMS1BcVF0VDVMNXRuRnVYQjlsMEM4SkRXXzhvcDV4aHp2cnE0d25rV1hOSjZ4MFcwNnpQWDl1UlZrNGhRb3AtRHBzS1ljbFZXQUdHLVAtSDVPS2pPRUVxSEwyakkwZmR2Q2Qxb2sySzgtUDM?oc=5",
+                "pub_datetime_utc": "2026-10-20T09:17:00Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:43 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "지하철 전면 파업",
+                "hook": "오늘 아르헨티나의 출근길이 완전히 마비되었습니다. 무슨 일이 일어난 걸까요?",
+                "script": "아르헨티나의 모든 지하철 노선이 오늘 전면 파업에 돌입했습니다. 갑작스러운 운행 중단으로 시민들은 큰 불편을 겪고 있으며, 현장에는 극심한 혼란이 이어지고 있습니다. 파업의 핵심 원인과 향후 대책을 신속히 전해드립니다.",
+                "original_title": "Sorpresivo paro total en las seis líneas del subte y en el Premetro - Infobae",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVS1YbWRoTnB1anFqVDBNNzRsTmZDdTBjNjY3V1JnRjhwVjk3cG0wMU0yS3FuUElFMVJkeHAzNDF2RnU1dnZ0TVlENkxTNnhvUDFqYTV4M1ZVaXg3VXJYZHc5U2tmVFRHYVFRT2NnRVNXSlZnMVdXd21IYVE2a2piUTJJZUQ1cDFramFWZDZfR09vMG5Zc0pLZW1Xb3RWVXFXYlRVT1EzczRYUUZWY2NaWk9n?oc=5",
+                "pub_datetime_utc": "2026-10-20T13:35:36Z"
+            }
+        ],
+        "last_updated": "2026-10-20 23:21:43 KST",
+        "current_rank": 19
+    }
+}
