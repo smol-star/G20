@@ -2,69 +2,69 @@
     "United States": {
         "gdp_rank": 1,
         "spike_score": 75.0,
-        "previous_rank": 14,
+        "previous_rank": 1,
         "trends": [
             {
-                "keyword": "Russia frees retired American ",
+                "keyword": "Russia ready to resume talks w",
                 "hook": "United States의 최신 주요 뉴스입니다.",
-                "script": "Russia frees retired American ",
-                "original_title": "Russia frees retired American teacher as Trump envoy meets with Putin - NBC News",
-                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E?oc=5",
-                "pub_datetime_utc": "2026-10-21T10:54:39Z"
+                "script": "Russia ready to resume talks w",
+                "original_title": "Russia ready to resume talks with Ukraine and US to end war - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
+                "pub_datetime_utc": "2026-10-21T15:56:21Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:45 KST",
+        "last_updated": "2026-10-22 02:17:17 KST",
         "current_rank": 1
     },
     "China": {
         "gdp_rank": 2,
         "spike_score": 75.0,
-        "previous_rank": 1,
-        "trends": [
-            {
-                "keyword": "学习手记丨走好我们这一代人的长征路 - 新华网",
-                "hook": "China의 최신 주요 뉴스입니다.",
-                "script": "学习手记丨走好我们这一代人的长征路 - 新华网",
-                "original_title": "学习手记丨走好我们这一代人的长征路 - 新华网",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWhLQ0N5V205NVRRVE40UW9vYjFoOG1jMkhxcE5VdHRBY21vOGVJZ1R5dTFPT1liYm5GVy1FS0xBRGdsWnlJRzE4cV85MF9NTm9zZDBBR1R2b1h2aS1yQnNvbjlGZERRU1Y5TjVNeTBfZXFILVZ3RzNaNjdMOHNhOEZVZnFHVTJMTW9kQ3RB?oc=5",
-                "pub_datetime_utc": "2026-10-21T11:03:11Z"
-            }
-        ],
-        "last_updated": "2026-10-21 20:57:45 KST",
-        "current_rank": 2
-    },
-    "Germany": {
-        "gdp_rank": 3,
-        "spike_score": 75.0,
         "previous_rank": 2,
         "trends": [
             {
-                "keyword": "Wer an den Ausschreitungen in ",
-                "hook": "Germany의 최신 주요 뉴스입니다.",
-                "script": "Wer an den Ausschreitungen in ",
-                "original_title": "Wer an den Ausschreitungen in Frankreich beteiligt war - tagesschau.de",
-                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3hfdXYxeTUzVlpwcWFsOEJReTZZX2JZVl80UVpVSEZzZ3BZX1NaZmEzMTg5dWhyQjRmdDRlSmROb1RZdXpJdlVHTjNpS3hTdjVRNWRSTUwzdmZUeVVYSm5NaXlBdTFkazZ1bEpKY3oxYXNMdFg2bHR0OENMSTlCblpn?oc=5",
-                "pub_datetime_utc": "2026-10-21T08:52:00Z"
+                "keyword": "长征胜利90周年：山河镌刻信仰，征途映照初心 | 新京报社论",
+                "hook": "China의 최신 주요 뉴스입니다.",
+                "script": "长征胜利90周年：山河镌刻信仰，征途映照初心 | 新京报社论",
+                "original_title": "长征胜利90周年：山河镌刻信仰，征途映照初心 | 新京报社论 - 新京报",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRdFdGZDlSQ1VPc2ttU0ZqeEVBUjN4YlJSYXI2OVdlTGpyNGNIX3hGRVdoTlhUcmNYQkhVbEt4aDFDU25lMWhldmpnN01yQnRWUkdOTmhBdlRVZl92bzB1d3lETzc?oc=5",
+                "pub_datetime_utc": "2026-10-21T14:16:00Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:45 KST",
-        "current_rank": 3
+        "last_updated": "2026-10-22 02:17:17 KST",
+        "current_rank": 2
     },
     "Japan": {
         "gdp_rank": 4,
         "spike_score": 75.0,
-        "previous_rank": 3,
+        "previous_rank": 4,
         "trends": [
             {
-                "keyword": "【速報】秋田県にレベル5氾濫特別警報 命を守る行動を - ウ",
+                "keyword": "秋田・子吉川が氾濫 ４５０世帯に緊急安全確保―特別警報発表・",
                 "hook": "Japan의 최신 주요 뉴스입니다.",
-                "script": "【速報】秋田県にレベル5氾濫特別警報 命を守る行動を - ウ",
-                "original_title": "【速報】秋田県にレベル5氾濫特別警報 命を守る行動を - ウェザーニュース",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zZlFxOXFGbjI3alc0UHVpU3RRZEF6aVZMZ1FwNFNOSjZXcTY2clRoZWQ3WVE1aERqcExXczFKUjc0cWdYTDY5SjRYd3BRM1JsX1J4dA?oc=5",
-                "pub_datetime_utc": "2026-10-21T10:48:00Z"
+                "script": "秋田・子吉川が氾濫 ４５０世帯に緊急安全確保―特別警報発表・",
+                "original_title": "秋田・子吉川が氾濫 ４５０世帯に緊急安全確保―特別警報発表・気象庁など - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qb3IzRlRNZjhucE1NR3VnM1VidnFtMHR4NVZfX3piR091U2pYWGNTUkYyS0NTclM4SWsyenRVY0k0N3FpNzl4YTBQTGdKVlN3cWNXYUZ1aEtrRnhqT2RDNGxQZw?oc=5",
+                "pub_datetime_utc": "2026-10-21T13:28:00Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:45 KST",
+        "last_updated": "2026-10-22 02:17:17 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "CJP Leaders Saurav Das, Ashuto",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "CJP Leaders Saurav Das, Ashuto",
+                "original_title": "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains... - Live Law",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdThGS0VKZ29QXzROLURfSV9wWGR3cDVPLUFxb2NKSUJoWjR1XzJ3Y3pqUXY3bC12UnZ5am9TQjhZZkI1U254WWhoU0hhbmpiSGFqaHAxcHMtUHRYOXhfR2x4bXNJWFQzdWMyRWJsWmJZb09WNjZ2SnQzMk9lUGNlZjB6WnhneElwaHlmSDZUV0RxdVZRNG54S0U2V0ZDdFBKdnpSd0E1Rm1acEFzcTczY2NMWGQ0SVRjR2ktNWZ0ZlRpTjdGRGpyWEV3czloR05uZ0ZzV0VOdmFpS2VqT0V5VW03OGRULVF5MFBzSNIB8gFBVV95cUxNOGptSXVqN2tUb3JYNGpUYk1QSFE0NVBTRkdvY2otUmRNdDdCeW1zcmgybUtCV0hFRnl0RlFIVFVvRGc4YmtKbnNUOHRjb0hrVF94dWZnT3BVZjRMUnViYWtMSnZwbUEzT2dHeU5ZeHNXTUlDMFI5NjNVcW5pcGNIbXI3VTRhRkNBRERZeUF5U1pBYWI0aW1ZMndra3FsUXotTDJ3RDJiczZ6RXpjR2Eta3RNdHAtdWJSREtiZUhqaG5weGVqcUw5cFl1QkdEQkZPby1PSnh1UVNmTXdZRFlpQzduUWhKT2Y4QWNkUGJXWVZ0Zw?oc=5",
+                "pub_datetime_utc": "2026-10-21T14:52:48Z"
+            }
+        ],
+        "last_updated": "2026-10-22 02:17:17 KST",
         "current_rank": 4
     },
     "United Kingdom": {
@@ -73,32 +73,32 @@
         "previous_rank": 5,
         "trends": [
             {
-                "keyword": "UK government approves drillin",
+                "keyword": "Burnham defends Jackdaw decisi",
                 "hook": "United Kingdom의 최신 주요 뉴스입니다.",
-                "script": "UK government approves drillin",
-                "original_title": "UK government approves drilling in Jackdaw gas field with production to start this month - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WSEQyZHRKSUhqQy0xSHNjalctTDlRRURmN2xKMHp5a1RRYmV5eW9Qd09Kd0liQmM4X3pMUUd4SFlOak1VV2dRcDVtem5kX2poZFM2aGI3M2g?oc=5",
-                "pub_datetime_utc": "2026-10-21T11:29:39Z"
+                "script": "Burnham defends Jackdaw decisi",
+                "original_title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRGtwV09PTmxRM2Y0ajk4NGdfckdoMnNBajRoU2puRHN4Ym1DODRUakFjc2p2VXE3Z2I0OEZjbzNieGxBTGtZbTM1T0NIT05CWTZmampqelJvaUpE?oc=5",
+                "pub_datetime_utc": "2026-10-21T14:18:23Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:45 KST",
+        "last_updated": "2026-10-22 02:17:17 KST",
         "current_rank": 5
     },
-    "Italy": {
-        "gdp_rank": 8,
+    "France": {
+        "gdp_rank": 7,
         "spike_score": 75.0,
-        "previous_rank": 6,
+        "previous_rank": 18,
         "trends": [
             {
-                "keyword": "이탈리아 전국 비상",
-                "hook": "전국을 강타한 악천후와 시위, 이탈리아 정부가 긴급 대응에 나섰습니다.",
-                "script": "이탈리아 전역에 오렌지색 기상 경보가 발령되면서 학교가 폐쇄되고 대규모 시위까지 겹쳐 혼란이 가중되고 있습니다. 피안테도시 장관은 지금껏 본 적 없는 위기 상황이라며 경계 수위를 높였습니다. 자연재해와 사회적 갈등이 동시에 터져 나오며 이탈리아 당국이 총력 대응 중입니다.",
-                "original_title": "Scontri a Milano, vertice in Prefettura| Sala: «Sabato sarà una giornata delicata». Piantedosi: «Qualcosa di mai visto al mondo» - Corriere Milano",
-                "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPX1VvdURsYzg1aTNBY1RsQXBoUE9pUTVNeGdiNkJXYTV0VUxyenh0djdzZGVDb3JGSVQtYVNveTQtU0xQc1htRjJOQ3RNUERfMTZCSzg4OXQ1SV95R0VlVDZzRG8yNTFHcGliLVhsYjNqc2doeE5qN2NibnMwMGtlUFFVb2NTckZfOVlRdE1RWUktUWtqYXZaUTd1V29wdzlibTVQdlBGdV8tR3R5RU1NZGRyOTJFOFFEZlpmUTRLZXhhNTJ5Unptb2ZhelpPZzg3VVVWMHA2S0VFbnBkN2JUYThuMV9NUzdlMEpQWGdyZWhwUWhJaE9ZOS1fWG5uR3QtWDVhX2piblJZb1E1RDNYSW9NOS1mRjJiLTB3cW1vVDDSAaYCQVVfeXFMTW11cEhnR3JTNE9EcGNnQWttRDBBNTlQSXlmb1RWS1VHb2NKQjRCV3dtSnpqQlZoeEVZQTBhT0Z4QnJSR1dXRjl2VjJfSzkzVkNQaU5YUld2NG5lSGpRNVZQQ1p3UXpYSnY0akxYcXV1b2g3SG5xU09xTjc1MWxEc05tSkJPLV9uWkhvMkViMzNzaTZIVl91czB2YzlsZVZYRlRBdlNGMlpvX3BWMHA1SUNGclpFQUtEa2NmUlNITGo1aFhfcFVEVlZUTDVlNnM0OFRzd1JhVTZnS1JKSDZDNUhrY0RlVXprLWlVMC10OXdpcF9vSEMzQmdBUmRLNFg4ekUyLVdicnMxUDdYTk5sRnd2bkxkOXNyenBiVVA4dmxJWDN3U2h3?oc=5",
-                "pub_datetime_utc": "2026-10-21T10:42:51Z"
+                "keyword": "Affaire Thélyson Orélien: son ",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "Affaire Thélyson Orélien: son ",
+                "original_title": "Affaire Thélyson Orélien: son éditeur canadien annonce que l'IA a été utilisée dans l'écriture du roman \"C'était ça ou mourir\" - BFM",
+                "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZTdJOUk3dlAtTWlRcWtuVmhvNThKTUQybklpalNIY3A1YjdEOGZfdms3enROOTZOc2pFQnJpVGYtMnNyUzJPN3dxT0dlcFFpemdsNUZqMnJDTENQbHMyVXBzMVBVdXdKeVpEY1MyYkthSG5jaktyM1h1aU02Q1RGaXVraUNFOEcxeksyWEUycDBjTmN1OEFVUlhNb1BhT0JzSjhRTnNBT3ZleGNzdVVpSVJzTzZ5emZ0Qm1QcEtuMko5WUQ4dUFjdW40c3JkWktPZE55VnAzeWo3cEVCQjVJTDdqZ0pxeDNjeE5vMW9IV0JLWl9DYVFJb0xUYmZDQnoyLTZNRVZzT0RuTTkxMnZaUXdR?oc=5",
+                "pub_datetime_utc": "2026-10-21T16:16:31Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:57 KST",
+        "last_updated": "2026-10-22 02:17:18 KST",
         "current_rank": 6
     },
     "Brazil": {
@@ -107,15 +107,15 @@
         "previous_rank": 7,
         "trends": [
             {
-                "keyword": "브라질 선거 막판",
-                "hook": "대선 2차 투표를 앞두고 브라질 정가가 다시 요동치고 있습니다.",
-                "script": "브라질 대선 결선 투표가 5일 앞으로 다가온 가운데 투표소 변경 문제로 12만 명의 유권자가 혼란을 겪고 있습니다. 룰라와 볼로소나루 양측의 공방이 격화되는 가운데, 정치권의 부패 의혹까지 잇따라 터지며 브라질 민심이 흔들리고 있습니다. 마지막까지 예측 불허인 브라질의 선거 판세를 주목하십시오.",
-                "original_title": "Lula x Bolsonaro: o que indicavam as pesquisas a esta altura em 2022 - CartaCapital",
-                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLU1ndjRTV0lCSzZWOWhiZ0cxemtUMDNYVnQ3bHBkUmRoOEFwWTRmZFk0X0Z2R3llbUNJVEJ5QUZQQlhpYnpGWjNOMEEyek9VVWhoTm4zTmx3TE8wZ3hGYzRjME1ENjY5MUJucHVoWW41ZWNIMHF2Rm5odmVIeDN0Vi1ZNEVzUGNXSUdlcEo0YTFuX0lHZk9qcnlFQ21UM3J4b0g2MWZkUFZXbDNXT1E?oc=5",
-                "pub_datetime_utc": "2026-10-20T16:38:00Z"
+                "keyword": "Quaest, 2º turno: Flávio Bolso",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Quaest, 2º turno: Flávio Bolso",
+                "original_title": "Quaest, 2º turno: Flávio Bolsonaro, 45%; Lula, 44% - G1",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFJ3TXllS0xFWHNOeXhaYkFDZEFWR3VaQ1lxLVl4SEJXUnRxbENBdzhtbHFVRDd3UXhfNHR0OVFlXzNnM2JiOFVMV1UyejdyZnprU2JWbDcwV0FrYUczYncwVUtFUlVKNlItYnhrVXFyYWRabjZqU0VKOUJtMnh5azBzelUxalhRODRrOEo5OTd1ZnQ2Yy16eGRuSVh3eTdwaXZaMUpxS252QUVHOUI3TnZQWUlCRGfSAcYBQVVfeXFMTnRzTE5qaWVQOGZLY1RJRHZHcU5SaEJWWWN6S2l0c2MzWktpSWFPN0tlM2JzTFRERnZBb0Q3b1YtX0U2RmdlMGlrVm5ick5HM3ZtSUliSVZQYnJHSWlWVnNPc1NZWl9SMWhyUjZsME9wMFRHT2h0TGgwLWdQYmVHY1VOM0w0Vnk1VjV1bGhiY2RXbEdDR3A2SkFuRzNVUm1YT1RON3dlSWpKS0J5bi1mcWhINWV4cVI1ZnFnX2xxam9BQklocUhR?oc=5",
+                "pub_datetime_utc": "2026-10-21T13:16:06Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:57 KST",
+        "last_updated": "2026-10-22 02:17:18 KST",
         "current_rank": 7
     },
     "Canada": {
@@ -124,202 +124,202 @@
         "previous_rank": 8,
         "trends": [
             {
-                "keyword": "캐나다 분리주의 갈등",
-                "hook": "캐나다 연방 유지인가, 분열인가? 대니얼 스미스 총리의 단호한 선언.",
-                "script": "캐나다 내 분리주의 움직임에 대해 대니얼 스미스 총리가 더 이상의 분리 독립 투표는 없다고 못 박았습니다. 동시에 150만 건 이상의 범죄 신고 정보가 유출되는 보안 사고까지 터지며 사회적 불안이 커지고 있습니다. 국가의 미래를 결정지을 중대한 정치적 기로에 선 캐나다의 상황을 전해드립니다.",
-                "original_title": "Danielle Smith makes plea to separatists in televised speech, vows no more secession referendums - National Post",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNFN4QWxMZk0wSDVFMFFZVlJwRFFrbzJXVUpQUEJoWHg2VWItSDJEYlVzdndQYkRjZ3FxR1NqUEZmQTY2ckdaVUtFMksyeWxTVnIyVWJLbFpXeUFSWFFFZ0tXbkdXSjRVelp1bk9Obw?oc=5",
-                "pub_datetime_utc": "2026-10-21T01:43:19Z"
+                "keyword": "Alberta referendum results sho",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Alberta referendum results sho",
+                "original_title": "Alberta referendum results show Canada does not work, says St-Pierre Plamondon - Montreal Gazette",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVZINUxPLVdXazNLTGZGdGtGLXkzMXhtSFc4dGhFWmZmZlNCbkcyUkZubUdHLTJWZk5leXpsSGNKS3dlYm50S041MGlmWF9jLXlTOGQ3SEM4NmZoNFk1aTJxRUE3M21vODlTaHlNSUNBRmQzdnQ4dVYxc1JzSHduWnNoZHRtZHRlOXJObWlDay13TXNuTDQ3amFHVUptNWZ2S1lxNFNIdktvQV80aUQwdg?oc=5",
+                "pub_datetime_utc": "2026-10-21T14:01:19Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:57 KST",
+        "last_updated": "2026-10-22 02:17:18 KST",
         "current_rank": 8
     },
     "Russia": {
         "gdp_rank": 11,
         "spike_score": 75.0,
-        "previous_rank": 16,
+        "previous_rank": 9,
         "trends": [
             {
-                "keyword": "러시아 키이우 타격",
-                "hook": "러시아군의 강력한 공습, 키이우 일부 지역 전력 공급 중단.",
-                "script": "러시아군이 키이우의 주요 전력 시설을 정밀 타격하며 도시 일부가 암흑에 잠겼습니다. 푸틴 대통령은 미국인 허바드 석방을 발표하며 서방과의 외교적 셈법을 복잡하게 만들고 있습니다. 격화되는 전황과 국제 정세 속에서 러시아의 행보가 세계의 이목을 집중시키고 있습니다.",
-                "original_title": "Главное из заявлений Путина и Уиткоффа на переговорах в Санкт-Петербурге - Ведомости",
-                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaENITlFGajBZYTlOa1hBQ1FxV3I2T1FJUk5VXzlFX1RQQVkxYXF0MlVDQmo0Y1VkRExvNFBJN0hRWGdWb05oalg3OGRzYnYxXzl1Yk9LeHVvTkI4cFpkaVM4M1hXY3NPYmJZbWV0MmJJd0hROFYwNnhqd2ZVX1RZUG01Y2JnRURUbGVnN2xXem1ISmo2?oc=5",
-                "pub_datetime_utc": "2026-10-21T10:02:28Z"
+                "keyword": "Встреча Путина и Уиткоффа в Са",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "Встреча Путина и Уиткоффа в Са",
+                "original_title": "Встреча Путина и Уиткоффа в Санкт-Петербурге завершилась - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjlLLVk3ZXBkUDRWZVpfSkVVMDRMclhlQnJjczZ3T18ycS01RTVDZjlnYzI4UldjVlo2RmJCM1l6X3JtRUFOOTk5bE9zbU1qWHBfQTRrTVY5WVJfdVVjMmNtVjEycFZhWDJVay1EQUU5TlZqMlM4RjRfVkp3enlmNFJqWFA?oc=5",
+                "pub_datetime_utc": "2026-10-21T12:09:12Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:57 KST",
+        "last_updated": "2026-10-22 02:17:18 KST",
         "current_rank": 9
     },
     "Mexico": {
         "gdp_rank": 12,
         "spike_score": 75.0,
-        "previous_rank": 9,
+        "previous_rank": 10,
         "trends": [
             {
-                "keyword": "멕시코 실종 사태",
-                "hook": "유엔에서 드러난 멕시코의 민낯, 지자체 공무원들의 실종 연루 인정.",
-                "script": "멕시코 정부가 유엔 무대에서 자국 지방 공무원들이 실종 사건에 가담했음을 공식 인정했습니다. 셰인바움 대통령은 의약품 공급 지연과 사회적 갈등 문제로 바쁜 나날을 보내고 있지만, 인권 문제는 멕시코의 최대 난제로 떠올랐습니다. 어두운 그림자가 걷히지 않는 멕시코의 현재를 살펴봅니다.",
-                "original_title": "México reconoce ante la ONU la participación de autoridades municipales en las desapariciones - EL PAÍS",
-                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOEFyOVAzdURwZUJBN1A0SnZJZlpJeTI4ZkJpdjRoaGV5TXZkaTFaSnMyeXdZTmREWFcyaUoxUTdSOTUtQWZaLWFoeU9QLTlKV3VqXzNCcmZiU0RaSmh5b0hOUXZacWZxUnUwR2lsZlQ4LWI5RHFzY0lOZHloV05DcllGRUQ1M0d3ZFZjS3lPbUtCOTVMcFNXTGJhbkhFQ0ZNenEwTTVRMXBITE1GRmJxVFhsb3ppa2xHYUNmdkxvdGFzMVRBNjdNbEpkOGZsWURv?oc=5",
-                "pub_datetime_utc": "2026-10-21T00:15:29Z"
+                "keyword": "Prisión preventiva para César ",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Prisión preventiva para César ",
+                "original_title": "Prisión preventiva para César Jáuregui por traición a la patria - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUo1a1VIcVEtTFpadVZwRmVzNGFlMWk0SXdFSjRTNDNZR0E3RjgyXzF6WXQtd0N0NjdGSXhCUUhrZnlqcVNBNjFxck9aS1BabmYtbEd0RDctVFNyWGtLZFJZckJrMjA5V1BQei1ROG9uZ0Z2WVM1QzYzOFpjbWZMTXlvOTRVdW4zZWtpLTM1aHpuZFVoYjFOLXN3aTg1dEZmZGdWWWtTY2doQjIyNEc5OW81Wk53QQ?oc=5",
+                "pub_datetime_utc": "2026-10-21T09:30:00Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:57 KST",
+        "last_updated": "2026-10-22 02:17:18 KST",
         "current_rank": 10
     },
     "Australia": {
         "gdp_rank": 13,
         "spike_score": 75.0,
-        "previous_rank": 10,
+        "previous_rank": 11,
         "trends": [
             {
-                "keyword": "AI와 청소년 범죄",
-                "hook": "호주 사회를 뒤흔드는 AI 기반 청소년 범죄의 공포가 현실이 되고 있습니다.",
-                "script": "호주 연방경찰이 인공지능 기술로 급격히 확산하는 청소년 범죄와 급진주의에 대해 강력히 경고했습니다. AI를 악용한 범죄 조직들이 더 어린 연령층을 유혹하며 사회 불안을 가중시키고 있는데요. 치안 당국은 이를 막기 위한 특단의 대책 마련에 나섰습니다.",
-                "original_title": "Husband of Helen Haines says critically injured MP is a 'fighter' - ABC News & Headlines – Australian Broadcasting Corporation",
-                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3E1U25uLVVQOG5aSDN6alhBOUdvR01JMHVUSEZXLWVMQWdveU1LSC1SLUZwMVZSWFlVZ3VZNEE4LWdUNUNrQm13ZUN5eWdwQ0tmQlJPaHlaSWpCVHJvZmFiSEJTZ2VvTjdCbmppdXFWV3lwNFM3M0dkaFRzMERWREpULTFzbVBSMS1hUmNPMTBobC1kbW1Mek5taDZKak0xQ1lQMkFmbEFHQQ?oc=5",
-                "pub_datetime_utc": "2026-10-21T07:12:41Z"
+                "keyword": "G-G Sam Mostyn leads nation in",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "G-G Sam Mostyn leads nation in",
+                "original_title": "G-G Sam Mostyn leads nation in times of crisis - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOW02UUplTmJ6NndoQkFKTU1Cazg4LTh0QVlMUElCWWJMdDlFUWl6LUxEWm9FUEFnbzhCRjJUSXFGRUxLZ1dfUU02VmFWaHUzUjJDX2J0LUZJYTlEQmY0NWQ2QWJ4akp0N05Oc3luTVlGVUY5ZUZ5c2tRNnZGNEs4YV92RHkwYzFIY0VleFczdVpoTXdYdVYtUmNpLWcyTmNMdkFGZnZrc05GeWxhcnhzMnNmdGJJQ04xRmtqdVk2YkpHajFwcHpoUzk4UjFCWll4SHJrc21FNjVyTU90cVRrR3pSNmkzOVlKaUhkOHVHTlVkLTVlZFYwemFMemd5eS1aZjM4Sm5IUFZHUXhkNFNiN1dDUTU1UQ?oc=5",
+                "pub_datetime_utc": "2026-10-21T09:18:25Z"
             }
         ],
-        "last_updated": "2026-10-21 20:58:02 KST",
+        "last_updated": "2026-10-22 02:17:20 KST",
         "current_rank": 11
     },
     "South Korea": {
         "gdp_rank": 14,
         "spike_score": 75.0,
-        "previous_rank": 11,
+        "previous_rank": 12,
         "trends": [
             {
-                "keyword": "김여정 대남 위협",
-                "hook": "김여정의 잇따른 도발 예고, 한반도 긴장감이 최고조에 달했습니다.",
-                "script": "김여정 북한 노동당 부부장이 우리를 향해 노골적인 경고를 쏟아내며 대남 확성기 가동을 예고했습니다. 연이은 도발과 위협적인 언사로 한반도의 평화가 다시 한번 시험대에 올랐습니다. 남북 관계가 한 치 앞을 내다볼 수 없는 강 대 강 국면으로 치닫고 있습니다.",
-                "original_title": "김여정, 한국 향해 “무한괴한들, 오늘 두 곳에서 경고도발 방송과 경고사격”…이달 중 대남 확성기 가동 예고 - 경향신문",
-                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKeEc2T0RoU2JORVp6SURCU0tKeUJsSEFEaW5faEJDQzl2SldZajhmaVhGdk1DNm1jRlhwR2hDVFBEckpqdnRDU0JPWUQxMkZmQVN4bkNERmlKdw?oc=5",
-                "pub_datetime_utc": "2026-10-21T11:19:00Z"
+                "keyword": "북, 요새화 완성·DMZ 포병대 배치 엄포…남북 ‘강 ",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "북, 요새화 완성·DMZ 포병대 배치 엄포…남북 ‘강 ",
+                "original_title": "북, 요새화 완성·DMZ 포병대 배치 엄포…남북 ‘강 대 강’ 우려 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsUVJDV1c2Umw2NFV1clZVVFh1dU5CRFQ4N05mZTNIQVJTYjNHQ0gzMXQ2aTdURDN0cWg0a0NmSG0zQ0FUM2o1THM0N0JPTzRMajZlY2U1bllQSVp3Tl9jcGxZZk5CaHBn?oc=5",
+                "pub_datetime_utc": "2026-10-21T15:50:00Z"
             }
         ],
-        "last_updated": "2026-10-21 20:58:02 KST",
+        "last_updated": "2026-10-22 02:17:20 KST",
         "current_rank": 12
     },
     "Indonesia": {
         "gdp_rank": 15,
         "spike_score": 75.0,
-        "previous_rank": 12,
+        "previous_rank": 13,
         "trends": [
             {
-                "keyword": "Sidang Kabinet 2 Tahun Pemerin",
+                "keyword": "Kapolri: 11 Korporasi Jadi Ter",
                 "hook": "Indonesia의 최신 주요 뉴스입니다.",
-                "script": "Sidang Kabinet 2 Tahun Pemerin",
-                "original_title": "Sidang Kabinet 2 Tahun Pemerintahan, Prabowo Beber Alasan Koalisi Besar - detikNews",
-                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEk2R191eldEXzdpbG80RXg1bU9velVJdDJpX3FZYWpXSzNMT19hVV93VmNGU0dyLUV0bHd4M0o2VUIxd2lxSmNlN2ZhMjc1alVDYjJ3YnA0aXltZ3NKRWdHejN2cFNOaFZzUHRJTnZMcGhkMjVNOTFMdjZ4RzdZaWREM1RCeWZ3SmRpRzA1NGwwYlhDbWF4VmZaSEJzYjM0cEQyVTc5NjRFZVN3SVN30gG0AUFVX3lxTE9CT3NKUkFCMncyQTRDV3pDTTVaNVNzTXY2SWJEZlZJNXpQenRVNC1mQm8yRWM2N3lLZjZXVTJtNzNlMU9WUkVRR0Y1aVFYckxYUHVYVkVpM3hYeGdMRV9YVVV6WDNJYzhqUmp3UDJCU1NVNDJuMTBZTl9pdm5laWF4eGs0OXUyWXZ6UDRfaVpvWm1tR19MeDJwbjZWdlpWbTJEbnpPTjlJSHpteWZyaVcyNDRyeg?oc=5",
-                "pub_datetime_utc": "2026-10-21T09:33:18Z"
+                "script": "Kapolri: 11 Korporasi Jadi Ter",
+                "original_title": "Kapolri: 11 Korporasi Jadi Tersangka Karhutla, 3 di Antaranya Investor Asing - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHZBdjVHUlBGeEdUUjNtMmNtODZJZ0tkX3lsVXRZNGVFUE8zXzFpLUQyazdXSUxONmk5OVpLU0g5T1QwTkthaDdTbHEzWGNpVTlWQXE0WDZ5aEJseWFDdjZIaHAtajlYWk44UHNFVV9PcmI4bkFfV2xYR1ZPTE5VZFZBVnRlbm9sT0hIcm95Rk5ha19OS0xuVHJhai1ieTVjSEJXdVdCWGZoZHJncFc4ZkcxcGPSAboBQVVfeXFMTUVSaTBWRlg2TmVTRWRBNERQZS1KQVFFQzZ4eUVvN0pJRVkyTlV0QlZ6RWNLR2NYMUUyeUpyUGcwWnBRV2FFQ3lZaTMycGtmRmxUNFJMNkhUdy01T2dkYjFKZFhUdlRVUFcwem9tNy1TVWI0TlFWeVAwWFRyQ3ZXNEhLSWFqUjB2TXR0dE1WSHBsUE9LQlZZbTNyenc5aTBWVW9Rc3hEVXVUbGlfUGR4dHZvRFNOajM3MGZn?oc=5",
+                "pub_datetime_utc": "2026-10-21T13:20:52Z"
             }
         ],
-        "last_updated": "2026-10-21 20:58:02 KST",
+        "last_updated": "2026-10-22 02:17:20 KST",
         "current_rank": 13
     },
     "Turkey": {
         "gdp_rank": 16,
         "spike_score": 75.0,
-        "previous_rank": 17,
+        "previous_rank": 14,
         "trends": [
             {
-                "keyword": "탈세 수사 확대",
-                "hook": "튀르키예 정부가 1,000만 리라 이상 고액 탈세자들을 향한 정조준에 나섰습니다.",
-                "script": "심각한 경제 상황 속에서 튀르키예 재무장관이 대규모 탈세 혐의자들에 대한 사법 절차 착수를 공식 발표했습니다. 이번 수사는 국가 재정 건전성을 높이기 위한 고강도 조치로 해석됩니다. 불법 자금 세탁과 탈세에 대한 정부의 엄단 의지가 그 어느 때보다 강력합니다.",
-                "original_title": "AYM'den Yeni Parti'nin ismi için karar - NTV Haber",
-                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnBuT0EwU1hIbV9zOXZMdlRXS2dEenpZazhYZXducElNS05YSnV4cXdzZEVObzlyMEZNWDBZcHZuVFQtdTFYQkVRdFdSNEVscGVhR1VhNklvT0dZUEgwS3NmaHF6MW9NaS0tc0pRY2lPM3VhcGtJb0ltY2lWdUdPYWplTUROYksxbnpjd1Z6VFZIN0puVUJZTlFPSdIBoAFBVV95cUxQZGZ4WEFRRmJEN1NMazR6TEpudVdGNDVSYzlDTl9GTk1FVURTZE9YVjNWQldIOF9ETllydG1LOXVtWDNEaXg0Nnh1UGNsUHl5aWFIV20xeFdhWk9PVG5EOERudTBfS1MyUkhfU0EyMndOczdKWUFrZklSbVA0bFc2QkFCajNXZ2lfellHVk84U1hWRFc3UkRYbnVnUGRha0hP?oc=5",
-                "pub_datetime_utc": "2026-10-21T09:47:06Z"
+                "keyword": "Diğerlerinden farksız bir patr",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Diğerlerinden farksız bir patr",
+                "original_title": "Diğerlerinden farksız bir patron ailesi: Mal varlığına el konulan Altınbaş Holding’in rant ve vurgun karnesi - soL Haber",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVk1pNkg0a1Q4cDhWelZGRG1uNE9UdzlJazdJd0NCczl2TUFELW44SkNFUVJiTHBFcHdtN0xQVzlBQXhBSncwWFlNZC10NVlrNFdxaDBBQXNrc28xNzh5bGtMYWNkNEw1VUtpTjQ5b3VwTHFBOGNROWJEcDNnVng2M1pvNkRhckJoWERKaGhsQVFIMXJjYXZPSGwzdk9mMEp0YU11UTJ1RnVxY0xOU0lGcWxKSW54N3VuOVUxcHZHWQ?oc=5",
+                "pub_datetime_utc": "2026-10-21T07:02:10Z"
             }
         ],
-        "last_updated": "2026-10-21 20:58:02 KST",
+        "last_updated": "2026-10-22 02:17:20 KST",
         "current_rank": 14
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
         "spike_score": 75.0,
-        "previous_rank": 18,
+        "previous_rank": 15,
         "trends": [
             {
-                "keyword": "후티 드론 격추",
-                "hook": "사우디 상공을 위협하던 후티 반군의 드론이 연이어 격추되었습니다.",
-                "script": "사우디 주도 연합군이 메디나와 동부 지역을 겨냥한 후티 반군의 드론 공격을 성공적으로 저지했습니다. 후티의 도발이 멈추지 않는 가운데, 영국 전투기까지 가세해 사우디 방어 지원에 나섰습니다. 에너지 안보와 항로 안전을 지키기 위한 국제적 협력이 긴박하게 돌아가고 있습니다.",
-                "original_title": "التحالف بقيادة السعودية يُعلن اعتراض وتدمير طائرات مسيّرة في منطقتَي المدينة المنورة والشرقية - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qWUEwaHNvV3RLYVYtMTZ1aVppZTJ3NW9GRTlHMUZETERNcHZBTXJMUlhLUGJrZ2VMRVRLOGI3aGwzXy1rYTRZRzVYSWktZ3FuRm01aDJkU2NWa1B2YkHSAWNBVV95cUxPblhIeWM1SXE3Z3ZBMFAwaHcyMUZZeFJUZXhGT2tIUzlpQm5FVHZHS2lCb1FDV1lBM0RBUzc0MG4yOEhqU3RzTFBLYkVDdERhbGZ2V00zMjJkM1ZSbllUQmNtd0k?oc=5",
-                "pub_datetime_utc": "2026-10-21T08:35:39Z"
+                "keyword": "الحوثيون يوسعون هجماتهم.. استه",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "الحوثيون يوسعون هجماتهم.. استه",
+                "original_title": "الحوثيون يوسعون هجماتهم.. استهداف مطاري عدن والريان - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQeFZBblJXUlJDa1ZyUmNpNG0wZHVjdDVhZ0c0QVZVV2hVNWpZajJVMnRsMF9LSmpkdXFvUW5UeTl4SDlFTjlHYUJkaHlPem9WcUJtMmVJdjI1Y0lsXzYzSE9QeFV3ekg0eU1FZGdJcHhObkt0eUpFMC1MeEc3MkpkYzVLbC0wa2VpYktJeXplX1YwMDBNcklxZXhkTlpDSUFCZE1SR1FYSjVMY1FQRlItTXZpdjhDdVFyTW4yTDJWYVRVRkhESmtjY2dRZzVSVkxrQ0E2LUc5X0t0NUItMzZneE9vODFaOWpuUXphbHljMVRJNzljUk4xclVISDFzR29yWWFxSFJBVE1WRjRIektVZnNieFRfMUJJbTV2NFVPamo4YldLbm9XR2pZbWJ5bjJRMjNpUkRCbmI3UE5rVTJzcnYyaE8xM3dWMTVTSjQzeElKMGkteEstazFXSEl2Z0FZajdEcVF2NXFCQ2RMc2dzeS1xWHYxUTE1SXZMYXJONUhDU0I2TE95MjhlNklVdnlaY0JKT09lRnJWUjlETTlZS29MX1BMTHZWWTF5ekZEaTB0ZFZoTzZqb0p6d2s4T3PSAcQDQVVfeXFMTVhzdXFvU1ppeEswakl0YVJrWHJYZHNqN0hfNTBoZU9nSnl3aHk0UTNiWk9sWDdlMkJQem5SUWh3cVFJaVJTVVZWRFlQZFYxT2d3cEZNM19yOUpCMnZmN2Y4TEl4RTR0MEpwZ0l0dDZuTjFqd2I1ZGE5bEhWRTJvUnNZcHhsWVVudHl4WXZtSDRYRWRObFF1TzllZmtSTXB5aWhkY2szejM0RDlrMWxnUFh5RC1ydUtzblo5TXNFUDJ6LXQycE9ORHljZzRWLWdlMW5XRUJqNUktVmVfbmxnYlh4c2dnS0syaXhZMVJYTkd6NmEzZ2pqTHFxU09hd3pXVTdISG12aDV5V3R2UGxPNkNGNlh4NmliNEJodjBGelhuOVJrUUw2ODhrNnFKRWVRWDhORFRVMFRmcmppS0VoWU0xdFFsYk84SU9UcFpyV0hzaWZjNGgtaDJib0d4dERnams4cldHU05WczVmWDU2ZnZGQzM0Rm83QWhlQ3MtYnl4X09yU0N1Q0ZuSHdtZzhEb0M3cE81TU0yM0JoeTItWGV6YVR5ek1ZdThJZzZmZG45LXg5Y0FNcS04SGZFUlVVOEFGOW4?oc=5",
+                "pub_datetime_utc": "2026-10-21T11:32:01Z"
             }
         ],
-        "last_updated": "2026-10-21 20:58:02 KST",
+        "last_updated": "2026-10-22 02:17:20 KST",
         "current_rank": 15
     },
-    "South Africa": {
-        "gdp_rank": 20,
+    "Argentina": {
+        "gdp_rank": 18,
         "spike_score": 75.0,
         "previous_rank": 19,
         "trends": [
             {
-                "keyword": "Bomb threat at King Phalo Inte",
-                "hook": "South Africa의 최신 주요 뉴스입니다.",
-                "script": "Bomb threat at King Phalo Inte",
-                "original_title": "Bomb threat at King Phalo International Airport - eNCA",
-                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVZpNHEzWldGSldXTGFzYTZId2xXZmdTdG10TDh2VHlQcDFmZ2NFMlJjaXdqX2J0cjhlTFZPZ0lLS3FONkRDMTZnM0FCLVZlSlJuRVF4TnBYNGtDUGdJQjk3eFBoUzRqRHF1anhUR1N3eFEtUzVaUUhQYWZfdER2TmxFQjhzRHBDX3c?oc=5",
-                "pub_datetime_utc": "2026-10-21T08:40:44Z"
+                "keyword": "La chicana de Pedro Sánchez a ",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "La chicana de Pedro Sánchez a ",
+                "original_title": "La chicana de Pedro Sánchez a Milei en su visita a España: publicó una imagen de “Fanático” de Lali - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcEpEVWpUNG9LVHRBQTd1WHQxa1pRaWpiX1VPV0kzZHVNNFVaQUZRLXc0RThpS2dMc2JqMGYxVXduQ1ZtSk1IcDhZRjdNazBPd1VHUVQ0dFd1TFZ5OHFSTVNYbmVYWkZMTjJUaENTa1pqRXE3LVlnaENUdWs5WDg0ZjlKUmlzMEtLQ1JtYVRjMHpycVpDTGZybm8xVUNrX0FwQlFaYWV3WHdBTlNvWHpsQUdKZkZjb0pOdWZHdTJlUTRMU3ZsZXR3M3YzOFlKVU9EdWlPVmZ3?oc=5",
+                "pub_datetime_utc": "2026-10-21T14:14:00Z"
             }
         ],
-        "last_updated": "2026-10-21 20:58:03 KST",
+        "last_updated": "2026-10-22 02:17:20 KST",
         "current_rank": 16
     },
-    "India": {
-        "gdp_rank": 5,
+    "Germany": {
+        "gdp_rank": 3,
         "spike_score": 70.0,
-        "previous_rank": 4,
+        "previous_rank": 3,
         "trends": [
             {
-                "keyword": "CJP Leaders Saurav Das, Ashuto",
-                "hook": "India의 최신 주요 뉴스입니다.",
-                "script": "CJP Leaders Saurav Das, Ashuto",
-                "original_title": "CJP Leaders Saurav Das, Ashutosh Ranka Withdraw From Delhi High Court Plea Challenging Judicial Custody - Live Law",
-                "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQmx3LUhmNGNPZDJOSnh0WW1tXzlKUHFlYXJDMjR5Y2xyUGRxeTNQc2pyeDlMVW15QnhBQm8ydFNBUk8zdXNITlVqTkRzaTJvU3dyNnFOcmNwTFY0TWZXVGl3cXBmOTBQN3BBeDZ0bzBqT1EwTDZUaDUxbmNZR2J4REFVeFZBY1lIRTUwS3h3LXhyeUVyY3AzTkd4YXVJYmtJeG9lcTVtR2dxLTU2M0JHS1JjZWI4VVlFUm5QWHVFbE5YblZPcEdSbkc5b0R5UlB1NG5nXzdWN0g1THBKZFRacG9uMktOTmt5N25lVlZQWTgtdw?oc=5",
-                "pub_datetime_utc": "2026-10-21T08:15:16Z"
+                "keyword": "Kritische Sicherheitslücke bed",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Kritische Sicherheitslücke bed",
+                "original_title": "Kritische Sicherheitslücke bedroht Millionen Websites weltweit - WEB.DE",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9rRktaQTdjdjFxcnlWeWgteUxudWNCaDBwOVJ2MU8yeWxzUEhQQWpJY0RsMS1TVW9Vc2d2TUt2aTJnUHE1OGVQVmJLbVN3LS1CT2ZoOXpqYUpYaWNSUkJJelQ3VHJZUmRfdTByWllQNnFodERiTVIxblVWbVpYd19jZmFCNE9FY2tuZldSNjVJd2trMmtZSWRfWGRFMGgyenNDZzNEcw?oc=5",
+                "pub_datetime_utc": "2026-10-21T14:11:10Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:45 KST",
+        "last_updated": "2026-10-22 02:17:17 KST",
         "current_rank": 17
     },
-    "France": {
-        "gdp_rank": 7,
+    "Italy": {
+        "gdp_rank": 8,
         "spike_score": 70.0,
-        "previous_rank": 15,
+        "previous_rank": 6,
         "trends": [
             {
-                "keyword": "프랑스 군용기 추락",
-                "hook": "낭시 인근에서 벌어진 비극, 프랑스군 미라주 2000-D 추락으로 사망자 발생.",
-                "script": "프랑스 낭시 인근에서 군용기 미라주 2000-D가 추락하는 사고가 발생했습니다. 이 사고로 최소 한 명의 사망자가 확인되며 군 당국이 비상에 걸렸습니다. 현재 정확한 추락 원인을 조사 중인 가운데, 프랑스 전역은 충격에 휩싸였습니다.",
-                "original_title": "Plusieurs milliers de signalements effectués en quelques minutes: l'opérateur Orange et sa filiale Sosh sont touchés par une panne nationale de grande envergure - BFM",
-                "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQQ1FVSXFLUXM3VHhLUl9tQzFham9ZWXhvV3VhM2J5cV9CY0xfRG5kTFdJNUZtNlBaYXlSQkIzTUNvUk0xTUVjcUJTMG1RQ3FOdUtxbEF0eHhwUVVwSkpUTUFvMy02TG80V2dpOVh6d3VNaUpUNDlkUW5TcW1uYkdXUFJIeG5Za2pjbWF2SHRBaDQzLTgtTGFDUlB3Ni1mOGc4TWxsdHljdy10dVR5YzZLRHVuX0xhVmxVTF8zLXVlbU0yQThVQzFNTWZEQlZoYmJ2MC1Mc29JNWo5cnRMY0dmT0pEU2FVcGdIMVhpVDBISno5YVlWS1JHOE0tWVM1QTl3OTZ1RExyTkhLMnRNY25wV2t4MTZlZUZXX0tHcWJEU3Q4UW9uQXVKMjJKanlTSHRRZ3dWTFNrZlJ0Q0NXZGV0YWdFVkNoci1zR0VZ?oc=5",
-                "pub_datetime_utc": "2026-10-21T10:03:23Z"
+                "keyword": "Blocco dei tir al Sud, Lollobr",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "Blocco dei tir al Sud, Lollobr",
+                "original_title": "Blocco dei tir al Sud, Lollobrigida: “Evidenti le infiltrazioni criminali” - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakU4cUMzVzFfR0VwX0lCNWVrbXRLV2xzUXpIR0tpdlViQ0V3RnJwOW5nWExmbFRSbzYxZjZWMXRXZlRlREN1X3hMRWNMU3pVYU1FbGJvUXltSkVHZl8tRGE3akxLM1FHaXZ2N2o2MUtmOFBaelZGamxJekVrMEsyWUw5WTgwSlg2SFNQaFp0TmhEWWtzbW9rV0llSXdxMFAtNTg1Q2RhS01BaGVmd0dYMFllONIBuAFBVV95cUxQd1ZiQ2dlY0llaS1TMjBmUHMxS2VjdEVqY2VuX3I3VGdQcUREdElNaWFnUEY2NDJrdjhaSm5nclJsQkdCazB5bkxSMm02amkyVWRxYnA5NE43c1A1X0JCY1ZKeVVicks3NWVuZVFQbDBSdFZvdDVSczZMRm5vVHZ4dXFObGVLOXk0RXBPMHczUFlvbi1feWljT0RIWmVocWF2cVQwU3BxNmx0d0toa2poN1FHb09DX2Fh?oc=5",
+                "pub_datetime_utc": "2026-10-21T13:48:59Z"
             }
         ],
-        "last_updated": "2026-10-21 20:57:57 KST",
+        "last_updated": "2026-10-22 02:17:18 KST",
         "current_rank": 18
     },
-    "Argentina": {
-        "gdp_rank": 18,
+    "South Africa": {
+        "gdp_rank": 20,
         "spike_score": 70.0,
-        "previous_rank": 13,
+        "previous_rank": 16,
         "trends": [
             {
-                "keyword": "밀레이 외교 논란",
-                "hook": "하비에르 밀레이 대통령의 거침없는 설전이 외교적 파장을 일으키고 있습니다.",
-                "script": "스페인 총리를 향한 밀레이 대통령의 '독재자' 발언이 전 세계적인 외교적 논란으로 번지고 있습니다. 브라질과의 갈등에 이어 스페인까지, 그의 파격적인 외교 행보가 국가적 고립을 초래할 수 있다는 우려가 커지고 있습니다. 아르헨티나 내부에서도 그의 외교 정책을 둘러싼 찬반 격론이 뜨겁습니다.",
-                "original_title": "Javier Milei en España, EN VIVO: llamó \"impresentable dictador\" a Pedro Sánchez y pidió \"sacarlo a patadas\" - Clarin.com",
-                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQME9oWkVJSEVkTndMUWljbjBHUk9CQ1QwbGotRjFOX2JFdWFnYkFLYWxUSWNpTFVQeUF6RXZrbThRZ09LWHVTNFExSGdDQVlUa1JnYS1EeUtSazc5emRBS3lEbng1QnpjM0hxeWNIandUZERTVlpOelp5a19mNHNKTUJCQU5ldzNXb3B6UFU2YnFwRkZuZkZWSTQ2bldVOUh1djliQUl6WHZqVVphcm9zSEVWbjJCWWdNS0FBUFZRaG8xYkNIN1lTVmRWRHd3ZHppaHNXZFh0ZlNRWDd5NkNXQTNtX3k?oc=5",
-                "pub_datetime_utc": "2026-10-21T11:35:57Z"
+                "keyword": "Rising revenue allows for fuel",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "Rising revenue allows for fuel",
+                "original_title": "Rising revenue allows for fuel levy relief, El Niño readiness in Godongwana’s mini budget - Daily Maverick",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZm9hZmhHeWdSNjhfNGxCdXhLclIwRElzVjdhRE9QSEx3SzRFN1lrbnhEelRpSVZNZm5LZGhKRE1yTDcyaDF5c3hOMmM0ak9aTjJIaGUzalFxX3lNVEJMZjhYY3FYUWZ6Wm92YjUzdGk0Z2swYkNSLUxWb2RURVl6Sm1rbFE1MV9hdDc2TTc4cThWNEpnTzBabDFubklZckVDQjRuMnBWcnJUQ3hJc095YjJuUUhSZERRdnlmS1B3ZGxxcG1YMmFmd0RpOTRwQXZmb2RySjRR?oc=5",
+                "pub_datetime_utc": "2026-10-21T13:19:48Z"
             }
         ],
-        "last_updated": "2026-10-21 20:58:02 KST",
+        "last_updated": "2026-10-22 02:17:21 KST",
         "current_rank": 19
     }
 }
