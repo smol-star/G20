@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미-이스라엘 대이란 타격",
+                "hook": "대선 이후, 미국과 이스라엘이 이란 재타격을 위한 비밀 계획을 수립했습니다.",
+                "script": "미국과 이스라엘이 다가오는 대선 직후 이란을 향한 새로운 군사 작전을 계획 중입니다. 중동의 긴장감이 최고조에 달한 가운데, 이번 타격 계획이 향후 국제 정세에 어떤 파장을 몰고 올지 주목됩니다. 지금 전 세계가 이들의 다음 행보를 숨죽여 지켜보고 있습니다.",
+                "original_title": "In Michigan and Kansas Senate debates, Republicans make careful breaks with Trump - CNN",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEhTcFYxWDNqd1V0eWlTNEFmckJadkhyMi1Ob2Z3X2tBN2x3aVlBOWZWb3JZRXkzMkU4MXE2TFI1QVQyWjUwVGNUVHZRcWU2a3UwXzlhWVQ3VGJXMjZpcTNVeUJlaEJnUG1tdmVtZGMySzdrVkpiaWh5bFBQSEhPVQ?oc=5",
+                "pub_datetime_utc": "2026-10-22T02:37:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:35 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국, 신시대 강군 육성",
+                "hook": "시진핑 주석이 인민군을 향해 '대장정 정신'을 바탕으로 한 강군 건설을 강력히 촉구했습니다.",
+                "script": "시진핑 중국 국가주석이 인민군 창설 정신을 계승해 현대화된 강군 건설에 박차를 가할 것을 주문했습니다. 국방력 강화를 통한 신시대 강군 육성이 국가의 핵심 과제로 떠오른 가운데, 중국의 군사적 행보가 아시아 태평양 지역에 미칠 영향이 커지고 있습니다.",
+                "original_title": "习近平主席引领人民军队弘扬伟大长征精神推进新时代强军事业 - 央广网",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWNWtteV9qRXV3a2h1ZHBGY0VVSndqQXZ0dEdHN2VXaUVqdTVNR0drbUVNQWJvSEVLNURWenZhWDl3d21lQjhNTmlQNWhPTEVObFo0OGRpNmhUVFVpZWl2SUJRWHRJS3pvaE1RSTBHOG5YVFk?oc=5",
+                "pub_datetime_utc": "2026-10-22T02:42:31Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:35 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "PHP 보안 비상사태",
+                "hook": "전 세계 수백만 웹사이트가 치명적인 PHP 보안 취약점에 노출되어 해킹 위험에 빠졌습니다.",
+                "script": "웹 개발의 핵심 언어인 PHP에서 심각한 보안 결함이 발견되었습니다. 이로 인해 수백만 개의 웹사이트가 공격자의 표적이 될 수 있는 상황입니다. 사이트 운영자들은 즉각적인 보안 패치 업데이트를 통해 데이터 유출을 막아야 합니다.",
+                "original_title": "„Putin glaubt an Sieg“: Experte gibt nach Witkoff-Besuch düstere Prognose – und erklärt Trumps Kalkül - Frankfurter Rundschau",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaktHUnVKb2JORHRRZ3lQZzdQc0NiN1JIaldPQ1RQeUQyRUdLTVVYN05uelp0MjMxeVdNUmdfUkVxZzJ0bVFmazltQ1FNdURnbnhYYzBYMHZjRHpZckZOV0E1X3I4UFJtMHpGYXZRYUM0WDZtWHowbWRiMVprYy0tMVc0UzY2c1h2aU9QaGZCYmxXaXg3N3ZiRTNPZUJyVmxaZnNFYmJR?oc=5",
+                "pub_datetime_utc": "2026-10-21T17:20:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:35 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "일본, 태풍 30호 비상",
+                "hook": "초대형 태풍 30호가 일본 열도를 향해 북상하며 기록적인 폭우와 강풍을 예고하고 있습니다.",
+                "script": "일본 기상청이 초대형 태풍 30호의 접근에 따라 긴급 경보를 발령했습니다. 이번 태풍은 가을 장마 전선과 맞물려 일본 전역에 막대한 피해를 줄 것으로 예상됩니다. 주민들은 즉시 대피 경로를 확인하고 안전에 각별히 유의해야 합니다.",
+                "original_title": "失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVXVVenk1cU5DU0tGRFJudHBQd3U1S2xjdTF3TXBtRnd6czZVVFRKQlg4QWJ5OU9mSEpPeDFaVjVhNXdaUy1pZDlNUUxJeFBpMC16YVFNTmJOUHEwSDliV2drT0ttX2RK?oc=5",
+                "pub_datetime_utc": "2026-10-22T02:34:31Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:35 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "인도-미국 무역 협상",
+                "hook": "도널드 트럼프가 인도와의 대규모 무역 협상이 타결 직전이라며 기대감을 드러냈습니다.",
+                "script": "인도와 미국의 무역 협상이 사실상 마무리 단계에 접어들었습니다. 양국 간의 경제적 결속이 강화될 것으로 보이는 가운데, 이번 협상이 인도 경제에 어떤 활력을 불어넣을지 국제사회의 이목이 집중되고 있습니다.",
+                "original_title": "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains... - Live Law",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdThGS0VKZ29QXzROLURfSV9wWGR3cDVPLUFxb2NKSUJoWjR1XzJ3Y3pqUXY3bC12UnZ5am9TQjhZZkI1U254WWhoU0hhbmpiSGFqaHAxcHMtUHRYOXhfR2x4bXNJWFQzdWMyRWJsWmJZb09WNjZ2SnQzMk9lUGNlZjB6WnhneElwaHlmSDZUV0RxdVZRNG54S0U2V0ZDdFBKdnpSd0E1Rm1acEFzcTczY2NMWGQ0SVRjR2ktNWZ0ZlRpTjdGRGpyWEV3czloR05uZ0ZzV0VOdmFpS2VqT0V5VW03OGRULVF5MFBzSNIB8gFBVV95cUxNOGptSXVqN2tUb3JYNGpUYk1QSFE0NVBTRkdvY2otUmRNdDdCeW1zcmgybUtCV0hFRnl0RlFIVFVvRGc4YmtKbnNUOHRjb0hrVF94dWZnT3BVZjRMUnViYWtMSnZwbUEzT2dHeU5ZeHNXTUlDMFI5NjNVcW5pcGNIbXI3VTRhRkNBRERZeUF5U1pBYWI0aW1ZMndra3FsUXotTDJ3RDJiczZ6RXpjR2Eta3RNdHAtdWJSREtiZUhqaG5weGVqcUw5cFl1QkdEQkZPby1PSnh1UVNmTXdZRFlpQzduUWhKT2Y4QWNkUGJXWVZ0Zw?oc=5",
+                "pub_datetime_utc": "2026-10-21T14:52:48Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:35 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "프랑스 약탈 공포",
+                "hook": "사회적 혼란 속 파리 상점들이 약탈당하며 시민들의 불안이 극에 달하고 있습니다.",
+                "script": "최근 프랑스 곳곳에서 벌어진 시위의 여파로 상점 약탈 사건이 잇따르고 있습니다. 시민들은 불안감에 호신용품을 찾고, 정부는 치안 강화에 나섰습니다. 혼란이 계속되는 가운데 파리의 일상은 지금 멈춰 섰습니다.",
+                "original_title": "EN DIRECT, manifestations du 17 octobre : partis politiques, maires de Paris, Lyon et Marseille… Sébastien Lecornu poursuit ses réunions à Matignon, jeudi - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxORng0NXdseFd2TUN3eUQ1TTJITF9NdjBQNHJCZXVSamYzTENHSW1rNTB5eFZrRTB1bF8yM0Nlb0trX0FKd2RkMTBIV0lOZGFFUUtzdnM5SDk0bzRIQk8tb1RiajlsYjV3OVJ5RDNldzJvSGFoSkItTGhZLU5aNFJMbTJRVTdJOHh3MGdvb2ZLRC1QZ0I0RDlkbGtBam9jQmQwV3RhTmxFblQ1ZFNPazRubjhhTFBlYWRmUzRnSjNJOGJ4VTV3Zzg1cnJUUDZzVTROVV8wUjhqODZ6LTRBejJaa2NwZENFa29WaHZwc0dZSlpnWjZMcTdseXYtQ3VHMXRiUWhjeUhTNmRXdjdONF8zbkItdy1ZZ25DTDc4Y1VRWmYwWHJ0RXI5NGdDY1lYTzdFaEwwNTFhVQ?oc=5",
+                "pub_datetime_utc": "2026-10-22T04:30:02Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:40 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "이탈리아 물류 마비",
+                "hook": "트럭 운전사들의 전국적인 파업으로 이탈리아 전역의 마트 진열대가 텅 비어가고 있습니다.",
+                "script": "이탈리아 전역에서 트럭 운송 파업이 이어지며 식료품과 생필품 공급에 비상이 걸렸습니다. 시민들은 사재기에 나섰고, 정부는 강경 대응을 예고하며 긴장감이 최고조에 달했습니다. 과연 이 물류 대란은 언제쯤 해결될까요?",
+                "original_title": "Il Governo sceglie la linea dura, sospesi i blocchi dei tir in Sicilia e Calabria - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTldieU9wTzlyeHphcG9iZmVWNlpobWZPd1dLbWozRWN0Q3lRekdNNklLU19UdGFRYzdPdTZ2VFNVU3NVTElYb3BXM1RVNnY2MEM1dDJtQjhVcDhab05uQ2phT0I0eUYteVBGb3AxZUY4V2ZfanY2UUN1d0tFMmVqQkRNZGlwV2VsbFE4ZHZqUUxwQmx1dDc0RnVCa296Q2EzeVhmVTFqSmQxZ1ozcGtNMU9KdEN0UzRtckR1ZDZhQ0NTLUt6dklOcW9jRk5EaVM1TWUxTFdXYS13dmNYcDN4akQtV0liYnI1a0sxN2tXdnhuZ29XVU5SbmdB0gH_AUFVX3lxTE5paWNiMGdfQjl4UUhVOEdxd3ItTXVUeDBlMFdsbnkydV9sOFNmdlNfRnVOQ2JDbGRZVWtjZVpkV2VzUVhOVk9SZEh0Yk9ybGFQUEwwQkJGWFc1a1AtYkxCRzZxUUQ0eHNBQnVhbnhtN1dIeW14QWNOZnpBTjF2bTdLS3g1ejF0TFNRVXM5d0lrOFNDOW1IN24wcTdrYkNOd0tjWUMxb0ktdnZKMkYzNzVIUENwSVJ3WDVpak45dDdENkZwcGwxODRNb3RVTE1WQkwyUTItMUU2dGwtbjgwY3dnOUVQUmZTSkd3Wmh5VFZqNTJQMm5qdDB1MGpNRW5IOA?oc=5",
+                "pub_datetime_utc": "2026-10-21T21:28:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:40 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "브라질 대선 격전",
+                "hook": "대선 결선 투표를 앞두고 룰라와 플라비오의 지지율 격차가 좁혀지며 긴장감이 고조됩니다.",
+                "script": "브라질 대선이 막판으로 치닫는 가운데, 후보들의 거침없는 폭로전이 이어지고 있습니다. 룰라와 플라비오 양측 모두 지지층 결집에 사활을 걸면서 전국이 선거 열기로 뜨겁습니다. 한 치 앞을 알 수 없는 브라질의 운명이 곧 결정됩니다.",
+                "original_title": "Lula aceita proposta de Flávio para quebra de sigilo bancário - Agência Brasil",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHZqTHM1aXNXM2d2OVBqX3R5V2tBR2h3Q18yMGRPVGxlSk9VMEx6WVhRMGg4enItc2VmaVpVaXhzNEQzcXVoWFJvbVhpQzFBWEt4UkhzWlhFZzlyM0ZRN2h2dnJkeDhqcUV5anFtZHVLM1RKa1pYZGprX3dpOGtpcldlRUVuTE5lNEtDbkdXa0EtMkVLLW5JYnNTa3QtOGI4SzB0SmNneXpORWt3UGpyZEN0S3RvcVNqdjk0?oc=5",
+                "pub_datetime_utc": "2026-10-21T22:45:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:40 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "US embassy accuses Canada of b",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "US embassy accuses Canada of b",
+                "original_title": "US embassy accuses Canada of brushing off allegations of election interference - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCdHY4dUlha05ZVVRXNEd6NXVENjhDUzIxeGIyeGlWeDlzTnlpdTJKZVhsSTV3d0V4RWlUTXhCNS1PcHpKNzNrSlRuRVVyeFpVRy1nVXVSam41OUE?oc=5",
+                "pub_datetime_utc": "2026-10-22T03:05:28Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:40 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "러-미 협상 재개",
+                "hook": "러시아와 우크라이나가 미국을 포함한 3자 협상 의지를 밝히며 평화 분위기가 감돌고 있습니다.",
+                "script": "장기화된 전쟁 속에서 러시아와 우크라이나가 미국과의 3자 협상 가능성을 시사했습니다. 트럼프 전 대통령 역시 평화를 위한 대화의 중요성을 언급하며 국제사회의 이목이 쏠리고 있습니다. 과연 이번 대화가 종전의 신호탄이 될지 귀추가 주목됩니다.",
+                "original_title": "Ждать ли мира после новых переговоров России и США - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjNmQjlERFF6THB3SjgwdkNxcmxZVTlaSl9ETHZHeWxIZVlUdlBtY2tpZGlzNmlaUkhkaHp1cVZQMEthSWg5dU9KaW10NmVOTzVzSVRJQlpRU0dpQXE4WEEyRkdTbmJDNWRlY1hKRHM5WFB0QkFDcEZEbUJZWVk4dDNlM0FjUS01YWpkSXZrT0hsdklhYUtTMw?oc=5",
+                "pub_datetime_utc": "2026-10-21T21:36:26Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:40 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "멕시코 시위 격화",
+                "hook": "IMSS 노조의 대규모 시위와 정부의 강경 대응이 맞물리며 멕시코 사회가 흔들리고 있습니다.",
+                "script": "멕시코 사회보장청 노조가 대규모 시위에 나서며 도심이 마비되었습니다. 정부는 국경 지역에 새로운 보안 기술 도입을 검토하는 등 치안과 행정 개혁에 사활을 걸고 있습니다. 갈등의 골이 깊어지는 멕시코, 과연 해결책은 무엇일까요?",
+                "original_title": "Protestas del IMSS, en vivo | Los sindicalistas inconformes concluyen la marcha y convocan una nueva para el 30 de octubre - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1bjF4azBLelJtcTY4ekp5R3RtcUJ3WWJURVZ2SXF5czcyNWg0S3I5LWZDUW15SDdRR2M0MFZKVDgwTGg4NFN6aVAwQnFKQlg3T1JvWjYwbVVubUVsZWgzNHlHbkIxRTRxN1FWTGsxNU1LQ1ZRQWZJ?oc=5",
+                "pub_datetime_utc": "2026-10-22T02:20:10Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:40 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "10월 태풍 참피",
+                "hook": "12년 만에 10월 태풍? 한반도 상륙 가능성 비상!",
+                "script": "10월 말, 이례적인 가을 태풍 '참피'가 한반도를 향해 북상하고 있습니다. 이번 태풍은 제주와 남부 지방에 직접적인 영향을 줄 것으로 보여 철저한 대비가 필요한 상황입니다. 갑작스러운 초겨울 추위와 함께 찾아온 태풍 소식, 기상청의 최신 예보를 실시간으로 확인하세요.",
+                "original_title": "이 대통령 “몰라서 제미나이 인용 아냐…얼마나 수준 낮은지 느껴보라는 것” - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oSE83TDdlSGdyblJocjdUWUttN1E0b2dBUVQ1YkpydDd6cWk1Y21TbGw1LV9zbUNOSGdJaTI5enI5T185X0JTTGdvcE5BMEFYNFFBRTA2MXk3WTVBNkR4U2ppdlV0Nk1pWDZ4U2ZhYkVQVTFt?oc=5",
+                "pub_datetime_utc": "2026-10-22T04:41:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:46 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Sahroni Setuju Kerugian Negara",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Sahroni Setuju Kerugian Negara",
+                "original_title": "Sahroni Setuju Kerugian Negara Bukan Pidana Korupsi, Dorong Revisi UU Tipikor - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVExXS2RTSGJNS3AyUmNoY0xjRkdwUnhCMTRKcURBQlctREVpdlAwajRNZHpYeVBRbjBFazVwb0lwLU9peHg3RUsxY3I1cVRVOGNzV0c4VzdBOWNteE5DNzIwRkJQTmtGNjFBLWt3T1hwWE03Z1BJZkxwUnMtR2VtcDNKNERDb01fempkeW1rUkhKaVJuZnRSZXlBQU90VGttN1UwN1h4RWJ3RkJ0VGVoTlhlUzEwUUHSAbwBQVVfeXFMTzNYNWtRbm1uanEwekRLTXBNbjJvTVI3X1p5YzAwU09aX01wMW5WTDRBQjF4SUVZei1Ha29KWF8yMXVfRW1RUzNPUlYydDBfNFhuNUxkWHJ2Q1BSdVh2VHpIbXJOYThRdmVfQkI0akl5Y3pycEYwTktadjV1ODJ1VUtjc0pYd3V6a2ZacHZNd3hKaVJTSm16YWpINjU3czdKaVV4ZjJ3Zl9GWkJ1TjQ1QXZydG84YlhqaHh2SzA?oc=5",
+                "pub_datetime_utc": "2026-10-22T01:36:32Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:46 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "튀르키예 건물 붕괴",
+                "hook": "순식간에 무너진 3층 건물, 현장은 지금 아수라장!",
+                "script": "튀르키예 종굴다크에서 3층 규모의 건물이 갑자기 붕괴하는 사고가 발생했습니다. 현재 구조대가 긴급 투입되어 잔해 속 수색 작업을 벌이고 있으나 안타까운 소식이 전해지고 있습니다. 당국은 정확한 붕괴 원인을 조사 중이며, 인근 주민들의 추가 대피령이 내려졌습니다.",
+                "original_title": "Siber Güvenlik Başkanlığından ulusal ölçekte uyarı - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHZ0bzdyMHBSMjdfcUhUUjdsd0lLQjFuMXRzb3dNeUtHRDZucGFuQU5OT3Q5SDB1VlpELTZvUm1ybVVkOVN3Z2FUS1V3ZE1hOUR5RXZQZ21vS1BZTFJCVFdIQ1dzUDNONTc4ZUFIaWpMWHEtbjdKZWdHYTlSamtqQmIxSy1zTm5hLVUzWlo1UUNFZmRNZUZqaUhmeVJMTkdUT2ZMcmQ0Q3RQVVlseEE?oc=5",
+                "pub_datetime_utc": "2026-10-21T20:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:46 KST",
+        "current_rank": 14
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "밀레이 스페인 방문",
+                "hook": "스페인 뒤흔든 밀레이의 돌직구, 외교 갈등 폭발!",
+                "script": "아르헨티나 밀레이 대통령이 스페인을 방문해 페드로 산체스 정부를 향한 강도 높은 비판을 쏟아냈습니다. 양국 간의 외교적 긴장감이 최고조에 달한 가운데, 밀레이의 거침없는 화법이 유럽 정치권을 뒤흔들고 있습니다. 이번 설전이 향후 양국 관계에 어떤 변화를 가져올지 전 세계가 주목하고 있습니다.",
+                "original_title": "El Gobierno consiguió aprobar su proyecto de discapacidad con el respaldo del peronismo - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONC1zWmNaU2pWRzF5clpPbnlUdmlqcnl6Y1hRYUVaMEVtNmQ1T0xJS0RsRDF3SnFpaTRqbGw1QjAwYmUwXzV2djRDRDVZb2F1WGVOOWNhR2JTT0pHVUpZMDhOcFplOWFmdk9hNmpRZXdhdUI2WTNQUWcyZ1JRVlhuVmxWVUlUb2VtajMybXhWbm55d3BfOU5pWk5wMkJyQ2ZYdGFYQjFmY1N5LTRJTDNuSmFJYjJpTmQxUktGTXJ1aUkyaXptZDBaSGc4YjJCVmRLMGZPUGdnOVdwanBtekE?oc=5",
+                "pub_datetime_utc": "2026-10-22T04:46:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:46 KST",
+        "current_rank": 15
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 대규모 건설 계획",
+                "hook": "2,070억 랜드 투입, 남아공이 거대한 건설 현장으로 변합니다.",
+                "script": "남아공 정부가 국가 인프라 재건을 위해 2,070억 랜드 규모의 대규모 건설 프로젝트를 발표했습니다. 이번 계획은 낙후된 시설을 현대화하고 경제 성장을 견인하겠다는 야심 찬 목표를 담고 있습니다. 하지만 일각에서는 자금 투명성과 효율성에 대한 우려도 나오고 있습니다. 과연 이 거대한 변화가 남아공의 미래를 바꿀 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "Opposition calls Godongwana’s fuel levy cuts ‘a scam’ as GNU offers muted support - Daily Maverick",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNzI4UHk5a0RxSU0tenpXQlZQZjVtcjFHWjlfekhpc3EwQ21CbnczSTF1ZFZ1aV9ITVFHVXV2dnc4ejVnNjZvYTJORENpM1RuYzI4X09KU2gtSWhxbkpJb3lTUTJ4X0pPNXJFOGo1NzV6Y2VCNnMxdVg2ZV9aWUVLMlllZ09UQ3BFeG9CTnllTUxyZVdvZ1NpS3hJRXR2NzJ2STVQNzJfQ09oTzFOUzlHU3hVSHlWcW5iUFBVUEhqQlB4OTE4OG50aGV3?oc=5",
+                "pub_datetime_utc": "2026-10-21T20:31:45Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:48 KST",
+        "current_rank": 16
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "애버판 참사 60주기",
+                "hook": "116명의 아이들을 앗아간 영국 역사상 가장 비극적인 애버판 탄광 사고 60주기를 맞이했습니다.",
+                "script": "60년 전 오늘, 영국 애버판의 한 초등학교를 덮친 탄광 붕괴 사고로 144명이 목숨을 잃었습니다. 국가적 비극을 기억하기 위한 추모의 물결이 이어지는 가운데, 희생자들의 넋을 기리는 행사가 전국에서 열리고 있습니다.",
+                "original_title": "Trump kicks The Independent off Air Force One after Oval Office meltdown - The Independent",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHFjQWdTZEkzMW9VdFBzU2RIVHpTM3FBeUc3aDBDUS1leHlHck92VzVTTWFQaVFDSUkySlRrRGdvWjVCYndKSk16MlVsekVKR3h6WFNHSlhBNnIxa2p2c001U1ZNcWFORXRtaUY3LVdBck5nXzFQbUtqVk5EMENKWG9SR1VUbXVrZ0JvX1ZEUnJ4anV4aDdZVUg2MTNQMW1TT3lmYWZwcW5YT2o4?oc=5",
+                "pub_datetime_utc": "2026-10-21T22:20:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:35 KST",
+        "current_rank": 17
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "퀸즐랜드 폭풍 경보",
+                "hook": "물에 잠긴 도시, 실시간으로 벌어지는 긴박한 구조 현장!",
+                "script": "호주 퀸즐랜드주에 강력한 폭풍과 홍수가 덮치며 학교와 도로가 전면 폐쇄되었습니다. 긴박한 상황 속, ABC 기자가 직접 물에 잠긴 차에서 시민을 구조하는 모습이 포착돼 화제입니다. 기상 당국은 추가 피해를 경고하고 있으니, 인근 지역 주민들은 즉시 안전한 곳으로 대피하시기 바랍니다.",
+                "original_title": "Schools, roads closed as south-east Queensland braces for severe thunderstorms, flash floods - Nine.com.au",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTG5TRWZwX0V5QVBlTExUYTJld1o1enhobHJ1aWpNRUtMVlo2RHhqTTZxa0ZkRVdmRDRLZXVRakdXVWd4NmZ3bFJhbzJnLXB3ak1JeHdYRThVSVJQTHVjYnBkLVRXdlNKVTF0cEI3U2F6dnhKWlpjaF9lcXdDeFRpZ2cxSHlnTXA2N2dEd1pTdEpQUl9hcEs2SVBqcUhDRG12bUpvR0NZYWEyZXBBNy0wR2xyM1Q4NDM5NmQtVlZBeWdPVEVjbXdyLTVYT18ySDk4YUtQdW53MnZOSFk?oc=5",
+                "pub_datetime_utc": "2026-10-21T23:25:42Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:46 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "사우디 미사일 방어",
+                "hook": "하늘을 뒤덮은 미사일, 사우디 방공망이 막아냈다!",
+                "script": "사우디아라비아를 향해 발사된 후티 반군의 미사일이 방공망에 의해 요격되었습니다. 이 공격으로 파편이 떨어지며 인명 피해가 발생해 긴장감이 최고조에 달하고 있습니다. 사우디 정부는 이번 도발을 강력히 규탄하며, 국가 안보를 위한 단호한 대응을 예고했습니다.",
+                "original_title": "حالة مطرية متفاوتة الغزارة تؤثر على 11 منطقة من الخميس إلى الاثنين - صحيفة اليوم السعودية",
+                "link": "https://news.google.com/rss/articles/CBMipwVBVV95cUxOc01mMlVNUGpUQnVhZ2F4WGZQN3ZnNzhwNFNmN1NFRHY4UnhlNHEzeFhqbU9lVzE3dDNPcm00UnhvUjNXRmJNQzFacm1lT1dqdHYzVlNYMlBzc0NaeU5nbzBfblA4QktxX2cxcmE4TG10a3R5dFhhRzJWdjBpajc4dkJLaHdTY3ZncklCZnNCeElDMWR5dG1SVEJBeDhLLThTSlZBOHNDWFpYY2tKNVI1aEVsV25QcmttZEcwT0FZeHdTTGpvZl93bFJKdE5CM0FyWFdjU0U4MzlzcTFVV1kycVltTUpCWXNOblhoQ2dwM2FzdlVfSUtpc1doc09wdWpKekJJYS1NR044bk1QMGtReWE1VmlQa1pWUWM3WUdpWTMycU9MWWh3WXk5dmZnQWRpYzdZSnZUMGs3Q2xVSmVmVnlmNElYZjczOWcwWTVpNUNfSkJoMUgybGNXX1BFOTVHdjJIRFJhNFFZMnhLSDQzaTd2YzlNblQxNHk2eGp4cDZaSjR5ODFsTG9iT2RFa1VNSTZOamxYdXhsNktEQVdtY3VSZ2RvZzNrcUhGUWFaU2h2QUszbmNYdXFwa0tOLXUtWWVrcWN1QmdSQ0NxaUNkY2t2QUJIc1NzQWVRUldDVndkcU1lVUk0TlMzbjMwZUJqZE4zOWpRdjhBbmMtdEstaDZkNHQ2R2xZak40cnRCNGZuUmVKODlUeXZNdGs3bDRMMmZyZjFCam1zdG9FX3RUQ082TTNES1A4YVllUnBYdFlubWdKMlhkTkxZWEYwODBSOXN3LWRPZml5bDNJZG1HSVV4ZHc0aDliTDh0RG9RX2ZmdDlhYU1xOWRVUjY4X2tFaEE3S2lXY3FQcUlsa0lpazdtNjRzUXNDQy1xcTJ4SVhRZ09FUGdN0gFTQVVfeXFMT3QzdnVwRUduandVSGl4NTNxcktiU1pyWENjWWpIQ1VVd1FTbXNFOV82LXFPQTV1YTVjT1VrbklBY25PMnotbXJSNDlDSVY3QmVhV1k?oc=5",
+                "pub_datetime_utc": "2026-10-21T15:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-22 13:56:46 KST",
+        "current_rank": 19
+    }
+}
