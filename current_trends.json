@@ -2,307 +2,307 @@
     "United States": {
         "gdp_rank": 1,
         "spike_score": 75.0,
-        "previous_rank": 16,
-        "trends": [
-            {
-                "keyword": "트럼프-머스크, 우크라이나 통화",
-                "hook": "트럼프가 머스크에게 직접 전화를 걸어 우크라이나 스타링크 제한을 풀어달라고 요청했습니다.",
-                "script": "트럼프 당선인이 일론 머스크에게 우크라이나 스타링크 서비스 제한 해제를 요구한 사실이 밝혀졌습니다. 러시아와의 협상 국면에서 통신망이 핵심 변수로 떠오른 상황인데요. 머스크의 결단이 전쟁 판도를 어떻게 바꿀지 전 세계가 주목하고 있습니다.",
-                "original_title": "Trump administration sues to block certification of upcoming Alaska election - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Rekd5WmN6ODVYY2c4cEphakxOTTVCVXB0YXFmb2VFQkRYZUFyTTNNV1p1VjI5eU9ET0NRX1dVeGVkeUE0U1VvMjVpeWdTTV9tSkRJOFVOYjM0OE0?oc=5",
-                "pub_datetime_utc": "2026-10-23T16:41:10Z"
-            }
-        ],
-        "last_updated": "2026-10-24 02:13:50 KST",
-        "current_rank": 1
-    },
-    "China": {
-        "gdp_rank": 2,
-        "spike_score": 75.0,
         "previous_rank": 1,
         "trends": [
             {
-                "keyword": "중국, 원격탐사 위성 발사",
-                "hook": "중국이 국토 관리와 재난 예방을 위한 신형 위성 발사에 성공했습니다.",
-                "script": "중국이 원격탐사 50호 03 위성을 성공적으로 궤도에 진입시켰습니다. 이번 위성은 정밀한 농작물 생산량 예측과 국가 재난 방지에 특화된 임무를 수행하게 됩니다. 기술력을 앞세워 국가 관리 시스템을 고도화하려는 중국의 행보가 빨라지고 있습니다.",
-                "original_title": "中国电影博物馆隆重推出纪念红军长征胜利90周年系列活动 - 新京报",
-                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByYnkxOE1qdm9qRDdMZWxlNW5aUThPaENWQVozNjhWYVEtc0E1elg2ZVc4aTRBV00teFJFZ2lyV3hhQXY5dFB0UXhaV0tjMGM2R3ZhSmh4Q2tNa2c3dnFVYmNqY2w?oc=5",
-                "pub_datetime_utc": "2026-10-23T08:34:00Z"
+                "keyword": "FBI 간부 기소 파문",
+                "hook": "헌터 바이든 수사 은폐 논란, 결국 FBI 전직 간부들 법정으로 향한다.",
+                "script": "법무부가 헌터 바이든 조사 과정에서 의회에 거짓 증언을 한 혐의로 전직 FBI 간부 2명을 전격 기소했습니다. 이번 사건은 미 정치권의 고질적인 수사 개입 의혹을 다시 수면 위로 끌어올렸는데요. 워싱턴 정가가 충격에 빠진 가운데, 과연 진실이 어디까지 밝혀질지 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "US Justice Dept sues to block possible Alaska election of Democrat to Senate - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1Y1I3Y0dRTEF6UldFdHg3OVVxd0hkdUFyNTdUN0dDZVRwbTFqbVVyT2FtSw?oc=5",
+                "pub_datetime_utc": "2026-10-23T21:00:46Z"
             }
         ],
-        "last_updated": "2026-10-24 02:13:50 KST",
-        "current_rank": 2
+        "last_updated": "2026-10-24 06:28:20 KST",
+        "current_rank": 1
     },
     "Germany": {
         "gdp_rank": 3,
         "spike_score": 75.0,
-        "previous_rank": 2,
+        "previous_rank": 3,
         "trends": [
             {
-                "keyword": "독일, AfD 이메일 유출",
-                "hook": "독일 극우 정당 AfD의 내부 이메일이 유출되며 정치권에 거센 후폭풍이 불고 있습니다.",
-                "script": "당 대표 알리스 바이델을 겨냥한 내부 이메일 유출 사건이 독일 정계를 뒤흔들고 있습니다. 극우 정당 내부의 치부가 드러나면서 독일 내 정치적 긴장감이 최고조에 달했는데요. 이번 사건이 AfD의 지지율에 어떤 영향을 미칠지 관심이 집중됩니다.",
-                "original_title": "Zwei Soldaten getötet – Israel riegelt Westjordanland „vollständig“ ab - WELT",
-                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnBxRHVtWmFWbTR0VllLbHNfUjVvM3VSUWdxTVBmOVRFN0NYYzQ5ejNvcFBndHRCa3M4amx0X3lpS1hlRTZMVkZyY3JlaTFYWHJfRHRfdjRodjdWNXRCMDFHbTR4dndOZmxCbTU1MVp2RXJaV2FBLXdybFRqeEVaWk4tZUlqdFc3RnR0SWg1NDZGOVN2ZWsxU1VKRS1wTUd0Q0ZXamdyLXBpOVpOQmNNWXdfbkhjd0pTZWN3a2hINUFfMDhGYTRYaU53dEdqUXllU0xxdFBwbTY?oc=5",
-                "pub_datetime_utc": "2026-10-23T14:11:02Z"
+                "keyword": "독일 폭풍우 비상",
+                "hook": "시속 110km 강풍이 독일을 덮쳤다, 지금 즉시 대비하세요.",
+                "script": "강력한 폭풍우가 독일 전역을 강타하며 곳곳에서 교통 마비와 시설 파손이 잇따르고 있습니다. 기상 당국은 위험 지역 주민들에게 주차된 차량을 옮기고 외출을 자제할 것을 강력히 권고했는데요. 이번 폭풍우의 위력이 예상보다 거센 만큼, 시민들의 각별한 주의가 요구됩니다.",
+                "original_title": "Unwetter erwartet: Sturmflutwarnung: Inselgäste sollen Parkplatz räumen - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeEhPSFpqUHVoVGFYcERHM1JBYS1aemRsYktoc01iV3NxSXpxZHJIU1JUaHNBU3VKZE9QbWl6VzAtdDN2d2k1eXhmNHcxT182MmthQ3RKWndDNFBYU0s4YWx5MDZZenprNWZpN1NzaG0zaW5ibjRiU2V0b3Rua0hydndSaWJIb1NPY2hIMWNOVWxjMUU?oc=5",
+                "pub_datetime_utc": "2026-10-23T08:09:34Z"
             }
         ],
-        "last_updated": "2026-10-24 02:13:50 KST",
-        "current_rank": 3
+        "last_updated": "2026-10-24 06:28:20 KST",
+        "current_rank": 2
     },
-    "Japan": {
-        "gdp_rank": 4,
+    "India": {
+        "gdp_rank": 5,
         "spike_score": 75.0,
         "previous_rank": 17,
         "trends": [
             {
-                "keyword": "강력한 태풍 30호 접근",
-                "hook": "초강력 태풍 30호 'チャンパー'가 일본 열도를 향해 빠르게 북상하고 있습니다.",
-                "script": "가을 태풍치고는 이례적으로 강력한 위력을 가진 제30호 태풍이 일본을 정조준하고 있습니다. 24일 이후 선제도와 규슈 지역에 직접적인 타격이 예상되는데요. 기상청은 폭우와 강풍 피해에 대한 각별한 대비를 당부했습니다.",
-                "original_title": "ヒマラヤ未踏峰で15日から不明の邦人登山家2人、山中で遺体を発見 - 朝日新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94NFVIV3I1YnlTNmpIb29IM2FjYVJXbnVkbUpiczVhcC1UYUZLbTBwa1J4dDlzRFQ5YWtvVXhHZklSU2VJLWhsd2thaEt5bzFzbVpmblAwOGZRYTNHcDZDeTFLZ1hGRFE?oc=5",
-                "pub_datetime_utc": "2026-10-23T10:48:00Z"
+                "keyword": "인도 사이클론 경보",
+                "hook": "폭우가 쏟아지는 인도, 5개 지역에 최고 수준 적색 경보 발령.",
+                "script": "인도 오디샤주를 비롯한 5개 지역에 강력한 사이클론이 접근하며 기상청이 적색 경보를 발령했습니다. 기록적인 폭우로 인한 침수와 산사태 피해가 우려되는 상황인데요. 정부는 긴급 구조대를 급파하고 주민들에게 즉각적인 안전 조치를 취할 것을 명령했습니다.",
+                "original_title": "Border Gets Disturbed When China Diverges From Patrolling Patterns: Centre On ITBP Chief's Face-Off Remark - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWc4TzlqR2lrV2ZKb1lkQkF4cjMya09iZU5sZUZXc3dvc3loOXh0LXJXamNvQUE4LUlzYVJBMGdKc1gwMW5vOHowNTJ4dnU2V2FfWGtpd1F3ZGFlN3c2cHFmYkxmTVdudVlXanhEdVM2bU12bXptUDlEQ3paOHVmSHlLUVhKcVBBel94N2RRR3FQd3JfaC1UN2t5Y1lRN2g1X2RmNTJiWWNXV00tVVpfRTlQYlhCVE0?oc=5",
+                "pub_datetime_utc": "2026-10-23T16:53:10Z"
             }
         ],
-        "last_updated": "2026-10-24 02:13:50 KST",
-        "current_rank": 4
+        "last_updated": "2026-10-24 06:28:20 KST",
+        "current_rank": 3
     },
     "United Kingdom": {
         "gdp_rank": 6,
         "spike_score": 75.0,
-        "previous_rank": 4,
-        "trends": [
-            {
-                "keyword": "영국 강타한 폭풍우",
-                "hook": "강력한 폭풍 '보엘로'가 영국을 덮치며 전국 곳곳에 비상경보가 내려졌습니다.",
-                "script": "영국 전역에 홍수 경보와 함께 강력한 폭풍우가 몰아치고 있습니다. 인기 관광지가 폐쇄되고 교통 대란이 이어지면서 시민들의 불편이 극에 달했는데요. 당국은 안전을 위해 외출을 자제하고 최신 기상 상황을 주시해달라고 강조했습니다.",
-                "original_title": "Disruption and flood warning as storm sweeps in - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMFltRW13dC1pdFVzdWxJZklYOTNIQWZfTUtQNF9uLTBJTUkzR0J4MDlvQXpqNzBXSnEyTEk0NUkxWnhxc1ZaaHllV3NoRTdZZWRCWFBheGpRWUdQU0E?oc=5",
-                "pub_datetime_utc": "2026-10-23T06:27:13Z"
-            }
-        ],
-        "last_updated": "2026-10-24 02:13:50 KST",
-        "current_rank": 5
-    },
-    "France": {
-        "gdp_rank": 7,
-        "spike_score": 75.0,
         "previous_rank": 5,
         "trends": [
             {
-                "keyword": "프랑스 시위 격화",
-                "hook": "프랑스 전역이 시위의 공포에 휩싸였습니다.",
-                "script": "프랑스 전역에서 대규모 시위가 예정된 가운데, 상점들은 약탈을 막기 위해 매장을 봉쇄하는 등 긴장감이 최고조에 달했습니다. 시민들은 호신용 무기를 찾기 시작했고, 정치권은 시위 중 발생하는 폭력 사태의 책임을 두고 날 선 공방을 벌이고 있습니다. 과연 프랑스의 이번 주말, 평화로운 일상을 지킬 수 있을까요?",
-                "original_title": "DIRECT. Tirs mortels à Trappes: l'image de l'interpellation du suspect Kevin T. - BFM",
-                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUHFHY28ycVdXVWpsNmRwOUVhdzdBTWpTa2E2a29lanZtbWRRcTNhRW9RNlRzdVlUQXB1SWFVMlU0U3BsYkhGMFdRMlNlOVlUZXFDS2VNZnFaeHNZSVJNOXB4NGctbktTcUtwUUY2azRQbGk2aGVMTWtYOE1MQXVQNzAyOF84VndOelU5Mi1WUnhmVFIyOVlXS0paT2J2bXgtR2dJNnJrcXRuZTVzQlY0cGt1b1dJMjhTdVBzQUNMRThWMDU0R3pyQ1hVaGpJLThxNmpOTmdXOXktWERIVkotd0lUeFc4QQ?oc=5",
-                "pub_datetime_utc": "2026-10-23T17:07:36Z"
+                "keyword": "폭풍 오스틴 강타",
+                "hook": "시속 170km의 강풍, 영국을 덮친 첫 폭풍우의 위력.",
+                "script": "올 시즌 첫 폭풍우 '오스틴'이 영국 전역을 강타하며 교통 시스템이 마비되었습니다. 브라이튼의 상징인 웨스트 피어가 일부 붕괴되는 등 피해가 속출하고 있는데요. 기상 당국은 더 심각한 날씨가 예고된 만큼, 영국 전역에 이동 자제령을 내렸습니다.",
+                "original_title": "Storm Austen: First storm of season brings day of disruption - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54WndkQy1yWU5KU3lpLV8wSjhnc1AxcWhMdDJnNkhGdVBHYXNyc3FVRzRNajVzeWg1bVhPZTdvcVpCUW5DeDY1bklQbW5KOHlGQ1kxU1V2ZlNJRDcxLUE?oc=5",
+                "pub_datetime_utc": "2026-10-23T18:58:59Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:20 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-24 06:28:20 KST",
+        "current_rank": 4
     },
     "Italy": {
         "gdp_rank": 8,
         "spike_score": 75.0,
-        "previous_rank": 6,
+        "previous_rank": 7,
         "trends": [
             {
-                "keyword": "이탈리아 지진 공포",
-                "hook": "시칠리아를 강타한 규모 5.5의 강력한 지진.",
-                "script": "이탈리아 시칠리아에서 규모 5.5의 강력한 지진이 발생하며 주민들의 불안이 커지고 있습니다. 설상가상으로 전국적인 시위와 약탈 우려까지 겹치며 이탈리아 치안 당국에 비상이 걸렸습니다. 혼란스러운 상황 속에서 이탈리아가 어떻게 위기를 극복할지 전 세계의 시선이 집중되고 있습니다.",
-                "original_title": "Terza forte scossa di terremoto in Sicilia, magnitudo 5.5 - ANSA",
-                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTjY2VVRxN2R6a29hVHUxamFTbFZXTDhRYmlUTDF5THQwUDZYYllUa01aYTNSZmlsNmloU0hzYnczQ2h1UXJQZ3lKRzQ3bzVjS2ZYWU1IZ01wZjRZTWVKX0xkYldjV0std0ZnVFFXMnJQYlh5NFItNVdUTGJIdGVTOXRxWVY5RG9NSlA0aFg1c3lXVWhjTktLX2M2MDNPWlJOSUVLUHhUY1lZbG96Z3hjNkFtVFZEQ29HYTc4VENfZU1SdmhCWG5CUzUwZE0xRnY0MHBlSERES0FFYWJRYkxTV0JpeVfSAeoBQVVfeXFMUE9nd0pKdEFsN2Z4TWc1dEVGZDFOTlJNOFR4bjBPM1JtaXhKZlNzT3hYNXlzNm5EQnV4TThOTS03YWswUlpQV19YU2dyVTV6V1ZVWnJRU3NBMG9jYzRZNC11YWlxMlEtY2FrTjFoUERaanNlRWxYNnBYRFFoeGFfYkUzRHZ6dzdCdzUzWFJXTDMweDRTb29sOGx0TWQycnpVVXJCQWkwd2ctVTU5MDR1ZGdWUGIzUHRHdGNleG9BQzB1WmVIcVh6YU5GOXB1LUNRdnJJZUxHQTVXZk9PZkJsOTdHbjFvOUpTVXZ3?oc=5",
-                "pub_datetime_utc": "2026-10-23T13:55:07Z"
+                "keyword": "러-우 휴전 합의",
+                "hook": "드디어 멈추는 총성, 우크라이나 전쟁의 새로운 국면.",
+                "script": "러시아와 우크라이나가 오는 27일부터 휴전에 돌입합니다. 미국 백악관은 멜라니아 트럼프의 중재가 결정적이었다고 밝혔으며, 모스크바 역시 이를 공식 확인했습니다. 전쟁의 비극이 끝날 기미가 보이는 가운데, 국제사회는 이번 합의가 평화의 시작이 될지 주목하고 있습니다.",
+                "original_title": "Guerra Ucraina-Russia, le notizie in diretta | Casa Bianca: «Melania Trump ha ottenuto la tregua a Oleshky». Mosca conferma: «Cessate il fuoco dal 27 ottobre». Evacuata l'ambasciata ucraina a Washington: «Oggetto sospetto» - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzBMellXUmpvTVgySEVxZmRZRkJQTGdhcldONS00eDA1R1ZMeFVUblh3RGV2ODdkS0tpQ1lxcGtsRTRaUzlpN2dqcUVUVGNXa1ZvNlBCXzFxVFluQVliUFpRX1RaNEpoNWVXS0xQaENNNkhWYXVTVUM1Y1VYZ0Z3T21xaGx5dXhfLUNXaTJnb2k1bDdhLTFtcVBpd0ZhakF3Z2lzR3JyZ3lnSW8?oc=5",
+                "pub_datetime_utc": "2026-10-23T17:05:08Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:20 KST",
-        "current_rank": 7
+        "last_updated": "2026-10-24 06:28:23 KST",
+        "current_rank": 5
     },
     "Brazil": {
         "gdp_rank": 9,
         "spike_score": 75.0,
-        "previous_rank": 7,
+        "previous_rank": 8,
         "trends": [
             {
-                "keyword": "브라질 대선 초접전",
-                "hook": "투표일 직전, 1% 차이의 숨 막히는 승부.",
-                "script": "브라질 대선이 투표일을 불과 이틀 앞두고 룰라와 플라비오 후보 간의 초박빙 승부로 치닫고 있습니다. 지지율 격차는 단 1% 포인트, 양측은 마지막 토론을 앞두고 사활을 건 총력전에 돌입했습니다. 브라질의 미래를 결정할 이번 선거 결과에 남미 전체의 운명이 걸려 있습니다.",
-                "original_title": "Pode ser necessário mudar as regras às vésperas da eleição, diz Nunes Marques - Poder360",
-                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUFRjNy1FS3RrOWFvZWtiWVVoZ0hpT240WFVGSm1PaDVSZTZRWmhTaUVQSHFjbWEwMDZGd3ZlX3A3VWtjazRWUDh1b0o4UW9Rc0w4dTJaZVN4Q3FCWG9YaTIwVXp3bnFRSHRQN2xnNXBySjNMckNjemxHNGlPa3k2aVA5WGRIQXlMMmkwb1h4MDM5UGEyN19CdE05T05icmRsX0VEUDB6Zk4wc3phbkxuczBneHFhSnctaWNsVWhtcXhLZGs?oc=5",
-                "pub_datetime_utc": "2026-10-23T09:33:21Z"
+                "keyword": "대선 결선 초읽기",
+                "hook": "브라질의 운명을 가를 단 하루, 승자는 누구인가?",
+                "script": "브라질 대선 결선 투표가 단 이틀 앞으로 다가왔습니다. 룰라와 플라비오 볼손라루 후보는 마지막 토론을 앞두고 막판 표심 잡기에 사활을 걸고 있습니다. 경제 공약부터 민주주의 논쟁까지, 브라질의 미래를 결정할 역사적인 선택이 곧 시작됩니다.",
+                "original_title": "Ministro do TSE impede Nunes Marques de suspender canal 'Exército do Lula' sem aval do plenário - G1",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVRvSWVKd3JNTVB4c2xXQ1VkYnM1WE1oYzM3ZGhRQy1Yd2NGczUyeEt4ZF9YSk5ERnFXUHJJdDVNSGpGTEJaSU8yc3VSem4wZ2h5SExRY1BuVU5oZ1ZIbXRTY0N5eTRrNTN5UjJWUi1yWVA4NE5vRWY4eFdPTDdYVWJaTS04ZWFUQ0xDaHpFZnktUU9md043WEZRMTVsd3RHS29iaE5GcTBnSDRHdzdTRTBRenRkNThV0gHHAUFVX3lxTFBjeVA3MHJ5ejdqUTd2N3FDWl8xVVQwWDhoa1V2QzYxdWhzSWw1LVU2SEdocl9BQlgzalMxWnVwWGJFclJQZEpMc1VVd05XcWY3czdTSjZ2dC1vRS1OVk1fb0p6cDVpYV9Za0xzQWota05kYTdxWEIwWFVvTk9MbndkaHBzNzJ6RUk4LXVoNzNwem9vVnI5a01CRGVGUTJaZ3JyMU41eGlyYTlKeVI4cm1MRVVXdEVFdWRiLWJ6elR5Rmd2TlRPaTg?oc=5",
+                "pub_datetime_utc": "2026-10-23T17:57:53Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:20 KST",
-        "current_rank": 8
+        "last_updated": "2026-10-24 06:28:23 KST",
+        "current_rank": 6
     },
     "Canada": {
         "gdp_rank": 10,
         "spike_score": 75.0,
-        "previous_rank": 8,
-        "trends": [
-            {
-                "keyword": "캐나다·미국 긴장",
-                "hook": "트럼프의 압박, 캐나다의 운명은?",
-                "script": "트럼프 전 대통령이 캐나다와의 협상에서 자신이 모든 주도권을 쥐고 있다고 주장하며 압박 수위를 높이고 있습니다. 이 와중에 캐나다 내에서는 정치적 간섭 의혹까지 불거지며 캐나다 정부가 곤혹스러운 처지에 놓였습니다. 미국 우선주의 앞에 캐나다는 어떤 선택을 하게 될까요?",
-                "original_title": "Hellebuyck traded to Devils by Jets for Mercer, Daws, Bjugstad, picks - NHL.com",
-                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWC1CRVp1djZpQVZPb2dqQXRFTnJLTHBNWTd5Z2tyTVdpZ1VJVUhHNllRNzBudkh3eUJ2azBFYkVYbmZrZjRwTFE1aGNDcWZOSGJXaU5qTlVncmFmTHk5WVM4ZVc1NUM5VWcxVW5NZTF6RnFYd2YxWklULTZhaWViYTlYS3M3eXo3QjJBOWZ6WDZJRGM?oc=5",
-                "pub_datetime_utc": "2026-10-23T16:34:47Z"
-            }
-        ],
-        "last_updated": "2026-10-24 02:14:20 KST",
-        "current_rank": 9
-    },
-    "Russia": {
-        "gdp_rank": 11,
-        "spike_score": 75.0,
         "previous_rank": 9,
         "trends": [
             {
-                "keyword": "러시아 전역 긴장",
-                "hook": "러시아 본토를 덮친 드론 공습.",
-                "script": "러시아 페름 지역 상공에서 20대의 드론이 격추되는 등 러시아 본토에 대한 공습이 잇따르고 있습니다. 공항에서는 대피 소동이 벌어지는 등 전쟁의 그림자가 러시아 전역으로 퍼지는 모습입니다. 푸틴 대통령이 유럽 질서 재편을 언급한 가운데, 러시아의 긴장은 더욱 고조되고 있습니다.",
-                "original_title": "Что известно о локальном перемирии в Алешках - Ведомости",
-                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWlUZzhwQjBOOFRWd1p1UWpjTlZqQ29vQ3F5elo0YUpfRkdZLTZHUU9IM0V2cy13a25RMEtMNjRGRnd3aG1pTUY3Y0ZPYXEtZm1Ma0xndW5tUDRDQ0tDUzhXd0x3NW9tTFJ1ZXluSXhnQkxWR1FYQzlaUmZBLTZPLVdlRUdmdFJLU0Rraw?oc=5",
-                "pub_datetime_utc": "2026-10-23T15:30:40Z"
+                "keyword": "트럼프 관세 철회",
+                "hook": "캐나다 경제를 짓누르던 관세 장벽이 무너진다.",
+                "script": "트럼프 행정부가 캐나다를 대상으로 부과했던 일부 관세를 전격 철회했습니다. 미국 중간선거를 앞둔 정치적 계산이라는 분석이 지배적이지만, 캐나다 경제계는 이번 조치를 환영하고 있습니다. 양국 간 무역 갈등이 해소의 물꼬를 틀 수 있을지 귀추가 주목됩니다.",
+                "original_title": "Trump administration cancels some Canada tariffs amid close midterm races - NBC News",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVElRUlRYNE1DeV9WMkYwaXlScS01OTI1MVotc2Rob1AtZW90Tk13eGJuWWFhOVpEQndDUzBZeFQ3ZFlQcWJJZ0ZZdDdtaFlnTHg2WjdTT25wVm1FUkNEMFQwakN0c2NidkVrUlRseEJCd0g3cW1haXJVS1dhVURvWm9iTldyQWZPOHFjS1dIdVBtZk5nTmk5a3NB?oc=5",
+                "pub_datetime_utc": "2026-10-23T20:03:25Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:20 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-24 06:28:23 KST",
+        "current_rank": 7
     },
     "Mexico": {
         "gdp_rank": 12,
         "spike_score": 75.0,
-        "previous_rank": 10,
-        "trends": [
-            {
-                "keyword": "멕시코 카르텔 공포",
-                "hook": "멕시코를 뒤흔든 카르텔 지도자 검거.",
-                "script": "멕시코 경찰이 치명적인 차량 폭탄 테러를 주도한 카르텔 핵심 인물 '만도 20'을 검거했습니다. 이와 동시에 정부 고위직의 부패 의혹과 교도소 내 유혈 사태까지 폭로되며 멕시코 사회가 큰 충격에 빠졌습니다. 셰인바움 대통령의 강력한 대응이 과연 치안을 바로잡을 수 있을지 귀추가 주목됩니다.",
-                "original_title": "Maru Campos me denunció que Jáuregui era corrupto y era dueño de casinos: Sheinbaum - La Jornada",
-                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVNaQkMtS3FjNzZqcTF4WXNVU3BBN0pRRk9TR3FKNGRrbWx2UTdrRTZYY3JLd0otT0VFZ204Mjk0bEZXalM0dzB0d0VpdWV4WE9VS08zbVU1aUZMODZSUU1aa3RweFNKRWY0U1pGaHE2Yi1fZ0tEaWxhYThIUFRMR2FmbUZKQVg2cm8xMHJETHRUUEtQbElMLXlSeVVJRjduMmUyTkY4VnFJSjFCdjU4SWdKaWYwVWw3N2VqRHJwd0txUVVxMklNdDNJeGJKSHI0WlRR?oc=5",
-                "pub_datetime_utc": "2026-10-23T15:00:00Z"
-            }
-        ],
-        "last_updated": "2026-10-24 02:14:20 KST",
-        "current_rank": 11
-    },
-    "Australia": {
-        "gdp_rank": 13,
-        "spike_score": 75.0,
         "previous_rank": 11,
         "trends": [
             {
-                "keyword": "슈퍼셀 폭풍 비상",
-                "hook": "호주 전역을 강타할 초강력 슈퍼셀 폭풍, 당신의 지역은 안전합니까?",
-                "script": "기상청이 호주 일부 지역에 슈퍼셀 폭풍 경보를 발령하며 긴장감이 고조되고 있습니다. 기록적인 폭우와 거센 돌풍이 예고된 가운데, 당국은 침수 피해와 시설물 관리에 각별한 주의를 당부했습니다. 외출을 자제하고 최신 기상 정보를 수시로 확인해 안전을 확보하시기 바랍니다.",
-                "original_title": "Former Bachelor Sam Wood loses bid to block media from court files - ABC News & Headlines – Australian Broadcasting Corporation",
-                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcm5iWEdhQWx3aGw2XzlPTTY1aE5RdTNrSTAxMzJuTlRlclpDMmFBUndKTFM5c2dCUTJDWWJxRTV4RHVfSWRvemdjRVpaVEhCQlpYZTZHcEhGNUZRWkNybFd6OGt2YVZnUkxvaUhKeUllU0V5RHRrbXZneFU1Mjd4aVFkaUZZS3B6VUVJZ1hwSEVWbXhiM3NmbGFPaWNIQldJQWpqb0QwSFByUQ?oc=5",
-                "pub_datetime_utc": "2026-10-23T06:57:39Z"
+                "keyword": "허리케인 '밴스' 상륙",
+                "hook": "강력해지는 허리케인 밴스, 멕시코를 덮친다.",
+                "script": "허리케인 '밴스'가 세력을 키우며 멕시코 해안으로 빠르게 다가오고 있습니다. 카테고리 3등급까지 격상될 것으로 예상되는 가운데, 당국은 주요 주에 폭우와 강풍 피해를 경고했습니다. 멕시코 전역에 비상령이 내려진 지금, 대비가 시급합니다.",
+                "original_title": "‘Vance’ se intensifica a huracán y amenaza con subir a categoría 3: ¿Qué estados esperan lluvias HOY? - El Financiero",
+                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVHVESGlkZmM3Rjk1X2h4TFQ2VXA5WVlEN1ZEX2Q3QncyckVmbS1UTnRQMzdxMWttTHd4bG0yU1JVbEZHQlhhR1RPd1pKY1N4RXJrV20zbGdJS0dUX0EzRHVEeEQ0LS03c0R4aTlIVDJqQzQ4dDVqMXhPU1JncWZzdFJTeWppVUVFUVk1R0NXalpLekRYSUhxM21zUnhJVENEN0I0QkF6ZXp0XzhfR1NVandkTkxjbWN4cHNIdjlsUWJpT25McHN6OE11TUx6Zjdla3dRNU9uTTlwelEwaXZuQndR?oc=5",
+                "pub_datetime_utc": "2026-10-23T14:14:43Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:24 KST",
-        "current_rank": 12
+        "last_updated": "2026-10-24 06:28:23 KST",
+        "current_rank": 8
     },
     "South Korea": {
         "gdp_rank": 14,
         "spike_score": 75.0,
-        "previous_rank": 12,
-        "trends": [
-            {
-                "keyword": "위험한 비타민 주사",
-                "hook": "병원에서 맞은 비타민 주사가 사실은 납 배출제? 전국이 발칵 뒤집혔습니다.",
-                "script": "인증되지 않은 납 배출제가 '비타민 주사'로 둔갑해 전국 동네 병원에 39만 개나 유통된 사실이 드러났습니다. 성분 불명의 주사제를 맞은 환자들의 불안감이 커지는 가운데, 보건 당국이 긴급 조사에 착수했습니다. 본인이 맞은 주사가 무엇인지 지금 바로 확인해보세요.",
-                "original_title": "오세훈 2심 재판부 “김한정과 대납 요청할 만한 관계 아냐…오히려 캠프에서 홀대” - 경향신문",
-                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zbThjQldtc3FySi03aUtyVENHWFFTaFdpSEZWSG55VmZwSnp5WU5YczlQa2FKX3A2XzZLN0tjajhFYmZNOC0wbEJnLXY4YjBjdnA2Mmp5QUZ0UdIBX0FVX3lxTE9NX2w0MEdzbTZhWXVzTXFFeHlWdWEzY2tvdWRJTlpMSldhRldBQlNmNWRIQzFxT1ZmX2NIT3dKWV9EU25wWW9idk01RkJ6ckNUU3VSQmNhUExJN0p3eXFN?oc=5",
-                "pub_datetime_utc": "2026-10-23T11:30:00Z"
-            }
-        ],
-        "last_updated": "2026-10-24 02:14:24 KST",
-        "current_rank": 13
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 75.0,
         "previous_rank": 13,
         "trends": [
             {
-                "keyword": "광산 폭발 참사",
-                "hook": "종굴닥 광산에서 발생한 가스 폭발, 3명의 노동자가 끝내 돌아오지 못했습니다.",
-                "script": "터키 종굴닥의 한 광산에서 갑작스러운 가스 폭발 사고가 발생해 3명의 노동자가 사망하고 다수의 부상자가 발생했습니다. 구조 작업이 긴박하게 진행되는 가운데, 사고 원인 규명과 안전 대책 미비에 대한 비판이 쏟아지고 있습니다. 희생자들의 명복을 빕니다.",
-                "original_title": "Kahire'den Ankara'ya dikkat çeken mesaj: Bölgesel gelişmeler konusunda görüş birliği içindeyiz - Cumhuriyet",
-                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmhBNk1JZ2RmX3lLcnFnaFdJSnk1bTFOVkYyc1pxZmNPR2NqaGJEZXVZRXhKMmpCMWZzbTB3cGw2d2JMdTlwNlBHQ21LdmRTcXpFYXdkOEw3X1BCNEpvczNReTVrTVVlQ1plTmNLZXJNQlZ6dDhxSVRicC1KMDFtRFdSeTNEc2Nsc0pMZGhHcnFOSFB5WkNFR1dXMGpsd0J2SFNnM05jamkxNVM5M1U2cGtRREM0VmlIcS0wNGFJS051S2pValB6RDNQZUdOOC1XZWdV?oc=5",
-                "pub_datetime_utc": "2026-10-23T08:46:00Z"
+                "keyword": "소방관 순직 논란",
+                "hook": "위험한 화재 현장, 무리한 진압 지시가 비극을 불렀나?",
+                "script": "순직한 소방관의 안타까운 죽음 뒤에 무리한 진압 지시가 있었다는 의혹이 제기됐습니다. 인화물질 보고 후 불과 4분 만에 공격 진압 명령이 내려진 정황이 포착된 건데요. 유족들은 진상 규명을 요구하며 거세게 반발하고 있습니다.",
+                "original_title": "오세훈 무죄 선고 구회근 판사 누구?…과거 이 대통령 선거법 사건도 맡아 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91REdvQXB5YTFnZ0RseDdJZkJZTmozQ3N6NVQ0NkRyM0NUeHlkbllFdzVZLUM2aUZmeFFqQ3BnQUVlcFJzMFVOOW84LUxMZWFRTHFlOVRJNHVmLXoxeGpORlpmblNWUmwtc1lIc1NMQTJPdw?oc=5",
+                "pub_datetime_utc": "2026-10-23T13:18:00Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:24 KST",
-        "current_rank": 14
+        "last_updated": "2026-10-24 06:28:26 KST",
+        "current_rank": 9
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "정권 퇴진 대규모 시위",
+                "hook": "인도네시아 거리로 쏟아져 나온 학생들, 정부를 향한 분노가 폭발했다.",
+                "script": "인도네시아 주요 도시가 정권 퇴진을 요구하는 학생들의 시위로 마비되었습니다. 거리는 시위대로 가득 찼고, 정부를 향한 비판의 목소리는 최고조에 달했습니다. 현장의 긴장감이 극에 달하며 정국 불안이 가속화되고 있습니다.",
+                "original_title": "54 Ton Batu Galena yang Dibongkar Polisi di Jakut Disamarkan Berisi Kemiri - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0MyZVZ4T2hzU1MtLVNoVzlnUWc4b214b1piVEZSaHlqZ21MTk4zbXdxM0lzdW5zX2pUUHZmenRtRXkyZFdtOUFDbFBMc2lLQnZHSVBkRWk1NERJU25GNUQyLXIyak02TlBvVGk0TDJJcjYzS21aRDhFTXhwWFBEQW1kVTJsY3kydHdNdkRqamxGMzdBdktUdWJ3NWpiWjdVdllXYnlWV2VTTG03ZnhvX2dnelLSAboBQVVfeXFMUGJvWVpEazdtRVdhMmZPT0ZIQkVSYWRoYWFjQkVxelNNTXFxSE10TVZLMHR6WURYUHptMTUzeV9tQXpLUDBEY0RqNUJ4ZWtpalQ0Y1NDSWhGT2FlbmtjRzhlSGF2eEF2TEVKekluNFByQjdwUlRsRWcyR3NIVTBuZ2pDbU5rRDV5di1TOXk0ZmFYek9XR1JvWndsa19vNkV5MDFFTEhvX0dCTWNIRWxrWUNnOWFqUnBXX0Nn?oc=5",
+                "pub_datetime_utc": "2026-10-23T14:40:20Z"
+            }
+        ],
+        "last_updated": "2026-10-24 06:28:26 KST",
+        "current_rank": 10
     },
     "Argentina": {
         "gdp_rank": 18,
         "spike_score": 75.0,
-        "previous_rank": 14,
+        "previous_rank": 15,
         "trends": [
             {
-                "keyword": "밀레이 100년 계획",
-                "hook": "아르헨티나의 파격적인 변신, 밀레이 대통령이 '100년 미래'를 설계하겠다고 선언했습니다.",
-                "script": "하비에르 밀레이 아르헨티나 대통령이 국가 경제의 근본적 체질 개선을 위한 100년 장기 프로젝트를 추진하겠다고 발표했습니다. 미국 고위급 인사와의 회동을 통해 외교적 입지를 다지는 한편, 내부적으로는 강력한 개혁 드라이브를 걸고 있습니다. 아르헨티나의 변화는 과연 성공할 수 있을까요?",
-                "original_title": "Sur Finanzas: el juez Rodríguez Ponte detuvo a Maximiliano Vallejo, el financista cercano al Chiqui Tapia - Clarin.com",
-                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORzdhdVphN1dnRER5dXg1dkxHVDA3ZFdmOWJkZ2lZUjQxaG93UXJ1MENmM3RsdHQxaDc4WUhST0lMMERreVc3ektZcjFUbmZCYko5bWI4dDBjN203SWJLdEdzMXpfY3NwTTg1Z2YydmNKV18wZUFZNklGenk5YXZNWG9WMFd2cGpDM0NLTDl2NEN0YVhaTXpvZXpGNVdXLThSUG5hRVliSW8yZ1g5S00zRXZVRzdkODZYUUx3LWU5MW5XcjRNdVdoQzFiMTV5WG9Cc19yTFBBbExfQQ?oc=5",
-                "pub_datetime_utc": "2026-10-23T15:40:21Z"
+                "keyword": "키르치네르 재판 시작",
+                "hook": "아르헨티나 정계를 뒤흔든 범죄 조직 혐의, 전 대통령 법정 출석.",
+                "script": "크리스티나 키르치네르 전 대통령과 그 아들이 범죄 조직을 결성한 혐의로 재판대에 섰습니다. 아르헨티나 정계의 거물들이 연루된 이번 재판은 국가 전체의 이목을 집중시키고 있습니다. 과연 정의는 실현될 수 있을까요?",
+                "original_title": "Arrancó el juicio de Hotesur y Los Sauces: acusaron a Cristina y Máximo Kirchner de armar una \"organización criminal\" - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTzhsNFFDYWZSTU5Scl8yUTZqOU9KQ0tBbUZONWN6WTVUTWRrNFNQS2hRamFpcG5UME1xMENyaFRReHp2S2FrQUtLaGJpUHEyRWR3YldjQWJOVW9kcERJUDhZWklQQzBubUV5c2hZd29nWGFQeG5HeVVtWFVPWE1sS29fb1kxRjlMZ0hDM2pzMS1qSEY0aUJYcVIwVkpSVjktUTRiTFZfOGZQVW5PX2FFUHNUWEZSbUdGSjQ4LXVWSnpJRXpRZFdLRUlFMEhpQlB0N3EtZjV4SnA?oc=5",
+                "pub_datetime_utc": "2026-10-23T19:14:00Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:24 KST",
-        "current_rank": 15
+        "last_updated": "2026-10-24 06:28:26 KST",
+        "current_rank": 11
     },
     "South Africa": {
         "gdp_rank": 20,
         "spike_score": 75.0,
-        "previous_rank": 15,
+        "previous_rank": 16,
         "trends": [
             {
-                "keyword": "남아공 물 위기 심화",
-                "hook": "수도꼭지에서 물이 나오지 않는 남아공, 시장이 직접 칼을 빼 들었습니다.",
-                "script": "브롱크호르스트스프루이트의 물 공급 중단 사태로 공장 관리자가 정직 처분을 받았습니다. 남아공 전역에서 수자원과 전기 인프라 붕괴가 가속화되면서, 라마포사 대통령은 지자체 수익을 별도로 관리하는 강력한 조치를 제안했습니다. 시민들의 분노가 극에 달한 가운데, 정부의 대응이 이번 물 위기를 잠재울 수 있을지 주목됩니다.",
-                "original_title": "Bronkhorstspruit plant manager suspended, mayor orders independent probe into water crisis - News24",
-                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMXhRdS1nSGdCcVI4TVBmMVNiT3psdDl0V0NDLVVieFF3Q053R3o1cGxXVktHd1hubVpkY3p0dENmamxmZms4bFJwUjN1YjF2T1EwU0NKNXNKeU9hSGs2RnZlRWF4T0kzSkU4NjVKOV9pR1EzZEk0d3Y2dG9qdldYSUp3WWFBbXJUbWRneVlCUEc5bEhSNHB6TFdkdUx5dEktR29WVW53dUZYMkN1X0V6MjllTU8tb2FGOHktSjBPWGFhQ0VBS3Z4U2RsV0hTdzJvWDRCN3V6dHBicEtXY29BdzNNUno?oc=5",
-                "pub_datetime_utc": "2026-10-23T15:19:30Z"
+                "keyword": "남아공 치안 및 행정 위기",
+                "hook": "경찰서에 의자 3개뿐? 남아공의 충격적인 공공서비스 붕괴 실태를 파헤칩니다.",
+                "script": "남아공 수도의 한 경찰서, 서른 명의 형사가 단 하나의 컴퓨터와 의자 3개로 범죄와 싸우고 있다는 충격적인 사실이 드러났습니다. 설상가상으로 물과 전기 요금 문제로 지자체 갈등이 극에 달했고, 더반에서는 외국인 대상 폭력 사태까지 발생하며 사회적 불안이 가중되고 있습니다. 정부는 긴급 대책을 내놓고 있지만, 시민들의 분노는 걷잡을 수 없이 커지고 있습니다. 과연 남아공의 공공 시스템은 다시 정상화될 수 있을까요?",
+                "original_title": "Tshwane Mayor suspends Bronkhorstspruit water plant manager as independent probe launched - IOL",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVhjdHlPNDduY2JFTTRlbC1zS0RlcG1raTlnXzVWU1M0STFXWWgycnpfeWlZZGUxYXZPVUNxckwxTGpQNFZWQ3VfSVVVSkhmaGRQVERTWnpmZnphOEZqYWIzOTZCZFdsM1piX1J2cGRZaDhxTGhLVngzVG9ZNjVHNHhMek5USHk5eXpGT1ZGTTJEdFd5TXdRWVo0T0lranEwSWNsQUZuSFdRX2ExSkd3eGhoMnRHenNDdHFLVmp3OFYxWVNUbGhWLUpFbzRYdldmd0hV?oc=5",
+                "pub_datetime_utc": "2026-10-23T17:28:47Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:35 KST",
+        "last_updated": "2026-10-24 06:28:27 KST",
+        "current_rank": 12
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 70.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "왕이, 글로벌 거버넌스 강조",
+                "hook": "중국이 주도하는 새로운 글로벌 질서, 왕이 부장이 직접 나섰다.",
+                "script": "왕이 외교부장이 글로벌 거버넌스 이니셔티브를 실현하기 위한 구체적인 행동 계획을 발표했습니다. 변화하는 국제 정세 속에서 중국의 영향력을 더욱 강화하겠다는 의지로 풀이되는데요. 과연 중국이 제안하는 새로운 거버넌스 모델이 세계 경제와 외교에 어떤 파장을 불러일으킬지 주목됩니다.",
+                "original_title": "王毅宣布中方进一步落实全球治理倡议的务实行动 - 中国新闻网",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ZGFmVnhUbGFZWXo2VlliRmVtZ2RQYXBOMlZSUXF0TzhkZm1iX0lWUmsydjh2bjVOd2xnRnV6NGNSUzA0Y0ZCcjlxNlp1bW9kUHMxUFNYMUdNd2dfTFR1clgxSlowZUwx?oc=5",
+                "pub_datetime_utc": "2026-10-23T17:58:28Z"
+            }
+        ],
+        "last_updated": "2026-10-24 06:28:20 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "태풍 30호 북상 중",
+                "hook": "초강력 태풍 30호, 일본 열도를 향해 빠르게 다가오고 있습니다.",
+                "script": "대형 태풍 30호가 규슈와 간토 지역을 향해 북상하면서 일본 전역에 비상이 걸렸습니다. 기상청은 이번 태풍이 기록적인 폭우와 강풍을 동반할 것으로 예상하고 긴급 대피를 당부했는데요. 이번 주말, 일본 여행이나 이동 계획이 있다면 반드시 최신 기상 정보를 확인하시기 바랍니다.",
+                "original_title": "改正皇室典範きょう施行、「旧宮家の男系男子を皇族の養子に」「結婚した女性皇族の身分保持」可能に…３０年ごと見直し - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwYzRsRmJOOXc0b2hhX2VmaE5PaUotSXJDeGJJZW45ZkN1bEtnOURQaHFpU0xmRFRqeHRPY2lpVDJwNUlDM19MRE1zaHp3bW03WHk4WHREOUdtRlhMRm9jZG9XVU1zdw?oc=5",
+                "pub_datetime_utc": "2026-10-23T15:09:00Z"
+            }
+        ],
+        "last_updated": "2026-10-24 06:28:20 KST",
+        "current_rank": 14
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "파리 시위 강행 논란",
+                "hook": "금지된 시위, 파리 도심이 다시 멈춘다.",
+                "script": "프랑스 파리에서 24일 예정된 대규모 시위가 당국의 금지령에도 불구하고 강행될 전망입니다. 노조 측은 바스티유에서 나시옹까지의 행진을 예고했고, 상점들은 약탈과 혼란을 우려해 긴급 방어에 나섰습니다. 민주주의의 권리인가, 공공질서의 위협인가. 파리의 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "Mobilisation du 24 octobre : « Suspendre la liberté de manifester est une trahison démocratique » - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOUVWaFdKb1pZTDVHcVhvUUhIcDNXWThPYUVidUpSTnNGS1hQQ0RSd2JUejctOHpWUVJpLWRzV09QS2VJM1JUY3BKcWdMTGVEaFNKWEJpWjlZWG1FcnVEZ3Q2WFlLS1RxSEdkamd3cDhyVlhQLUdlRjNuVE5ibl8yYnZNS0lqWnNMVVU0Yms5Y2NpT0VhWm52WUxvYlEtR0dpalczMGk1Rl9NU0NUeEh1alEwc2dDZG1RSWR4UGlvQUVJQjdkZVRMTVc1T2h2eXRBcVNzX3FNMFFQNk5IZUswVFNKcXdqcEdyR0Z6Mmhn?oc=5",
+                "pub_datetime_utc": "2026-10-23T11:00:05Z"
+            }
+        ],
+        "last_updated": "2026-10-24 06:28:23 KST",
+        "current_rank": 15
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "러시아 본토 공습",
+                "hook": "드론과 미사일, 러시아 본토를 강타하다.",
+                "script": "우크라이나군이 러시아 본토를 겨냥한 대규모 드론 및 미사일 공격을 감행했습니다. 모스크바 공항을 포함한 주요 지역에서 항공 대란이 발생했고, 곳곳에서 사상자가 속출하고 있습니다. 전쟁이 러시아 내부로 깊숙이 파고들며 긴장감이 극에 달하고 있습니다.",
+                "original_title": "Банк России снова сохранил ключевую ставку на уровне 14% - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUm9NU0ZGQ0VHeU9qdHUzb1B5TzJ0cFcySlFrdWxaNW5JdHk1M2FpWXprYU52ZTY0X0l2R2F2UFluWnp2V3JQM3ExWlNpeW1SbzRjTWV6Vlo3UVhibEFnNlNxVk1vTVo0anNHel90ZDFYZDAxaFBpejNFemNkZzBIR2VoWkxMellHdl9HUUZBYzFQZw?oc=5",
+                "pub_datetime_utc": "2026-10-23T10:30:36Z"
+            }
+        ],
+        "last_updated": "2026-10-24 06:28:23 KST",
         "current_rank": 16
     },
-    "India": {
-        "gdp_rank": 5,
+    "Australia": {
+        "gdp_rank": 13,
         "spike_score": 70.0,
-        "previous_rank": 3,
+        "previous_rank": 12,
         "trends": [
             {
-                "keyword": "인도 주식시장 급락",
-                "hook": "인도 센섹스 지수가 하루 만에 700포인트 넘게 하락하며 투자자들의 불안이 커지고 있습니다.",
-                "script": "글로벌 경제 불확실성과 국내 이슈가 겹치며 인도 증시가 크게 흔들리고 있습니다. 니프티 50 지수마저 22,400선 아래로 밀려나며 투자 심리가 급격히 얼어붙은 모습인데요. 시장 전문가들은 당분간 변동성 장세가 이어질 것으로 경고했습니다.",
-                "original_title": "Situation along LAC gets disturbed when Chinese forces diverge from established patrolling pattern: MEA - The Hindu",
-                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnhQMHlFcTVsTkJ6Nmh3YjlRN2swX3ZUeGo1Yk9qcE5FVFU5VHJfZXhtODV6czFQVjBxTnM2WTBqd0IwTkdmbjk3YWhBQ0hNM0VXRUZzYTllbm5USWhEeEVTUmV0U2xKZ2tkemd5b0dLZFRpa2dRV0RzN0dhU091ajFIZnN6OHJoTGk0eGVJN0pFX29zcGotLUxoUmFpQ0laaW1ISUo4UzlSM1BreVdDMmdhWU4wUTFYT2lFejJB0gHEAUFVX3lxTE92WlQ1UU1Zem5hbi1XLXc3ZFduZTk0cllsTURIeDVLeFNHQUJNTUxJX2JlY0ZIQ2xhbWtzYURQMmhoWmJqa2kxVV9VQ002ODVaTHVUWFZmS2d0X1ZmYWlpS0dHRFJ0bFN5QTI2NkFHdmgtWEdQcnd2RTRHSlRzWG9hOUI3ME53NXI0RjVCMXVCYlVjbm50d2R6YkNXRWt4aFhjZlBFamxzNkVVNkdORHZUcnBKTGIxVDZhUnJWblNwRTRqSzc?oc=5",
-                "pub_datetime_utc": "2026-10-23T13:19:42Z"
+                "keyword": "경찰, 살인 자백 충격",
+                "hook": "친구에게 살인을 고백하고 시신 뒷정리를 부탁한 남성, 법정에서 드러난 잔혹한 진실.",
+                "script": "호주 사회가 큰 충격에 빠졌습니다. 보 라마레-콘돈이 친구에게 자신이 사람을 죽였다고 고백하고 증거 인멸을 도운 혐의로 법정에 섰습니다. 살인 사건의 전말이 법정에서 낱낱이 공개되면서 시민들은 경악을 금치 못하고 있습니다.",
+                "original_title": "Why pitiless assault on Helen Haines exposes threat to democracy - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNelptTU85a21wenZfQzBQUks1c1VNMkpJZ1BqT2hQTkhaMUV5WnowdWp5ODg3dHBIb3dVMkhVSjd5V3FUM2ZWcWFjTjloNDlWdEpTM2pCQUREY0hKZ2ZFTEtWV251Y0I0eGl6N3pxcXZfZnRzMzlxVHJtRDB2U3I1Q2xrVEw3dXpRR2dncDZiUWlrVzEzLS1oN3ZkLWJOUXpNS2JZcFlXVmlUemtjN3VGbHc0cHR1NHc4aVByNDhnU0NSaFE4RnphZzY1T1RMNUxwc0RTTERlVEt1b1RuOWdGb2tfbHVFZElMbUx6N3BZa0ZHUHlGN1JCQW9pYU9vbjNJRjBudVREN2NFMk8tTnc?oc=5",
+                "pub_datetime_utc": "2026-10-23T13:34:42Z"
             }
         ],
-        "last_updated": "2026-10-24 02:13:50 KST",
+        "last_updated": "2026-10-24 06:28:26 KST",
         "current_rank": 17
     },
-    "Indonesia": {
-        "gdp_rank": 15,
+    "Turkey": {
+        "gdp_rank": 16,
         "spike_score": 70.0,
-        "previous_rank": 18,
+        "previous_rank": 14,
         "trends": [
             {
-                "keyword": "11 Korporasi Tersangka Karhutl",
-                "hook": "Indonesia의 최신 주요 뉴스입니다.",
-                "script": "11 Korporasi Tersangka Karhutl",
-                "original_title": "11 Korporasi Tersangka Karhutla Terafiliasi Asing, Bakar 11 Ribu Ha Lahan - detikNews",
-                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXdUNTJMdzhnMWRrWjJRbXFvdndCN3B3TkNnQnlqTDg1bnY0NTlqaGZhNDd3NGVTdlhXRTZndTF0WTNqcjhHcWh2RF9IbTdnZ1J2TGdrcl9VTHJWdVhUZmc2T3NpTjZ3bVBGSE9pSWVlZFJwWENoRXV4ZTBTUVZLeGJuUDZDYmQ5TmEwM0h2MVRDbEJmZVQ0bVJtSGNxWDctcVZ1TzZHX0hoNTNSa0xhQ0Zn0gG3AUFVX3lxTE9MdS1HR1VPUGJfaThuS0FZVmJlUTJCSHNhbkxIUjhxTzBhbkRuZWIwYW91cUNHaDJGVDNHa2daaENqVDduTHRQSXM1WGRLS0F1MlI1aFM0eXdsS3JzTWl4V1k0LVBCbmZZRW1uanIyRmVtS015MEJpYUx3TDg3Z2RVM0IxU2NKd3BKcWpmV0VIMFAxZXB5emRkOFNLWVozZnh1UzRmWFR5RDAxdmRycWlmQl9xdTR1QQ?oc=5",
-                "pub_datetime_utc": "2026-10-23T08:59:44Z"
+                "keyword": "광산 폭발 참사",
+                "hook": "조굴다크 광산에서 발생한 비극적인 폭발, 3명의 노동자가 목숨을 잃었습니다.",
+                "script": "터키 조굴다크의 한 광산에서 가스 폭발 사고가 발생했습니다. 이 사고로 노동자 3명이 현장에서 사망하고 다수의 부상자가 발생해 구조 작업이 진행 중입니다. 안전 관리 문제가 다시 한번 도마 위에 오르고 있습니다.",
+                "original_title": "Zonguldak'ta maden ocağında grizu patlaması: 3 işçi hayatını kaybetti, yaralılar var | Hayatını kaybeden işçilerin kimlikleri belli oldu - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0ZNVURHclVvRXEwWFRMd0xpTF9NQ2NSMHJZRGNWOWwtN1dRSWQ4SllkWU1vOVpoUm9jd0Y3MTdmTEU5UnJsX0piWlFaRERyWnY1UTc3Q1owQUNodGRqVXFpTXFvdGk0bk9NSkhWekF1T0pXTE9qWUdRTTk4dHQ5cDhmMXdqZGE2SlRvN0VDTXVGajZhRG1mSHpyZ0paMEgyckQyenBSSzdPRlJ5dFc0dlE5VmVDSnJKVkxhRA?oc=5",
+                "pub_datetime_utc": "2026-10-23T20:16:37Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:24 KST",
+        "last_updated": "2026-10-24 06:28:26 KST",
         "current_rank": 18
     },
     "Saudi Arabia": {
@@ -311,15 +311,15 @@
         "previous_rank": 19,
         "trends": [
             {
-                "keyword": "리야드 탄도미사일",
-                "hook": "리야드 상공을 겨눈 탄도미사일, 연합군이 긴박하게 요격에 성공했습니다.",
-                "script": "사우디아라비아 리야드를 향해 발사된 후티 반군의 탄도미사일이 연합군에 의해 공중에서 격추되었습니다. 연이은 미사일과 드론 공격으로 지역 긴장감이 최고조에 달한 상태입니다. 민간인 안전을 위협하는 도발에 국제사회의 규탄이 이어지고 있습니다.",
-                "original_title": "التحالف: اعتراض وتدمير صاروخ باليستي أطلقته مليشيا الحوثي الإرهابية باتجاه الرياض - صحيفة سبق الإلكترونية",
-                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nSUc1R3BOdDhYQXlYb09reDNiQUFnaGN5UnV3cVJFS3h0TjhlOEhvcUhqT2pqdWZWYVdXUFlzWVg5T2lTOHk0?oc=5",
-                "pub_datetime_utc": "2026-10-23T01:01:17Z"
+                "keyword": "보복 공격 예고",
+                "hook": "트럼프의 강경한 경고, 이란을 향한 또 다른 군사 작전 가능성 시사.",
+                "script": "도널드 트럼프 전 대통령이 이란에 대한 추가적인 군사 작전 가능성을 언급하며 긴장을 고조시키고 있습니다. 중동 지역의 안보 위협이 다시 커지는 가운데, 주변국들은 상황을 예의주시하고 있습니다. 국제 정세가 요동치고 있습니다.",
+                "original_title": "ترامب: قد ننفذ عملية عسكرية أخرى ضد إيران - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUTNXcmJrQTV6Q1duSjlNVzM0WmJmZzhWRXBoR0JJdlA1ZWpaMGNzTGJoUWdSMHFnLV9ibUM2X2p5SEw2WmlaTTRaUGRWdkdiZ2JFaS0wMW9ubUVHbGtZTEdVYi1ZUjdCcU5xM2ZaaWpycHI2ZXZmVFBDOUJraTZGQnEzRUxWREpfWVFNYm1NYmp0UkVWQXdtazkzQjU1N3dRYmVneE9CVXVwWlJvY2FDc0Q0UnBfWFNQZFNpU3RUbUxObzc0bzBjYzduOVhIMG11cWJlUnduRjA0Yl9YX1RUZEZMeWZMcGEzaHEwRDJlbW5NdWk4MlRBbFlRcHdHbVVLbk1OSVZzczh0eVR0U2F4RHluNkl2MWdPQkpsdENoNmQ5ZmIzSzFyVVpxNThkZlFQdFphU19XazlfLUZhVUlJNzQ0Z0xFYy10dHlfcy1jWFpzNEZEVHQ40gHcAkFVX3lxTE9IWXpvNjI2OEY1bm5GUGs2aF9ndFV1UGxQYlRObEthcFhjdkplc2t2MWNxMGwzZXltYjl1Y1BqVlBUTDQ5VG9uUjRpMXVKWEduVHF5dC02RVUwTVFhTzRQTUpsY0Q4YlRQYmpyZFVLTEt2bTJqTGVlZ0dPNjFpWm9qZnZrVEQxbGQzZzEycUExTnNWX0NNU1JzVTZ4SnliVkEzT3BaZEtSbGNhRGVRX0hDVVdhWnBRQnZkeEtybzJfM2xtMHJZOUlEZkFKazRXSmEtWGRfeWJYcU0tM21lVU1sQThISElTMEc1NnpDOTRPaUprbmliemNydDJicFpuZWRWUDVxT2pDNnBvM24ydEFDTUJJMnozMHNXM2M2WXpodjktWU9CYWo1NXIzRE5DSHI4M0dmVFhGSTZLZWRiWnhmM2tRSVRuZWJiSnBDRjFBNWtoRENrbFdOWXZXdw?oc=5",
+                "pub_datetime_utc": "2026-10-23T19:56:07Z"
             }
         ],
-        "last_updated": "2026-10-24 02:14:24 KST",
+        "last_updated": "2026-10-24 06:28:26 KST",
         "current_rank": 19
     }
 }
