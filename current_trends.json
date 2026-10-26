@@ -1,325 +1,325 @@
 {
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "트럼프-오바마 격돌",
+                "hook": "미국 중간선거의 운명을 가를 두 거물의 마지막 총력전이 시작됐습니다.",
+                "script": "2026년 중간선거를 앞두고 트럼프 전 대통령과 오바마 전 대통령이 미시간주 격전지에서 정면충돌했습니다. 양측은 서로를 향해 거친 비난을 쏟아내며 지지층 결집에 사활을 걸고 있는데요. 이번 선거가 향후 미국의 정치 지형을 어떻게 바꿀지 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "Brazil's left-wing President Lula elected for fourth term - NPR",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSzBxUWFIUk9iUjVJbVdiM3VNRHZyUjZuby14R1ZXSy1FUVV0dDhxQ1NWc2JkM1hsUkpRYXdfaGs1WEpab1NpTEtXY3k1U01iU1lxUTBtU2ZYVnpIcG82VWZiLUtvWC1odXFXNi1PWUcwejVVNkQtQW9qRDN0TzVyTg?oc=5",
+                "pub_datetime_utc": "2026-10-26T03:16:12Z"
+            }
+        ],
+        "last_updated": "2026-10-26 13:54:36 KST",
+        "current_rank": 1
+    },
     "China": {
         "gdp_rank": 2,
         "spike_score": 75.0,
-        "previous_rank": 2,
+        "previous_rank": 1,
         "trends": [
             {
-                "keyword": "국가공무원 시험 열기",
-                "hook": "7년 만에 꺾인 공무원 시험 열풍, 중국 청년들에게 무슨 변화가 생긴 걸까?",
-                "script": "중국 국가공무원 시험 응시자 수가 7년 만에 처음으로 감소세로 돌아섰습니다. 그동안 치열했던 '공무원 열풍'이 드디어 합리적인 방향으로 회귀하고 있다는 분석이 나옵니다. 과연 중국 청년들의 진로 선택에 어떤 구조적 변화가 일어나고 있는 것일까요?",
-                "original_title": "在新征程上持之以恒推进全面从严治党 - 人民日报",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85T0hMMHN0N1FWZXR0bUU0Y1FiWWVKUk83d2VFbWJhTEhyUXMwWTE3LW8xeUlsU2JHTmUxXzAyeHZCbWRIalA0eW5USWpFR1htaG8zVS1fX295S2taeWtCMTI0elZyYnV0a0lqQ0diQkVxTXJoRVRBOGgxWHlpOTg?oc=5",
-                "pub_datetime_utc": "2026-10-25T22:03:18Z"
+                "keyword": "시진핑 3연임 체제",
+                "hook": "중국 공산당의 미래를 결정할 제20기 5중전회가 베이징에서 막을 올렸습니다.",
+                "script": "중국 공산당이 베이징에서 제20기 중앙위원회 제5차 전체회의를 개최했습니다. 이번 회의에서는 시진핑 주석의 국정 운영 방향과 향후 5년의 핵심 정책이 결정될 예정인데요. 당의 통제력을 강화하고 강군 건설을 강조하는 등 내부 결속을 다지는 모습입니다.",
+                "original_title": "习近平全面从严治党的现状 后果 走向 - RFI",
+                "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQYVdra0VpZ25MOGJpanp4YWg3d3VrQmVsRE9jRWxFT2dPVmVLbGMwOVJWRU9uS2twdDVUQXBVbVhUWDlPNFFJa0F1THg2OFJMNGNvQmQxRnlXTHpheUlBSUhUbzNTOXpQcWFHVElkZFJwWHBhRmdPQ2hDQlFmMENtekUwaUI2MUNwZGZOeV9wTFlFd094VU9rZU4ybVZwaHBCLThNdFUxQkM5c3FmZFQzR0VJWE51WXNPXzdZWGpBRWtHQnRTN1NNbUZQeVVnNzFsRER3eVVmTW0wYlBiSWFZb3FrLVJESF9jVkpBMVZoUHpNcHppVGlLN0Q3eC1iaXhHSVg5bFlXRTZzUFJkNEFqY25jTTE4bkdzeXZ5MGtEZmlzdw?oc=5",
+                "pub_datetime_utc": "2026-10-25T22:19:53Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:16 KST",
-        "current_rank": 1
-    },
-    "France": {
-        "gdp_rank": 7,
-        "spike_score": 75.0,
-        "previous_rank": 5,
-        "trends": [
-            {
-                "keyword": "프랑스 시위 격화",
-                "hook": "평화로운 시위인가, 폭력의 현장인가? 프랑스 거리에서 벌어지는 심상치 않은 대립.",
-                "script": "물가 상승에 분노한 프랑스 시민 41만 명이 거리로 쏟아져 나왔습니다. 전국 곳곳에서 체포와 부상자가 속출하며 사회적 긴장감이 최고조에 달하고 있는데요. 극우 세력의 개입 의혹까지 불거지며 프랑스 정부의 대응 능력이 시험대에 올랐습니다.",
-                "original_title": "\"Si on l’avait vu, on l’aurait sorti\": Au meeting du RN, un possible salut nazi dans la foule - LCP-Assemblée nationale",
-                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX083ckNVTkpVbTM4NjJhazFaTFBvR1Ntc3M5SVBEd1huNnlIeEpPc2w3NThTMm5NeFB5NVFOWTNhazlkaGlnWlJ5YUdXQWE3QTdJRzNUM1hVYWo4a21sWm95b2FkTE40dkotSmxQaFhwd3Q4MFZjck1FOThUZ2NldzIxMEExQTNLSVdRSE9vYXl4NnpsU2txQUJZTDBCRFBMQ0h1eWhXbVQ0djViU2N4R1JtLTk?oc=5",
-                "pub_datetime_utc": "2026-10-25T17:50:52Z"
-            }
-        ],
-        "last_updated": "2026-10-26 08:19:22 KST",
+        "last_updated": "2026-10-26 13:54:36 KST",
         "current_rank": 2
     },
-    "Italy": {
-        "gdp_rank": 8,
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "루라 브라질 재선",
+                "hook": "좌파의 아이콘 루라 다 실바가 브라질 대선에서 극적인 재선에 성공했습니다.",
+                "script": "브라질 대선 결선 투표 결과, 루라 다 실바 후보가 승리하며 통산 4번째 임기를 시작하게 됐습니다. 루라 당선인은 '타국의 뒷마당이 되지 않겠다'며 강한 독립 노선을 예고했는데요. 이번 결과가 남미의 정치적 지형과 국제 관계에 어떤 파장을 불러올지 주목됩니다.",
+                "original_title": "ブラジル大統領選、決選投票でルラ・ダシルバ大統領が再選…通算４期目へ「他国の裏庭にはならない」 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aTzBOVVYxallrRjBRUG5vckNtd1BxaWtvVjNxdmVpYU9jaGxNQVJFeXpHRXVkV2F6SUI4RE4teERVV0M5SEg2aG4zTWV2cmFvaFFwMU0wR1l5WW1weU16X3Zn?oc=5",
+                "pub_datetime_utc": "2026-10-26T00:21:00Z"
+            }
+        ],
+        "last_updated": "2026-10-26 13:54:36 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
         "spike_score": 75.0,
         "previous_rank": 13,
         "trends": [
             {
-                "keyword": "살비니의 파격 선언",
-                "hook": "이탈리아 정치권이 흔들린다! 살비니가 우크라이나 지원 중단을 선언한 진짜 이유.",
-                "script": "이탈리아의 살비니가 다시 한번 당권을 잡으며 강력한 반전을 예고했습니다. 우크라이나에 대한 무기와 자금 지원을 멈추겠다는 그의 발언에 이탈리아 정국이 요동치고 있는데요. 유럽 내 대러시아 기조에 어떤 변화가 생길지 전 세계가 주목하고 있습니다.",
-                "original_title": "Elezioni in Serbia, la Lista degli studenti fa la storia e batte il nazionalista filorusso Vucic - la Repubblica",
-                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONXFQaktZTHpsOU1HVDVIWTJqMWRKdjMxbnJTdm5ENE1HX2d0MlJrTkdLWU1YMGlQU1NmT2RJZy1xbjN5U2NBNC1iSk4zcWUwQW53WkNYY2J4U2ZLMUQ4S1V6OUNjc2tPX1JEM1lHT3RKc3VvTGo5SmNtTGVzMy1SMVZzRUh5a2tCcllBVElmakVabldhSFBUTi1lREcyT0IzWFJ4LXdrUk5SZ1NHNk1xblFvLW56LTB6dzFKSkVYLXJ2YmN6Z2p2QnRNUjllVEXSAdQBQVVfeXFMTWNvOG9wOGRyU0I1N3BKUG0tWmtkRHM0bkpxN0RWaGRDQWZ1ODBhclBPclU4ZHV6Nm9WYUhCMTlVNDM1a1FfUmx5am1tcHEwMDJtSkZVMmpjanc2d3hIVEdQVzdMN1JIektvWUpCX0lDZGJ6eFhPN216ZzRhZzk5dWRNaEQ1VmVQc2tUeUlaRkhadzhqLVVxUmt1Mnd4WDdENElsUkJILUZyc2pTcjlhLXFDT0Vla1QyYU1ISVpWMTgyVllST0FVZTlsSllDS29VQkNRbV8?oc=5",
-                "pub_datetime_utc": "2026-10-25T20:50:33Z"
+                "keyword": "인도 사이클론 비상",
+                "hook": "강력한 사이클론 '아르납'이 인도를 덮치며 피해가 확산하고 있습니다.",
+                "script": "타밀나두주를 중심으로 강한 비바람을 동반한 사이클론 '아르납'이 상륙해 비상사태가 선포됐습니다. 인도 당국은 사이클론의 세력이 더욱 커질 것으로 보고 최고 수준의 경계를 유지하고 있는데요. 모디 총리는 사이버 보안 등 국가 안보 위협과 함께 자연재해 대응에도 총력을 다하고 있습니다.",
+                "original_title": "Brazil's Lula da Silva defies odds to clinch poll victory; Flavio Bolsonaro refuses to concede - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdldQR25NQnRZSlUzdEhlNXlQSm9sMjU2b3hjUHFhOGNzbFRuSnhsTXZnc05rYjVXbXFsNl8xN0tQSC10WS1YNDhvREpHNzYwaDB5Z0MtaXZxYWtCZEZCekFBXzNHT3E1eU5saHBNZmxGSXBWUDdYVE1tTmp5OWtiaEtobVRtb1VqRGZ6T1dxck5YMUNCcVp6VS1HYlMwTWNXN2QyX0Y0czRpb3l4OVBqWER4cWRMY0g5YVJQNU5RNjZldFg1dUo2NG9oRG13VGdPLU05M2x0Q2J4d2lnYlHSAeQBQVVfeXFMT3YteWU1M2RKamdUQWU5UURZYXp2TzB6bTVTNGhUVXZ3WlhfbXRUNllWSGxjVUItdldoREZXSVl3THUxcjE5bXh1R0RFRGtONWEtNGphVDR5dXJIckVEMUJneEJDcjhYZTBZUmdOaWFUTUt5REJLRVVKTDFUZzJoeUtGV0JCOUs5QThRdXREM0xid3JDREJyS2kzQlBoX0VldU9fUk1qR001dGdwdTZqSndka05zVGVsWTZLVEJnWXpZT3REVkdnRnprRVZYNVJxVHpXRml2R3JtLVluZVRMdFpKYTZa?oc=5",
+                "pub_datetime_utc": "2026-10-26T01:00:04Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:22 KST",
-        "current_rank": 3
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 75.0,
-        "previous_rank": 7,
-        "trends": [
-            {
-                "keyword": "캐나다 정권 교체",
-                "hook": "예상치 못한 결과, 캐나다 지방 선거에서 보수당이 승리하며 정국이 뒤집혔습니다.",
-                "script": "BC주 선거에서 야심 차게 조기 선거를 감행했던 데이비드 이비의 전략이 완전히 실패로 돌아갔습니다. 보수당이 권력을 잡으며 캐나다 정계에 지각변동이 예고됐는데요. 주거난과 이민 문제 등 산적한 과제를 새 정부가 어떻게 풀어나갈지 주목됩니다.",
-                "original_title": "David Eby’s early election call backfires badly, putting Conservatives in power in B.C. - The Conversation",
-                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzZ4VmN0U1VHMFRWb25maTNpckNIWEZ0MmZWbUFOc2E3UUw1T3E5MUJ1OEdKWGdvbktSNERfUDE4ZVZ4T1hFSmx5RFdURGVGUG9odGZQQTh0Zm1jdEVPZG8zbXBVeGpYdXh4bWZfaEJ3VEllZl96WGlDMDV3clZCUS1YVWFLWktPVjJ5OHE5NU5udjZNZk9jaGE4T3c1NHphSFFkSmxka2ZNdkl4TXlQMWZJSTNvYUVRRzd3?oc=5",
-                "pub_datetime_utc": "2026-10-25T13:57:31Z"
-            }
-        ],
-        "last_updated": "2026-10-26 08:19:22 KST",
+        "last_updated": "2026-10-26 13:54:36 KST",
         "current_rank": 4
     },
-    "Russia": {
-        "gdp_rank": 11,
+    "United Kingdom": {
+        "gdp_rank": 6,
         "spike_score": 75.0,
         "previous_rank": 14,
         "trends": [
             {
-                "keyword": "러시아 미사일 타격",
-                "hook": "러시아 본토에 닥친 비극, 미사일 공격으로 인한 희생자가 계속 늘고 있습니다.",
-                "script": "오를 지역의 한 기업 시설이 미사일 공격을 받아 사망자가 6명까지 증가했습니다. 러시아 측은 이번 공격의 배후와 대응책을 두고 고심 중인데요. 한편, 우크라이나 관련 평화 회담 가능성도 제기되고 있어 긴박한 외교와 군사 상황이 교차하고 있습니다.",
-                "original_title": "Число жертв ракетного удара по предприятию в Орле выросло до четырех - Интерфакс",
-                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96cmVYTlBHYjRMN0dYV1Y5VGxJRmc0SXQzeVhoYnlpaU9lbDhKSDA0WGdHMHlzR05pZ1B0aGo5bng5aVh0Q1hlbGpaY2xhODTSAUtBVV95cUxPU2JZUW5LSkRNakxveXd5RjRQenBpcU5td0RzMVVxTXR4cnlZbEFzcUVjMU4tUWtNemVlbDNwR3l0SmRudVVlbFBhcDQ?oc=5",
-                "pub_datetime_utc": "2026-10-25T12:56:00Z"
+                "keyword": "영국 폭풍 강타",
+                "hook": "폭풍 '보엘로'가 영국 전역을 휩쓸며 인명 피해와 혼란이 이어지고 있습니다.",
+                "script": "강력한 폭풍 '보엘로'가 영국을 강타하면서 쓰러진 나무에 깔려 2명이 목숨을 잃는 안타까운 사고가 발생했습니다. 영국 전역에서 정전과 교통 마비가 속출하고 있는데요. 한편, 정치권에서는 경제 위기 극복을 위한 예산안 논의와 함께 EU와의 관계 재정립 문제가 다시 화두로 떠오르고 있습니다.",
+                "original_title": "Two killed by falling trees after Storm Boelo batters parts of the UK | ITV News - ITVX",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2hzNlVWRGI1MzhrNVFnaFJFY1dBZ1lKZVcyYlRqOFZudEpBbk5Bb0FhbHBOYTE1bTB5VFpVc0hWcVJBQ0xEZ2x1aHJUQWIzWjM4YmplVEsxM1k4TTRFVURYZEhCTXg0MnpkaDlaRTM5R1NHaldvVk5FZzdmZ2NRZGN0RFNFTm0yMjQ1Z2JsQkxMWmdGNTFrSk4yaGQ3cG43SVh2MjFrdHpfRTd5SFE?oc=5",
+                "pub_datetime_utc": "2026-10-25T23:01:14Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:22 KST",
+        "last_updated": "2026-10-26 13:54:36 KST",
         "current_rank": 5
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "룰라의 화려한 귀환",
+                "hook": "브라질의 운명이 결정되었습니다. 룰라가 다시 대통령의 자리에 올랐습니다.",
+                "script": "브라질 대선 결선 투표 결과, 룰라가 51.79%의 지지를 얻어 재선에 성공했습니다. 축제 분위기도 잠시, 보우소나루 측의 강력한 반발과 선거 무효화 요구로 정국은 다시 긴장감에 휩싸였습니다. 전국적인 투표소 교통 문제 논란까지 더해지며 브라질의 앞날에 큰 격랑이 예고됩니다.",
+                "original_title": "Artistas e famosos comemoram reeleição de Lula para o 4º mandato - G1",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDBPbFlMbGNoZ0ZvTHRRNnZaT2dDNTh3aWtUZVg2TXE1d0ZOUFNBN1VVdzFHVzZzUG5EZ1hrOUktb05iMWxuRDhMellJYTdzYldBWDVzaGcwWjlzN2tpQW9qZndMenFYb0hrUWZCSkJqSG1icm5yNHFoMVYzSEpvamJudWtWYzJUdnpDX2VZNkVGM1V0SzFXN1FmM1ZmaVJPSnBoaGwtekFLU1BhTWp2NTlkalk1dUM0UTg00gHKAUFVX3lxTFBrTEEzWFNXZ1BjaXRiNm4ySERrT2xVUC0ySWltZEQzYWJSZGZHSy03aWNneVQ3ckdRbFRYZm1IY0tMVEdKYkFvMkRGcFR0bjJFMnlOVFliVEYyd3hGQW02T3F1cW9wZnh0SE95WXFVYi01aFhTUmFKcTBGRVZDNjVkR0EtWFVNMS1tZmxWb1IwNm9tNFh1Q3duYWV6azBoWnh4UFAxZVdOdzdKWkcySzhNOTEzWm9QbkttY2RjQXFSTWFsV0RKbE9BOHc?oc=5",
+                "pub_datetime_utc": "2026-10-26T00:47:05Z"
+            }
+        ],
+        "last_updated": "2026-10-26 13:54:40 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "Mark Carney’s energy ambitions",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Mark Carney’s energy ambitions",
+                "original_title": "Mark Carney’s energy ambitions boosted by Conservative victory in British Columbia - Financial Times",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXBWeUtra0pVY0ZUWWY1R1RmS3JTZkhSeHZkSXJKd3ZrMVo0TURORW4yaThrY2pnOERzaWNsdTJQRktYM3BjaE43OTEtYnhUVTVVME5lM3dHemYwcnRsb2Z3QzBFU3BpMTNwWGNFYUtZT2dOSzF5M1RLeVlXMk1xelFCb0Y?oc=5",
+                "pub_datetime_utc": "2026-10-25T14:25:30Z"
+            }
+        ],
+        "last_updated": "2026-10-26 13:54:40 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "러시아 국경 긴장",
+                "hook": "러시아 본토 곳곳에서 들려오는 폭발음, 전쟁의 불길이 점점 번지고 있습니다.",
+                "script": "러시아 벨고로드와 브랸스크 지역이 연일 드론 공격으로 신음하고 있습니다. 국방부는 우크라이나의 공격에 맞서 대대적인 반격에 나섰지만, 민간 지역의 피해가 잇따르며 긴장이 최고조에 달했습니다. 멈추지 않는 공습과 연쇄 폭발, 러시아 내부의 불안감이 급격히 커지고 있습니다.",
+                "original_title": "Лула да Силва добился переизбрания на пост президента Бразилии - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtTVEzYllnQXNwaDRvaklScFFHXzUzd0R1NGVhS2NiOEtxRVJZcWlOaDlzMzNJRnljUUszcjFpVVNPb0wxVjAxNkxXT3J2UdIBS0FVX3lxTE0wd0hCTDlHWUlhbHdoOE5PaU9FMHZ5X3d3aUlDc3QwaEh0aWt5ellHb1ItU3FzOGNxZkdwRGVfVHE2VG1TTmptb2ExQQ?oc=5",
+                "pub_datetime_utc": "2026-10-26T00:20:00Z"
+            }
+        ],
+        "last_updated": "2026-10-26 13:54:40 KST",
+        "current_rank": 8
     },
     "Mexico": {
         "gdp_rank": 12,
         "spike_score": 75.0,
-        "previous_rank": 8,
+        "previous_rank": 6,
         "trends": [
             {
-                "keyword": "멕시코 카르텔 검거",
-                "hook": "미국 DEA가 지목한 펜타닐의 핵심 유통책, 멕시코 당국에 결국 덜미를 잡혔습니다.",
-                "script": "멕시코 당국이 펜타닐 밀매 혐의를 받던 '엘 초레'를 검거하는 데 성공했습니다. 그는 악명 높은 마약 카르텔의 핵심 조직원인데요. 미국과 멕시코를 잇는 마약 전쟁의 고리가 이번 검거로 끊어질 수 있을지 관심이 집중됩니다.",
-                "original_title": "Guadalupe Taddei renuncia como consejera presidenta del INE: Es para ‘proteger al Instituto’, afirma - El Financiero",
-                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPejh1UTBoVUR6NF9oSndXVTZHNXVmamdDSEZyS2RZeDJMM2h4V0owSUMwYzhSRGJMMk9Ld0lodFBhV0Iza2pRX2ZGa2pxNG5Kb3VpZnNDNExKaDM5cWx2ZXd2X2JycV9qWWk5UUd0aVMyQTN0aU1ES3h3MnBLQkk2N0Z6cXRkZG9KZ3hUMHY5cUNXM1N2RjJZdy14NHFJLTdqQkhfLUtmWVdfaG9KTWQtVTNtbTk2dlMzUUdyNlNR?oc=5",
-                "pub_datetime_utc": "2026-10-25T22:19:25Z"
+                "keyword": "멕시코 부패 스캔들",
+                "hook": "부패 의혹으로 흔들리는 멕시코 선거 관리 위원회, 과연 민주주의는 지켜질 수 있을까?",
+                "script": "멕시코 선거 관리 위원회(INE)의 과달루페 타데이 위원장이 부패 스캔들로 결국 사임했습니다. 정치권의 혼란이 가중되는 가운데, 전국적인 운송업자 파업까지 예고되며 멕시코 사회가 마비될 위기에 처했습니다. 격동하는 멕시코 정치 현장, 지금 무슨 일이 벌어지고 있는 걸까요?",
+                "original_title": "Guadalupe Taddei renuncia al INE acorralada por el escándalo de corrupción con contratistas - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1JQOGNSeWZZdkdzRmczdVVvM2E5dXpYZlVoeUZiMXdQeTZLMWRlT25rT3FkcUpoT3N2bExxSVUyUUhMc21TNGFrN3ozT2tob1U1bnFjRktSUG90UE1HVVo5SXo3aFhFc2E1Z2hfdS05RWNJUEFOZUxXTW9FLS1venl6dDNjeEtPUzk3QXFUaW91ZjJ1TGJ6Z3dkWFIyRW5vWkQ3b19fZUppWkYxZ1lZdFFwaS1SMEZwTDNJSDVuR0NJSm9ZWWtSck1peUY2Z9IB4gFBVV95cUxQak5RTzdQOThVamktR2xQZW43NFh1bkVNMDRBTG5zM3VFTHJwRHRuZXFfNDEwZC1wek5LMVhlb2dCNVpyZkg0TzR2N0dNV3ZtN2JBSFhwY2JqNG9pNzVxOFU3RHBUVWl1RDk1SGJhZW82VGw4QVNDcE92TFdGQnlHTllXTlAzNnVYS29qNGIyTUk2bXZDSUdObFhrRFYzcUExa3lqMHhpN0dZd0V1bkoxbGdQSzlOQnNBSnRsTmVWTS1PZGF2alVhMTFKUjE0LWd1MXdhUmpYNzdiUjJxNFp6NnRn?oc=5",
+                "pub_datetime_utc": "2026-10-25T22:36:08Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:22 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-26 13:54:40 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "호주 총기 난사 충격",
+                "hook": "평화롭던 지역사회에 울린 총성, 두 명의 총기범이 도주 중입니다.",
+                "script": "호주 로건홈에서 발생한 대규모 총기 난사 사건으로 한 여성이 사경을 헤매고 있습니다. 경찰은 범행 직후 도주한 두 명의 총기범을 추적하며 지역 주민들에게 각별한 주의를 당부했습니다. 25년 전 윌튼 사건을 연상시키는 이번 비극에 호주 사회 전체가 큰 충격에 빠졌습니다.",
+                "original_title": "Sombre return as Haines attack echoes Wilton death 25 years on - The Australian",
+                "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdmc4NE0yM0FFS1BmcTh3VVBKck9IWC1Fa3R3M3hDb0VULTh1WGs4WmxoVUpDRTUwNVF6VGQ2bkZsYVYxNC12R3VISTI3eDVmX0VpSDIzTlN4bjhDM3hnVjMzX2Y2bEJoeU9FZTBXUjlTdmQ5dk14eGE3SFRyWjllcGFKLV9Ua0g1bS16YzZlYWVsa2d1bm1DU3RpTGE0VE9FcDUtejBtS09TNjJYdk0wQ0JOQkRzaXM1MjJjblFYbVhKR1RqQVoxRlNIaTlBYVJXbmdNZ2VMRmloa1FRZEMzUUFXOGptN2JpbTltT3Z0Wk9IWTdhcVlXV3N3TkNFSDl0dWlaYXFKSEl0NHNScFR5N283NXg?oc=5",
+                "pub_datetime_utc": "2026-10-26T01:33:46Z"
+            }
+        ],
+        "last_updated": "2026-10-26 13:54:43 KST",
+        "current_rank": 10
     },
     "South Korea": {
         "gdp_rank": 14,
         "spike_score": 75.0,
-        "previous_rank": 9,
+        "previous_rank": 7,
         "trends": [
             {
-                "keyword": "오세훈 시장 무죄",
-                "hook": "명태균 진술 뒤집혔다, 오세훈 시장의 운명이 바뀌었습니다.",
-                "script": "오세훈 서울시장이 명태균 씨의 진술 신빙성 논란 끝에 결국 무죄 판결을 받았습니다. 그동안 정치권을 흔들었던 명 씨의 폭로가 법정에서 힘을 잃으면서 정국에 큰 파장이 예상되는데요. 뒤집힌 판결의 결정적 이유와 앞으로의 전망을 정리해 드립니다.",
-                "original_title": "오세훈, ‘유죄’서 ‘무죄’로…‘명태균 진술 신빙성’에 뒤집혔다 - 경향신문",
-                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYXgzYzdMcmVqLUZOd01GZUFhTmQwTHNOcjc0RE5aUzd4dFpEQkRNNUJGVFJWcnI0ZkxLTjRlQi0zNWIyMF9lR1JBcjFLMk45czRjUEluQWFzQdIBX0FVX3lxTE8xNWhoakh6NXJ4SjVYWDM2Y3lFMHZlc090aDFRWW9iSllJSzRlb0xYeWRwY1dpa2x0WVZfY2h1WDY1bUx1Q0g0VGRZY1kwbTVaOEgwYlNRUnhYSnpTOU1F?oc=5",
-                "pub_datetime_utc": "2026-10-25T12:30:00Z"
+                "keyword": "軍 드론 쇼의 굴욕",
+                "hook": "5년간 11억 쏟아부은 군 드론, 줄줄이 추락하며 망신살 뻗쳤습니다.",
+                "script": "대한민국 군이 드론 행사에만 지난 5년간 11억 원을 투입했지만, 정작 실전에서는 드론이 줄줄이 추락하는 망신을 당했습니다. 막대한 혈세가 투입된 사업임에도 기술적 결함과 관리 부실이 드러나면서 군의 안보 태세에 대한 비판이 거셉니다. 국민의 혈세가 하늘에서 떨어지고 있는 지금, 근본적인 대책 마련이 시급합니다.",
+                "original_title": "[속보] 룰라, 브라질 대선 승리 ‘4선 성공’…보우소나루에 역전승 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaWJfSkpOUWo1NG5HUTlkd2pONU4xUEZtZEYyUGY0OUk4TVhCanlVcHJGSzRNSUI3cGI5UXBhaGk0X2VKb0c1Nmx6b1BTUnBNalFJNjEyZlhxc2Y3M0lmZkI3WENOOFlnZjVkeURrMS1RZzY1eXdQS0RfSlJrSW1MVUFB?oc=5",
+                "pub_datetime_utc": "2026-10-26T02:04:00Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:27 KST",
-        "current_rank": 7
+        "last_updated": "2026-10-26 13:54:43 KST",
+        "current_rank": 11
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "Operasi Patuh Jaya Mulai Hari ",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Operasi Patuh Jaya Mulai Hari ",
+                "original_title": "Operasi Patuh Jaya Mulai Hari Ini, Polda Metro Kerahkan 2.938 Personel - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkJuWVk0RzFHa1pXZzBfMTJmR0RkdXgzSVRMeHpNTWZNU0pmVkhRbnNyN0JsbkM1TUwydTZIQ1pFTWhMYU1YbVV6OTZxNVdfVzNVVmNjM3FON2VBR1FHb2lGZDk1N21XTmRtbEVSbDRpdDdzek5BaWlYZkVZWGRoUDhERVFNeU9tSHE2T0kyMVNUeUs5enNyaVZiZzl1NnpqSWZKQ2VXRWRWRFU0YXfSAbMBQVVfeXFMT2xHdjBQNURMNHhTV0NMdFpiUHJwN3pxSmw0YW9EZG1nMWdDNkFYRktFTnlhbUtsUDFVbldaNzd2Sm9QNWVwQzhIS3hwQklGLWluU1l4RVVyY1dkdDB5WmRwVUp1NENzSEZRanRmZktVdU53WEhXVGE3U2pJMklPbHZpbXpYQjRzb2VBNnllVW1YbnItWDlsdlUwdWpIVjJuQ1ptT2ZvSC0ycUlWVEFHamlMcGs?oc=5",
+                "pub_datetime_utc": "2026-10-26T02:24:31Z"
+            }
+        ],
+        "last_updated": "2026-10-26 13:54:43 KST",
+        "current_rank": 12
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
         "spike_score": 75.0,
-        "previous_rank": 18,
+        "previous_rank": 8,
         "trends": [
             {
-                "keyword": "성지 향한 미사일",
-                "hook": "메카와 메디나를 겨냥한 미사일, 사우디가 분노했습니다.",
-                "script": "후티 반군이 쏜 탄도 미사일이 성지 메카와 메디나 인근에 떨어지며 사우디아라비아가 발칵 뒤집혔습니다. 다행히 요격 파편에 그쳤지만, 이슬람 성지를 겨냥한 도발에 사우디 정부는 강력한 비난을 쏟아내고 있는데요. 중동의 긴장감이 최고조로 치닫고 있습니다.",
-                "original_title": "«المياه الوطنية» تعدّل تعريفة المياه من 2027: أربع شرائح للسكني من ريال إلى 6 ريالات للمتر المكعب - صحيفة سبق الإلكترونية",
-                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QeFdyTllHdjNpNTNuSFY0cjZUOEpCc1ZoMWxfY29kRHBKUmZCU0lBSkZ4aDY0U2o2NkV6LV9sd2xrRVdPLVpB?oc=5",
-                "pub_datetime_utc": "2026-10-25T12:42:02Z"
+                "keyword": "사우디, 미사일 방어 성공",
+                "hook": "사우디 상공을 노린 10발의 탄도 미사일, 연합군이 전량 격추했습니다.",
+                "script": "후티 반군이 사우디 남부 지역을 겨냥해 발사한 10발의 탄도 미사일이 연합군에 의해 모두 파괴되었습니다. 이번 공격은 사우디의 주요 기반 시설을 노린 것으로, 연합군은 즉각적인 대응을 통해 추가 피해를 막아냈습니다. 사우디 당국은 영공 방어를 위한 경계 태세를 최고 수준으로 유지하고 있습니다.",
+                "original_title": "التحالف يدمر 10 صواريخ باليستية أطلقتها ميليشيا الحوثي باتجاه المنطقة الجنوبية - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNSFhlcUpScDB4ZXlQc2RrNVBOeWRPVFBIdkQ4bTlURHJxYW5VVEpvenNaYVNEZmpqWHRLU0YwbzJVdmthUmduSEZIM001RFVVek1jTml2SFpBVEhoOGo2ekpJZER6SF92NVRIT1ExUXVUS3ZLa1k5anJCazNkTDZHalpXS2EtWndCZGFBbExEcnNkWDZMSk5sZzAtaGlSblF0Nk5CYmNwcW5lLW1wc1AwRUxDRGd5MnhrdzR2MWtHbklqZkxYN0xyeGJJOXZYdHE5MU5pQ2cwTWNubmRiWEdsRDFWcmtxS0hWYUs2YTVRbjk0Rk1zeldaSW5kYlhCc2Z5MGs3QzNaWnF6Y0h4Rm5jdUZ6ckdEVUpKbmM3dUVObGc1SkFYN1E3Z1A2c1Zqb09PV3Vxdkt0OVo0ZEM1MmhaVXRvTC1rTGdHczN3QlZ2NE5sZHh5YTRGUWpzbGh6UjF5MXZWbko5MUd3czdZUlp4Rk5ZLTF6b29hVHJCTV9CTk5xZ3dlWk13a0RNMGFoYy1TS2hMdkVzakktcW94WnlpOVYydWhvalp1Wm1obWYtaHE1bFdVYWV4MWVpVHFvbFRrMElzREpEMldxeVB2d2x6dXA4ZEpRYk4yR2lDT1VJOWQwbDVvclBxbjlMT3o3ckdCVm9xM0piMDZ2N1R2VjhZVTVzb2hnaWlPc2ZmdFRoaktUMXdtUnlBNGV5NXh3ci14VS1SRmJpUzk4ZDJWQVJ3NDFxN2lCN0QzV3hVYk5RVHY5MF9ic3A5SFpEeldNa24wamxiTUVyTVpkMzVLMzVDajFSd1h1RG81T1gzYnNYSEo0dHRKZGViT09FZDNLaGvSAYQFQVVfeXFMT21yc3FNMmNrdXlpQUpkQll0WVNUaE5veDhQRF9QRVhfMko0VW4zUllxNHFyNnJZY3VDVXUzZFIyYzA3Nk9kVmw2V2ZIQmw0MmZXOGNWRFVXbWgtcTlQdDVzT0N1OVp1bGk4UDdIVG9menpNcHQ0Tl9ZdG8zcm0wU2FOeS11MG1LVWRleW5tRGQ0b0tuWkxhbmFaRlNXNjlKLXN6aVIwekd6TkNQNE1abEJfU3NjNkRwVlAwUFUteE5XZTdKWWxFYVAtbW9mX0NpcWFGa0lxNnJnSzN5QXdOcy1uUEVqOGdlbzllOXJVS2Ftam1HRE5MR0ZCaEN0OXJWMFl0UDM0R08ycUdjQjRnWWJrYm5uNXdlMDlGVS14QkNZVDIyakF4dnE5Q1lrdzR6cG9ILVhFVVRuWm9pbWlTOGhlRlRJUm9SUTRXb29uUWM1eGN5UVp5cVlVNGRBMUVKWjFZY1pIWktNZkh6MjdkeFR3SVVDd1Q5UUJOOVluSHAtRFdyU0FhdkJsSUlEcnYxbmxoLWFtcV9Dc3BNVjg5SFVncjBzRmtnOHYtakNLcTEwMHF4czdoYlMxd1dwcWRqenZMN21YR180VEIwU1JINUdQNmFxc2dDTzE5TjFmdjIwcDhxZ25IY1RNbmcteS1McFNfc0RLU3pCSm9RNlRUT2VCcXZOSng2dldNQ1ViaW1iSnJPVkY4c25ZcE5UOTZ3cmtzOW1GWU9xV1ZPa2VVaE95OVdKOWdIVFFLMktRdHVvc3NXRXNzck1RdjZnWEpvcmlZMHdVWUVFdWJFOFk1QzAtWVh0TUNHbExQaEN0VktITHRzVGhoRWQ5Q1ZvNzhxQldnNGU?oc=5",
+                "pub_datetime_utc": "2026-10-25T09:22:00Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:27 KST",
-        "current_rank": 8
+        "last_updated": "2026-10-26 13:54:43 KST",
+        "current_rank": 13
     },
     "Argentina": {
         "gdp_rank": 18,
         "spike_score": 75.0,
-        "previous_rank": 19,
+        "previous_rank": 9,
         "trends": [
             {
-                "keyword": "브라질 대선 초접전",
-                "hook": "단 1% 차이, 브라질의 미래가 지금 이 순간 결정됩니다.",
-                "script": "브라질 대선 결선 투표가 출구 조사 결과 초박빙 승부를 예고하며 아르헨티나를 포함한 남미 전역이 숨죽이고 있습니다. 50%대 49%, 단 한 표 차이로 당락이 결정될 수 있는 상황인데요. 이번 선거 결과가 향후 남미 정치 지형을 어떻게 바꿀지 주목됩니다.",
-                "original_title": "Barcelona vs. Real Madrid, hoy EN VIVO por LaLiga de España: apareció Raphinha para empatar el Clásico - Olé",
-                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzJteFZtdXhNYXJwXy1nM0V6WUtmZ3dGSmZfamw5aDctdnZWdkpTMXFGMXg0SXB4dlpGRk9VNFFsM25RUi0wNWxaZnBXVmtOTE1keUlDLVJnS1NnS1VORkE4emxURGZNblZfVGpRV0lKUE9jRjVqZHROMWpNV0NLRTl4TWc1dEVlU0otWk83TktWRVJtQ0FaUUtLVUV2VW5pXzdENW1BbVZtQVFFNUcxUHdvdUhQR1ZJRjhmSw?oc=5",
-                "pub_datetime_utc": "2026-10-25T22:32:25Z"
+                "keyword": "Resultado de la segunda vuelta",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Resultado de la segunda vuelta",
+                "original_title": "Resultado de la segunda vuelta presidencial en Brasil, en vivo: Lula vence a Bolsonaro - CNN en Español",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2t2NDl4aksyMzRpc3VJclh4eEhWQ1hleHBGRkRwVFRpbkNrbkN0dzB1a0VKQnNUU080a3IteE9GNThmRU05Y0NaOE5FYk0xYlJPRldGVS0xay1haXE5Tlpwbm5WUkY3TVlmMGo3UEVTYUZ3RzRLNW42V2lhd1cxV2JadzFPY09USGVzTk94cHNSQUNkcWlRWWFJbVFqY1NQSEZmZktOUDI3REtKaU40ay04Tk5MZ0ZEMjhUMg?oc=5",
+                "pub_datetime_utc": "2026-10-26T04:42:58Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:27 KST",
-        "current_rank": 9
-    },
-    "United States": {
-        "gdp_rank": 1,
-        "spike_score": 70.0,
-        "previous_rank": 1,
-        "trends": [
-            {
-                "keyword": "플로리다 총기 참사",
-                "hook": "축제의 밤이 핏빛으로 물든 충격적인 현장, 도대체 무슨 일이 있었나?",
-                "script": "플로리다주 FAMU 홈커밍 축제 현장에서 끔찍한 총기 난사 사건이 발생했습니다. 즐거워야 할 축제의 밤은 순식간에 아수라장으로 변했고, 도시 역사상 최악의 비극 중 하나로 기록되었습니다. 당국은 현재 범인 추적과 함께 정확한 사건 경위를 조사 중입니다.",
-                "original_title": "Brazil pauses presidential vote count after Supreme Court extends voting hours - Reuters",
-                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
-                "pub_datetime_utc": "2026-10-25T21:54:52Z"
-            }
-        ],
-        "last_updated": "2026-10-26 08:19:16 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-26 13:54:43 KST",
+        "current_rank": 14
     },
     "Germany": {
         "gdp_rank": 3,
         "spike_score": 70.0,
-        "previous_rank": 3,
-        "trends": [
-            {
-                "keyword": "세르비아 정권 교체",
-                "hook": "학생들의 힘이 독재의 벽을 넘었다! 세르비아 선거에서 일어난 기적 같은 대이변.",
-                "script": "세르비아 총선에서 학생 주도의 야당 연합이 승리하며 부치치 정권이 사실상 패배를 인정했습니다. 거리로 쏟아져 나온 학생들의 열망이 수십 년간 이어진 정치 구도를 뒤흔든 것입니다. 유럽 정치 지형에 새로운 바람이 불고 있습니다.",
-                "original_title": "Studentenbewegung triumphiert: Präsident Vucic räumt Wahlniederlage in Serbien ein - n-tv.de",
-                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMl9VS0xBcnpPbzVfZGVKdHVzaHdadW9zdVdiRm5YcnpGUnFNNEd6cTAyTW02bzNCM1hMT3dJSzkweE9vRmx3OHN5ZW1ra3VhVzB1UnRrOXRwQmhIM3JoOEpvRjhmUFR6dGtPbW1yWm1iNGQwd0NWS09TeW1DMThBUlc0N29iNWxRQjBWc0ZTOGp3VXQ5WEF4ZkNvX05rZw?oc=5",
-                "pub_datetime_utc": "2026-10-25T20:59:24Z"
-            }
-        ],
-        "last_updated": "2026-10-26 08:19:16 KST",
-        "current_rank": 11
-    },
-    "Japan": {
-        "gdp_rank": 4,
-        "spike_score": 70.0,
         "previous_rank": 11,
         "trends": [
             {
-                "keyword": "「次の首相にふさわしい人」 高市氏がトップ 毎日新聞世論調査",
-                "hook": "Japan의 최신 주요 뉴스입니다.",
-                "script": "「次の首相にふさわしい人」 高市氏がトップ 毎日新聞世論調査",
-                "original_title": "「次の首相にふさわしい人」 高市氏がトップ 毎日新聞世論調査 - 毎日新聞",
-                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95NmkzU092V2RaWUpRSTZzMWdwd2JUcVlPeFRTWGpVMTA1MHN4N096TThudXBoWV9iMURpc0JNR3FwY0h4R1ZWWlhabHFWUGJpbDhlN0pIOE03UHYzb0hkRXU2YUo0OHVO?oc=5",
-                "pub_datetime_utc": "2026-10-25T20:30:00Z"
+                "keyword": "Lula gewinnt Stichwahl in Bras",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Lula gewinnt Stichwahl in Bras",
+                "original_title": "Lula gewinnt Stichwahl in Brasilien - Bolsonaro will Ergebnis nicht anerkennen - Politik - SZ.de - SZ.de",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWlnUzZUMEZBV3I1dnNsM1NSeTRtMFoyZi1VcElRcWxQLWNfSG9wa3dHdU44QXVwTnBDXzVVOW4tbzR3S0NORnlaRF9wQVYwbWdaUWY3RDh1aDVyb2YtYzJlRzQ1d0loVEZoMGt3MjZLcksxc0dpLXVzckdmTjEyWXV3eFp2cVpOak0tR2ZMelhZV2xG?oc=5",
+                "pub_datetime_utc": "2026-10-26T04:11:28Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:16 KST",
-        "current_rank": 12
-    },
-    "India": {
-        "gdp_rank": 5,
-        "spike_score": 70.0,
-        "previous_rank": 4,
-        "trends": [
-            {
-                "keyword": "사이클론 비상사태",
-                "hook": "강력한 사이클론이 인도 오디샤주를 향해 돌진하고 있습니다. 지금 즉시 대비하세요!",
-                "script": "인도 오디샤주가 강력한 사이클론의 상륙을 앞두고 초비상 상태에 돌입했습니다. 정부는 5개 지역에 구조대를 급파하고 주민 대피령을 내리는 등 피해 최소화에 총력을 기울이고 있습니다. 실시간으로 변하는 폭풍의 이동 경로를 예의주시해야 합니다.",
-                "original_title": "PM Modi inaugurates RBI's Rs 169-crore data centre, cybersecurity institute in Odisha - The Times of India",
-                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUEREbmJFbWp4eV9fMWp4UEZ2NlByaUhvY3ItWnpXZEwzTTRkRy1SX2pzdUZKM1J4TGpYOTl3a1RmWnhQbXNGSFFFR2dsQlpQNTVfazRleTY5LUgwb3oyZkcxN0NvRERTTUpmcEo0QkstOExLcndxM3ZGVGtiOHJHRERhSDFMaUVFN216VjJ3bnJaSTJvaU5wd2NhVF9XRWxBcnBFb1RaUmI2VWdzNTVpS0NjNnBINzVsRktRM3dWSWtSekFHSDRSdUMyc1RQZ0hLM0k5UVRPdG9qMHVreDJZOTZ0Y2xtZw?oc=5",
-                "pub_datetime_utc": "2026-10-25T12:16:00Z"
-            }
-        ],
-        "last_updated": "2026-10-26 08:19:16 KST",
-        "current_rank": 13
-    },
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 70.0,
-        "previous_rank": 12,
-        "trends": [
-            {
-                "keyword": "EU 자유 이동 논의",
-                "hook": "브렉시트 이후 멈췄던 유럽과의 자유 이동, 다시 부활할 수 있을까?",
-                "script": "영국 내각 장관들이 EU와의 자유 이동 재개를 위한 공개 토론을 요구하고 나섰습니다. 브렉시트 이후 경제적·사회적 고립감이 커지면서, 다시 유럽과 문을 열어야 한다는 목소리가 힘을 얻고 있습니다. 과연 영국 정부가 어떤 결단을 내릴지 전 세계가 지켜보고 있습니다.",
-                "original_title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU - The Guardian",
-                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFZnN0NSMm5oZzliTlhDcFpEUGdlVFJNVVdtMlh6Nm56aENyNmRVUFF2OXNHSVhxZkNZNGxlZ1gwTEs2OExQWWZFRFAyaVRoUjgwWGY5T0JfaUJnSHJwbWQwWUhPajJJUXFJenE2VG5RTEZmbWNZZTZKdDhmY3d5ODRuMUJpbW5Od3luaklPWWZwTzRCbnJBZjZ3?oc=5",
-                "pub_datetime_utc": "2026-10-25T13:31:00Z"
-            }
-        ],
-        "last_updated": "2026-10-26 08:19:16 KST",
-        "current_rank": 14
-    },
-    "Brazil": {
-        "gdp_rank": 9,
-        "spike_score": 70.0,
-        "previous_rank": 6,
-        "trends": [
-            {
-                "keyword": "브라질 대선 혼란",
-                "hook": "투표소에서 벌어진 충격적인 난동! 브라질 대선, 과연 평화롭게 끝날 수 있을까?",
-                "script": "브라질 대선 결선 투표 현장에서 투표함을 내던지는 등 초유의 사태가 발생했습니다. 버스 운행 중단 의혹까지 더해지며 투표 방해 논란이 거세지고 있는데요. 과연 브라질의 차기 지도자는 누가 될지, 혼돈의 현장을 정리해 드립니다.",
-                "original_title": "Campanha de Lula pede prisão de secretário e chefe da SPTrans - Poder360",
-                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTRDckhFVzVTVGdyczh1b002ajNRQ09vUVFTVHVKamhxLTRxZmk0VVlWSUhKQ2ktRUNmd1dLOTkydXNjNGc5M3ZHOVBzbFZFazdwSHdCa09Xc0J6VWE2UUh3Ql9OWmVxRjk3eVoxN3E3X3VHTVhYelNQMGw3LUgxWlZmc0pBYmhEYW9kUTFEZ2FRUkFCbXJfN0RLLUJjN3RscFBmREhJZGpIWkEyVXRz?oc=5",
-                "pub_datetime_utc": "2026-10-25T18:19:55Z"
-            }
-        ],
-        "last_updated": "2026-10-26 08:19:22 KST",
+        "last_updated": "2026-10-26 13:54:36 KST",
         "current_rank": 15
     },
-    "Australia": {
-        "gdp_rank": 13,
+    "France": {
+        "gdp_rank": 7,
         "spike_score": 70.0,
-        "previous_rank": 15,
+        "previous_rank": 2,
         "trends": [
             {
-                "keyword": "호주 전역 총기 위협",
-                "hook": "장관 차량에 남겨진 총알, 호주 사회가 공포에 떨고 있습니다.",
-                "script": "호주 전역에서 잇따른 총기 관련 위협으로 시민들의 불안이 극에 달했습니다. 빅토리아주 장관의 차량에서 개인 정보가 적힌 총알이 발견되며 수사 당국에 비상이 걸렸는데요. 안전을 강조하는 경고가 이어지는 가운데, 과연 호주 치안에 무슨 일이 벌어지고 있는 걸까요?",
-                "original_title": "‘Be safe’: Grim video after shooting - News.com.au",
-                "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcGlsRE5mSlRFTTFpQ25NOXZfTFpaaGlGN3NSV2NqZ1dLMVloRHBMTHBENklQSl83UjBIeFpuMUU5YmhxS3dPUUNlLXRrNjBCYjNGX21aQ1lWZTZ2RzFJbkRxa2c2ZU9DVlNjeE4zc0Y2TkxmcjJLMFFSRGVSTHJ4MlNqX25NNHluR1NqQzBRNVc0UGI5THhhTERfZ0EtNmhSbFF3VTRya2xadTFUa2RSbGhqc2g1N2pCM0dFeEhSdll3VHR0Rkh0WHpnUFdCOEZrd0R4LXZvT2dwZFV6SUdVeWZGbEluQWE3UVpGLTBGeGNpM2lLZTFNOFgzd202RW1HMEZqdXpvaHU?oc=5",
-                "pub_datetime_utc": "2026-10-25T22:01:46Z"
+                "keyword": "프랑스 사회적 분노",
+                "hook": "프랑스 거리에서 터져 나온 거대한 분노, 무엇이 시민들을 거리로 내몰았을까?",
+                "script": "프랑스 전역이 뜨겁습니다. 파리에서만 25만 명이 모여 정부의 실정을 규탄하며 거리를 가득 채웠습니다. 치솟는 물가와 사회적 갈등 속에서 시민들은 '우리 집이 불타고 있다'며 정부의 무능함을 맹비난하고 있습니다. 과연 프랑스 정부는 이 거센 사회적 열병을 잠재울 해법을 찾을 수 있을까요?",
+                "original_title": "EN DIRECT, présidentielle au Brésil : Lula remporte l’élection avec 51,79 % des voix, Flavio Bolsonaro va « demander l’annulation » du scrutin - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNRlIwbTVXRjF1a1J1bDRmdHVsakY3ZkdReUMxa0MwTElTcGZKSi1jS25yd3AwemVNci1xS0ZfeUJ0NTRsVFdTbkk4MFhISmZyaURaYnJBa25mT2YwT3N2ZkZYemVhdFBZTElUX0hzNUlJM0RLVTV1bDhOVG52OFdRSFJjYnhzZjR0ck9tdU4tT3VQWWNmMmpLNnNDMlJsWlhHTDE3MWwzMmVKdTlMZWZERXY0M055VnNsaE5vUFhIN1dXblFJakxZU0RVRnlzNmcwQ0tBbnlKTEZqaTVka2ZNbEtLMTRuN2FVOThYR2t2U19yNXlneml1RE5fSnVHZmltTi1kNF9yRXJVaXdERHFmNjhaemItQ0tOY3B0Sk44c2FIajQyZ2NkajBPZDZMcjRZekR3S0ZYUzZRZlZUR2VjV1NwanYzRms?oc=5",
+                "pub_datetime_utc": "2026-10-26T03:43:06Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:27 KST",
+        "last_updated": "2026-10-26 13:54:40 KST",
         "current_rank": 16
     },
-    "Indonesia": {
-        "gdp_rank": 15,
+    "Italy": {
+        "gdp_rank": 8,
         "spike_score": 70.0,
-        "previous_rank": 16,
+        "previous_rank": 3,
         "trends": [
             {
-                "keyword": "RI Pangkas Ekspor Gas, PM Sing",
-                "hook": "Indonesia의 최신 주요 뉴스입니다.",
-                "script": "RI Pangkas Ekspor Gas, PM Sing",
-                "original_title": "RI Pangkas Ekspor Gas, PM Singapura Lawrence Wong Akhirnya Buka Suara - CNBC Indonesia",
-                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDJ5R1Z5anc3TTZnaTNsUlN2RXc1d2JlTW83MEo0NUs5NXNZOEdMRy1fdFdjWjYxRTQ5aWdoYVIyOUlGOHZxSE1mYm5QRnhvWVN0cFRGU0g2SE1Pa3o5SkpJa1pLbmszdDQ3R3l3VkZvc3d3YjlJZDBlNWpPUjBrbTBjT0hud3JoVlpNTnV0YTlIV3ZoaFNvekFleVRLWGFwVDNjR19Ta3AwS2hubVQwUWU2eXRjcG0xbWg0UXVwaHBITWd2R3fSAcsBQVVfeXFMUGNXd1BfbEpyMVFxSkJZTDRBVkVSZlYwV29nQXB1d004eVRDZVZUemlNcVdnUHZFTGFZa3V0X1pXaFRLZFZFTFRSVmViR21FSWt5UGI4bWtFVWNYNk5CMk9RZDBPVXFzcm1aOVdSWUgzMWN2Tkdra1l0T2FtTTg5bGlkNnhFQV9zd3l6Z0stOWp4bUdhbEFoZVBfWWRERkpGek1xd19YZ0IzaEtlX2RnN1FqeHA5Yzk4Y1IxRFNHOUJ2R2NTYkp4N3Q3T3c?oc=5",
-                "pub_datetime_utc": "2026-10-25T03:17:01Z"
+                "keyword": "브라질 대선 충격",
+                "hook": "룰라의 귀환인가, 보우소나루의 저항인가? 지구 반대편 브라질발 정치 지진이 이탈리아를 강타했습니다.",
+                "script": "브라질 대선에서 룰라가 51.7%의 득표율로 승리를 거머쥐었습니다. 하지만 보우소나루 측은 결과 승복을 거부하며 무효화를 요구하고 나섰습니다. 이탈리아 정계 또한 살비니의 강경한 반전 메시지와 맞물려 국제 정세가 요동치고 있습니다. 대혼돈의 브라질 대선 정국, 과연 어디로 향할까요?",
+                "original_title": "Elezioni in Brasile, i risultati del ballottaggio in diretta | Lula trionfa con il 51,7% dei voti. Bolsonaro non riconosce la sconfitta e chiede l'annullamento del risultato - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZV8zTWVXMHd3d0pid2hMMVBUQzJCQnVCRVNTc2JsQmlxZUowR1huMmVsVVFrcnNDTXpkbWR3TER5R3FQUVhGTjlHLTdCeFFuREE1WktEM09CRFVqdjJRYzdoSURlTmtyYmpVc1lSVnJDbWE2YzVrYm1FZld0LVpwa3pScDlyM29XM0hvanRvN0JHNG5zWXk3bUlGQ21jZEYtRllTMzg1LWROeVcwV1REVjRXczJHUDFsOUdhVTlQUDLSAcYBQVVfeXFMUGFoaDJIWmFCdHhER2hjeExJTmdJSXgxcnFZaUZmTHhNYXhWX0p1Ul9adERnLW05RDBHVGk4MlMyWjhvRHpyLUhxMjRJY1FueUlSVk1RcmRON092QWNlcUJkblZlR1JrYWhvME9GZnRab2xMRl9CTWF2cms0bkdycHFRbWk1Q1c0bkxMNUZObzJ5NklHcE9uaDFqeml0a1gxWXhQZ0RaSTlpZFRMQUxpR2VDa1BZNmFCalJUTUxFME1HNWNOODR3?oc=5",
+                "pub_datetime_utc": "2026-10-26T02:57:34Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:27 KST",
+        "last_updated": "2026-10-26 13:54:40 KST",
         "current_rank": 17
     },
     "Turkey": {
         "gdp_rank": 16,
         "spike_score": 70.0,
-        "previous_rank": 17,
+        "previous_rank": 18,
         "trends": [
             {
-                "keyword": "터키 방산 기술 도약",
-                "hook": "시속 300km, 적을 추적하는 터키의 신무기가 공개됐습니다.",
-                "script": "터키가 자체 개발한 신형 무기 'TUNGA-X'가 압도적인 성능을 입증하며 화제입니다. 시속 300km의 속도로 적을 정확히 타격하는 이 기술은 터키 방위 산업의 새로운 이정표가 될 전망인데요. 급변하는 안보 상황 속에서 터키가 보여주는 놀라운 기술력을 지금 확인하세요.",
-                "original_title": "Zelenskiy’den üçlü zirve şartı - Hürriyet",
-                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBackJrMUdCNm5jXzlFZ1A4cTJLOGl1QjNjZ2JYZzZGSTloUVVsSEVGTFRXYTE5U25VN3hqMzJ4NTNXVUZiWUdZWTJmMjRkMW9BeTFfUzNUdERlLThlVlFuVVJPWWxOSk5ScDRjeW1HZmE1QzZSd1lWN2xfMVJHQQ?oc=5",
-                "pub_datetime_utc": "2026-10-25T20:25:31Z"
+                "keyword": "이스탄불 폭우 주의보",
+                "hook": "폭우가 쏟아지는 이스탄불, 외출 전 재난 예보를 반드시 확인하세요.",
+                "script": "이스탄불에 강력한 폭우가 예고되면서 재난대책본부 AKOM이 시민들에게 비상 경고를 발령했습니다. 하수 범람과 교통 마비가 우려되는 가운데, 당국은 침수 피해 방지를 위해 만전을 기하고 있습니다. 시민들은 안전을 위해 기상 상황을 수시로 확인하고 외출을 자제해 주시기 바랍니다.",
+                "original_title": "Brezilya yeniden Lula'yı seçti: Oğul Bolsonaro sonucu tanımıyor - Diken",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnNhb2JxZVlxaHhDSFZjTDVxN2VTNFRveTFEakVlTW5YZFdua3h2cEQwcGVCTGlldFQ0TzZYYWVqaHluVjRkR2lIX0o1OEpBSmdjbWRKWUU5aG5Sc3N2elc5MklKR0FWdTBhQk1YUVN1Vi1GVmEyRmttRURyb3FfSDk1UDM4eVNLVVBfdFhyaTY?oc=5",
+                "pub_datetime_utc": "2026-10-26T02:37:23Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:27 KST",
+        "last_updated": "2026-10-26 13:54:43 KST",
         "current_rank": 18
     },
     "South Africa": {
         "gdp_rank": 20,
         "spike_score": 70.0,
-        "previous_rank": 10,
+        "previous_rank": 19,
         "trends": [
             {
-                "keyword": "남아공 대규모 마약 적발",
-                "hook": "공항 검색대에서 발견된 200억 원 상당의 코카인, 도대체 누가 가져온 걸까요?",
-                "script": "남아공 OR 탐보 국제공항에서 무려 2억 랜드, 한화 약 200억 원에 달하는 코카인이 대량으로 적발됐습니다. 당국은 이번 마약 밀수 사건이 국제 범죄 조직과 연계된 것으로 보고 강도 높은 수사를 진행 중입니다. 공항 보안망을 뚫고 들어오려던 마약 밀매범들의 대담한 범행, 과연 배후는 누구일까요?",
-                "original_title": "PICS: Cocaine worth over R200 million seized at OR Tambo airport - IOL",
-                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVJ0MjRFWTNfTGRhakxfMnR3bm52SlEyR2tJc2ZvOEtYZFpvNEpaUFMyS3hucHAyVElReEZraTA4cTNNaVpJdWloMmJhdzhvYzd5Mkd3NzJIcXJHdW9GV3oxZ1V4LWdEOFNRTE9vcFVzWmI4Tk55TlRKaFB2Mnk0bFZHNmVPcXJreXZGZk5CUmJNRVNsVVduR21wSTlTVHVCQ2IzY2R5RDF5c2hqRXVxM25vTzRYS1FFMVE?oc=5",
-                "pub_datetime_utc": "2026-10-25T17:00:11Z"
+                "keyword": "남아공 정치·사회 격랑",
+                "hook": "첩보전부터 단수 위기까지, 지금 남아공에서 벌어지는 충격적인 일들.",
+                "script": "남아공 정보국이 야당 EFF 내부에 첩자를 심어 정치 공작을 벌였다는 폭로가 나와 정국이 뒤집혔습니다. 한편, 요하네스버그 등 주요 도시에는 대규모 단수 조치가 내려지며 시민들의 불편이 가중되고 있습니다. 설상가상으로 전국적인 기상 악화와 폭염 경보까지 겹치면서 남아공 사회 전체가 극심한 혼란에 빠져들고 있습니다.",
+                "original_title": "Declassified: SSA planted insiders in EFF to spy on and win members back to the ANC - News24",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0VuQXhvMWhXRzJ0V1FueU94NlVwZEtWaDRDaEpKSFVtSS1HUXd1Qmd6TUJwckVLUmxkWDlxNkRmUmJRODZLS2V0bGVKYzB4SzZ1a0pJRWxaMHhGLTU4ekl4S3dZME5aZHhZSGlCNlliU2NLZ1VaU21JbFFDcjdJb1JReklsSzhoQzBvNzY5WkNSRnE3eW9HWTB2RFlYTkpIZ1o1TU5lNGotVVdoMjdfdnJSbjhMMUhjWXZ2dEtKMkFaNlFIZ0xnTEhTY3NSanM?oc=5",
+                "pub_datetime_utc": "2026-10-26T02:34:31Z"
             }
         ],
-        "last_updated": "2026-10-26 08:19:30 KST",
+        "last_updated": "2026-10-26 13:54:44 KST",
         "current_rank": 19
     }
 }
