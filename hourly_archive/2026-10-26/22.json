@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "플로리다 대학 총격",
+                "hook": "평화로운 대학가에서 발생한 끔찍한 총격 사건, 12명이 쓰러졌습니다.",
+                "script": "미국 플로리다 A&M 대학 인근에서 무차별 총격 사건이 발생해 어린이 6명을 포함한 총 12명이 부상을 입었습니다. 현재 경찰이 용의자를 추적 중인 가운데, 현장은 아수라장이 되었습니다. 총기 규제 논란이 다시 뜨거워지는 지금, 사건의 자세한 경위를 긴급 보도합니다.",
+                "original_title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
+                "pub_datetime_utc": "2026-10-26T11:25:13Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:33 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "제20기 5중전회 개막",
+                "hook": "중국 공산당의 운명을 결정할 중요한 회의가 베이징에서 막을 올렸습니다.",
+                "script": "중국 공산당 제20기 중앙위원회 제5차 전체회의가 베이징에서 공식 개막했습니다. 이번 회의에서는 향후 중국의 국가 전략과 경제 발전 방향을 결정할 핵심 의제들이 논의될 예정입니다. 세계의 이목이 집중된 이번 5중전회, 과연 어떤 중대 결정이 나올지 주목됩니다.",
+                "original_title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenVYM0tDQ1hlbklGMVJiTHpfMzFpOXBQLUFWX21FaDROZTN4X3RweGxydGpSUGlodTlPWEdoVFBHQjFMSEVHc1AwMDdBNlVXUlBkaE9nTDdHWm9SeUdEVEFfRUp1U21NM094SHhCNVFIeFhRNnRwckVyUEx0R3N0bmxYUF94NDBMckRFcmFR?oc=5",
+                "pub_datetime_utc": "2026-10-26T04:00:55Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:33 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Gernot Döllner: VW-Betriebsrat",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Gernot Döllner: VW-Betriebsrat",
+                "original_title": "Gernot Döllner: VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend - Spiegel",
+                "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV0I3Zk1EMHNqTVM3OGxUZGRyczMwMnZpcGFLd1c1czlEblJNNk13WkJOUkE2UWNPQ2psS19uSVVxcWJwY0xiNUJfMFJfVDc0Q3RiSnpBRVFyU3pLbFNCYmVpNWM5TWRfMTZtTFY1akwweG5EcDlIeVFwWk03TnNGcU1qMnVadThIZmVsZVdZRVg1eHB5Zlc3YlpuRF9ubThhcjlyVTJQdFNsQkFtTzJiTmxSUmhZSGh6cDRfUG12YThsSFlBS256Q0ctUHU4anR5T2hkTHpBblJISmY1TkVxcHNyTldYZUNtaEJ2S0JkV3VsRUVobUk4NXAyTU5OQQ?oc=5",
+                "pub_datetime_utc": "2026-10-26T07:18:00Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:33 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "사이버 안보 강화",
+                "hook": "일본 정부가 사이버 공격을 원천 차단하기 위한 파격적인 카드를 꺼냈습니다.",
+                "script": "일본 정부가 사이버 공격의 근원을 찾아내 직접 대응하는 '능동적 방어' 전략을 공식화했습니다. 갈수록 지능화되는 국가적 사이버 위협에 맞서기 위해 법적 처벌과 대응 수위를 대폭 높이겠다는 방침입니다. 과연 이것이 일본의 안보 지형을 어떻게 바꿀지 분석합니다.",
+                "original_title": "サイバー攻撃元への能動的防御、高市早苗首相「戦略的に実行」 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRnZWUHNjSHVtbWowVGRHOTltRXNXVG1NUG13THFXTWpWbGNOdVNRY0M4d2R5dlRiSVNDVlI2SUpLbEx1MmxpVzgzYmN6QnN4dFoyMXVoakhkal9zQkE3YmpSaG5uWE1VemtpTA?oc=5",
+                "pub_datetime_utc": "2026-10-26T12:46:06Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:33 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "영국 의료계 총파업",
+                "hook": "영국 병원 시스템이 멈춥니다. 의사들이 거리로 나서는 이유는 무엇일까요?",
+                "script": "영국의 고위급 의사들이 다가오는 11월, 이틀간 전면 파업을 예고했습니다. 열악한 근무 환경과 처우 개선을 요구하는 목소리가 커지면서 영국 의료 현장의 혼란이 불가피할 전망입니다. 파업으로 인한 시민들의 불편과 정부의 대응책을 살펴봅니다.",
+                "original_title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OQktJel9IeWJxVVc3Xy04WF9Dd3N1eFY3SUUzdnlBQVRNWlNNWm43M25saHBLMXVEXzltLXFxdGtkNFdMOEpoRmpsZFRJQ1JYNThjYU9sQ1E2ZmN4b25LQ1ZDeWloa0o1Nm5JdlgxbG5fSGdBN2xwcFVybw?oc=5",
+                "pub_datetime_utc": "2026-10-26T08:54:00Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:33 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "Attentat de Trappes : des trac",
+                "hook": "France의 최신 주요 뉴스입니다.",
+                "script": "Attentat de Trappes : des trac",
+                "original_title": "Attentat de Trappes : des tracts du Rassemblement national retrouvés dans la voiture du suspect, décrit par ses proches comme « raciste » - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcE5FMWUtc1JaTS0wVFhZRlpGd281aGhhNWFxRFJ3OWt5aHZ0VmM3ZFM1emtISVRIbVBlS0pvVHdwQjFVNHQtQm1xUU1nWUZnazRMcFIyTjVnRWxtTFdQeVpuQnNmSVRIMDRZYWJSUkxiNk5KMktqUTd3Z0Q1WDRpU1JOQlFPbXhkU19CNVcyYmxRME9keFRkWEo0V1BWTjRiVGFqTGZZa08yZXBXSXpocWlvWnhyLVB6cVFwZUJKZEk5ZW1yOFNlR0k0SHZwZUp5Q2VWSGMzVVY5aGtWVk80WlA0dUlyaGRfN3pGeW10SEQ2WVpuaXYtTGRIcmNLNDlYc1VjbnJfZWlQZ1pfU0VlS0ZQSWJVNEFnemwzajd5RTZnNU5F?oc=5",
+                "pub_datetime_utc": "2026-10-26T12:46:20Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:45 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "L'omicidio di Giulia, i giudic",
+                "hook": "Italy의 최신 주요 뉴스입니다.",
+                "script": "L'omicidio di Giulia, i giudic",
+                "original_title": "L'omicidio di Giulia, i giudici riconoscono la premeditazione per Impagnatiello - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVGlFbk41dFBBU3BRSmlKWlUyX2tBOTJJZ2dRZ0k4Mm5UQlVfWUJhVFdCS3hETjJFOE5UUVBxSWM0OFJOcV9NaVVtNlhpUFVwNDc3Tl8taFpua21XOE5lNmM4Q2E5ZHdUUVNnSnB3QWxDYXJqSnIzc2ZUN2VEZ1pBTWp0bjBlc25mTldRemR0aGJTWkg3Tk5BbjBSejl6MTZlWV85SUZBajd0eEhlR002UlpMbHpLN3d1cVZiNnBLSUJ6YS1xVTctejJyTTI4Y2ViM21Mc25pb2xlNmpKdnNKalJMTTMwd3dxMzdHZ2JBbWRzMEVWYkdRV0JVWGFxN2ZX0gGGAkFVX3lxTE53dEw3Q1JEdVh1WTJaWlIwSjNFN21oSjNSSHF2SU5ISWcwVmt5emYwdHU2dGlGSVgtcUNFTV9ZMUkwX201XzBva3NqZVRwajJWSkl5UnZ3aGRhekYxNFpEeXZhWk11RllDOEs1MEtsWGxVeGlZMmw5N21OckV5ME1UZURDYkh1VWhSVmNGRV9RR2ZMSC0tNGZVQTdzU3IwOFFrbTJDZFJ6RUl6Q2NPOVhhbUQ5dXJldmtDSllHa2FTQm9IdktPZnVsRFRrNDVRbXlmMFVnbnpjdmdzbmxGQzBvLXB1Ylc0WE5DTE5CNWswTHFsWkxwSmZRUkdaaXZ2RFZwYWJSdEE?oc=5",
+                "pub_datetime_utc": "2026-10-26T11:38:00Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:45 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Lula ganhou quase 3 milhões de",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Lula ganhou quase 3 milhões de",
+                "original_title": "Lula ganhou quase 3 milhões de votos no Nordeste do 1º para o 2º turno; Flávio avançou 398 mil - G1",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUVPSnRELWpmTUJwbG9Fd2FDNkFiRFJhb19iTGJzSGVkU2FKcS04dVZjNmJORkk1bTZGTVJrWHJQNDR5dWxYdXdyM1hZS0VKbHdCeUVNT1BfZnN3TDRybGhUZHpVaVlLakROMU5rN3ZrX2pVRzI0VEw4bWNvX2xza0JyZ2pDVklDTkU1bTdKQnl0MUHSAaIBQVVfeXFMTUJHZFJmb1pacW00TzNCc0pqaUkxRFlvM1hLWFdnTnZ6NmxGLUJiRWNvVE1QbkNNV2RJSVVxU0hPelJTdndhM3htWTNOWm04MUt6WXJPWThVX3Z3Wm5mRF9TR1dCQzNtaDBjWVk3ZzFxVjhRRXRKUHN4LVhFQmdvWXYxNVFUZXJHcTFSanVPaTg1TEZLaEh0YUFHRXVqZV9wUjVB?oc=5",
+                "pub_datetime_utc": "2026-10-26T07:51:01Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:45 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "B.C. premier-designate Lorne D",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "B.C. premier-designate Lorne D",
+                "original_title": "B.C. premier-designate Lorne Doerkson hints at a fall legislative session - Vancouver Sun",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fb05yU1FtbDBuQmNzSjNkejQ4eENtdHBoVTFZb1RtbWZNRnMxTmlQeUx5SWoyaVE0OHRTQU4yclBwUVRiV2F1ZEZvOVVHeFFQNVFBTzV1dHBXYVRLcXJQZDdqZ0N5YnNKaXpPMU04WTlhaE0?oc=5",
+                "pub_datetime_utc": "2026-10-25T20:42:12Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:45 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "«Народ проходит, стараясь не с",
+                "hook": "Russia의 최신 주요 뉴스입니다.",
+                "script": "«Народ проходит, стараясь не с",
+                "original_title": "«Народ проходит, стараясь не смотреть». Что известно об атаке на Воронеж - ФОНТАНКА.ру",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MWtkTkxWNWtaak5XX1ExcjB0bVVwanJ3aVZHWWFBSHFUby1EWmRncVVTdWhTMDUzZWNvTXkyNE1CZEF3RkpuUXU0QU5rSzhvZEx0d1VrSQ?oc=5",
+                "pub_datetime_utc": "2026-10-26T08:34:00Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:45 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "FIGHTING FOR LIFE: 19yo shot i",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "FIGHTING FOR LIFE: 19yo shot i",
+                "original_title": "FIGHTING FOR LIFE: 19yo shot in head outside pub - News.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcGlsRE5mSlRFTTFpQ25NOXZfTFpaaGlGN3NSV2NqZ1dLMVloRHBMTHBENklQSl83UjBIeFpuMUU5YmhxS3dPUUNlLXRrNjBCYjNGX21aQ1lWZTZ2RzFJbkRxa2c2ZU9DVlNjeE4zc0Y2TkxmcjJLMFFSRGVSTHJ4MlNqX25NNHluR1NqQzBRNVc0UGI5THhhTERfZ0EtNmhSbFF3VTRya2xadTFUa2RSbGhqc2g1N2pCM0dFeEhSdll3VHR0Rkh0WHpnUFdCOEZrd0R4LXZvT2dwZFV6SUdVeWZGbEluQWE3UVpGLTBGeGNpM2lLZTFNOFgzd202RW1HMEZqdXpvaHU?oc=5",
+                "pub_datetime_utc": "2026-10-26T10:29:29Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:46 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "룰라 브라질 대통령 4선 성공…‘블루타이드’ 제동 - ",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "룰라 브라질 대통령 4선 성공…‘블루타이드’ 제동 - ",
+                "original_title": "룰라 브라질 대통령 4선 성공…‘블루타이드’ 제동 - KBS 뉴스",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wS2xJelNtckYzZGRoUFY0UXQ5alZHNlU3ZGRaZDZ1dlI3aWtzYzI4XzM2S1BGRng3X3Vock94Z1Y0YVdNdnJablRhcnY0SjZaNTlGYVF1VHhQaTZqMUFXeDl4VkwzUQ?oc=5",
+                "pub_datetime_utc": "2026-10-26T12:44:00Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:46 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "Kapolda Metro Imbau Warga Lapo",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Kapolda Metro Imbau Warga Lapo",
+                "original_title": "Kapolda Metro Imbau Warga Lapor Jika Ada 'Polisi Nakal' di Operasi Patuh - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb1lrR0ktMkRFSU44alUwSDg2MHNrZEh6R09VQnZLenRYWHBERnl0NzZLOV80bVQxVUJ0WjdNMGNSOGJoUWVKZTlUOF9tZ0lPS0M4VFdmSkZiRm5HT1NpclNPRzZiQ2dFdllGUk16R1M1bHNWNXBYV0JQbHJBVERJdDJ1ci1QYzBWVm5XRWloa1pXVERFeU92dXJUUy1oUDJhV3Bubms3Z0tONDJwSFhN0gG0AUFVX3lxTE1QQ09QelVFeWRna0FOUXNOelJRcGx0SHZSMW4tUWpzQjN0Y3VaT3NSSHFJb1QwdVY2RzBTSGNVYklILVlPbnMwSkRHOHBnaGZfWEMzUTRRejNVdHMycVBqRVRIZUcyNmxMMnEzbFlQOHp1b2pSY0FpdXZ1OUx3OXRJTEhlaDZBOVJMZFk1b0dpRlQwT2xRYWJWLWVzWi1vSmxCd3BMUTBYQnpPYnF1Sm5HUlU0cA?oc=5",
+                "pub_datetime_utc": "2026-10-26T03:18:49Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:46 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "Cumhurbaşkanı Başdanışmanı Okt",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Cumhurbaşkanı Başdanışmanı Okt",
+                "original_title": "Cumhurbaşkanı Başdanışmanı Oktay Saral görevinden istifa etti - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdzBWREIyZVVJekpWa1BZWG9LV2FNZjA0cFhlTkYwcFp3Y1pPeHRiczJpX2dyYzUxNWFNckJXTHI1TVV0Mm9obWRvZkRzRG84a1dKUWJwOUtuUkN3bGdLemZhc284Wl9vY3FhY2pxWnUyOXlaNkpGZUthMUtPVGpMZ3pFcUtrRnZOeU5yXzRNcXp4ZjRVZmw4dWJfSHpOY3pYWnfSAacBQVVfeXFMTXc1aGR6cHkwZ1ZPSGRET3hwdXBHVTRyMURDUVdBVTVacHJFa284bHZiUlE4cl9QZEZ5Z2JwRGJSZ1c4eWJwNlEybWxoLVB0dGpHZU42cGZXemwzSTdWeWlNQlk3WDJMMzJ1eElwRXRJazJBd2t1bTVTdVBleG1USDNPY29VY2o3d1h6NnNFY3dZVUIydHdabXFSczNaVHNiYnl0QXFmcE0?oc=5",
+                "pub_datetime_utc": "2026-10-26T09:15:54Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:46 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "التحالف: اعتراض صاروخ باليستي ",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "التحالف: اعتراض صاروخ باليستي ",
+                "original_title": "التحالف: اعتراض صاروخ باليستي حوثي باتجاه الرياض وتدمير منصتين لإطلاق الصواريخ بصنعاء - صحيفة سبق الإلكترونية",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nYmNZVVdkbkZ3RGtoSUZNckd0TWMxZWZtMVNOWWRFa0xnWWtmbFZGYk9nWW9hOGk4bXlhampRcTNyd2YzN0hr?oc=5",
+                "pub_datetime_utc": "2026-10-26T02:03:46Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:46 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Elecciones en Brasil, EN VIVO:",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Elecciones en Brasil, EN VIVO:",
+                "original_title": "Elecciones en Brasil, EN VIVO: novedades tras el triunfo de Lula y el pedido de Flávio Bolsonaro para anular el balotaje - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSkFwam5WSHZnLWZtY0Uwanl4aXFkcldfU2E0dmt6dVNfcTFJUjZEWE1hT1k2Um9sZlhtd1pWTnJ0QW1nVTB3RFo0eEp2cDdJOUVrWlJtU1RyOUhGLWhoU3ptNi14cVlMMVhGWGF5V1JUYW1qXzFybmlKQTVjdWhFVkdPQl82QzFUQmllS19iZzFGQkxaLUtoOGNMMWNIcFd3Y3hQYjdtTmI1enBtNVk4a2RRT0ZkVDNSd0p3SW9B?oc=5",
+                "pub_datetime_utc": "2026-10-26T12:31:59Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:46 KST",
+        "current_rank": 16
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "Murder-accused Katiso Molefe w",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "Murder-accused Katiso Molefe w",
+                "original_title": "Murder-accused Katiso Molefe wants bail conditions eased for business travel - News24",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVXJRWm5xc1VWeEp0bWQ5MWxaeUE4M0QzaDA4R3ZqMUY3bGx6dTJ0aFNWdi1aenAtcnoySnI4UE9sSWFYd2psTTlPZ2VGMHo0cXFzV0lPcGRBa1JVeHF6ZExRZi1sQktqaDJoeVZHWENPRUtMU2Q1Znk4QUh3aHFzRVBPc3FJei1aclU1bXRQclY5SGVzNlB6T2drOGgzNlVzV1VwNVJNcGtSN2ZBRXdmWWV4eDBEMUtjVkx1a2pZNk1CUUR5WEx5V2FfTFlXcDlYOThwWUs1UXFPQQ?oc=5",
+                "pub_datetime_utc": "2026-10-26T10:31:49Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:51 KST",
+        "current_rank": 17
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "강력한 사이클론 상륙",
+                "hook": "인도 해안에 역대급 폭풍이 다가오고 있습니다. 즉시 대비하세요.",
+                "script": "인도 안드라프라데시 해안을 향해 매우 강력한 사이클론 '아르나브'가 빠르게 북상 중입니다. 오는 28일까지 상륙이 예상되는 가운데, 기상청은 최고 수준의 경보를 발령했습니다. 강풍과 폭우로 인한 피해가 우려되는 상황, 현재 실시간 이동 경로를 전해드립니다.",
+                "original_title": "Israel’s election: The main issues in the words of the leading candidates - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2Z2dGZfblRmUk1BMTNYSENUUFpza2VRdU5jVElLV09FaUo1NjVQSWFpQlBvMUZaaWVmcC0xNlA1Q0dIY2FrSy1rbUFaNVhMUGRmc2xPOXk3WkhZNzA4eHhJbDRIaVBKbzNPZGN6ZnR1M2J3SGFreG9xZ1dCWE5TUW15VU9fckh3akh6VGxpUUdKZVJTanFvSFllZzZvT2lsaDJhamdRa0FTRGlGVlAxbE91SdIBuAFBVV95cUxORDcxbkZudzFuSURYLXZ3djVjMmZwSjRnUVRteE00bm8tU2lydGg4Vm9ZTXBoLUpldEN3ZVNfSEFHQThZNTZxa1RhS2JGSkxnUmI2UzU3T1c4QU9fbjhoRXVPTzNsX1Z4TU5YdWdnQVRpTzVfRjBLRVU2cmplMHp2RGhMQUlfeWZReTVlMHc1NFJ2UklFZkpNczFjY20yRE5peWtTeGhGakVma0pvQlUyOFFGSk0teUxN?oc=5",
+                "pub_datetime_utc": "2026-10-26T07:05:58Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:33 KST",
+        "current_rank": 18
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Lula gana las elecciones de Br",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Lula gana las elecciones de Br",
+                "original_title": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqVGp4ZGM4aHpyYUVrcXZCcDhXWkhJeXFoQ0htdU9KYTBySHMyR1lva2pNV0NibUxJUjVZWlotMlVGa1hwOHYtQ0djNTF0OEZUcURjdlktVGNKVzRi0gFiQVVfeXFMT0s0cjZSQ2RxOTlNc3ZzREI2Z0JMS2w3Um5aTTg5NlBoUVRjamhwWlIxUy04R29HcjdPbFVBQVZxOGlIVHd1aGV4eVpwV0h3dGxiZ3k0SDlKbW53czZVZlRNLWc?oc=5",
+                "pub_datetime_utc": "2026-10-26T05:04:11Z"
+            }
+        ],
+        "last_updated": "2026-10-26 22:12:45 KST",
+        "current_rank": 19
+    }
+}
