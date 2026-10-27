@@ -5,50 +5,84 @@
         "previous_rank": 1,
         "trends": [
             {
-                "keyword": "탈옥범 대규모 추적",
-                "hook": "테네시 교도소에서 살인범이 탈옥했습니다, 현재 긴급 수배 중입니다.",
-                "script": "테네시주 교도소에서 중범죄자가 탈옥하며 지역 사회에 비상이 걸렸습니다. 당국은 즉시 대규모 수색 작전을 개시하고 시민들에게 각별한 주의를 당부했습니다. 위험 인물이 도주 중인 만큼 주변을 지나는 분들은 즉시 신고해 주시기 바랍니다.",
-                "original_title": "Israel Election Live Updates: Polls Open as Netanyahu Faces Challenge Led by Eisenkot - The New York Times",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUTJ0MEpwV0JKTERtX2pIX0ktV2FvM3owbDV0TktEcVdwRThUQzRjbnZNRWR6aGNKRlhxdTNSdG1BRHlTR2VSTWpqLU5kcEZiaDBXcTE1NU80MnNGb044NngzQzRiSFYyc183bTdPdw?oc=5",
-                "pub_datetime_utc": "2026-10-27T09:02:09Z"
+                "keyword": "트럼프, 선거 막판 총력전",
+                "hook": "선거일 일주일 앞, 텍사스를 뒤흔든 트럼프의 대규모 유세 현장입니다.",
+                "script": "미국 대선이 일주일 앞으로 다가온 가운데, 트럼프 전 대통령이 텍사스에서 대규모 유세 강행군을 펼치고 있습니다. 이번 유세는 비시민권자 투표 문제 등 막판 표심 잡기에 집중하며 판세를 뒤흔들려는 전략으로 풀이됩니다. 과연 남은 7일간의 총력전이 선거 결과에 어떤 파장을 몰고 올지 전 세계의 시선이 집중되고 있습니다.",
+                "original_title": "No clear winner in Israeli election, exit polls show - CNN",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
+                "pub_datetime_utc": "2026-10-27T21:25:00Z"
             }
         ],
-        "last_updated": "2026-10-27 18:05:37 KST",
+        "last_updated": "2026-10-28 07:19:57 KST",
         "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "시진핑, 룰라 당선 축전",
+                "hook": "시진핑 주석이 브라질 대선 승리한 룰라 당선인에게 직접 축하 메시지를 보냈습니다.",
+                "script": "시진핑 중국 국가주석이 브라질 대선에서 연임에 성공한 룰라 다 시우바 당선인에게 축전을 보내 공식 축하했습니다. 이번 축전은 양국 간의 전략적 협력을 강화하겠다는 중국의 의지가 담겨 있어 국제 사회의 주목을 받고 있습니다. 글로벌 리더십 재편 속에서 중국이 남미와의 관계를 어떻게 풀어나갈지 귀추가 주목됩니다.",
+                "original_title": "习近平致电祝贺卢拉当选连任巴西总统 - 中国共产党新闻网",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZGJZVjB6b3JUWVU0RDlyLUFyZExJWFFwUm5OYnA2UkNfVEY5bS1QaXJXVi1LSFdkQW5hWXZtckF5VUxJVExTZGFLZG0zbTl6RmhDQnBidndNTWdXUFVQd1lIM0VKR04wSnc?oc=5",
+                "pub_datetime_utc": "2026-10-27T10:03:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:19:57 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "이스라엘 총선 접전 양상",
+                "hook": "이스라엘 총선 출구조사 발표, 네타냐후의 운명은 어떻게 될까요?",
+                "script": "이스라엘 총선 투표가 종료된 가운데, 출구조사 결과가 접전 양상을 보이고 있습니다. 가디 아이젠코트 등 주요 정치인들은 이번 결과를 네타냐후 정권에 대한 심판으로 규정하며 긴장감이 고조되고 있습니다. 정권 교체냐 재집권이냐, 중동 정세의 향방을 가를 최종 개표 결과에 전 세계가 주목하고 있습니다.",
+                "original_title": "Parlamentswahl in Israel: Gadi Eisenkot wertet Wahlprognosen als Sieg über Netanjahu - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWG40WnRuZ3NxaXVUR2dYMklrZVdCZFRKcmZ1WTdvejcxb3dDWWlwRlU3Y3Y4TXpxR3dLTWZ3ek1Kb1YwcFhrRXVjOW1EbVNqQnhTazB3TEVhM3BIVkwtWTdZS3FBWUxIQ1lTbHhLWnBYbnBLcFlhZTh0Rk0tS1BRV2JYNGllRmQzYlZrVVlQNUVJRHJRbllTSnlNX1ZSNmZQeHp2UUFR?oc=5",
+                "pub_datetime_utc": "2026-10-27T21:20:25Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:19:57 KST",
+        "current_rank": 3
     },
     "Japan": {
         "gdp_rank": 4,
         "spike_score": 75.0,
-        "previous_rank": 3,
+        "previous_rank": 2,
         "trends": [
             {
-                "keyword": "元部下の女性検事に性的暴行、元検事正が一転し無罪主張…初公判",
-                "hook": "Japan의 최신 주요 뉴스입니다.",
-                "script": "元部下の女性検事に性的暴行、元検事正が一転し無罪主張…初公判",
-                "original_title": "元部下の女性検事に性的暴行、元検事正が一転し無罪主張…初公判で起訴事実を認めたのは「検察庁に迷惑かけたくなかった」 - 読売新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QOU4tSmRUVXM3NG9VZ3RtR1NxMThGQ0FzeTZRX1lxd2Q1bG5SbV9KaWFwN3F2blJIdDktZXFrNEc4SXdxcDhvdzU4ZjJtUnVUbGw2a2NCci1OZ01HelU0NVo3R1d0QQ?oc=5",
-                "pub_datetime_utc": "2026-10-27T01:46:00Z"
+                "keyword": "ボルソナロ、米国へ出国",
+                "hook": "대선 패배 브라질 볼소나로 전 대통령, 수사망 피해 미국으로 떠났다.",
+                "script": "브라질 대선에서 패배한 볼소나로 전 대통령이 미국으로 출국한 사실이 알려져 파문이 일고 있습니다. 현지 언론은 그가 자금 세탁 등 각종 수사를 피하기 위해 국외로 탈출한 것으로 보고 있습니다. 퇴임과 동시에 시작된 사법 리스크가 브라질 정국을 어떻게 뒤흔들지 관심이 모아지고 있습니다.",
+                "original_title": "イスラエル総選挙 ネタニヤフ氏に暗雲？続投か政権交代か…イラン戦争の行方 - テレ朝NEWS",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yTEllTmdCYWdoVUpZWDRYNUhjYWJvc2FVVTBGTmJCYzlDR1VoSjU4ZjNjVjhsVmVTd0ozdWNacWlxNnA0Q3RtR2NWUG92c2R3c1Y1R2xVNEdXN1pjZ2NRUEVvcmhsWVl2UXd1b1dIalVVZlh3X1RhQ1Jn?oc=5",
+                "pub_datetime_utc": "2026-10-27T07:00:00Z"
             }
         ],
-        "last_updated": "2026-10-27 18:05:37 KST",
-        "current_rank": 2
+        "last_updated": "2026-10-28 07:19:57 KST",
+        "current_rank": 4
     },
     "India": {
         "gdp_rank": 5,
         "spike_score": 75.0,
-        "previous_rank": 14,
+        "previous_rank": 3,
         "trends": [
             {
-                "keyword": "초강력 사이클론 상륙",
-                "hook": "시속 150km 강풍을 동반한 사이클론 '아르납', 인도를 강타합니다.",
-                "script": "초강력 사이클론 '아르납'이 인도 해안을 향해 빠르게 접근하고 있습니다. 최대 풍속 150km의 강풍이 예상되면서 이미 60여 대의 열차 운행이 취소되었습니다. 당국은 피해 최소화를 위해 주민 대피령을 내리고 긴급 대응 체제에 돌입했습니다.",
-                "original_title": "Cyclone ‘Arnab’ LIVE updates | IMD raises wind forecast to 150 kmph gusts; landfall near Yanam; 61 trains cancelled - The Hindu",
-                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM2N1X0RrTGVpR0FZYzZlWjFkcll2akFWak1vclMxTWF3c0dzYWlKdVpTT1ZqQld1U2RkWF8xcW9VVEFxQzM2NGxyZkUydkd3RmJyT2xpTjFIUHctYklHdE4yTkxfU3J0aXNQd0ZsN0l0TTQ1TlBoUm5CS0MzMGNpVVJ3TTBETTZ3bFVTOUJrVHM3UHM0RXJBd2xpWmttTVlObk9VeGwxT2V4Zk5GZ2J3WE5TYUx2Q3JFUXRrVkRZbFlwa0xwMnQ4TDlBZnRqR190Q2hKaU14MlBJVmJTQ0RFYVlDWEU?oc=5",
-                "pub_datetime_utc": "2026-10-27T06:44:09Z"
+                "keyword": "사이클론 아르납 비상",
+                "hook": "인도 카키나다를 덮칠 강력한 사이클론, 최고 위험 경보가 발령됐습니다.",
+                "script": "사이클론 '아르납'이 인도 카키나다 해안으로 빠르게 접근하며 비상 상황이 발생했습니다. 현재 해당 지역에는 최고 수준의 위험 경보가 내려졌으며, 당국은 피해 최소화를 위한 긴급 대응에 나섰습니다. 폭풍의 직접적인 영향권에 든 지역 주민들의 각별한 안전 주의가 요구됩니다.",
+                "original_title": "Cyclone ‘Arnab’ LIVE updates | Storm 140 km from Kakinada; highest danger signal hoisted at Kakinada port - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM2N1X0RrTGVpR0FZYzZlWjFkcll2akFWak1vclMxTWF3c0dzYWlKdVpTT1ZqQld1U2RkWF8xcW9VVEFxQzM2NGxyZkUydkd3RmJyT2xpTjFIUHctYklHdE4yTkxfU3J0aXNQd0ZsN0l0TTQ1TlBoUm5CS0MzMGNpVVJ3TTBETTZ3bFVTOUJrVHM3UHM0RXJBd2xpWmttTVlObk9VeGwxT2V4Zk5GZ2J3WE5TYUx2Q3JFUXRrVkRZbFlwa0xwMnQ4TDlBZnRqR190Q2hKaU14MlBJVmJTQ0RFYVlDWEXSAesBQVVfeXFMTXo4ckowVmx1dVlXNEw3NllIUi1VLUwtSlZOcmZwWC1iWnFMdXFoTVExVUJUWWZseEFRTWt5LWQ2eG1DNFNocFdsaGJ6ZTJicll4bE54V0p3ZFhUTFB6NVRST3l3QVcyR3JIVjI0TEloQUJwU2daQVU5TjVtLVlvaFpQYnpuLXMya3prZWdXVXc0WTB6c2w0RmxQRG1tazA5Um5FOGVkcF9ETXRUb0FHbjdWeVNWbk9Rdzk1amRlbFJ5ZnB5LUFua1hZaGU3aXRUbDVTY3FndVhlOGFSSGxGdnVWb0Vxd1Nac2h5UQ?oc=5",
+                "pub_datetime_utc": "2026-10-27T21:15:04Z"
             }
         ],
-        "last_updated": "2026-10-27 18:05:37 KST",
-        "current_rank": 3
+        "last_updated": "2026-10-28 07:19:57 KST",
+        "current_rank": 5
     },
     "United Kingdom": {
         "gdp_rank": 6,
@@ -56,16 +90,16 @@
         "previous_rank": 4,
         "trends": [
             {
-                "keyword": "비상 식량 구매 급증",
-                "hook": "영국 내 비상용 라디오와 통조림 품귀 현상, 무슨 일이 벌어지고 있나?",
-                "script": "영국 전역에서 비상식량과 라디오를 찾는 시민들이 급증하고 있습니다. 최근 연이은 폭풍 예보와 사회적 불안감이 겹치며 생필품을 미리 비축하려는 심리가 확산된 것으로 보입니다. 정부는 과도한 불안을 경계하며 차분한 대응을 당부하고 있습니다.",
-                "original_title": "Israel heads to polls for pivotal election defined by security and democracy - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4YUdRMlpVeVg5Q29qUlJXcDRSWXVRVmtRZG93RnplSGhtc29UVzBJTTgzSUxnZTJyWTJRR1R5bk96QmJ3My00Z0l4bk9xTG14TEdXaXU2bUlKOV9oX1E?oc=5",
-                "pub_datetime_utc": "2026-10-27T05:45:08Z"
+                "keyword": "비상 식량 준비 권고",
+                "hook": "영국 정부의 갑작스러운 비상 식량 비축 권고에 시민들이 마트로 몰리고 있습니다.",
+                "script": "최근 영국 정부가 국민들에게 비상용 생수와 통조림을 구비하라고 권고하면서 대형 마트마다 사재기 현상이 나타나고 있습니다. 갑작스러운 지침에 시민들의 불안감이 커지자 정부는 예방 차원일 뿐이라며 진화에 나섰습니다. 과연 무엇이 영국 정부를 이렇게 긴급하게 움직이게 만든 것일까요?",
+                "original_title": "Israel election: Polls about to close after high voter turnout - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
+                "pub_datetime_utc": "2026-10-27T22:08:11Z"
             }
         ],
-        "last_updated": "2026-10-27 18:05:37 KST",
-        "current_rank": 4
+        "last_updated": "2026-10-28 07:19:57 KST",
+        "current_rank": 6
     },
     "France": {
         "gdp_rank": 7,
@@ -73,16 +107,16 @@
         "previous_rank": 5,
         "trends": [
             {
-                "keyword": "프랑스 SNS 통제",
-                "hook": "정부가 SNS 통제에 나섰다? 표현의 자유를 둘러싼 프랑스의 충격적인 논란",
-                "script": "최근 프랑스 정부가 폭력 사태를 이유로 SNS 통제 강화를 시도하며 거센 비판을 받고 있습니다. 국제 인권 단체들은 이를 독재적 발상이라며 즉각적인 철회를 요구하고 나섰는데요. 정부의 안전 조치일까요, 아니면 민주주의의 후퇴일까요? 프랑스 사회가 지금 뜨겁게 달아오르고 있습니다.",
-                "original_title": "Mobilisation lycéenne : comment le gouvernement s’est appuyé sur une poignée d’influenceurs pour ses annonces - Le Monde.fr",
-                "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQejlHR3BVcmFBa1BnODk2SWIwNzBzeVpmekRiRWtralFKWFd0S3B2UG82Vmk0Nnd0ZFlhUmVYcGNsTFNHNnFIaEdDcHFBbDJ6QWpBZXRpeFcyLVl6cnBCUWRQal9DeF9mcmxBaTZIWGRlU3BfVFdDMTFXTW1MVExsTFNXa1ljNTdsbF9CRXhRRUhCd3lMenhvMEVZdGdoZUJpRnZGWVRNU3I1QVJ2YmVPUUFrTXFkREVlQnZ1VE9SUUVqR0FBLXgyU211YnVKMmtYNlpmUEVVWHdkN0ZGWktXdXNNdHRSOW1PVUxBQ3FPaEk2aFhfVElMRGVZRjhocHU4c3FiVlBjNlo?oc=5",
-                "pub_datetime_utc": "2026-10-27T08:43:07Z"
+                "keyword": "시위 중 SNS 금지",
+                "hook": "프랑스 정부가 시위대 SNS 차단이라는 초강수를 꺼내 들었습니다.",
+                "script": "프랑스 정부가 격화되는 사회적 갈등을 잠재우기 위해 시위 기간 중 SNS 접속을 차단하는 방안을 검토 중입니다. 표현의 자유 침해라는 거센 비판과 공공질서 유지를 위한 필수 조치라는 주장이 팽팽히 맞서고 있는데요. 과연 디지털 시대의 새로운 검열이 될지, 프랑스 사회가 뜨겁게 달아오르고 있습니다.",
+                "original_title": "Élections en Israël : la coalition de Netanyahou et l’opposition au coude à coude, d’après les premiers sondages - Le Parisien",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeWhnYzB1SW1CaXpFZVMycTNBbjI4ZUVzRDJwaHRiNkhhWU5EVUNlVURrakJnY1ZNT3lCUHhWdHNZNWNsYXVRM3VOUEY5c2hLeVYwdG1sMlRVNzF1T1ZxQWd0TnlGOXc3VVpmZU0wd0NfZzhQUUx3XzFLLVVhNWJEaUxZYkZRaElhNF85OEdNb080T3dPUVhFYXRDREpydWxUX0FaVXZkTm9IMXh0N2Z5b2NEUFlRZzE0akF2OFNmNXpKMUowTVNyay1OaTYwaFV5dnNzU2EtSkN4UE4tMXJ6TmsyVlhITlU?oc=5",
+                "pub_datetime_utc": "2026-10-27T20:04:29Z"
             }
         ],
-        "last_updated": "2026-10-27 18:05:41 KST",
-        "current_rank": 5
+        "last_updated": "2026-10-28 07:20:02 KST",
+        "current_rank": 7
     },
     "Italy": {
         "gdp_rank": 8,
@@ -90,236 +124,202 @@
         "previous_rank": 6,
         "trends": [
             {
-                "keyword": "이탈리아 전국 파업",
-                "hook": "이번 달 30일, 이탈리아가 멈춥니다! 전국 41개 도시를 뒤덮을 대규모 총파업 예고",
-                "script": "오는 10월 30일, 이탈리아 전국 41개 도시에서 대규모 총파업이 벌어질 예정입니다. 교통과 보건 등 시민들의 일상과 직결된 분야가 멈출 것으로 보여 큰 혼란이 우려되는데요. 정부 정책에 반대하는 노동계의 강력한 경고, 이탈리아 시민들의 불편은 피할 수 없을 것으로 보입니다.",
-                "original_title": "Elezioni in Israele al via, è il primo voto dopo il 7 ottobre. LIVE - Sky TG24",
-                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90MExPTFVqRlpfbFRNZlRzb0lfTDdpTjZmSXppS3R3QmNoX1cySzRIbWxmc3NLenpFZExUc2FCNWhMZElMUkd2NlBLMjFxREttUFhZaFlEVXI4aDJ2aENrMmsyOFB6US1aZUg1YUZYVFRKbjRkZ1V6cFFrMA?oc=5",
-                "pub_datetime_utc": "2026-10-27T08:58:40Z"
+                "keyword": "이탈리아 20대 노동자 사망",
+                "hook": "페루자에서 20대 노동자가 근무 중 비극적으로 사망했습니다.",
+                "script": "이탈리아 페루자에서 또다시 안타까운 산업재해 사고가 발생했습니다. 이제 겨우 20살인 젊은 노동자가 일터에서 목숨을 잃으며, 이탈리아 내 열악한 안전망에 대한 공분이 커지고 있습니다. 노동 현장의 안전 불감증, 과연 언제쯤 멈출 수 있을까요?",
+                "original_title": "Elezioni in Israele: la diretta del voto | Exit poll, il Likud del premier Netanyahu primo partito alla Knesset, ma Eisenkot in testa come coalizione: non c'è maggioranza. Boom dei partiti arabi. Affluenza record - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMks4dnBWRXpfeHhRZHhBS2hyQWtka3JSR3JYRWdvSnRuN0lKbEh0bmlMUnVnenBxMzRGUHA0UEpXVWxMcG95anNybDRNaXV1WThTR292OVJ0bllodDJEZ19fcE5tNHB0d1dSdl9VbmR0RGxLV25kcTk4WVJMTmxBMVFxQTF4OS15RXZyQUR4amFFVmtiblZSUE8tTzdtbEZycWtMSXpFYw?oc=5",
+                "pub_datetime_utc": "2026-10-27T22:01:00Z"
             }
         ],
-        "last_updated": "2026-10-27 18:05:41 KST",
-        "current_rank": 6
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 75.0,
-        "previous_rank": 15,
-        "trends": [
-            {
-                "keyword": "Olivia Chow gets second term a",
-                "hook": "Canada의 최신 주요 뉴스입니다.",
-                "script": "Olivia Chow gets second term a",
-                "original_title": "Olivia Chow gets second term as Toronto mayor after campaign centred on affordability - CTV News",
-                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWF1bnl6cmNQdWh5VURMaTVvZ2lKdHNJNWNSZUE1Q01zTXdWR3I0dk5zVWJwZHRSY3VBaXdpSDg0bG9GR1BINzRQNFJPUEd0cVluWTJNVWsxblIyZ3g0akVIOUxxNjFjZnNBUW8tMGJ1T1hrS19YQXN1SnhESVltam9ldTFQVFE1RDlreXl2RjhYbGxOdzNWTXdCNDFuQThZTzZtWWNnekNGajNnVzdGTDYxYlV4MTl6UXhJdGdLRUdOWWs?oc=5",
-                "pub_datetime_utc": "2026-10-27T03:04:00Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:41 KST",
-        "current_rank": 7
-    },
-    "Russia": {
-        "gdp_rank": 11,
-        "spike_score": 75.0,
-        "previous_rank": 16,
-        "trends": [
-            {
-                "keyword": "키예프 교량 타격",
-                "hook": "러시아군의 정밀 타격, 키예프 핵심 교량과 드론 공장 파괴",
-                "script": "러시아군이 키예프의 전략적 요충지인 유즈니 교량과 드론 조립 공장을 정밀 타격했습니다. 이번 공격으로 현지 인프라가 큰 타격을 입은 가운데, 러시아 측은 군사적 우위를 다시 한번 강조하고 있는데요. 격화되는 전쟁 상황, 긴장감이 최고조에 달하고 있습니다.",
-                "original_title": "Песков: режим прекращения огня в Алешках может стать прецедентом - Ведомости",
-                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcE1OQlVOM0FscExXeVNidTdYYWY4R29ITDd2c3B0eWNrbVM0Z1ZkeFczY1lzbGZISTdjeWVoMzd3bDZMZV9Id2JPM1pFUVQwV3Y1RWlVZ1E1M2JGS3RxWUw2ajlsZ0tZYWhUcy01Z3lUaHRjb0VKXzViTmNjWFJ6M09QQjE?oc=5",
-                "pub_datetime_utc": "2026-10-26T10:12:18Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:41 KST",
+        "last_updated": "2026-10-28 07:20:02 KST",
         "current_rank": 8
     },
-    "Mexico": {
-        "gdp_rank": 12,
-        "spike_score": 75.0,
-        "previous_rank": 17,
-        "trends": [
-            {
-                "keyword": "멕시코 전국 봉쇄",
-                "hook": "도로가 꽉 막혔다! 멕시코 전국 19개 주를 강타한 운송업자들의 총파업 현장",
-                "script": "멕시코 전국 19개 주에서 운송업자들이 대규모 도로 봉쇄 시위를 벌이며 국가 물류망이 마비될 위기에 처했습니다. 정부와의 협상이 난항을 겪으면서 시민들의 불편이 가중되고 있는데요. 멕시코의 경제 혈관을 막아선 이번 사태가 어떻게 풀릴지 전 국민의 시선이 집중되고 있습니다.",
-                "original_title": "“Conservo mis principios y convicciones”: Guadalupe Taddei entrega su renuncia al INE a la Cámara de Diputados - EL PAÍS",
-                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2xqY2FFTGxzLWR6Y09RalFGWThuUnAxMWV3UDBTWmc2cklFb09fRzY2dEROa3lieHZrQXh3cnA4Sk5fQmlZb05RSkZtU0lWR0g4cGJrdnhJN1o0OS1jU2tvZTBRWnRSSGpXR0loYjcwVTRhbkhtdHgyUjhCT0RZQWhleUNReVdZOVVpQmhuNWhtRzY3M0Iwb0s3TDZrWTZvNWN5T2xVcVJ3T3VON213?oc=5",
-                "pub_datetime_utc": "2026-10-26T21:14:48Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:41 KST",
-        "current_rank": 9
-    },
-    "Australia": {
-        "gdp_rank": 13,
-        "spike_score": 75.0,
-        "previous_rank": 8,
-        "trends": [
-            {
-                "keyword": "PM admits $6m Marrickville Gol",
-                "hook": "Australia의 최신 주요 뉴스입니다.",
-                "script": "PM admits $6m Marrickville Gol",
-                "original_title": "PM admits $6m Marrickville Golf Club grant is not for sewage fixes - ABC News & Headlines – Australian Broadcasting Corporation",
-                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmRsQV9HQjNiT1h3V3BWak9LbkMwcUxpQ1V3OVBkdnoyRXBtU2JmejFNWEpZb1dvNzZGd25jWkdtS2hNNGVyZFFRZ1JDVVBZVG9IM1VMZTNIeGROSVJGNlktcGYzc3prMHFJZ1dHcU5iQlJ5eUQ1T2VGeFJPeTRvU3ZRQS1tQnpkNFRJRGVwR3hScEJVdFlLamplV1I3OXVCMWNr?oc=5",
-                "pub_datetime_utc": "2026-10-27T06:04:43Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:55 KST",
-        "current_rank": 10
-    },
-    "South Korea": {
-        "gdp_rank": 14,
-        "spike_score": 75.0,
-        "previous_rank": 9,
-        "trends": [
-            {
-                "keyword": "오세훈, 구룡마을 화재에 “시민 생명과 안전 최우선…신",
-                "hook": "South Korea의 최신 주요 뉴스입니다.",
-                "script": "오세훈, 구룡마을 화재에 “시민 생명과 안전 최우선…신",
-                "original_title": "오세훈, 구룡마을 화재에 “시민 생명과 안전 최우선…신속 진화” 지시 - KBS 뉴스",
-                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0YXBvZXBSb1l0a0hpeU5LWUJZbzZLbkg3TmVodk5qU2JTb1RzVzBjZEFxLWMyR2tSRnNYbllldjlxa1dyckJ4aUh6YkgyVm5KVDhSNlJoTUx5b3c?oc=5",
-                "pub_datetime_utc": "2026-10-27T08:32:00Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:55 KST",
-        "current_rank": 11
-    },
-    "Indonesia": {
-        "gdp_rank": 15,
-        "spike_score": 75.0,
-        "previous_rank": 10,
-        "trends": [
-            {
-                "keyword": "Dwi Bagus COD Mesin Giling Usa",
-                "hook": "Indonesia의 최신 주요 뉴스입니다.",
-                "script": "Dwi Bagus COD Mesin Giling Usa",
-                "original_title": "Dwi Bagus COD Mesin Giling Usai Bunuh Istri Siri dan Anak di Madiun - detikNews",
-                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSktObFVISy1NSng0M2pxNmFrVXpCMU1KNlhLRkgwWnYwNWFldjBKeXVQRERHNk80WXg5ZUpCUnVBci1VTHF1UTNqMm9fZDNMcnR6bkg3ZE15cW8yRDYxYlJxdi00RmxEV3NvU2FMT09Xc3N3Vm41Y3VaWlBUVW9MaHNvSmh4Slc3YUhfbV9pSENMLTl4UWg0U1NnanBUV2RVYmx1Ti1KNmVYcFnSAbABQVVfeXFMTjVNd2kxWXgyTmVFdWFIczM0MUtFdjR3QmJfcnhwd3hxdnVWVHp0Vnp1V3ZPLWE5Uko5QUVzeXd1NzRYT3Fqc2dFdFlMUkRTb1VIQ3AxdEZCR3JpSGlOSnB3aTU2eGZ5NnZXS1g2ZTRoTnMwMURLRWFKMGdCNmdPMTVaQ1l6d2NiVU9VS2lxblFqajRiWEN1Uk56cFJKMjZmR2RpQ1Y3UmJwZFpLbmhJUks?oc=5",
-                "pub_datetime_utc": "2026-10-27T08:07:56Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:55 KST",
-        "current_rank": 12
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 75.0,
-        "previous_rank": 18,
-        "trends": [
-            {
-                "keyword": "İstanbul sağanağa teslim: Yoll",
-                "hook": "Turkey의 최신 주요 뉴스입니다.",
-                "script": "İstanbul sağanağa teslim: Yoll",
-                "original_title": "İstanbul sağanağa teslim: Yollar göle döndü! İstanbul ve Antalya için yağış uyarısı - Hürriyet",
-                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDduZlA5d3FNdHpuXzdMXzVDOHZWMDlYYTBHTlI4T1lwVHNhLXNGVTdJVlhVYTd1RmdndlVTMTFieEV6Q0JjYjRTNEp5SHlNdGZHOUU4elR5VlVFenZMOWowYXk4NE42VEIxNVI5Zld3UVBScWxkem9meUZCTGQyTWhIN0tLRkpQV180cEF0UjRoWndXNkdaVWRuNUpLU1JiNDJraUNlbFowSTJnOXl6NnU4T21QQVo1T1hjUg?oc=5",
-                "pub_datetime_utc": "2026-10-27T08:27:03Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:55 KST",
-        "current_rank": 13
-    },
-    "Saudi Arabia": {
-        "gdp_rank": 17,
-        "spike_score": 75.0,
-        "previous_rank": 11,
-        "trends": [
-            {
-                "keyword": "التحالف: الدفاع الجوي اعترض ود",
-                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
-                "script": "التحالف: الدفاع الجوي اعترض ود",
-                "original_title": "التحالف: الدفاع الجوي اعترض ودمر (3) صواريخ باليستية أطلقتها الميليشيا الحوثية الإرهابية باتجاه المنطقة الشرقية - صحيفة سبق الإلكترونية",
-                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fZjhOdDZ2NHVMenk0V0ZOVHJBaS03S3AzcUU2UDU4R1VfWDEtMVlBVlRpYkdGNlJiVl9OaEJzYVlIS1F6R180?oc=5",
-                "pub_datetime_utc": "2026-10-27T00:38:24Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:55 KST",
-        "current_rank": 14
-    },
-    "Argentina": {
-        "gdp_rank": 18,
-        "spike_score": 75.0,
-        "previous_rank": 12,
-        "trends": [
-            {
-                "keyword": "Milei evita reconocer el triun",
-                "hook": "Argentina의 최신 주요 뉴스입니다.",
-                "script": "Milei evita reconocer el triun",
-                "original_title": "Milei evita reconocer el triunfo de Lula en Brasil tras hacer campaña por Bolsonaro - EL PAÍS",
-                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkVBbUgtaGw2cGZ6N2FtODdwdlFsY1cwdjdqdGhrcEFqVGhrRXViemo4QU5NSl9RNVRvSjZPMW1sMWo5Nmx4MWRuNlpDVUtEczI4OV9LbHVNNXJvV2VoTHBjVWZPNXdMeXllNVJ6UFFMMmxmV2VmRFlQOWIwWklsdlRPNUtaNFhKOEtEaVdVLWNSR1RlbndncnAyR0ZQeUgtLWtvQkd6VVpCTXRKSjY2Vjhqd2ZVbDFmaDJLRTNHVTJxZC1veHAw?oc=5",
-                "pub_datetime_utc": "2026-10-26T18:51:07Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:55 KST",
-        "current_rank": 15
-    },
-    "South Africa": {
-        "gdp_rank": 20,
+    "Brazil": {
+        "gdp_rank": 9,
         "spike_score": 75.0,
         "previous_rank": 19,
         "trends": [
             {
-                "keyword": "케이프타운 총격 참사",
-                "hook": "운동화로 아들 시신 확인한 아버지, 케이프타운 총격 현장의 비극",
-                "script": "케이프타운에서 발생한 무차별 총격 사건으로 온 마을이 충격에 빠졌습니다. 한 아버지는 현장에서 아들이 신던 운동화를 보고 사망 사실을 확인해야 했고, 다른 생존자는 쓰레기통에 몸을 숨겨 간신히 목숨을 건졌습니다. 치안 부재가 낳은 비극적인 현장, 남아공의 안전 문제가 다시 도마 위에 올랐습니다.",
-                "original_title": "Cape Town mass shooting: Father IDs slain son by sneakers, man survives by hiding in bin - News24",
-                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdjUxRXFGekVCZmN4eHYxMG9VcFFBSGNLclFncjM3WGNYZlFMV0o2WENfdFpfTTF1cFZGVGtTVHJXMGR1bko1dU50RGlfVG5TS1R2QjJrd0JackpqMFppbXlfQWE2SnBkVEc0SnpqTHI1NzFDUUJTc3JXSVB6eVNibjZZanJRcVM3SGhieGNmNmhqdlVzR0hLYVJpWUl3VHcyNUZ4RTdXeXRGdzFJNnJZQ2NGeDMtbk83WnJ4dEh2S1dkWlJJVndWVWNWWU5pbDdaWkYyLS05NFpocFpUQllDTHZldUtGVTg?oc=5",
-                "pub_datetime_utc": "2026-10-27T02:43:46Z"
+                "keyword": "룰라 당선 파장 확산",
+                "hook": "브라질 대선 이후, 승리한 룰라와 패배한 보우소나루 측의 갈등이 최고조에 달했습니다.",
+                "script": "브라질 대선에서 룰라 전 대통령이 승리하며 정권 교체가 확정됐지만, 후폭풍은 거셉니다. 보우소나루 대통령의 아들 플라비오가 해외 도피를 시도했다는 의혹과 함께, 트럼프 전 대통령까지 부정선거 의혹을 제기하며 혼란이 가중되고 있는데요. 브라질의 미래가 안갯속으로 빠져들고 있습니다.",
+                "original_title": "PF apontou risco de Flávio Bolsonaro fugir do Brasil e suspeita sobre destino de dinheiro de Vorcaro ao pedir a Moraes apreensão de passaporte - G1",
+                "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOEJqM1NvN1JwSThualJqV0E0bXVsZHB1MkwxMC1DUkVnTEtHUGpQU2M2QVd3SlkxakJIWjRoSzRseURUdDlpZ2pXZ0s5TDduQWtpa2RidDNLNFhEYk93S0lZY19XVnpybE1ta1REWFhkdnhvbGY3TlVmN1E4T2tpVExWZ0hjN3ZZRVB6cDkwN3JRbUZaTWlrZXlETTBQXzZLVzVGMEgtRFlIQ202a1N5WURCOUxWbUZPUjBRcUNhVTlvNFhCTHhBM2NFVENlOWpFSE1va0Y5RXNmMEx4aXMya0hIbV9LZ2hnZGFtQW9TcmlCRVdOOVhsTXM2Q0c1cWRRRm9YSVMzQ3dLX1c2d2F3aTJKbjJ1eWJIenVKLWxpWTVpLWPSAbICQVVfeXFMTkNzUmZTUmphT2lxUUVNT2htVTd3UGNFbl83cF9yOFdCeHg5SUh4TFhfNlJQeGtaWUhrTWJ5UUMwR21qMDBqUGQ0VFJGV0pDcDd1b2EyU0p0eEptNDlaVHo0UTJIYVlreExRdWtfdFhJNzgtWkxaZ2pXU0k0bFdXQkZLQ1F4Z1pZLTNxeWpFbWtrUUVmdUJNRnl3eDlsTHprZUk5QlFqXzMxR1lwQV9zM2ZiSzhHWVpSTm5JZGZtcUE1akJBZjZhYVJULS1FUlBIQS1aVVJheHllNHdQNHJKTlJpakoyaHJETDRQaEZVdUpJeGs1clpRVnRLbzBhdWlTYkpHZHo2cjdCWkJoblBlcnhwWHNZLWRINWp2alozQ2ZBQ1hHRTlNUmt5YmlQY0NxeTlB?oc=5",
+                "pub_datetime_utc": "2026-10-27T19:26:53Z"
             }
         ],
-        "last_updated": "2026-10-27 18:06:25 KST",
-        "current_rank": 16
+        "last_updated": "2026-10-28 07:20:02 KST",
+        "current_rank": 9
     },
-    "China": {
-        "gdp_rank": 2,
-        "spike_score": 70.0,
-        "previous_rank": 13,
-        "trends": [
-            {
-                "keyword": "티베트 강진 발생",
-                "hook": "티베트에서 발생한 7급 강진, 구조 작업이 극한의 상황에 직면했습니다.",
-                "script": "티베트 지역에서 규모 7의 강진이 발생하며 막대한 피해가 보고되었습니다. 고산 지대라는 지리적 특수성 때문에 구조대의 접근이 매우 어려운 상황입니다. 현재 최고 수준의 재난 대응이 진행 중인 가운데, 고립된 주민들에 대한 신속한 구호가 시급합니다.",
-                "original_title": "巴西大选：“卢拉军团”的WhatsApp群聊如何扭转选情 - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XVmR5MVRRa3ExTzB1aW9UeVo4c3lNU0F3bXBtRDNKSDNhOHpuMVNXY0hYSUhPQTM5NUJ5YnMtenktd2dGQTZReURqZnJyd3FrRUIwUmN3WGFpUU5JaDI1cUJ1cmRFOG_SAWxBVV95cUxNRWlEQWhFdmdXZXNpeldzX1ZiblcwUFQ0SXlEWDBBYzNJR2ROQ0N2OFZLejY0M2FrS2pkaVJRMDJiY3o2QUVyZ25qRktIMTc4QURYbzNnRUFJWmNpMm9TQURYVGFocnU2RmdsQTM?oc=5",
-                "pub_datetime_utc": "2026-10-27T07:34:42Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:37 KST",
-        "current_rank": 17
-    },
-    "Germany": {
-        "gdp_rank": 3,
-        "spike_score": 70.0,
-        "previous_rank": 2,
-        "trends": [
-            {
-                "keyword": "자동차 돌진 테러",
-                "hook": "독일 도심 한복판, 군중을 향해 자동차가 돌진했습니다.",
-                "script": "독일에서 차량 한 대가 무방비 상태의 시민들을 향해 돌진하는 충격적인 사건이 벌어졌습니다. 다수의 부상자가 발생해 병원으로 긴급 이송되었으며, 경찰은 대응 사격 끝에 용의자를 제압했습니다. 현재 현장은 통제된 상태로, 당국이 사건의 정확한 경위를 조사 중입니다.",
-                "original_title": "Knesset-Wahl 2026: Israel vor der Entscheidung - tagesschau.de",
-                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WWjNjVWVxcmVqalJ1RVV0Rng5cFl2NlZ3aVhRRFRjN3k0WW8xZ2dBR2lFaE9lbUNaOC1vTzB3UWRFV1NpaVlna0pqREV2LUpXbDEwdmJHN0wtTm5yazdaNWZWTFFqNXhhYkgwdE00REtlQQ?oc=5",
-                "pub_datetime_utc": "2026-10-27T03:18:00Z"
-            }
-        ],
-        "last_updated": "2026-10-27 18:05:37 KST",
-        "current_rank": 18
-    },
-    "Brazil": {
-        "gdp_rank": 9,
-        "spike_score": 70.0,
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
         "previous_rank": 7,
         "trends": [
             {
-                "keyword": "룰라 차기 내각",
-                "hook": "룰라 시대의 핵심은 누구? 브라질 차기 경제 수장을 둘러싼 치열한 물밑 경쟁",
-                "script": "브라질 대선 이후 룰라 당선인의 차기 내각 구성에 전 세계의 이목이 쏠리고 있습니다. 특히 경제 정책을 이끌 재무부 장관직에 알키민 전 주지사가 유력하게 거론되고 있는데요. 과연 룰라 당선인이 혼란스러운 경제 상황을 어떻게 타개할지, 그의 파격적인 행보가 시작됩니다.",
-                "original_title": "Moraes proíbe Flávio Bolsonaro de se comunicar com Willer Tomaz - Poder360",
-                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmxlbi1GeDVkSVZHOE9FR0hNeTZnRGtndmxxOVppTUU2MzdfazRxX0lQUkF0SDhuV01heGVKYWhwT3FOLWxUMnl3Q3A4QjhCa1d0WWVkZnlFTmdBNkFvRVVrQkNRZ2djckFJTnJVeU0xQmtTX2VIMXhfS2c0V2tyM1p1a3ZhYVpacDFxNWZaa1NVWERvaUtHT0lWdXI?oc=5",
-                "pub_datetime_utc": "2026-10-26T21:05:07Z"
+                "keyword": "80년대 연쇄 성폭행범",
+                "hook": "40년 전 캐나다를 공포에 떨게 했던 연쇄 성폭행범이 드디어 법의 심판을 받았습니다.",
+                "script": "1980년대 캘거리에서 발생한 끔찍한 연쇄 성폭행 사건의 범인이 마침내 9개 혐의에 대해 유죄 판결을 받았습니다. 수십 년간 미제로 남을 뻔했던 사건이 DNA 증거를 통해 밝혀지면서 피해자들에게 뒤늦은 정의가 실현되었는데요. 끈질긴 추적이 만들어낸 드라마 같은 결말입니다.",
+                "original_title": "Big wins, shocking losses, and goodbye to a 46-year mayor: what to know about Ontario's 400+ elections - CBC",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXJ0V2x3LXduMFVQa0hSVGlRQk43SmVKSmV1T0Z6bVdDdGdvNlg2QnpwMFB0eUVGejlSV1p6aUJQWmlockZWc2FaZUpMb1VGR0wtekM1bEhybXVCNmJlRkRaS0VaQjBDbkZVMUtPRV9qSEFLQTNLbUlKU2VhSmhxeGp1TEJCdm16TUtYaGZhbFAxSy1WTkEzN3UxdUhrT3Zw?oc=5",
+                "pub_datetime_utc": "2026-10-27T17:23:27Z"
             }
         ],
-        "last_updated": "2026-10-27 18:05:41 KST",
+        "last_updated": "2026-10-28 07:20:02 KST",
+        "current_rank": 10
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "러시아 내 드론 폭발",
+                "hook": "러시아 거주 지역 한복판에서 드론이 폭발하며 주민들이 공포에 떨고 있습니다.",
+                "script": "러시아의 한 다층 아파트 단지 안뜰에서 드론이 폭발하는 사건이 발생했습니다. 최근 러시아군이 우크라이나 인프라를 타격하는 가운데 발생한 일이라 긴장감이 고조되고 있는데요. 전쟁의 불길이 점점 러시아 본토 일상을 위협하고 있는 상황입니다.",
+                "original_title": "Путин провел переговоры с президентом Финляндии и премьером Норвегии - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcndrQklnSTNMOXVNeU92U2ZxcVJOVE5WZnZhN3NUWWlpYmxlanFxSjc2QUlDWEIwNHZxQzNJbFozSWxnMlhYbEVicnd2NVBZZFpxUUdjVS1QQmVSS3BqZWNVSm40T1VueVNZaWl6cVR3RVZhajBRR2FYeXVtRjNjTUNEbC1VOGlk?oc=5",
+                "pub_datetime_utc": "2026-10-27T09:41:40Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:02 KST",
+        "current_rank": 11
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Tensión y desconcierto en las ",
+                "hook": "Mexico의 최신 주요 뉴스입니다.",
+                "script": "Tensión y desconcierto en las ",
+                "original_title": "Tensión y desconcierto en las últimas horas de Guadalupe Taddei al frente del INE - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnZFZ2tFRlZiZU9MZ2ZPVzkxTTY1cnNmUDFWRk1FZWV2bXpKdDIwdjNWOTU0RlNOZFZUckhyWDVRNEd5V09BNFhGamdJZjQxdHNpanBxQXEwM3FRR0FFd3J2bHcyWjMyb0hXVjFfM28xckJFZlgzWlMyTUw3WW9rM0VZYUVGRFBJTUs0UkE2VlRzaDYwaGZ2UG1OV20xQmxfWXI4ZkJIUUtiZGZocmNSdDBob3VoeWN4aERLT1NIY04?oc=5",
+                "pub_datetime_utc": "2026-10-27T09:30:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:02 KST",
+        "current_rank": 12
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "의원 위협 급증",
+                "hook": "호주 정치권이 공포에 떨고 있습니다, 도대체 무슨 일이?",
+                "script": "최근 6개월간 호주 국회의원들을 향한 위협이 800건에 육박하며 국가적인 비상이 걸렸습니다. 최근 발생한 헤인즈 의원 피습 사건 이후 정부는 의원들의 안전 조치를 대폭 강화하기로 했습니다. 정치권의 긴장감이 최고조에 달한 가운데, 과연 호주 사회는 이 폭력의 악순환을 끊어낼 수 있을까요?",
+                "original_title": "Israel election 2026 LIVE updates: Exit polls project no clear winner as Netanyahu, Eisenkot set for lengthy battle to win power in nation’s first election since October 7 attacks - The Age",
+                "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNLXRvdEE1dVZ5MHdteEM2RW5kTk5qQ2x6OV9pVG1ZNUdYa25IOGV3MWl5RFV3N0lTaDcxaDNVR2RiUXNRWGhfOEVNMGQtRWhVVlF4ZlpxUWNmZTRZRG5sckhNd0NMbkl0OU03YlZfX01ZWTk4ZmZSb0VHWFlpaXFnVFRjenlXVGgtdlk5NWVmRkp6dVRzTWlYTFhMaHhHbXpqMGoydmVJQl9keTMwLUhyQVBtWjZ1dGZ3QzlaQ0lycl80OWx3TGxoeGhEOENhenRwb3JYT0xKU0hsLUJ1NWE0cUxLd2NpVUlTaVltNlgyZE9NaUpydTYtVjg1U2ZuQVBHS3VSbUZkTmxlTGhYVEtVbE5GOWhram43WGxpMG11LXYyNGYwYUlNWGtmalBLNkcx?oc=5",
+                "pub_datetime_utc": "2026-10-27T19:34:19Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:10 KST",
+        "current_rank": 13
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "김건희 구속영장",
+                "hook": "법원이 내린 충격적인 결정, 김건희 여사 구속영장 발부!",
+                "script": "대법원이 김건희 여사에 대한 추가 구속영장을 발부했습니다. 증거인멸과 도망의 우려가 있다는 재판부의 판단입니다. 정치권은 즉각 요동치고 있으며, 향후 수사 과정이 정국을 뒤흔들 뇌관이 될 전망입니다. 과연 대한민국 법치주의의 향방은 어디로 향할까요?",
+                "original_title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
+                "pub_datetime_utc": "2026-10-27T17:20:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:10 KST",
+        "current_rank": 14
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "교통법규 대규모 단속",
+                "hook": "운전 중 스마트폰 보셨나요? 오늘부터 단속 시작입니다!",
+                "script": "인도네시아의 '오페라시 파투 자야' 첫날, 무려 10만 건이 넘는 교통법규 위반이 적발되었습니다. 대부분 ETLE 시스템을 통해 자동으로 감지된 사례들입니다. 더 이상 벌금을 피할 길은 없습니다, 인도네시아 도로 위의 질서가 오늘부터 완전히 바뀝니다.",
+                "original_title": "Pramono Harap Aksi Demo Besok Tak Ganggu Ketertiban Umum - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlRERlE0T0pObnNidFhvcy1yUHl0T1BhWEtNNVVvNTVYaW14Q19FRjZOR1MwUVFieVNHQXhGdU5kY1hCVmVPdEhXeHd2Q1NtMjRYTnVWWW45Q2hhQU5fcTRaNU95Qmg2cndvbXMwM2R0NGV4Ml9nV1hSakNrZVgzMkp4U1BaWEhNLUdJcFdhdHZTVVlOSHl1ZzM4RWHSAaIBQVVfeXFMUGpGSXBJMlduaWw5VWM4QXp4MVFYNVg4OTRhS2J3R2hjamY3YlNieWZ3aDY1cF9sU2RDUkhjOFZyYm82QlRNZFhnZlYtZEl1TjJOLUZNWS1oTVFwOTVWUTNTUzZCMk13VDhpN2NVcm4zS0w1bFhKYXNuOFg4NzhqX3F1S3o0TnlpV2NUWWlDYXViT3BUckdMOFFZUVBuZUI0SW5n?oc=5",
+                "pub_datetime_utc": "2026-10-27T15:35:04Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:10 KST",
+        "current_rank": 15
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "이스라엘 선거 혼돈",
+                "hook": "네타냐후의 야심 찬 도박, 이스라엘 선거 결과는?",
+                "script": "이스라엘 총선이 마감되었지만, 출구조사 결과 승자를 예측할 수 없는 혼전이 이어지고 있습니다. 네타냐후는 투표 현장에서 아랍계 정당을 견제하는 등 '더러운 작전'을 펼쳤다는 비판마저 받고 있습니다. 중동의 운명을 결정지을 이번 선거, 과연 누가 권력을 잡게 될까요?",
+                "original_title": "CANLI Netanyahu seçim bitmeden düğmeye bastı: Kirli plan devrede! Arap partilerinin görevlilerine sandık başında gözaltı... Oy verme işlemi sona erdi... İşte sandık çıkış anketine göre sonuçlar... - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGtrZlBtNDQ2bzFKY1RZMm1EOE1LUktQODgxazIyam5mZnlnQkczNV8yUGk3bmtFSzl0TlpDbVlqRmZzaTJSUFBZb3pPMkRfX1V5bmRjeFNFeExsNTJjcmZvY2hQb0x5OHFuR3Qwb0ItLVZBcmpxczY2b2MybUdKV0NKbkVzRWhFaFlhME0ya1lFSGwzaHpFZVZRVF8zVzVrZ29JMHF6RG5LRjhPY18xTXRwSUhETFpv?oc=5",
+                "pub_datetime_utc": "2026-10-27T20:07:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:10 KST",
+        "current_rank": 16
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "리야드 탄도 미사일",
+                "hook": "사우디 수도 리야드 상공에서 터진 탄도 미사일의 잔해들!",
+                "script": "사우디 리야드 도심이 긴박한 상황에 빠졌습니다. 방공망에 의해 격추된 탄도 미사일의 파편이 건물과 차량을 덮치며 막대한 물적 피해를 입혔습니다. 후티 반군이 배후로 지목된 가운데, 사우디의 안보 상황이 그 어느 때보다 위태롭습니다.",
+                "original_title": "الدفاع المدني: سقوط شظايا نتيجة اعتراض صاروخين باليستيين في مدينة الرياض نتج عنها أضرار مادية في مبنى ومشروع تحت الإنشاء ومركبة - سبق",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TYThHX2hIUnVsSjNNUy1lVTFZOU5WMXFDb3lnb1E0VEpUVW80QTk0NVZINjIwYWJHV2UySzNQc1V0b1k3QVJN?oc=5",
+                "pub_datetime_utc": "2026-10-27T14:52:10Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:10 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "IMF 협정 승인",
+                "hook": "아르헨티나 경제, IMF와 새로운 분기점을 맞이하다!",
+                "script": "국제통화기금(IMF)이 아르헨티나와의 경제 협정 검토를 최종 승인했습니다. 이번 결정으로 새로운 자금 지원의 길이 열리며 경제 위기를 겪던 아르헨티나 정부에 숨통이 트일 전망입니다. 과연 이 자금이 아르헨티나의 고질적인 경제난을 해결할 마중물이 될 수 있을까요?",
+                "original_title": "Flavio Bolsonaro huyó de Brasil a EE.UU., pese a una prohibición de la Justicia tras su derrota electoral - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFU0MHNWa09wREVSYWpoWXNOdFRhb1hvX0xGVF9TQndRSzFORnB3bGVsd3NaUFBnbWh1bV82VGpHdWtOQlB1RWZwODQ0cHl0YWotTmo1RWlMbDR6SVlxMzVIMlRDVXNGUVUtbHBra1lRWTVGSlBKMDF4SFF6MkM5NzlXMGVFdXZMNDVaWlJmYzN2eG5XSlJrQTJKUkxRVzdBWGpxNjBwMXZ0bDF1X1VjRlpUYl9ZZENmZ1p2bG05U0FRTTY1SXBHbi15c1E4QjF5ZERzd0d3eFdpUFFOVl9ubml3aDY?oc=5",
+                "pub_datetime_utc": "2026-10-27T21:55:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:10 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "남아공 국가 비상사태",
+                "hook": "폭우부터 수질 오염까지, 지금 남아공에 무슨 일이 벌어지고 있는 걸까요?",
+                "script": "남아공 전역에 4단계 악천후 경보가 내려진 가운데, 브롱크호르스프루이트에서는 원인 불명의 집단 발병 사태로 800명이 넘는 환자가 발생했습니다. 설상가상으로 정부는 군 병력까지 투입하며 치안 유지에 나섰지만, 국가 재정 위기와 공공 서비스 붕괴 우려까지 겹치며 혼란이 가중되고 있습니다. 과연 남아공 정부가 이 복합적인 국가 위기를 어떻게 돌파할지 전 세계가 주목하고 있습니다.",
+                "original_title": "News24 ‘justified’ in focusing on Lighthouse textbooks contract, Press Ombud rules - News24",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbldYZ1NTdUtTa2ltZFF4cUZoX2R4OWxtd0ZnLXp0VDZTNVhTLTNhYXFMem1LXzZrY0JxdzctdEEzR2RMSkFUTzFNOVhtUFNjVEZRSDZ3VzM4cUpIWDFIbjBkaFA3QWI5WDB2cFRGdWdGaVBWWVotbDBHZkw5OUY3VEhMOGFKWHE0dnd2NlRIVWxjdW1IcXJwRHdHdDZHYy0zbmJGM25za0dzREtsbXBRaFRUZElIdVNpVDZFRkVEMUV2ekNxYjFGc29aeHg4bDhnWFAxRQ?oc=5",
+                "pub_datetime_utc": "2026-10-27T18:28:13Z"
+            }
+        ],
+        "last_updated": "2026-10-28 07:20:19 KST",
         "current_rank": 19
     }
 }
