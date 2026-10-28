@@ -5,66 +5,66 @@
         "previous_rank": 1,
         "trends": [
             {
-                "keyword": "미 중간선거 임박",
-                "hook": "트럼프의 마지막 승부수, 중간선거 판도를 흔들까?",
-                "script": "미 중간선거를 앞두고 트럼프 전 대통령이 텍사스 유세에 총력을 기울이고 있습니다. 이번 선거 결과에 따라 향후 미 정치 지형은 물론 이란과의 긴장 관계에도 큰 변화가 예상됩니다. 유권자들의 최종 선택이 미국을 어디로 이끌지 전 세계가 주목하고 있습니다.",
-                "original_title": "Netanyahu bloc slightly ahead in Israel elections but short of majority as 70% of votes counted - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcDl2enJKdm5Dekg4bU9MWG9FQWF5LXk1N19XTGkySjBuMlBMdnZuTVlsaTNSYVVXRlgxU0EzYlZBekhJdU85U3diUFIzbU52andERlh3?oc=5",
-                "pub_datetime_utc": "2026-10-28T12:30:39Z"
+                "keyword": "볼소나로, 미국 망명",
+                "hook": "패배한 브라질 대통령, 마이애미로 전격 도주했다.",
+                "script": "브라질 대선에서 패배한 플라비우 볼소나로 전 대통령이 마이애미에 도착했습니다. 체포를 피하기 위한 도피성 입국이라는 관측이 지배적인데요. 미국 정부의 향후 대응에 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil - AP News",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:20:00Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:14 KST",
+        "last_updated": "2026-10-29 05:20:04 KST",
         "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "스페인 열차 참사",
+                "hook": "1년 사이 두 번의 대형 사고, 스페인에 무슨 일이?",
+                "script": "스페인에서 올해 두 번째 대규모 열차 충돌 사고가 발생해 최소 64명이 사망했습니다. 잦은 사고에 안전 시스템 부실 논란이 커지고 있는데요. 현지 구조 작업이 긴박하게 이어지고 있습니다.",
+                "original_title": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTW94VjZHVXFUVFl1NlY5d3JkQktxOFVrQWNFVXBXa2xIZTRfUWdOZFUtNkRicklUZWNmNFpmZVlad3RYaS1MZU5qdnIzSndUemp1Rjk3OWx5b1ZDY0IwTjhoS1RFLU5Ta29TVDJnaUFIbWNVeHNrUnZXTE9aTEJDczNtT2JxZVdPc1BBWUxn?oc=5",
+                "pub_datetime_utc": "2026-10-28T15:15:45Z"
+            }
+        ],
+        "last_updated": "2026-10-29 05:20:04 KST",
+        "current_rank": 2
     },
     "Germany": {
         "gdp_rank": 3,
         "spike_score": 75.0,
-        "previous_rank": 18,
+        "previous_rank": 2,
         "trends": [
             {
-                "keyword": "스페인 열차 참사",
-                "hook": "스페인 열차 탈선 사고, 30명 사망 '충격'",
-                "script": "스페인에서 발생한 열차 탈선 사고로 최소 30명이 목숨을 잃는 비극이 벌어졌습니다. 현장은 그야말로 아수라장이 되었으며, 구조대원들이 필사적인 수색 작업을 벌이고 있습니다. 독일을 비롯한 유럽 전역이 이번 참사에 애도를 표하고 있습니다.",
-                "original_title": "Israel - Netanjahu liegt bei Parlamentswahl vorn, aber ohne Mehrheit - beide Lager sehen Regierungsauftrag - Deutschlandfunk",
-                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWE5nazBRcnN0cWVBcTRqMHUyRDhFcllhekRPMkd5RjJGRDA3a3lOM2tLcTJKR3cyUVp2NF8wQ2VkV0dDUlBJWjJxODRjWERzSS15QVFCT3M5a0J2M3cxdkJDWHlaSllkVlQ2ZVFRQUE3UDNnTDdfc1psTURUSjA5Yk5lMUJ6Q0tmRlBlaVpqdVhyc1Noc0g2U0U1VEFnaHZ2cWFzVVBodjZxTWRlRjN6UG9VRmhxQlNvb1ctVUVLRHRwaHVPdmMyT2d0dlFpR2c?oc=5",
-                "pub_datetime_utc": "2026-10-28T11:00:02Z"
+                "keyword": "독일, 아프간 범죄자 추방",
+                "hook": "독일 정부가 아프가니스탄 범죄자 40명을 카불로 강제 송환했습니다.",
+                "script": "독일 당국이 중범죄를 저지른 아프가니스탄 국적자 40명을 카불로 추방했습니다. 이민 정책의 강경 기조를 유지하겠다는 정부의 의지가 반영된 것인데요. 국내외 찬반 논란이 거세지고 있습니다.",
+                "original_title": "Nach Parlamentswahl - Israels Präsident Herzog will mit allen Fraktionen reden - Deutschlandfunk",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFN0elNRWW9XRGZCbHhVTUxCNUE5cU43MmxjaVl2U3FrbWxSQjdGYlF4ZllZeE9ObDdUTkNnRERyMmRfdERmdHFfYTdpOVRlbTlsT0FNUXNRM0dkYkVPMjFvQngxYUpmel9QUVlIcDgzZUg0UXpwZ3VsSDA5RjJUaFdzWGFwMl9ORnVJckFldVpiOGdtdGdIZ2liU2R2QQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:23:27Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:14 KST",
-        "current_rank": 2
+        "last_updated": "2026-10-29 05:20:04 KST",
+        "current_rank": 3
     },
     "Japan": {
         "gdp_rank": 4,
         "spike_score": 75.0,
-        "previous_rank": 2,
+        "previous_rank": 3,
         "trends": [
             {
-                "keyword": "이스라엘 총선 접전",
-                "hook": "네타냐후의 귀환? 이스라엘 총선 과반 확보 실패",
-                "script": "이스라엘 총선에서 네타냐후 전 총리가 이끄는 우파 연합이 앞서고 있지만 과반 의석 확보에는 미치지 못할 전망입니다. 향후 각 당의 연정 협상이 정국 운영의 최대 관건이 될 것으로 보입니다. 중동 정세의 핵인 이스라엘 차기 정부 구성에 세계의 이목이 쏠립니다.",
-                "original_title": "スペインで列車事故、死者３０人：時事ドットコム - 時事ドットコム",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sazc5OE1MeW50bml4UUVqQmxiMUdBaVZtNUJteXA3ZzFCSTJxcmR1V2J6RXpFMUE2Z0Q4aUZzSW1ua042SWQwLVJRRi1CQ1p0WFdDT25MbnBUenk1LThsbWp0VQ?oc=5",
-                "pub_datetime_utc": "2026-10-28T12:38:00Z"
+                "keyword": "치바 규모 5.5 지진",
+                "hook": "일본 치바현에서 발생한 규모 5.5의 강진, 지금 상황은?",
+                "script": "오늘 새벽 일본 치바현 북동부에서 최대 진도 5약의 지진이 발생했습니다. 다행히 쓰나미 위험은 없지만, 주민들의 불안은 극에 달했는데요. 여진 가능성에 대비한 안전 수칙을 확인하세요.",
+                "original_title": "スペインで列車事故、少なくとも64人死亡 負傷者80人以上 人為的ミスの可能性も - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc0VSRjVRMHFiZ096ajYyelE2ZWZfSkNWX1ZDNlV3eHVjcXlKQk9RbEhIeHlEQ0p2ZkJ3Z0RJUGw2SU1obndNOU0xc1o3S3NlV09zMV9ueXVWMS1ubFpDMXVLRmg5TmxpQVpJR3NGRUhvMlR2M1E?oc=5",
+                "pub_datetime_utc": "2026-10-28T13:02:32Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:14 KST",
-        "current_rank": 3
-    },
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 75.0,
-        "previous_rank": 4,
-        "trends": [
-            {
-                "keyword": "영국 새 예산안",
-                "hook": "영국 경제의 운명, 번햄 정부의 첫 예산안 공개",
-                "script": "영국 번햄 정부가 출범 후 첫 예산안을 발표하며 에너지 개혁을 핵심 과제로 내세웠습니다. 존 힐리 장관은 경제 안정과 성장을 동시에 잡겠다는 의지를 밝혔습니다. 과연 이번 예산안이 영국 시민들의 삶과 경제 회복에 어떤 실질적인 변화를 가져올지 귀추가 주목됩니다.",
-                "original_title": "At least 30 killed in Spanish high speed train crash with dozens seriously injured, regional leader says - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0NU5uTXFQMUgyc2dDMWdMVEl0dVV1cHFMS0FVZU9na3RpWDRBZkwzV1hUNndDS3Zfem92Ui13ZzVVVElabkpRLUhyaDg2TTFtN1UyLXVB?oc=5",
-                "pub_datetime_utc": "2026-10-28T13:00:55Z"
-            }
-        ],
-        "last_updated": "2026-10-28 22:03:14 KST",
+        "last_updated": "2026-10-29 05:20:04 KST",
         "current_rank": 4
     },
     "France": {
@@ -73,253 +73,253 @@
         "previous_rank": 5,
         "trends": [
             {
-                "keyword": "르펜 대선 출마 위기",
-                "hook": "마린 르펜의 2027년 대선 가도에 치명적인 법적 제동이 걸렸습니다.",
-                "script": "마린 르펜의 대선 후보 자격이 박탈될 위기에 처했습니다. 르펜 측 변호인단은 사건을 담당한 고위 판사를 상대로 즉각적인 법적 대응에 나섰는데요. 프랑스 정치권이 르펜의 후보 자격 무효화 가능성으로 거대한 소용돌이에 빠져들고 있습니다.",
-                "original_title": "EN DIRECT, collision entre deux trains en Espagne : au moins 31 morts, selon les autorités régionales ; la ministre de la santé espagnole dit s’attendre à « une tragédie » - Le Monde.fr",
-                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa01SZ0JIM3lpZnc2RnhlYjhXaklkLXpQeFdMcnZCbEIyYlRxbTVTc3hoRC1nZld1YV9hdmxxTVVGOU1QcjlPOHBFMUZkTWNQSGdRT1ZkbU10eEdjamlRbDVvSU9PeTlZd1ozQnpkVk92bHRva3dUaV9mdEVsc1g4d1NFUmlNR3pKd1JWcUdqWGgzYlJnelJKR1h1c2twbE9QSmVUUURhUDVmVlUtRkNkUUJjdkxqMUcwNEZXeC14MHBJSTYyMTU0SmpJaU1WVDlEd3k5SmUxTHN2ZTU1N3c4?oc=5",
-                "pub_datetime_utc": "2026-10-28T12:58:20Z"
+                "keyword": "스페인 열차 참사",
+                "hook": "평화롭던 열차 여행이 순식간에 68명의 사망자를 낸 비극으로 변했습니다.",
+                "script": "스페인에서 두 대의 열차가 충돌하며 최소 68명이 숨지는 끔찍한 사고가 발생했습니다. 현재 현장에서는 구조 작업이 한창이며, 스페인 전역은 3일간의 국가 애도 기간을 선포했습니다. 희생자를 추모하는 침묵의 시간이 전국 곳곳에서 이어지고 있습니다.",
+                "original_title": "EN DIRECT, accident entre deux trains en Espagne : au moins 68 morts, trois jours de deuil national et des minutes de silence organisées à travers le pays - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQc3lLNHlJenY1QnlNWHROcHhrUGd5OEJrNTQtRlRGcnVmSjVpQUk3ZFhKVkhxc21VemNBOHhmVzAza0tJSnh1dXc2ekoydzhFV29Gb2ZmWjRXQkNaVzFTNzNKWUJxMWFHTGVycUlLcVd6UXgzNWRXNU1VQU1sMFB2Um43MVNGcWcxUmJ0RjJlTDZNc3dCTTl0ZWJfa3hna3Nzd2VUdEw5UjNxMURBWmdHT2VTYm1ySW9FN05uYkFXSEh0eVkwVDB6eHd3NS0xWFlJbVN5bEhYR3BycWkxallWaTdWLWxSdDhLcmtVX3dyVi1jT0hySVUxLXJ1eE9DNGxzQUQ0LWo3U3NmNUZKNEdlU1JrSDlrMW9BODRnMmlRSzhDV0tzOTV1M3RNSVRHV1kxaHBpMEt6c255OGgtS2d3WVhyUQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T19:05:37Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:21 KST",
+        "last_updated": "2026-10-29 05:20:14 KST",
         "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "스페인 열차 충돌",
+                "hook": "스페인 열차 사고로 68명 사망, 이탈리아인 실종 소식에 긴장감이 감돕니다.",
+                "script": "스페인에서 발생한 열차 추돌 사고로 최소 68명이 사망하고 100명이 넘는 부상자가 발생했습니다. 안타깝게도 이 사고에 이탈리아인 2명이 포함된 것으로 알려져 당국이 긴급 확인 중입니다. 현장의 처참한 모습이 공개되면서 유럽 전역이 충격에 빠졌습니다.",
+                "original_title": "Manovra 2027, via libera del governo: fondo previdenziale per i neonati da 100 euro, Irpef al 33% fino a 55.000 euro. Slitta il decreto bollette - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQMl95QjJ6c1FPU2JMb2hJZVhnZnl4R2JBVzJ2alVrNEU5aEk2dktOMkxLVERaRktOMmppRWVvZjdVMzJYb1NtMktOMDBGd1lrYzBzMkhXM3d3MHctRkkwdnJ2YmlVZE1taHB4XzRmd3FLREVId1lqUHZTZjdDT3pfUkZPOUc3akM0YlhieGJsdmNoaDdsaDZQcnlrb0IxM3R6SmVJaFNuS3FVVXRlbUVSNmlUSTJ0OFREVVhXOEFhaFJ6STRvR3l1dGxDUDVmNmh3bTQzbHI2ZTd0R2tZcEFQcm1hQ2VpeXBwZnNQZXJlQm8zWHJKQVRvSWtGRGU5SnQ1TnRFY3dHWGhsaVVzYXNUOVBtN01kUEhZQUY5SHRfUmlPWTUxYTZkNUZVTHBiVHZFSXfSAbcCQVVfeXFMUFJWdEdkYlBBZWktTG8xVUd0ajlXbkJRYmpZd2Rla1NObDh6LWx3N1I5MmIwUXVEZWFRM3k4RnFVWXRuZDBxS3VoT29QTThiNTNlTGRUV19jSXE2czhPS2pIc2RHaUJHZFV2Rk9fWW8xd3BidUlubmhZZG1sU09wZEQ5ZTM4aTZYZjl6N1hscFJqZjFtY2pqU05kcm5WUGZmaldvd2NiR0pfNWM4THRaMjhRbDd2QzJENUJBRm9QZ3ZfbFozcno0d1RJOW1jMWtaUFFuVUtfQmFHaXp6UHNfLWVtYkxUQ0o0ZWtfY1FQR1ZGU1Q5dHNzdWN2RHJ0d05VaGRyUmF3Z256a1ZnZFRBRFlNT2lJUnJNbTh4NmFoemtSNHRZWU9Icy01TWJ0czZXWTIzY09aZTQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:16:05Z"
+            }
+        ],
+        "last_updated": "2026-10-29 05:20:14 KST",
+        "current_rank": 6
     },
     "Brazil": {
         "gdp_rank": 9,
         "spike_score": 75.0,
-        "previous_rank": 7,
+        "previous_rank": 6,
         "trends": [
             {
-                "keyword": "플라비우 볼소나루 도피",
-                "hook": "플라비우 볼소나루의 미국행을 두고 정치권의 파장이 커지고 있습니다.",
-                "script": "플라비우 볼소나루가 선거 패배 이후 브라질을 떠나 미국으로 향했습니다. 미국 민주당 의원들은 그의 비자 발급 계획에 대해 강하게 비판하며 논란이 가열되고 있는데요. 브라질 정치권의 거센 후폭풍이 국경을 넘어 미국까지 번지고 있습니다.",
-                "original_title": "Democratas dos EUA criticam plano do governo Trump de conceder visto a Flávio Bolsonaro - G1",
-                "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlp3cWJsVmhpSUdsS0swREFoNHpaYW1PVUNURzJFcnlCMWxpU2VaZnIyX1ZUcl9kRHlET3dKOWh4aVEyVlZVMWJqbUNyNWpoVWpEUzZTUjZybGNrYl8wWWJZcWRlbk5tMjUwVzlhUUQ1SVJ1ckY3Z2RVRGtSbDVKcWR4ejdxNy1zRkFLeVhIQ2FFb01fUFlEcmp0Z194U2JjS25RTjNuVzJiMWR0b3Z6di11QmZBTVlETWVmNVY4WnBEN21FUm84c3lqYlhHT1Bq0gHfAUFVX3lxTE5ZajBHT05LbmIyTkVESnU0RnZRc2VCRDV6OEJVMEk1QnU3UlotZl9ROWNaRUFFRWR3TGFNcHk1cVMzUEVPTDU3UjF1djAwRTR6WW01Vm16a3ZOWnF2R2pLVnluY2NlWlR5YW5QaGtXSmlHeGZFM2ZuWnZFazNKQm9hWjljcEEzM2tfaVVaN0tuQWp2VFk4TWdfNWU3dHZXRVkwSmRoOXlISGRVeWRaTmJ0NFVpX0V6M2dKOUpRXzR0cGU5UHh1T1JQcUEtRVY0bnNrZmliZ25Lcy1HZTNfd28?oc=5",
-                "pub_datetime_utc": "2026-10-28T09:50:26Z"
+                "keyword": "열차 참사 비극",
+                "hook": "평범했던 열차 탑승객들이 스페인 참사의 희생자가 되었습니다.",
+                "script": "스페인에서 발생한 열차 충돌 사고로 최소 68명이 사망하는 대형 참사가 일어났습니다. 사고 열차에는 기자와 예술가 등 다양한 승객이 탑승했던 것으로 밝혀져 안타까움을 더하고 있습니다. 현재 전 세계가 스페인의 비극적인 소식에 애도를 표하고 있습니다.",
+                "original_title": "Entenda por que Flávio Bolsonaro não é considerado foragido - CNN Brasil",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmFYQVRqV0ZjUXU0eWQ2cFF0OV8xRHV6VV9VcTlEcUx1dmxhTDZXdTNXbDJiSGVUb0g4OUMxM0xwWDVmWEJTMEozMkNBbmpvTEYyZmVvQktsblk0ZmdBaVR4Q09JS2NIZ2taUEE0VHpSMmZpblRfQUtlRkJXbWdfV0FMRFFDa3BPVjVYU09hSUZvaVBjN3V4OHdpNXZDc1E?oc=5",
+                "pub_datetime_utc": "2026-10-28T19:14:00Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:21 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-29 05:20:14 KST",
+        "current_rank": 7
     },
     "Canada": {
         "gdp_rank": 10,
         "spike_score": 75.0,
-        "previous_rank": 8,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "스페인 열차 참사",
+                "hook": "스페인 열차 충돌 사고, 캐나다인 부상자 발생.",
+                "script": "스페인에서 발생한 열차 충돌 사고로 최소 68명이 사망한 가운데, 캐나다인 2명이 부상을 입었다는 소식이 전해졌습니다. 사고 현장은 아수라장이 되었으며, 생존자 구조를 위한 필사의 노력이 이어지고 있습니다. 캐나다 정부는 자국민의 상태를 긴급히 파악 중입니다.",
+                "original_title": "EU dropping associate membership title for its closer alliance with Canada: sources - CBC",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0dtbG95c2h3TXdodUZtNDBJSWdhWnh0ZnNfLXZFSHpmUVlaNjFPcXJYWUZaa1NpaWlabktqZFJWQmpuOFZHeHR1bFlUcDFzRTNGV1UwbFhKMzRaclVNQkRYaEdlODVvaFlQSEJpMTFyYzdpd1k5THhwamxQT0ZZUjlNT0JoN1Nk?oc=5",
+                "pub_datetime_utc": "2026-10-28T16:53:46Z"
+            }
+        ],
+        "last_updated": "2026-10-29 05:20:14 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 18,
         "trends": [
             {
                 "keyword": "스페인 열차 충돌",
-                "hook": "스페인에서 발생한 열차 충돌 사고로 최소 30명이 목숨을 잃었습니다.",
-                "script": "스페인 고속열차 노선에서 비극적인 충돌 사고가 발생했습니다. 두 대의 열차가 엉키며 객차가 낭떠러지로 추락해 사상자가 속출하고 있는데요. 참혹한 사고 현장을 목격한 생존자들의 증언이 이어지며 안타까움을 더하고 있습니다.",
-                "original_title": "Live updates: Spain train crash kills at least 30 as witnesses describe devastating scenes - CNN",
-                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
-                "pub_datetime_utc": "2026-10-28T12:46:00Z"
+                "hook": "스페인에서 발생한 열차 참사, 사망자 68명 확인.",
+                "script": "스페인에서 고속 열차 두 대가 충돌하며 68명이 목숨을 잃는 끔찍한 사고가 발생했습니다. 현재 현장에서는 구조 작업이 계속되고 있으며, 당국은 정확한 사고 경위를 조사 중입니다. 수많은 사상자가 발생한 이번 사고로 스페인 전역이 슬픔에 잠겼습니다.",
+                "original_title": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kQ2VQd1BQMzZSYVJsTXZxVnByV1locnFBaXNZX3BhSDZ1WGJOT25xc0tTWWluSFNjcFhjSTZWeUpLNzZRNHducldIeVZGMVRTMlFpX1pQdW5LLV9D?oc=5",
+                "pub_datetime_utc": "2026-10-28T17:50:22Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:21 KST",
-        "current_rank": 7
-    },
-    "Russia": {
-        "gdp_rank": 11,
-        "spike_score": 75.0,
-        "previous_rank": 9,
-        "trends": [
-            {
-                "keyword": "러시아 드론 공습",
-                "hook": "리페츠크 상공에서 45대의 드론이 격추되며 공포가 확산하고 있습니다.",
-                "script": "러시아 리페츠크 지역이 밤사이 수십 대의 드론 공격을 받았습니다. 격추된 드론 파편들이 마을 곳곳에 떨어지며 주택과 기반 시설이 큰 피해를 입었는데요. 반복되는 드론 공습으로 러시아 내 긴장감이 최고조에 달했습니다.",
-                "original_title": "В России возобновят программу льготного автокредитования с 1 декабря - Ведомости",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTElKTGpVWUI3VXVycTBNTkQxYjVhMTdqUWpMQzlLaUNhcXRXMzA5YU00YXJpV2dtazM1alFwTmQxSHJMOFNMQkRTZ0YxOWlwUy1yYXBoNUVBTHlHOTl1ZEtqaFNVT0ZQUzBzM0lLd2hEcDJ5azlkdTZTM01VX0p5UWh0TzNlLWtMOGJxc0VR?oc=5",
-                "pub_datetime_utc": "2026-10-28T10:24:27Z"
-            }
-        ],
-        "last_updated": "2026-10-28 22:03:21 KST",
-        "current_rank": 8
+        "last_updated": "2026-10-29 05:20:14 KST",
+        "current_rank": 9
     },
     "Australia": {
         "gdp_rank": 13,
         "spike_score": 75.0,
-        "previous_rank": 11,
+        "previous_rank": 9,
         "trends": [
             {
-                "keyword": "버섯 살인 사건",
-                "hook": "호주를 뒤흔든 '버섯 살인' 사건, 그 결말이 이번 주 결정됩니다.",
-                "script": "호주 전역을 충격에 빠뜨린 에린 패터슨의 '버섯 살인' 사건 항소심 결과가 이번 주 금요일 발표됩니다. 지인 3명을 독버섯으로 살해했다는 혐의를 받고 있는 그녀의 운명이 법의 심판대에 올랐습니다. 과연 사법부는 어떤 결정을 내릴까요? 사건의 전말을 끝까지 지켜봐 주십시오.",
-                "original_title": "Breaking: At least 30 dead as high-speed trains collide in Spain - ABC News & Headlines – Australian Broadcasting Corporation",
-                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVA2dmJCVzVLT2xUQUdVUHBMRHBGT1VhbGtEdDFYQldiaGVMZVVFLVZscVdXR19MQ2NhRkhPc2pHSnBYdEtrdl9yT3VGOEszMnVVMEloeFFTUjhET081UFROcWZNSHV3YW1Sb2d4aFN2RklScHNmVW93RmgzUHRuOVBFUEkxSEdSY0lSbGVYS0ZvUQ?oc=5",
-                "pub_datetime_utc": "2026-10-28T10:11:01Z"
+                "keyword": "AI 챗봇 감정 금지",
+                "hook": "인공지능과 사랑에 빠지면 불법이 될 수도 있습니다.",
+                "script": "호주 정부가 디지털 안전법을 통해 AI 챗봇의 감정적 교류 기능을 금지하는 방안을 추진합니다. 인간의 감정을 이용한 AI의 유대감 형성이 심각한 부작용을 낳을 수 있다는 우려 때문인데요. 기술의 발전이 어디까지 규제 대상이 될지, 전 세계가 호주의 이번 결정을 주목하고 있습니다.",
+                "original_title": "The 'inexplicable' order that put two trains on a collision course in Spain - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ29kNHdUTFlReV9PWDdibnhYejFKMUZmVEQ3eEVqcXVuOVFjV3JhRElNWUtTWFNFeU1OYjdrSUJya2t6akdiYnRBeTg2UFFKa1VId0dTZmdGczBmemFubWE0aE9Cd09WZGZzaFBlamJ5VDNsMV9YNk1jcFVZM0R3TXZicFAyNWs4WEMyOWg0OWxfdVIzNkVuaDRQNElGUFlhZjJZ?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:12:21Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:25 KST",
-        "current_rank": 9
+        "last_updated": "2026-10-29 05:20:22 KST",
+        "current_rank": 10
     },
     "South Korea": {
         "gdp_rank": 14,
         "spike_score": 75.0,
-        "previous_rank": 12,
+        "previous_rank": 10,
         "trends": [
             {
-                "keyword": "스페인 열차 참사",
-                "hook": "스페인 중부에서 발생한 고속열차 충돌 사고, 한국인 피해까지 발생했습니다.",
-                "script": "스페인 중부에서 고속열차 간의 끔찍한 충돌 사고로 최소 30명이 사망하는 참사가 벌어졌습니다. 안타깝게도 현장에 있던 한국인 6명도 경상을 입었다는 소식이 전해졌습니다. 현재 구조 작업이 진행 중이며, 사고 원인 조사에 전 세계의 이목이 쏠리고 있습니다.",
-                "original_title": "스페인 중부서 고속열차 충돌로 최소 30명 사망…한국인 6명 경상(종합2보) - 연합뉴스",
-                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MzhIT2l3WEtzdVhIZGo4UV9vU2NNWlRqR1ZmWnc5ZlpVMnh3UmlIb3NjdHhWUlNJMGliS1RmeWJlQXUzanVmeWFGX1d1aFJQQlo1UFkzNl9NNGPSAWBBVV95cUxOZklOZDRXUE1YR1ZpUW56WlVhWHRZNTVHYXBlOUNQaDFVU0MwVmZCbzlMTHZkVUh5SGVkblhvSFRONjk5c0o4RzNaZWtiV25UaEp3ZFgwcExTdlJlVFlvS3E?oc=5",
-                "pub_datetime_utc": "2026-10-28T12:11:31Z"
+                "keyword": "외국인 노동자 논란",
+                "hook": "대통령의 발언 한마디에 다문화 정책이 흔들리고 있습니다.",
+                "script": "최근 이 대통령의 외국인 노동자 관련 발언이 다문화 정책 폐지 논란으로 번지며 거센 비판을 받고 있습니다. 정치권은 물론 시민사회까지 나서 사과를 요구하며 갈등이 깊어지는 모양새인데요. 과연 우리 사회가 나아가야 할 다문화 정책의 방향은 무엇인지, 그 논란의 핵심을 짚어봅니다.",
+                "original_title": "이 대통령 ‘외국인 노동자 발언’ 비판 확산…“언론 탓 전에 사과 먼저” - 한겨레",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLYzVfb0xiNl94Vk5DdW93dlJWNW94YS01Y2RvN1Vra0tyZ2JrZEZRQ2Ffa0hqa3N2SG1sLUZ0ZWRNZlJLaWsxNVVaUUtDdVU0YjJ4THJYSjdLdkFkTG9aNHp6QXgtNV8zYklndHdEczF3RTFz?oc=5",
+                "pub_datetime_utc": "2026-10-28T15:20:00Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:25 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-29 05:20:22 KST",
+        "current_rank": 11
     },
     "Indonesia": {
         "gdp_rank": 15,
         "spike_score": 75.0,
-        "previous_rank": 13,
+        "previous_rank": 11,
         "trends": [
             {
-                "keyword": "Hujan Deras Mengguyur, Begini ",
-                "hook": "Indonesia의 최신 주요 뉴스입니다.",
-                "script": "Hujan Deras Mengguyur, Begini ",
-                "original_title": "Hujan Deras Mengguyur, Begini Situasi Terkini di Bundaran HI - detikNews",
-                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNUcDRoclVlN0Ruc2NLWF9yNlhzRmNRS0c3MkVJc3VDUjBzNVlnS2k5M25xZEJXU1plREVRVHQzQm5rMm9SUVFKSVRkZml2dFVZanZFNXcxdmRPZ1RkZ2ZHZDlLYzBDZ2o3dU82aDRaalhFRHNVSm1faXBZTDhJNm5oeU9IWWFVcS1EWktKOFduY3o3bXZ5ajd5RnZ5UGlX0gGmAUFVX3lxTE5kNGZYUERUX1E2VWZkZTA0c3F1WHlDX1FfTkRWcXhOY0hSMDEybHRBN3FRSG9NYmlPNk0ydjJRb01PUlgzQUl5X3ZXbnFzRDZlb1BWZUpJbUQxQlJUNzhPeU5FcFdObEw4ak44Q25zdjR5ZDd2ckRaWGUxcFF1eHFCOWRLSUNHeU5iLU9UNldSVTJlN0cycEJ0TVB1bV8wc2V0cVFCZnc?oc=5",
-                "pub_datetime_utc": "2026-10-28T12:14:44Z"
+                "keyword": "캐나다 시장 당선",
+                "hook": "인도네시아계 이민자가 캐나다 도시의 수장이 되었습니다.",
+                "script": "파당 출신의 한 인도네시아계 남성이 캐나다 시장 선거에서 현직 시장을 꺾고 당선되는 이변을 일으켰습니다. 타국에서 당당히 주류 사회에 진입한 그의 승리는 인도네시아인들에게 큰 자부심을 안겨주고 있는데요. 낯선 땅에서 일궈낸 그의 놀라운 성공 스토리를 지금 바로 확인하세요.",
+                "original_title": "Wakapolda Temui Mahasiswa di Bundaran HI, Apresiasi Unjuk Rasa Berlangsung Tertib - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNklVZW5uZHhaU3ZqVkhJZk9FV2lsb25SMmlHa0VYYUNxNTZNWFE5UUZ1NWlEUWpNWnhucHh0SVFEckw3MnhManNJb0RXMWJnVzFhTmRETGUtZ0h4LU1iU0NpbEc4QXBILW03VHgtaFk3Rlo5LUdOT182Nm01OGpzbXZSNjZWRl9vdXFYeXUxZWZPeVA5U3FaUVM4eWhTazRMSmx2d2VUdGNPM05PX2NkNzExbGpYMkZxY09zb9IBwgFBVV95cUxPYV9NTmdpb0RwYVl5U0Q1OHFIdDlwNktUQ0dORkdDYzVtdGZmUFhIci0zcHRuYlh4MTVySFpRY241Wk5Jd3g3MFNjZ2tIbHJHcC1tZGw5THFoLU5FdUFKRlJCX05pRlhDcTd1MWJfYWYxTjZ5WFNrMmFqLUNuLVVTaHdqdlNDTlJDQ0JMQzB3ZGlwWFhhTGt0UnpSSzB2UktaX3JwcnE1UWVLd2FoUzBqRjRoN2hDUldXdHBoOUh2M2U3UQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T14:24:02Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:25 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-29 05:20:22 KST",
+        "current_rank": 12
     },
-    "Saudi Arabia": {
-        "gdp_rank": 17,
+    "Turkey": {
+        "gdp_rank": 16,
         "spike_score": 75.0,
         "previous_rank": 19,
         "trends": [
             {
-                "keyword": "이스라엘 총선 격전",
-                "hook": "이스라엘 총선 개표가 진행되는 가운데, 정권 교체 여부에 관심이 쏠립니다.",
-                "script": "이스라엘 총선 개표가 중반을 넘어선 가운데, 베냐민 네타냐후의 재집권 여부가 최대 관전 포인트로 떠올랐습니다. 중동 정세에 큰 영향을 미칠 이번 선거 결과에 사우디를 포함한 아랍권 국가들도 촉각을 곤두세우고 있습니다. 과연 이스라엘의 정치 지형은 어떻게 바뀔까요?",
-                "original_title": "الانتخابات الإسرائيلية.. فرز أكثر من 50% من الأصوات.. ماذا تشير التوقعات؟ - CNN Arabic",
-                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblAxeUhncXExWjNHdGpZLW5QaFYyazJyaHVrbXp1encxdVV4bU5qQ1N2TEhON24wRTlGLUw0ajZleExwTHRnU0pBbzllU25qV1VGeHpJS0pkQlM2ZmFpam0tb1dVOXUtZlRwWHhqdXFmWUF1ZWFIbGljUEw2V2xGTDIxa1cyTGI1dHppYk1NZXdEMXVJMENsYmItbW5qUXk0YllMa1Q0dnBKRGk1blZwWmhuMjJvZw?oc=5",
-                "pub_datetime_utc": "2026-10-28T06:49:29Z"
+                "keyword": "무글라 대홍수 비상",
+                "hook": "터키의 휴양지 무글라가 순식간에 물바다가 되었습니다.",
+                "script": "갑작스러운 폭우로 터키의 대표적 휴양지인 무글라 지역이 침수 피해를 입었습니다. 집과 농경지가 물에 잠기며 주민들이 큰 어려움을 겪고 있는데요. 강한 비구름이 계속 머물 것으로 예보되어 추가 피해 방지를 위한 긴급 대책이 시급한 상황입니다.",
+                "original_title": "İsrail seçimleri: Netanyahu önde, Arap partileri belirleyici olacak - DW.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEZZTlJXZUtOMGJhMFIyVzJiTGdhM2N1QWhkZkhjUGxpVy00TnRlU0VlSzZWQmo5a0ZDeThLSnU4VEFtZE9VMkZtQ3pmNjE2OXpEa25JMDlJa20yMnRFMGtJbzVpWnpYVjZfRG1wc3lJdG5LOElBUHVWV0tCM1RQU0x0VEVwSmQ4NUpneDNBR0FXYTNzYUtmUF9xaU5oYjl5T2hieWlUYmVjUnNsWXlBckY3VdIBswFBVV95cUxObXBhZUFRS25NOUpDck9KbWM1WjdjNXRkT0liUE1ITlpONk1nN0tPbjRWUTBTX3EzQjZMd3VReUdmQnM2dENzcFV5SG5uSFN0YnVTMENZM0F3RDgwS1JpaG9Dd3BYaklzSFdLeXVFUHhUS2t6NWFmaE1ubHhqRlZiU2gtMm1XNmtoeHd5TWZuLVJPaFNYOUJIaS1RLU85TVNJYlRJUHdLbTliVlNsWWo0bHlMYw?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:17:12Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:25 KST",
-        "current_rank": 12
+        "last_updated": "2026-10-29 05:20:22 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "후티 도발 재개",
+                "hook": "사우디 주요 시설을 겨냥한 미사일 공격이 발생했습니다.",
+                "script": "후티 반군이 사우디아라비아의 국방부와 정유 시설을 겨냥해 탄도 미사일을 발사했습니다. 사우디 방공망이 즉각 대응하며 요격에 성공했지만, 지역 긴장감은 최고조에 달했는데요. 끊이지 않는 후티의 도발, 사우디의 대응책과 중동 정세의 변화를 분석합니다.",
+                "original_title": "\"فجر اليمن\".. القوات اليمنية توسع تقدمها وتستهدف معاقل الحوثيين - العربية",
+                "link": "https://news.google.com/rss/articles/CBMijARBVV95cUxQckZCU0hiMGYxb2VMbU5HcGVQTVJ6a2tQU2U3aXR4Q3RFdmVSZm15c1FURWRCUF9udC15dk1FZ0ZIYUJGT1pxVEc4ZnNOZjdTd0VqVDRtaWtDU3JGbW5mQkpGYWtVa1lPSUpjQld6Rk5UcW1hSjFYS1g5MGZPQ2VaMk11OGxNZFlHYWFNeWtPQThUZTBTcE5aLWN2U2diODVPcF9CV3dWRHFsNXBLel96REFBd05fcVJfOENVazVURG16ODJPWlg0OFptWEJrNlBGcXNHa3F4WUx4RDE2VC0yNzNHNFRrWFNsS3JVN2xLRXNlM3FTNEFjLUk3aDA5cnpOZC1NYjAzS3NhZ2VUV3FLMkZka1NhSXAtV2hJelB3cExadHpyci1Wbl96d2V6a0gycDdzcVM2MElGT1JQeGJWb1JwX3F4NndwcFZ4LXAxQkFDUjN5bTgyaXNjdXN0NmtNdVNEOG05eHMzS0tBOXMxbUR5RjdxcDdycHRYUElNTHdaeUdaVDc5bm1PSE1wYTdiT2l0MzU5S0ZSTlVwMEJpRG9icUZ5ZEtBZDBnUDdkZGdJaHFhd1RuZUlOQl9zZ1ZMdHV0Y2xkOEhJTEtHZUEwTmNSYk9BVHVxYXZyYUxHUmFDSXpJbTlFbXRETVhKVUg4WG5NakRtUENlTHJhbUhlSGtkcEtOUWhldVlkNA?oc=5",
+                "pub_datetime_utc": "2026-10-28T16:22:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 05:20:22 KST",
+        "current_rank": 14
     },
     "Argentina": {
         "gdp_rank": 18,
         "spike_score": 75.0,
-        "previous_rank": 15,
+        "previous_rank": 13,
         "trends": [
             {
-                "keyword": "아르헨티나 연금 인상",
-                "hook": "아르헨티나 정부가 11월부터 연금과 수당을 대폭 인상합니다.",
-                "script": "고물가에 시달리는 아르헨티나 국민들을 위해 정부가 연금과 각종 사회 수당을 공식 인상했습니다. 11월부터 적용될 최저 연금액 조정안이 발표되면서 경제적 부담을 덜 수 있을지 기대와 우려가 교차하고 있습니다. 아르헨티나 경제의 향방을 계속 주목해 주십시오.",
-                "original_title": "Trump aprobó la entrada de Flávio Bolsonaro a EE.UU. tras su derrota en las elecciones brasileñas, según fuentes - CNN en Español",
-                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUpqY1RmVjk2cUUyRy1HR0pGYWVNS1dlQzh1U0JiZ0hxRS1NdEpEVTh3bXlEbVhTWjJKYU12dmRHeUxqakRxcGEyb3Aza01acFJuMHhwUm1BY1pCbnRLS1RhNGZ5a2gwN3g3S3BxYUtxWW5rblVvcHNha2JUanpUM3JSdW5YV2J4WEM5cWdqSHlycEtCQWcyaDlaOVhIS0VmMEVPSg?oc=5",
-                "pub_datetime_utc": "2026-10-28T11:15:00Z"
+                "keyword": "교사 살해 사건",
+                "hook": "평범한 교사가 살해된 채 발견되어 충격을 주고 있습니다.",
+                "script": "낸시 고도이 교사가 숨진 채 발견되면서 아르헨티나 전역이 슬픔과 분노에 빠졌습니다. 현지 경찰은 이번 사건을 페미사이드, 즉 여성 혐오 범죄로 보고 3명을 체포해 조사 중인데요. 잇따르는 강력 범죄에 시민들의 불안감이 커지고 있습니다.",
+                "original_title": "Así huyó Flávio Bolsonaro: los detalles de una fuga con patente argentina - Página|12",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdS13VDg0YzlhOThjbHBWNnNOa0pHbXUxYUc4S2xKTVNpN1YwX2pwTzBYcEx5VjRQQ3Zpck1QSjJJR0tjNk5jbm81ZEdtTlZEczBrNXZkU0YxQ0JXcHFVZUNIa1p4aHRIcGctVm1UUGE4TXFDTUhnM0I3eUcxTld0bTFwRFNkQkUybmVzR25WaE94cHY3YWVIaW40X255V1pwSkdhVGVORnI3M1NYUDcybFdB?oc=5",
+                "pub_datetime_utc": "2026-10-28T14:29:32Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:25 KST",
-        "current_rank": 13
-    },
-    "South Africa": {
-        "gdp_rank": 20,
-        "spike_score": 75.0,
-        "previous_rank": 16,
-        "trends": [
-            {
-                "keyword": "남아공 위기 경고",
-                "hook": "폭력 사태부터 보건 위기까지, 남아공이 지금 벼랑 끝에 서 있습니다.",
-                "script": "케이프타운의 택시 폭력으로 하루 만에 9명이 사상하고, 브론크호르스트스프루이트에서는 800명이 넘는 집단 질병 사태가 발생했습니다. 설상가상으로 필수의약품 부족 사태까지 겹치며 의료 시스템 붕괴 우려가 커지고 있습니다. 정부의 방만한 운영과 치안 부재에 국민들의 분노가 임계점을 넘고 있습니다.",
-                "original_title": "Suliman Carrim granted R100k bail in Madlanga case - eNCA",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRnE2RVN6WFNQTUxSeXBOeEdQZmlwVkdoNEJPTWllTmNwNHJqMWdzMDNxLW45NHc1RS1WeDluM29oUk9weUxJUXBhbU54dERfa3ZRLVgyM0NKR2VUZmlvSGxjVVhycWhqaFlmMnpPWlNhSFB3Tk9UNUgzQnBkRGxzcGtsY3A5aDl2bjUxMVZ3?oc=5",
-                "pub_datetime_utc": "2026-10-28T10:58:21Z"
-            }
-        ],
-        "last_updated": "2026-10-28 22:03:27 KST",
-        "current_rank": 14
-    },
-    "China": {
-        "gdp_rank": 2,
-        "spike_score": 70.0,
-        "previous_rank": 17,
-        "trends": [
-            {
-                "keyword": "티베트 강진 발생",
-                "hook": "티베트 규모 7.0 강진, 드론으로 드러난 처참한 현장",
-                "script": "중국 티베트 바청 지역에서 발생한 규모 7.0의 강진 피해 현장이 드론을 통해 처음으로 공개되었습니다. 지표면이 갈라지는 등 심각한 피해가 확인되면서 구조 작업이 긴박하게 진행되고 있습니다. 정확한 지질 구조 분석을 통해 추가 피해를 막기 위한 노력이 이어지고 있습니다.",
-                "original_title": "把习近平党建思想贯彻到从严管党治党实践中 - 江苏宣传网",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41YjZtbk1idVhMVkxlbEQ1Z3o3VmR4OGFKQXVOM3lVM3dURnB6OHRyNVZYUWFoa2dvWjBoX2JzcjA4M012SklpaF9xbHJrT1RjMFowc1dubHQtMmhhc2tFaVVoU3VLN0V4clRBa2pXcw?oc=5",
-                "pub_datetime_utc": "2026-10-28T08:20:22Z"
-            }
-        ],
-        "last_updated": "2026-10-28 22:03:14 KST",
+        "last_updated": "2026-10-29 05:20:22 KST",
         "current_rank": 15
     },
     "India": {
         "gdp_rank": 5,
         "spike_score": 70.0,
-        "previous_rank": 3,
+        "previous_rank": 16,
         "trends": [
             {
-                "keyword": "인도 치타 프로젝트",
-                "hook": "인도 야심작 '치타 프로젝트', 새끼 치타 죽음으로 위기?",
-                "script": "인도가 야심 차게 추진해 온 치타 복원 프로젝트가 새끼 치타의 죽음으로 큰 논란에 휩싸였습니다. 사인 규명을 위한 조사가 진행되는 가운데, 야생 동물 보호 정책의 실효성에 대한 의문이 제기되고 있습니다. 인도 당국은 이번 사건이 프로젝트에 미칠 영향을 면밀히 검토 중입니다.",
-                "original_title": "'It's Done, Bro': BJP Jabs DK Shivakumar After Congress Loses Karnataka Legislative Council Polls - NDTV",
-                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZEdGdlVwOXRmN2tMN016Y3BPdThXRkJYRmFVWjlJWWxzNVhoVXljcEN2TUFZNFpxbDIzSGxHVk01LWNxbExYV1dTbFZVakYtckdLSkxkZUx6X2hXU2J1VDBQdVV0LUZ6VGFOa2xmVHNvRWppSHY1M1VPVERWMjBjOTRvcWRKRHA3aFBWZzJSWktXbnF6UU9LbmhGYXNRUW8zQnB5UFM3VVpfRE9PVThPSlo5Z2dQMmxMOFZuY2pscXhOLTZtSGp2REZ2a3J1Q3hDeWRaYUpEeUVmUQ?oc=5",
-                "pub_datetime_utc": "2026-10-28T07:40:37Z"
+                "keyword": "Five key takeaways from Israel",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Five key takeaways from Israel",
+                "original_title": "Five key takeaways from Israel’s parliamentary elections - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWgyVkpKZ0FwVTNYeHNqQ0h2dTZQVnlTUHQtV3p2akJYY3M1RlozS2IyTDlnNEl3LUpvQ0xNZV8zY3hOUWt5VEFqTGhXaGpPMU1wU2VxeHhWQzdkNTk4ODJFWDJpS3pyemxiQWRBbGV4czRTNE9DbVo3NE9jeFNucUU2bURIOUlhZ0RYSkRsdnluYVhTTjVoR0ZoM19GQdIBowFBVV95cUxQeWQ3a1VzRDZjYVAyMjU2NGlTSmRfMmMxV2NpMnRiX0w2cFAzX3hWSWJQNW9fZDJ4ZHFzMmZjRUVGckVOWWlNQXB4QW0yS2RtZnd5WWM4cERZanhXRkVWOVdVczQ3bXZCNHg5LWJNWXRMZ0xzWWQzbUVwWUVseEdXMm00STM3ejk1M3VGWUpjOVpoUkU0YWpVaEFXZ05WYlZTYUFj?oc=5",
+                "pub_datetime_utc": "2026-10-28T11:21:05Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:14 KST",
+        "last_updated": "2026-10-29 05:20:04 KST",
         "current_rank": 16
     },
-    "Italy": {
-        "gdp_rank": 8,
+    "United Kingdom": {
+        "gdp_rank": 6,
         "spike_score": 70.0,
-        "previous_rank": 6,
+        "previous_rank": 4,
         "trends": [
             {
-                "keyword": "스페인 열차 참사",
-                "hook": "스페인 고속열차 충돌 사고로 최소 30명이 사망하는 비극이 발생했습니다.",
-                "script": "스페인 톨레도 인근에서 고속열차 두 대가 정면으로 충돌했습니다. 사고 여파로 객차 두 대가 절벽 아래로 추락하며 인명 피해가 눈덩이처럼 불어나고 있는데요. 현장 구조 작업이 긴박하게 진행되는 가운데 전 세계가 충격에 휩싸였습니다.",
-                "original_title": "Spagna, scontro tra due treni sulla linea ad alta velocità a Toledo: «Almeno 30 morti, due carrozze precipitate in una scarpata» - Corriere della Sera",
-                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEUzMXlYdGJaeVhDbkRvZ0tpZ3VXUlU4NTlLQ2VpVGdycHlJaERrd2M3TGhMeWpDYlpnVWVHS3JBU2FqSnU3VktBaVYwU0xwMFZrdUFYUGc1aEhYVEQ3Sjd1QzZhQUlSWk9lczcwdE1PZE93LVQ5RjYwWTQ4NkpjWVZXLURmWEdJbnN0SkNZVjFpWE1uRlQ1ckVfVjUxeTJPNjYzT1o3T21zc18y?oc=5",
-                "pub_datetime_utc": "2026-10-28T11:46:29Z"
+                "keyword": "영국 새 예산안 발표",
+                "hook": "영국 예산안 공개, 누가 웃고 누가 울었나?",
+                "script": "영국 정부가 새로운 예산안을 발표했습니다. 연금 수령자와 가계 부담은 줄어든 반면, 은행과 도박 업계에 대한 세금은 강화됐는데요. 경제 회복을 향한 이번 정책이 어떤 파장을 일으킬지 주목됩니다.",
+                "original_title": "Budget winners and losers: pensioners and households gain as banks and betting shops hit - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVEzR2h5WmFKdTVNOF9BT0RhcmNlV3JKMGU0MXBPc29QQThwVVpfNld6d3lRY3d2SU5BaTBjX2x3c3VtTGt3OVowcllNTnhRclhNajJweXNfUlVEY0o4cVVBX1RYMkJVNHFXWDlNOWJYd29jSjJvSXNKUjMxWVRzcjZhYmFMb0Q0eS1CWXZVT2hwZXlnTmhVWjJJV2liRWVTUkVzZjBMa09LN0VqX3VYV0VOTU1TelEzNFoxbXltTXZMNWFva2gtMUdhYlRza2duNnhJ?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:40:00Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:21 KST",
+        "last_updated": "2026-10-29 05:20:04 KST",
         "current_rank": 17
     },
-    "Mexico": {
-        "gdp_rank": 12,
+    "Russia": {
+        "gdp_rank": 11,
         "spike_score": 70.0,
-        "previous_rank": 10,
+        "previous_rank": 8,
         "trends": [
             {
-                "keyword": "카르텔 거물 사살",
-                "hook": "DEA가 500만 달러를 내걸었던 시날로아 카르텔의 핵심 운영자가 제거되었습니다.",
-                "script": "시날로아 카르텔의 주요 운영자인 헤수스 추이 곤잘레스가 사살되었습니다. 그는 미국 마약단속국이 500만 달러의 현상금을 걸었던 거물급 범죄자였는데요. 멕시코 치안 당국의 이번 작전이 카르텔 조직에 어떤 영향을 미칠지 주목됩니다.",
-                "original_title": "Consejeros del INE niegan acercamientos con proveedores; frenan nuevos contratos - La Jornada",
-                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWZYTHFBdk4xRE1LakdqNnNsakV2Y3dOUGJ2VExyR0FwQi1kc2U5WXdzSVRKUDF5czR2Y1RpdnlMZi02UXlEQkV2SXQ4bE9peFpVV0JfMU5iY2poV2JhbGZvVG9pRnYtcE5WSDNOU3NacVQ2OFZQbmJLM2lEUmplRzdyS2FxWS1sOVpxR0dGVTY4TnBIT3dvcDVVVGNPSGNyaWNrbmpnMTZnU2lJWGNocTF4RmRqWEc3TDNBNjBCcjhYNXZfQU5ockJzc1FqY1U?oc=5",
-                "pub_datetime_utc": "2026-10-27T21:43:00Z"
+                "keyword": "스페인 열차 충돌",
+                "hook": "스페인 열차 충돌 사고, 사망자 68명 발생.",
+                "script": "스페인에서 두 대의 열차가 충돌하며 최소 68명이 사망하는 대형 참사가 발생했습니다. 사고 현장은 파괴된 객차들로 가득하며, 구조대원들이 긴박하게 생존자를 찾고 있습니다. 현재 전 세계가 이 비극적인 사고의 원인과 피해 상황에 주목하고 있습니다.",
+                "original_title": "Ушаков: европейцы не будут участвовать в переговорах России и Украины с США - BFM.ru",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6TnVMVkpwNXhPU19STVZHd2lmcWZUTjR4b0gtM2FleW9xb1FGbVlFOFhPR0JIcUQ4YU85aTVIVnBrc05C0gFKQVVfeXFMT3plVUFQRDJjVUt5UzZHM1RwV1g5d09MNnpsNlJLa01xV1ZYR3Ztc2FYQVppYjl2RE1Fa2llWGtCY0F4S2UxeUJmUlE?oc=5",
+                "pub_datetime_utc": "2026-10-28T15:22:05Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:21 KST",
+        "last_updated": "2026-10-29 05:20:14 KST",
         "current_rank": 18
     },
-    "Turkey": {
-        "gdp_rank": 16,
+    "South Africa": {
+        "gdp_rank": 20,
         "spike_score": 70.0,
         "previous_rank": 14,
         "trends": [
             {
-                "keyword": "소시지 속 돼지고기",
-                "hook": "믿고 먹던 소시지에서 돼지고기가 검출되어 터키가 발칵 뒤집혔습니다.",
-                "script": "터키 보건당국이 시중에 유통되는 육류 제품을 조사한 결과, 소고기 소시지로 판매되던 제품에서 돼지고기 성분이 검출됐습니다. 당국은 해당 브랜드명을 즉시 공개하며 파장이 커지고 있습니다. 먹거리 안전에 대한 소비자들의 불신이 극에 달한 상황입니다.",
-                "original_title": "İspanya'da iki yüksek hızlı tren çarpıştı. En az 10 kişi hayatını kaybetti - NTV Haber",
-                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWh0RXdqLVdlU0MzakRldGUweUN1NHBUbHR5Sjg5d3JHbzFFckZoeE5xUEJGd1E2UGpsX3Q0TlduWktQS0VEN3hlNFNmLVJIa2Zwa0pPZmtCdXZteUN0Zl9xRTdXZXB0a09Ec2ZoWDlPSllaRm95bDltU0ZLbVF3TjhHb1ppZU1kRzZBTGF2MjB6dmNtc0JQdXk5ZFZJR3M4R1lSQ19VZkEtQdIBrwFBVV95cUxOWTFqSEFoVmVpUk55cENiQUNKekVKNjFISFZTdHZ4dVNmRzh5eFpoNnpFelNiUlRDMnljMTNMSXhQUk5HN1M4eEJFREhUQldoQ041ZjRaY0FVclZ2VnowMlhPWjJnTi0xM3dJRWVreUFFVFh1aDJwOU4zX1A2UVpVN3I4NUVNNlJaZ3dRczZhYUZBa1pmZ2k4VU9aYndOa3hwc0Z3andadHYxb0V6U2pr?oc=5",
-                "pub_datetime_utc": "2026-10-28T09:28:00Z"
+                "keyword": "남아공 치안 비상",
+                "hook": "KZN 지역에 군 병력 투입, 긴박해진 남아공의 현재 상황은?",
+                "script": "남아공 KZN 지역에서 대규모 집회로 인한 치안 위협이 고조되자 라마포사 대통령이 결국 군 병력 투입을 승인했습니다. 최근 래퍼 AKA 살인 사건 재판과 부정 선거 정보 논란까지 겹치며 사회적 긴장감이 최고조에 달했는데요. 과연 남아공 정부가 이 혼란을 잠재우고 다가오는 선거를 안전하게 치를 수 있을지 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "‘Immediate threat’: Police seek urgent order to halt March and March gatherings in KZN - News24",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQTZYcjcybF9MSTNlUFVRTjJ5NnhUTFAweDZRNWg1ai10Wl9PLWlBUWtnalIxWE1zdE1hdE9scnE5S3ROTkhTUzlGZGFQYWhyaElPRV85ckI1MjhJUjFIM01UZ1Zhb0F3ei15X281ODd0b0ZVVW9RT0ZPZ203Y3RsNVJkUDZ0NHNjS1RuWDVvQ1dZMW55WjZqaTJ1d0xsNTJMTzg0NDVZUHBUejZvRUVhR2xCQjBfdmdWR3JPdHh1VWRBdzFRTWhzcHN2VTc2cG1XU1dFTkhsNF9MSTRQVmRTeFNWcw?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:17:27Z"
             }
         ],
-        "last_updated": "2026-10-28 22:03:25 KST",
+        "last_updated": "2026-10-29 05:20:24 KST",
         "current_rank": 19
     }
 }
