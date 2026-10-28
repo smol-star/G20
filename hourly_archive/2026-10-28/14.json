@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 이란 전쟁 언급",
+                "hook": "트럼프가 직접 밝힌 이란 전쟁의 향방, 그 속내는 무엇일까?",
+                "script": "트럼프 전 대통령이 자신이 원할 때 이란과의 전쟁을 끝낼 수 있다고 주장했습니다. 이란 관련 비용이 470억 달러까지 치솟는 가운데 나온 발언이라 파장이 큽니다. 과연 그의 발언이 중동 정세에 어떤 변수가 될지 전 세계가 주목하고 있습니다.",
+                "original_title": "Netanyahu, Eisenkot blocs running close, but both shy of majority - Axios",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVRpd1l0VHJBeDJpRjl6Zjh0M3hhbFhNZ2MtWW9hSDZ1aVNIanFoMlBrZEd5b0l5eGd3QTFkaVBnRnBJYS1icEpHRDIxY0R1V1psajV4Q3hoTWNhSVdmYXdwZHVHcl9PVTd2anJIOGR5Y19UQ2VNcWtOR2k0dWQ2akF2dEI?oc=5",
+                "pub_datetime_utc": "2026-10-28T01:45:59Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:44 KST",
+        "current_rank": 1
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "이스라엘 총선 접전",
+                "hook": "네타냐후의 재집권인가, 아니면 정권 교체인가?",
+                "script": "이스라엘 총선 출구조사 결과, 네타냐후 진영이 과반 확보에 실패하며 안갯속 정국이 이어지고 있습니다. 일본 언론은 이번 선거가 중동 정세의 대전환점이 될 것으로 보고 있습니다. 과연 누가 차기 정권을 잡게 될지, 최종 결과에 전 세계가 집중하고 있습니다.",
+                "original_title": "与野党陣営、過半数届かず 右派リクード第１党か―ネタニヤフ氏、政権継続に意欲・イスラエル総選挙 - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nYTltRks2cnVJbjg0MW1YSTc0b1ZianNlUHZTSzdncVAzcUZ3TFVXTjZISjk3WTF5Nzh1VFRUTVhUS1FuMFNoLThVRUlveWw3WXNJNTRVVXJBODlnMDJ4ZmJCNA?oc=5",
+                "pub_datetime_utc": "2026-10-28T05:17:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:44 KST",
+        "current_rank": 2
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "사이클론 '아르납' 강타",
+                "hook": "인도 해안을 덮친 초강력 사이클론, 피해 규모가 커지고 있다.",
+                "script": "초강력 사이클론 '아르납'이 인도 안드라프라데시 해안을 강타했습니다. 현재 세력은 다소 약해졌지만, 폭우와 강풍으로 인한 피해가 속출하고 있습니다. 당국은 긴급 구조 작업을 펼치고 있으며, 주민들에게 각별한 주의를 당부했습니다.",
+                "original_title": "Very severe cyclone Arnab crosses Andhra coast, weakens into severe cyclonic storm: IMD | LIVE - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYndjRXNBX1gwWFAxNkhMX0JZVm9fNnFHQjB0ZVBpVEdacjM5dGVLNEZ5SVVkUnNVT0FDV2xIRnJ0UnRTS2ZyZ3p1R0dWM1V1WnFta0FTdFA3ZmtlZ1UyTUxFX2gxOFJTWlhHbFB6RS1MczJ2dU1hR0VqTFhMS3ljQ29xNVR0QnB6aDk5TXZFVG9QMjhwY3JiT0FmVUhmcE9FVllEMDFRU3VtRERYLTZFQ3B3VHVQWjI3ZHBwUGt4YXNoWV9xWVlSbEV1UTlValpMcWt6MTF6SVA3Rzlxal9xYUVUMTdSaFZLNlo5cGkzTWXSAfcBQVVfeXFMTlQxWENwZFdka2ViWDlDcGRjRFJXamlMRUZuWWFJMFhqUC1JdUJQQlM5N2k2bDlfbWkxbEcxdm52TWo0ZmRxR0NzbzJJdVFEcU9XUlNMeEJ5WGQ0OFh6cTJjZWhMWmt6ckhYRWlsRmdFMW1yU0sxeXduWmlETEJYbU5UWTZUanp0bmUtTVRvNGJyamVFSWc4SWJ0anVyVWJMUTB0Rm05SGVVTVlieDRaQ3hSQWp1TVVXLWVvZHhtckR5dnhKdi04bXRzN1h1U054WXZVaDBLMmpsVEVpZkdfUmVpc3JON25wNWFNbGVNY0VXY1FwY0thUQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T05:28:44Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:44 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "비상 식량 비축령",
+                "hook": "영국 정부의 갑작스러운 비상 식량 권고, 도대체 무슨 일이?",
+                "script": "영국 정부가 국민들에게 생수와 통조림 등 비상 식량을 비축하라는 권고를 내렸습니다. 이 소식 이후 영국 전역에서 생필품 사재기 현상이 벌어지고 있습니다. 정부의 이번 조치가 단순한 대비인지, 아니면 임박한 위기를 예고하는 것인지 논란이 뜨겁습니다.",
+                "original_title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaG53WWVLM1FjVkJYbHc0aXdfS0dlS0t6dXhnZFlSTUw3WUgwRldjb1lnbThVUTNhcHdKNUp4RFplMzdGQ1AteXlZXzlsOGdISFROSnpvS1o3VlpUQXYwMFdiWkpLNVZ5cUktNzM0SkFBdE16dUJNZkhVa19QMENhOEhGNHkybEx1YnlGRU9rZUFwWFFSMVRZaUV2eTJqWW1SaTVRLXVQU0xyNUFoQzdsOU9TeUhIb09SUklGdGNXbkF0cDc0cGpJcWtYWmd5Q3M?oc=5",
+                "pub_datetime_utc": "2026-10-28T03:41:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:44 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "폭력 사태 쇼크",
+                "hook": "프랑스 상점가 1조 원 피해, 멈추지 않는 폭력의 대가.",
+                "script": "프랑스 전역이 10월 17일 발생한 격렬한 시위로 2,500개 이상의 상점이 파괴되며 10억 유로가 넘는 막대한 피해를 입었습니다. 에두아르 필리프 전 총리는 이를 두고 수십 년간 이어진 통합 정책의 실패라고 강하게 비판했습니다. 시민들의 불안이 고조되는 가운데, 다가오는 31일 ‘노란 조끼’ 시위가 또 한 번의 거대한 파장이 될지 주목됩니다.",
+                "original_title": "EN DIRECT, législatives en Israël : le camp de Benyamin Nétanyahou en tête, mais sans majorité, après plus d’un tiers de bulletins dépouillés - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTWJHZWhVYVdzRU43d3Rna1ZnM1FBRFUyWFdsVnh4UEp1TVgtRjRreG5mNC1sWXNBRzlwTVFDOVdDWUw3NFVIcS1MeUdCRlRFTjN2Wmc5c285YU00QW5hU1RNY0xNTFJNMEV4VG1xbmZIYkJjS3hOaHhPSkl3YUNYWXUzc3RXRGNxaUc4eGV1cXZNRk1EZlRwVkw0SFl3cGVWNlAwS2ZlVEgxYzBMRkZDZUkyZElTNW9oSnRxSkdsQk1RV19WM1B3aHRuUlRobndPYmJYa2ttUXZtdUxEZzIyR056MTBuVUxsWUFGcnl0dGprQWs1dDBRNkxqaUxVamZPWXBxWDl0UkUtdkk4bzdpa1ZHMm9iRkdlc2ZwcG5CRVhsekxtOFVZSUZZU1VhWUw5cE1FdmN3YkpGZnc1elpKQXg4cnJpUnotY2EtOHB0Y2c?oc=5",
+                "pub_datetime_utc": "2026-10-28T05:31:53Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:52 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "브라질 정치 망명",
+                "hook": "플라비오 볼소나루의 미국행, 이탈리아가 주목하는 브라질의 혼란.",
+                "script": "브라질의 플라비오 볼소나루가 미국 플로리다에 도착하며 정치적 망명 논란이 뜨겁습니다. 룰라 대통령은 이를 두고 국가적 수치라며 강한 비판을 쏟아냈습니다. 한편 이탈리아 내에서는 자국 내 경제 정책과 세금 이슈가 맞물려 정치권의 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "Elezioni in Israele, scrutinio in corso: blocco Netanyahu in vantaggio su Eisenkot. Trump: “Rimonta clamorosa dopo il mio endorsement” - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUU1Zb3EtR0d5NHJGU29rb2hubkJMTTFBT2p1X2lqdDc5UDlNNFR0QUtEN1dEdWEtTC1OWVBKN0lzUVlGWHBUYWZNTjRZa0ZlSDlPSVNlUU1rbkRzdlRfMDllUzV0MlRPdVBBR2VNR25wakRmRUVoQVFzbnE0dmZHY0g4dFYtSGtNbUw4bVdZUUg1cm9LZElDR1RmODA5YlU5dGpRcGlUZWs2N1RVckM2M2xrQ1NqV1UxSGhZ?oc=5",
+                "pub_datetime_utc": "2026-10-28T04:34:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:52 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "볼소나루 미국행",
+                "hook": "플라비오 볼소나루의 전격 출국, 브라질 정계가 뒤흔들리고 있습니다.",
+                "script": "플라비오 볼소나루가 미국으로 향했다는 소식이 전해지며 브라질 정계가 술렁이고 있습니다. 룰라 정부는 이를 비판하며 강력한 대응을 예고했고, 야권에서는 차기 대선 주자들을 중심으로 결집을 시도하고 있습니다. 정치권의 갈등이 격화되는 가운데, 6x1 근무제 개편 등 민생 현안에 대한 국민들의 요구도 거세지고 있습니다.",
+                "original_title": "Flávio Bolsonaro chega aos EUA, diz BBC - G1",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa3hCbkdYU3IzS3V3N3poRmJzeThEZy1EdDR0RFhDcnhCRDBzSTdNVlhqOEdLSlQzLUVPYWJEdng1MUNYeXJjOEpMcWU4cjRsR0lQV0J1OXE4SkRlYzVhd2tmbldMZG8tQnhZbjQ5LTVzYXJnVnVSdnpValZ6cm9iNjZBdVpoRWY2aUViMXVQRTdqZ25E0gGjAUFVX3lxTE5aWFFTUUFxaUNVZVBsNG9WTUJUTWQtRWItaXpDelFMLU9ZY2xBazNPUUpHNW1yZ1plZjk4WG9sMTVlLVRydlhtMDItcVczX2o4NWc5Z3B6OEVzR3kyX1psLTVIXzIzSExtajhDTUFYVjZRWXVUYmE1Z3RCclZSdmlFN2NXU2NfZktfOEtfdlBJX2F1WlgwZEw2ZHZvWVN2LU4xWUU?oc=5",
+                "pub_datetime_utc": "2026-10-28T01:16:02Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:52 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "캐나다 분열 위기",
+                "hook": "알버타주 분리주의 논란, 캐나다 정치의 새로운 뇌관이 되다.",
+                "script": "알버타주 총리가 리더십 위기를 극복하며 분리주의 움직임을 잠재우려 애쓰고 있습니다. 동시에 캐나다는 EU와의 협력을 강화하며 국제적 영향력을 넓히는 전략을 택했습니다. 하지만 내부적으로는 공공 부문의 다양성 정책 폐지와 세금 인상 문제로 인해 정부와 시민 간의 갈등이 깊어지고 있습니다.",
+                "original_title": "Exit polls suggest no clear victor in Israeli election - Euronews.com",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUVjbnF2bFpkTFpZUzliRXhzbFpHdjAxS2ZFd1lrVEJkTnNuSzl5dndoZDd1SFV3YzluS040djk2VHh2WHMzWnBjS1NkU1dsRDVwUXZqbDN6U0Q1eEhxdnVNdkh6RTNTdVBGQUp1V0k5WFUzY0xGUHN1QWo5ek0zcHVpMnVVLW03UXIzM1VYb1RvMXUz?oc=5",
+                "pub_datetime_utc": "2026-10-28T04:48:38Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:52 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "전선 확대 가속",
+                "hook": "러시아군 드론 공격, 오데사 인근 곡물선까지 타격했다.",
+                "script": "러시아군의 드론이 오데사 인근의 전략 시설과 화물선을 정밀 타격하며 긴장이 극에 달했습니다. 크렘린궁은 우크라이나와의 평화 협상 가능성을 언급했지만, 현장에서는 오히려 군사적 압박 수위를 높이는 모양새입니다. 러시아 내부에서도 국경 지대 드론 폭발 사고가 잇따르며 전쟁의 여파가 일상으로 번지고 있습니다.",
+                "original_title": "Соперник Нетаньяху Эйзенкот объявил о победе на выборах в Израиле - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFlWdXJJdE1LV25XYjlzbURKZksyNkR6UTNUMy1jTkx6OGZHM3hoT21yUDd0MDhnRXZMbmFNVmtGcWJUMzVfUTRBcWEwT1NUN2wtZkdqV0x3NEc3dHEtQUVfWWlSSl9wQWdGVTJUT0ZIQzJKNkR4aWpxa0dmOEp1Ug?oc=5",
+                "pub_datetime_utc": "2026-10-27T21:55:21Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:52 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "INE 개혁 진통",
+                "hook": "멕시코 선거관리위원회 수장 사퇴, 민주주의의 미래는 어디로.",
+                "script": "멕시코 선거관리위원회(INE)의 과달루페 타데이 위원장이 전격 사퇴하며 정국이 요동치고 있습니다. 정부는 2027년 경제 패키지를 승인하며 군사력을 활용한 외국인 투자 필터링을 도입하는 등 대대적인 변화를 꾀하고 있습니다. 정치권의 혼란과 경제 정책의 전환이 멕시코 사회에 어떤 변화를 가져올지 귀추가 주목됩니다.",
+                "original_title": "Qué pasó con Guadalupe Taddei, la consejera presidenta del Instituto Nacional Electoral que renunció al cargo en México - CNN en Español",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWpMUERMa1BXakM5ZWc3NzdlOGpyOV81MmtveVVBZi1vbDNsVG5HQWg4YXBPSEhYaGVXNVBRTUVyOFYtWEVGQXRjVllrcXZMcmp6ck1PaG9IR2o3YXBueDVrUExld0c5aTVXNlRFRDNlTDg5RThlREJkSVQ3aHJ0TGRTczg2UzN4bldDLW9DMWZnVEpSYlF2YWw0M1o1ZEpZNXlvUjN2V3RWNl9WeE5R?oc=5",
+                "pub_datetime_utc": "2026-10-27T20:55:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:52 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "인플레이션 4.3% 급등",
+                "hook": "호주 물가 비상, 5번째 금리 인상 현실화되나?",
+                "script": "호주 인플레이션율이 4.3%까지 치솟으며 경제에 빨간불이 켜졌습니다. 계속되는 물가 상승 압박에 중앙은행의 추가 금리 인상 가능성이 커지고 있는데요. 가계 경제의 타격이 불가피해진 상황, 과연 호주 정부는 어떤 대책을 내놓을까요?",
+                "original_title": "ABC to demand rightwing One Nation party stop using Bluey in ‘shocking and disrespectful’ cartoon - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQjRqMGZ2b0ZtS1pzdDdMaUtpb0FLdTZCTWNhRmtLSnBxTlk0MHFZbE5YNW4zXzUtOFVpVXE3NEhhU3ZnM1lPMUlXOUItMDUzMnBLNGxaVUJMcDl3OFhtQ0xaemN1QmFpdkxBNzVKNmVpX0ZHemNUSmtVTllaWjlIaU1kWFpVODVYUEZCWFFpb1cxd0pJandiMVBZRmxvcC02Nnd2ckFtSXpyWXJycnhqYmR5Q2tucGJXUmhWekgxRlZKY3BzUU5YZWlGVWtiM25SSWdjVjJEX2ZLc2JkVEdQUEp2MF9xV25iTXc3dV9BRXBFU0Qwa3NIY3JpQQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T03:25:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:55 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "김건희 여사 특검",
+                "hook": "특검 요구 목소리 커지는 정치권, 대치 정국 심화",
+                "script": "야당이 김건희 여사 관련 특검을 강하게 요구하며 국회 내 긴장감이 최고조에 달했습니다. 여야의 3시간 실랑이 끝에 현장 검증이 시작됐지만, 정치적 공방은 오히려 격화되고 있는데요. 과연 이번 특검 정국이 정치권의 판도를 어떻게 뒤흔들지 주목됩니다.",
+                "original_title": "“특검도 못 믿냐” “생중계하라”…3시간 실랑이 끝에 ‘올공 현장검증’ 시작 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Wd01fWS1aTjBqWVV3LXBSZ3Nsci1oTF9vSlBXZ011NnRpM0tHZ1EtZXFHX1MtcUhJcXV1QU1vQ1U0VWJ4Qnl1NmZaQ1pYRS01REl2ZG14VG5sd9IBX0FVX3lxTE9QY3pWd25NVjZ5aGhDa2pHaWoyc2hIMkZIT1FKN1ZfMDVDTXBqZG5BcXBwbUNBV0d5R2M4UWlSTS0xZGJyREV4akJGeVdHWkJKSEVrZXZQUXBNa24zQ1NJ?oc=5",
+                "pub_datetime_utc": "2026-10-28T03:49:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:55 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "50 Link Twibbon Sumpah Pemuda ",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "50 Link Twibbon Sumpah Pemuda ",
+                "original_title": "50 Link Twibbon Sumpah Pemuda 2026, Tinggal Tempel Foto dan Download - Kompas.com",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXFjZGl3Qk9UTWplb254WTRVRWRfTFdzaHVyc3BfZlp6RlBHc0w4SzlYZzluamNXT1ZHekV6VUU2WjdVdU53U0NhbXA1SGNoSXB2dU9BeHZUVWNTZS1lQ2dIWWhNMjcxaklPdG5IaTFHcnA5WGZZRHFkZHVoNUpvQ1E1TnBMVDJsMURJNUQ0aWdLQi1XejVINC1EWGdFYXZfRGtJaVRiZC13eFo3bnpUUWZ3ZUNYQ1R3?oc=5",
+                "pub_datetime_utc": "2026-10-27T22:30:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:55 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "안탈리아 돌풍 참사",
+                "hook": "순식간에 덮친 돌풍, 안탈리아 노동자 4명 사망",
+                "script": "튀르키예 안탈리아 지역에 몰아친 강력한 돌풍으로 안타까운 인명 피해가 발생했습니다. 현장에서 작업 중이던 노동자 4명이 목숨을 잃었는데요. 기상청은 추가적인 폭우와 강풍을 예보하며 전국에 경계 태세를 발령했습니다.",
+                "original_title": "İsrail’de sandık çıkış anketleri: Netanyahu kaybetti ama Eisenkot da meclis çoğunluğuna ulaşamadı - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMkJBNjcxNXVZdk5XMzFyYVpOekMwaEhDalJpcGVkbEV6OUpBSktKVGF2cUxFZmRtUExLUjRQQUdfVWVtSm1DV3RTUUFHalBCSWlOOXlqUVpGV1RJdW8yLU9BZkQ1dGFzd0NNbmxDMjJUZ19JUXdhelFNNUFXR2Vpb0pTb29QWkRJM1h0ZkdNSFpfVWRqQXRpdi10LXZOeUdLTnJSQkdqbXJJcWpHaXZrdGJLdmhoS3Q3cGxwS0xRUUp5ODlLWlVOSmRwbFdCVnJVOENXUThHNDFzY0E?oc=5",
+                "pub_datetime_utc": "2026-10-28T01:56:53Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:55 KST",
+        "current_rank": 14
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "밀레이 브라질 갈등",
+                "hook": "브라질 선거 후폭풍, 밀레이 정부의 침묵",
+                "script": "브라질 대선 결과 이후 아르헨티나의 밀레이 정부가 보여주는 침묵이 정치적 논란을 낳고 있습니다. 야당은 브라질과의 관계를 우려하며 강력히 비판하고 있는데요. 대선 이후 남미 정치 지형에 미칠 파장이 어디까지일지 시선이 쏠리고 있습니다.",
+                "original_title": "El Gobierno confirmó que Flavio Bolsonaro despegó esta madrugada desde Puerto Iguazú - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWTlyZ3daZnI2LXBudlcyMXFQMFcxQkNXaDYtTE9adDJMSUJQMkRiUWZ0VHZrdThiZTAyc3ItemNuSXdLSmRtSTZHUjB3UzRnRWFiby1hZDR0STQxaG04b0daVHNhZkRSaHNxbkFoRFpRa3ctWnZnNzNjT0NlMWJQTVlNLUtsUEtQUzVzaEJOQ2NYTm45U0syai1uc0R1SHRDRzZFVDctUlRLUjZnb1lnY3pNX1JCWGtxb0JMQ1RIdzdYRjUxWm85RFlWUjRsMmRLekJyTUdZVEc2cGM?oc=5",
+                "pub_datetime_utc": "2026-10-28T05:11:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:55 KST",
+        "current_rank": 15
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 국가 위기",
+                "hook": "남아프리카공화국이 사방에서 터지는 악재로 휘청이고 있습니다.",
+                "script": "최근 남아공에서는 군대 배치와 정치권 스파이 공작 의혹이 불거지며 사회적 혼란이 극에 달했습니다. 여기에 대학 교육 시스템의 붕괴와 수질 오염 문제까지 겹치며 국가적 위기 경보가 울리고 있습니다. 국제 사회의 우려 속에서 과연 남아공이 이 복합적인 위기를 어떻게 돌파할지 전 세계의 시선이 집중되고 있습니다.",
+                "original_title": "David Mahlobo ‘introduced’ ANC, SSA operatives in EFF spying plot, court hears - News24",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE54QVkwbGNzZWhjX05EeU1Sajh5R2FGV2FGOVIzTnBUQUZmZnJITWlrdlh3d0NtaHBtamkxeEJCaXp6emFwYW5fZ1c2VzBETnNZOXpXTW9vc19yU1ZWcTBTZF9ySnlMeWlwclEyWGtRSUlEN0hmc2Rab1FPMEdrOGVBZDZsRDYza1NGQ0gwUkh1SjZmRmRLblBidHF5QUN0N1ZJRjJDT0xDMEVwVXRKUG1oY0V0Y1pYaFIzcDNLWlhkTDZ6?oc=5",
+                "pub_datetime_utc": "2026-10-28T02:35:15Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:56 KST",
+        "current_rank": 16
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 70.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국, 당 기강 강화",
+                "hook": "중국 공산당이 꺼내든 '엄격한 당 통치', 권력 지형이 바뀐다.",
+                "script": "중국 공산당이 5중전회를 통해 '엄격한 당 통치'를 핵심 의제로 내세웠습니다. 이는 단순한 내부 정비를 넘어 차기 권력 구도를 재편하려는 정치적 계산이 깔려 있습니다. 중국의 새로운 정치적 움직임이 향후 대외 정책에 어떤 영향을 미칠지 분석합니다.",
+                "original_title": "中共召开五中全会：“从严治党”背后的权力布局与政治刚需 - 美国之音",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWpnUlY1dkwxcXdIRmxvN0lXMm9ZaVc4a1J5MHp0bTdlM3BGWVFia1BSdVJwVVVnNld5Z1NFM2dHYWpxNFY3Mm9GRGlmU0ZscXpId29TdjE0Vjk0YWxzN1Jlc19rUUdyUzNNZ3JocHJZdDdIUVM0UTMtTEZUemx2MlZ0MDZ2dUx4MUVoRnZ4MzFKRzcyWFZCNS1JLS1zclFHNWfSAaQBQVVfeXFMTWpvN255MmdrckoxX09BZUlZTldodDgtWVhUSWhtMThfeHRvdl9rZUx0N2hiRDhHbTJncWJ3UkxzcnJNN3MxMi1rR29ZeVhZaEx4TEJUOVJlWExGNThjZlNfRzNMc19sc0pCTmdXdERUNS1nMXZLVnN6VER5TENzV1V6b3E4eFRfYkJaT2tRVWhST3NRdHNiT3dGY2xEc1NqRGhkMms?oc=5",
+                "pub_datetime_utc": "2026-10-27T22:28:27Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:44 KST",
+        "current_rank": 17
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "볼소나루, 미국행 강행",
+                "hook": "출국 금지령까지 무시한 볼소나루, 결국 미국 땅을 밟았다.",
+                "script": "브라질의 볼소나루 전 대통령이 출국 금지 조치에도 불구하고 결국 미국에 도착했습니다. 독일 현지 언론은 이를 두고 법적, 정치적 논란이 거세질 것으로 보고 있습니다. 한 나라의 전직 수장이 해외로 도피하듯 떠난 배경에 이목이 쏠립니다.",
+                "original_title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wRS0tdGpBSE4ydkdYNWZCTWw1ZkFTTVpzaHdRakFrTnh2VnJVZ1hPdDBYZ0loU1AzNk9zd0RsbllsaUFIVUZ0RWQ5MnlGWk9MQkQ0VVNwS1hQZ3k1b3B6a1hEQ0gwYUpXclotNlMwVjVyM1dGd1dIWXQxXzJ5WGM?oc=5",
+                "pub_datetime_utc": "2026-10-28T03:21:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:44 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "후티 반군 도발",
+                "hook": "사우디·미사일 공격, 긴장감 최고조",
+                "script": "후티 반군이 사우디아라비아 리야드와 아브하 공항을 향해 미사일과 드론 공격을 감행했습니다. 사우디 연합군은 이를 즉각 요격하며 강력 대응에 나섰는데요. 후티 반군의 도발이 계속되면서 중동 지역의 긴장감이 다시 한번 크게 요동치고 있습니다.",
+                "original_title": "عمليات فجر اليمن تدخل أسبوعها الرابع.. والمواجهات مستمرة - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNZHlmYnlueHNhd1JHY09heVA5ZW5sSnVJdk9TSmFZZWlDUnJBdVJjZ0xZMjFLUWVEdnkxaVBYdUtFd0RUbVNELWpVd0MxR3htNXFrVVc2ZjhEa2NCbW82ZUhrSTZubzI0LWR4b3cwUkdnaFp0TGF0YlEzaE1zYVRuZXhkUnZEM1FCZWVQTmxGenR0eWxsZ3IzNzFTaEZvNTEtNW5jWkpLQkp6V0xQdjhrTlctQUlkNmZpYU5rdGxPS1B6Yk1ULVJuNVZjTkRGcDVlYlA5ajE3ejFubXVWdE5yVDgzQjM4UUpzWnhueUh0UE1OZlAxSVhCVXQwNVY4eThFZHRiQnBsQ1pobDlMbGN5MHlwTlpTTkFvZ1Y4MnhCM3M2em01NkdacDhScEpIWFpYZmN1a3pXcGJoSHpMSUJOU2F1aENGT25MbGJ6SHdHQzcxWjZaY0F1MTZnRW5XOWRYckVfQTEwN1VFOGc0S2swMkNmVjFQS3I5TllmWmxXYUtuSEU0dng5Ty1ZRkxoSWFVWWFKcHB4cWMyQXY2ZmtRMlFFRHBGeDdMQ0k5WURiUmFvNDlBbjlIXzJvY29OOWFpY2hSYXZzTUVDc1JBRmozdlpDZGRMU29ES1ZabXJUUTk2RnNydkxrRmROZw?oc=5",
+                "pub_datetime_utc": "2026-10-28T02:23:00Z"
+            }
+        ],
+        "last_updated": "2026-10-28 14:49:55 KST",
+        "current_rank": 19
+    }
+}
