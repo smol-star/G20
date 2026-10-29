@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 볼소나로 도피 조력",
+                "hook": "전 브라질 대통령의 미국 망명 뒤에 트럼프 캠프가 있었다?",
+                "script": "트럼프와 그의 측근들이 브라질의 볼소나로 전 대통령이 미국으로 탈출하는 과정을 도운 사실이 드러나 파장이 일고 있습니다. 망명 과정에서 개인 제트기와 위조 여권 등 치밀한 계획이 동원된 정황까지 포착됐는데요. 미국 정치권은 이번 사건이 국제적 외교 스캔들로 번질지 주목하고 있습니다.",
+                "original_title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKenQ0b28xd0xHQlJVQXJqXzFSOXpZcUlpRDhoNmVXNVNBZFJjNlNsUmlqLWtFN18yeklZWXhVSDFTYlNocGhiekxpVk91XzJ6WmVraVdaQnNYSUk?oc=5",
+                "pub_datetime_utc": "2026-10-29T16:26:02Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:30:54 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 공산당 대규모 숙청",
+                "hook": "당 기강 확립 내세운 시진핑, 고위직 33명 당적 박탈",
+                "script": "중국 공산당이 고위급 간부 33명의 당적을 박탈하며 대대적인 숙청을 단행했습니다. 시진핑 주석이 '당 기강'을 강조하며 정치적 결속력을 강화하는 가운데, 이번 조치가 당 내 권력 구도에 어떤 변화를 가져올지 전 세계가 예의주시하고 있습니다.",
+                "original_title": "中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局 - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jYkQ5b3Y1UGRmX2V3c1VoaW1vel9iVElRSXpLOGMxMWpOXzBYUnRreTBIOVh5dHk0VXV4Z1VpY2xKeGMycnNYenlKRk5lSDlJWjMweldJSndZbW9xSGlFdFVsUURrNVnSAWxBVV95cUxOR1NIV3NWU1NVNGFyeG9IYktvdEprdEFLRHBuNGotaUpKelZkSlVzZFZvS09kajF5OU1qZngzRl9JSmNtYjVsUWVMeVU3RFpudGg0ZmVSanRQMUVrLXdlckhWVGR0LVBCbUczdlg?oc=5",
+                "pub_datetime_utc": "2026-10-29T13:09:33Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:30:54 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "독일 전역 시위 마비",
+                "hook": "베를린이 멈췄다, 연이은 대규모 시위로 도심 마비",
+                "script": "독일 베를린 도심이 수많은 시위대로 인해 완전히 마비되었습니다. 물가 상승과 정부 정책에 대한 불만이 극에 달하면서 상점들이 문을 닫는 등 시민들의 불편이 가중되고 있는데요. 독일 사회의 분열과 경제적 불안감이 한계점에 도달했다는 분석이 나오고 있습니다.",
+                "original_title": "Elif Eralp und die Angst vor der eigenen Partei - FAZ",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGVycHRWMFZ3RGhjRHhnVFlPN0hreDViU0FSRjJKMGc3VXpyUUF3eWxfb0pqM2VXTF9mS3JJU29DZ1lCck1iY21YTnRCZVhvZ3F1SEdYT3ZBblItNjB3TzhYMTJRVERIOXRIU0lSdjNyRkFvZi14a2FiN29pMjIzc1FrWDBnWjcxV0ZPOE84UzdBaWtzbWFqRjZfOFFpYnNoMWZBRWF3V2Y?oc=5",
+                "pub_datetime_utc": "2026-10-29T17:16:57Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:30:54 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "스페인 참사 애도",
+                "hook": "스페인 열차 충돌 사고, 사망자 69명으로 늘어",
+                "script": "스페인에서 발생한 비극적인 열차 충돌 사고로 사망자가 69명까지 늘어났습니다. 일본 정부는 자국민 보호를 위해 총력을 다하겠다고 밝혔는데요. 사고 현장의 처참한 모습이 공개되면서 전 세계가 슬픔에 잠겼습니다.",
+                "original_title": "芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令 - NHKニュース",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DNlNDQnk2VDkzTGNUaFg3emthcXhuWkdhajI4bHJ1VThHeGxHWGtHc2RPcFBhTThYZkpZcm03NktLLTc3YmZtTzRRMVBPS2pZc0NvelVzYWdDVUd2aGtN?oc=5",
+                "pub_datetime_utc": "2026-10-29T06:21:00Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:30:54 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "영국, 긴축 경제 예고",
+                "hook": "영국 가정에 닥칠 '고통스러운' 경제 위기 경고",
+                "script": "영국 경제에 어두운 그림자가 드리우고 있습니다. 주요 싱크탱크들은 향후 몇 년간 생활 수준이 크게 떨어질 것이라며 고통스러운 긴축을 예고했는데요. 정부의 복지 삭감 방침까지 발표되면서 영국 시민들의 불안감은 극에 달하고 있습니다.",
+                "original_title": "'Painful' years ahead, think tanks warn, as living standards set to fall - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbEMyNnBvMEU0M2x2Zm56ck5UUVppZUFPVjZFVWFoLV9KWEZ3V2FCWFEzemxmMllNSzFWbThXQXh4eUhwN3JENkhMNzhLTm5jWGVqUWV3RXAtQ0R4TVE?oc=5",
+                "pub_datetime_utc": "2026-10-29T12:50:09Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:30:54 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "프랑스 시위 제한",
+                "hook": "프랑스 도심에서 시위가 사라질 위기에 처했습니다.",
+                "script": "프랑스 당국이 오는 31일 예정된 대규모 시위를 도심 외부로 제한하겠다고 발표했습니다. 사회적 분노가 극에 달한 상황에서 정부의 강경 대응이 오히려 시민들의 반발을 키우고 있습니다. 과연 이번 조치가 프랑스의 혼란을 잠재울 수 있을까요?",
+                "original_title": "Des audios accablent le centre de contrôle après l’accident de train en Espagne - 20 Minutes",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOWprOW9kWGRYUnVkUTE2cVFyWkRFb1JRWFltNkxvZ2lvU19OR1pDUzB5d2lvSG1OTFhQX0Rnc0xzUDBTODNLZG9hV0NCMlB3RThPOWtocE1ER1ZYNDlDbXhUc1JPeFU3d2piUWowY2V2N0RiUHduRXBHblg3QlFUMTV1TmVHQm9TOHA4UEVwSUV5aDdQMVJkMmpWVWdtUGoyeXplaTM3akFZUV9hZTZsNFpPa1U1NGZodmJUaWhSODF4VVd2QXVhbmZlQTQ2MDRFTzVYRTRn?oc=5",
+                "pub_datetime_utc": "2026-10-29T09:54:00Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:33:32 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "이탈리아 헬기 추락",
+                "hook": "보스니아 상공에서 이탈리아 헬기가 추락해 충격을 주고 있습니다.",
+                "script": "이탈리아 헬기가 보스니아에서 비행 중 추락하며 안타까운 인명 피해가 발생했습니다. 현재 정확한 사고 원인과 피해 규모를 파악하기 위한 조사가 긴급하게 진행 중입니다. 평온했던 하늘에서 벌어진 비극에 이탈리아 전역이 슬픔에 잠겼습니다.",
+                "original_title": "Precipita elicottero italiano in Bosnia: ci sono vittime - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1NpRTg1Zk9lQ1VMZWg0NmtCUXFsSTZIdnNWckVRSUlrbVJ1NnhudjZnNzc3WXo3YnJlWklCRmx0VDJwYzZmNmRlOUFkMWVlVXNCWDk1ZUdvS0JTYUxncGVYeDAyT0djNEJEaV83YS1KVmgwX1hiWG1ramdyWmdvbTVaSHBlWHRVc0hHakpPaUpOLUVxNmNDM19pZG9ycl9PZW1V0gGoAUFVX3lxTFB3dEhSbjVpQko2cU9FUHpIbHdtUl9tTnA5OUFGM01tSGJBTmtUbWgzT0hpaUQycXRIVEdSajhtdm5ZX0RfOGItckxRbGxnU2d1LTdDblJIU1c1LTk1d1hsWThpUDlmRExDSFp3MHZaWXJaLXExSnZwc3dKOXNCSXBfSkJhUk1KeU40c2c0cm94R2tLTHM2Y2dZcEZ5VGZGUTJBYkFDbnNKbA?oc=5",
+                "pub_datetime_utc": "2026-10-29T17:41:25Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:33:32 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "브라질 정치권 격랑",
+                "hook": "플라비우 볼소나루가 의원직 상실 위기에 놓였습니다.",
+                "script": "브라질 정계가 플라비우 볼소나루의 잦은 결석으로 인한 의원직 상실 가능성으로 들썩이고 있습니다. 대선 이후 정치적 내홍이 깊어지는 가운데, 볼소나루 가문의 입지가 급격히 흔들리는 모습입니다. 브라질 정치 지형이 다시 한번 거대한 변화를 맞이하고 있습니다.",
+                "original_title": "Flávio pode atingir máximo de faltas no Senado e perder mandato - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMy1yam5kN0VaVXQ1dHVxLTMyZ01taGpkd25peGloNVM0UHRFNlNSQmJXYy1WNlYySTNRUjZnVzJJNjhuQjJpMENlNUQzbkc3TmE4d3RveWI2c29MQmlNS2V2SUtZb0lXUVpJQTN0Q1ppWk5vbmJvZDRlOHlJMGtGdVdKY0FFdzVBbGpJb3I1b284TzlXOVhtX2FUeTdzelVHcnJYSUFfVjVWTUhJ?oc=5",
+                "pub_datetime_utc": "2026-10-29T11:39:32Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:33:32 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "EU chief continues to push mak",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "EU chief continues to push mak",
+                "original_title": "EU chief continues to push making Canada an associate member despite objections - CBC",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1o5N3JHZTVHSUh2LWdqU3FZaG5PY1lmQzF4cjhBcFJnalVfS1JNQTdfeVZFc25ya3FPd2d0Z3pSVjM1U3RsSmFWNHRxdnZ3QVFtRkhOZktaR21ZNGxDN25HU0w4RGJPX0Q3NjVaT3Z1MVhFbGdicDc4Zm9kRUoyRmtHQnhJYXItY0ZUSjJuQjVQLTZfRzZ6TXZPOA?oc=5",
+                "pub_datetime_utc": "2026-10-29T17:47:36Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:33:32 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "러시아 대규모 공격",
+                "hook": "러시아가 1,200대 이상의 드론 공격을 받았다고 주장했습니다.",
+                "script": "러시아 본토를 향한 역대급 규모의 야간 드론 공격이 발생하며 전운이 고조되고 있습니다. 크렘린궁은 이번 공격에 대해 강력한 대응을 예고하며 긴장감을 높이고 있습니다. 전쟁이 새로운 국면으로 접어드는 것인지 전 세계가 주목하고 있습니다.",
+                "original_title": "Госдума приняла проект трехлетнего бюджета в первом чтении - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnJnZzhXdklEeXRSNkxsMU8wdzlOeTY5UkhoS2RuMC02QkFpTHpGVTJJUXBPb09PUmFUZ3h6bjcybXAzZjJsVWhXRGJuVVlrcEtvSmlGRWpsXzRqdVRqN2l2WlpNMENoMF9jY2Y0UzVsRlB5TURxNnU0XzRQU21vQ3h1dWw0WDh4QkE?oc=5",
+                "pub_datetime_utc": "2026-10-29T12:49:48Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:33:32 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "멕시코 좌파 거목 별세",
+                "hook": "멕시코 좌파 정치의 상징, 쿠아우테목 카르데나스가 향년 92세로 별세했습니다.",
+                "script": "멕시코 현대 정치사에서 좌파의 아이콘으로 불렸던 쿠아우테목 카르데나스가 92세의 나이로 세상을 떠났습니다. 그의 죽음은 멕시코 정치권에 큰 슬픔을 안기며, 동시에 차기 정국 운영에 대한 숙제를 남겼습니다. 한 시대가 저물고 새로운 변화의 바람이 불고 있습니다.",
+                "original_title": "Renuncia jefe de oficina de Taddei y otros 11 funcionarios de la presidencia del INE - LatinUS",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdEp0YV9aLXdTU3RCRjNHWHhxNlIwVTF1QzZYckRtYThaZXBOek94Tl9oVGw4dU1wcVBNcjFfV3lxandJMGxLS3ZudGl2Vi1XWm9GaUV2U1B0QVJTbzhMUW1la1JjUUV6N04wQ19BQW1haWg4ZlpEeXZITzEzZnpPMWlPMzlHWXB6a2M5eWkyeUViNzdJSGNWUTJDT0tKaXJoVWtzSlRJVnlxbmFNNUNjVHhaelJyZTFSRkZtdlFSRkVLUlk2YXZUeE0ySlpqQQ?oc=5",
+                "pub_datetime_utc": "2026-10-29T00:34:19Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:33:32 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "“내국인 가정 역차별 안 돼”···논란만 더 키운 이 ",
+                "hook": "South Korea의 최신 주요 뉴스입니다.",
+                "script": "“내국인 가정 역차별 안 돼”···논란만 더 키운 이 ",
+                "original_title": "“내국인 가정 역차별 안 돼”···논란만 더 키운 이 대통령 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YX2ZCM2hyWkxCWUtWRUszNTRHemFiN290QzdhS09DMnQzQUpRcGVxUF9RRmtkelNycHZBNWNtNGNsSkI5MnpKZVRxeWVNZ3dkeFQwcGxEQ0NTd9IBX0FVX3lxTFBOQVd5bTBmOC1XZWxZbUxuZlhLbEMyQ293dDBFN25UQk54eEROME5zUDUyOEd1RXFqdUhaZWY3WWh2UUI1VGxZX0xyeHEwUnBwdDB5V25aZ2pVdnpzRWhR?oc=5",
+                "pub_datetime_utc": "2026-10-29T12:53:00Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:34:58 KST",
+        "current_rank": 12
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "Kapadokya'da peribacası çöktü:",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "Kapadokya'da peribacası çöktü:",
+                "original_title": "Kapadokya'da peribacası çöktü: 2 ölü, 5 yaralı - TRT Haber",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUVkN2t0eGtBcmZfNlhMb3g4cUZwRzRZVF9xNlZMZDJhYmxybWJ5WnpGcm53V0o0S0FMa0xPc3g3ckwxQUpleDJoMlMtTFF5SFZJcmsxZW1mQ01hU215SGlidTh5ckloekc4YVo5X1hZV01GTjhfeXZiX01BUnVZR1EzVUhVN3dBeXJ2dWh4QkU2Vzg3eUtJRQ?oc=5",
+                "pub_datetime_utc": "2026-10-29T13:56:34Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:34:58 KST",
+        "current_rank": 13
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "인도, 사이버 공격 대비",
+                "hook": "정부의 긴급 비축 요청, 사이버 테러 공포 현실화?",
+                "script": "인도 당국이 사이버 공격과 국가 비상사태에 대비해 국민들에게 3일 치 식량과 생필품 비축을 긴급 요청했습니다. 최근 데이터 센터를 겨냥한 위협과 사이버 보안 문제가 급부상하면서 국가 안보에 비상이 걸린 상황인데요. 과연 인도 정부가 어떤 대응책을 내놓을지 주목됩니다.",
+                "original_title": "Lessons for the BJP from Uttar Pradesh MLC election - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHMzX242eHRtLTRzUVpKV0xtQ3pvc3RzczdYRmMyS3ZQYjBCMjRiRXphUk9NVWl1czExNF9RNTNPNmdMbkZ6WDJzWHA3ZzhNUEs4clNic0Q1T0s3VC04VVpfNFdrVlpRN0xDa1hGdmF2ZVNxdE1hNzh2UFVuWGJ5cURwZFBFM2M3WVoyeFp2VmUzWnI4ZUJfTFV6T2E4M3IxX1gtMVJXQnN5cGZwZEhuZTBnSFZRSUVCNXo2QVl2T1FMZ9IByAFBVV95cUxQZkh3YlZfQUxydHJfSl93ZmU1WFZiRGhFV09RbW5LVmNvWjZuN0hBOGRqMVV4RzVkSGRaNm5qbktfTFM0MUlWV05RY2pBN1FMMXo0QnNSX0NIeUVIdlZaakg3VEpXX1ZnZEx5bk5VMXR3S0NGOTAxaUNtY090b0ROeEdIYkYzTS1kTmdkRzNvaGNuRTFGM1JmdDFtYl9vSm5OTjFybFlILWxSU2pJRzFYcUVYR1p2MVU4dS1kaUVubjRmRFRjMDRJRQ?oc=5",
+                "pub_datetime_utc": "2026-10-29T12:24:26Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:30:54 KST",
+        "current_rank": 14
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "One Nation accuses PM of tryin",
+                "hook": "Australia의 최신 주요 뉴스입니다.",
+                "script": "One Nation accuses PM of tryin",
+                "original_title": "One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTS1UNkVTSU5XTFpkdU0zYjYwTWZ4R2hVZlN0azhRR29vNWJ0eGdsTGRvTGhmQjR1cERLaVFGRFdrdy13SzVoYkt1RHo0VWVBZ3NZS3Qyc3dvNlJCVGVhZmFKbDFIb2t6ek83Y3BvcnBqNERqVGhtdFc3dGZZdWVid3RSV08xbjZDdVJvV1FiVXZzV3lXMlB1cHJSYUExWHdKSmJZY05WbHc0NjlnYTAyY1ZhS3hDU2RMc1dTRHVGVzEtOTlyajRaQ1ZuMkxpZ29iTmNLRnpLTW5fT3lIQTNUM0ZVZ0pSemFoVEVrS2lfNTlwYTVvQ2hicGktQQ?oc=5",
+                "pub_datetime_utc": "2026-10-29T13:15:00Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:34:58 KST",
+        "current_rank": 15
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "Daftar 20 Korporasi Tersangka ",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Daftar 20 Korporasi Tersangka ",
+                "original_title": "Daftar 20 Korporasi Tersangka Karhutla, 4 dari Malaysia hingga Singapura - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHFGRGp0eGVGdVR4STNublUwVzlpOWNsT2hWclRpU0dCakhUY1BZcVFpX25lUHFXeFhVN1JFcnhod0dWMEplU3RvcGlqYk5uTkNEVGtkZmlXeFVRdG12R3RXdnJlR0RweUZTMDc0ZUFTeTlJOWlNNkt0ZVh0bXhGMWRKalBBbkxZM2VmVzI2bGQ2M19tWTUyU29nbnZxSmNQZml4Z2JoSE83bEZPVnAtS9IBtgFBVV95cUxNTlowczJNREhHejJENlhIUlVRSEo3QVFpUGc3bTF6bG5GTmt4SWZWMVo3cXlRbkFNdjJxNURSLXRvRlF3SzRxbmxpazk3Mi1TMlFMamx4RFJDbnVsaUhQMDB0QzVKV2NFSElrZ3FCaVVjWFkwM0M3aklpcV9kQllOSHNycTg1dG5kaC1wT3dNUUYyNThBdmRKYTFWZV9PdHdxeFJMc01mZTR0c1VvNWlZdm5qaGVoZw?oc=5",
+                "pub_datetime_utc": "2026-10-29T07:48:16Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:34:58 KST",
+        "current_rank": 16
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "سيناتور أميركي: اطلعنا على خطة",
+                "hook": "Saudi Arabia의 최신 주요 뉴스입니다.",
+                "script": "سيناتور أميركي: اطلعنا على خطة",
+                "original_title": "سيناتور أميركي: اطلعنا على خطة ترامب لاستئناف ضرب إيران.. إنها \"جنونية\" - العربية",
+                "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQX05zMTRRYjdVMFlhdlhmaWZFdnlmbVJ1bkZjMExNNzNHOGFtWk9zTEljdmdCYUFVbUx6STlyS3NvQjJWTU8xV3hmWlFLeUkzZnJObFgzdHJraGp1amJiWVhkd2hCWVgwNkJUaVVXbXpKLWM2ZXMtMjFtZ1RkcS1LbEo4THpna2hwVGluQ3ZoaUM0blhzeVJLTzJLZ0REN0RXNTEtdDR4NGFJdjNMcGMyZ0ROVHY4aGE1LUlBTE5DRnluYm1jSkVTUkk5ZnlVM2RvSzNWYTBBa1Jick4tVkxCbER6TUNDNG9qSXNvZTlEcktsRmhvUmdKUFdBaHI3dFh5czl1SUVHYlM1LVJ4LXR1NDVwZnkwd1d5QVBCdWsyQWJ3MWtDQzFQS3FZbTBod2xucE9Fb2hWbHI2VUl0U3pob2ZaYkZNUHdlV01iT1EySWJFRGEzaDI1WE04d0pjdzZqU1J3SzFZSDZoU2h3US01bklBSGZSUmh5NnRnVndjVFRGUFdFZXhHck1OeG9YMEFHOFhuUzRpM1B6N3Iyb1hTWkFta2l4WjdVNkZ4WmxDaWNaU04xNTk4dEx2M0FleHk0eEdDN2lvcGJEMklGYy11LXFkZXVsVWRMVG5tOTl3a0JoOTlpc3NzektUb3JXZVJ3MkFQM2hTTFBxbnBiQjR4REVBakpvZGQ1QmFGYWJWUmR3dWRLM0diYmpVOUJBMGVYdkFj0gGoBEFVX3lxTE5iODdsUFhCbHZNUzI5M1JDMmJVbHJ2VEljY2FKUVVmNWh1UVdKM1JZZzVyT0R6MGxtVkplaEsyQzBtR21KUXZEQ2o2Z2xGcW56SHpKRHVRa05CYWpJYktNLTNKQ2h0dE96YjRCZ1NTa0FvUk53SHpUcUlUTkwtd2JzLWRaWnMyVVRRN3hMYUk0X293cDE1bUEzZWdoNHM2eF90TWVnN3Fla2VBTkl4UXJPYWwycHBSa0Z0bU5ONU1zVmhIQktXdHVqTnIxa0ZHWlVDTVY2U0lzZnJzbWtZd2pfQ2hGdVZFYmhGTkloQ2xMZlJvb0laa3RJZlczRUhOSHRVT0lZdjVtdnBlUnBZTk81NmJ2R1I2WVAzaWozLUszSDVZOTVMTnNqZDJzbGZTUjV4Qm4wVHRRSUk0aGFtbk9neUhNSVRfZzhuRmVhQ2drRFBtaW5wZlJPNlZ1U0RVWkM0cFp3RG5ZeEw4UGFreWlCb0FvX0dRYUZtQUhLOVl2R3Z1VENzeHUtWHNmMnd2dk5OQUROR2NUN1J5MF9QbFF0bVN3WUlWSjBfbldxNVhKUkEzVS1iemg0ZUNmQ0g1RVdDQnpMZTgxLW5RMDBVMWhtZmNWQVNlYXRNbFBTVHRNZXBLRDZNOUNLTS1IQ0VoRmlNc240UkxabmNZaWpya2kyWkY4QzZXWWVHRlZtVm1jV0N5ZE9pbFA1TnpLbzExaWtUYXF3S1QxUA?oc=5",
+                "pub_datetime_utc": "2026-10-29T15:58:00Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:34:58 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "La trama oculta de la fuga de ",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "La trama oculta de la fuga de ",
+                "original_title": "La trama oculta de la fuga de Flavio Bolsonaro a Estados Unidos: el rol clave de Santiago Caputo, dos jets privados y un misterioso ex agente de la DEA - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdXZjb2d2M212Ny1TN1RuR3FLRFlQSGJDdjY1ODE2dVpHa1FIX181am02dHd1SmNGT18yMklUbFdLWWJBcDJZdjVpbTdEVVFObGFpMTNVTE9Mam5IcDlFbk5HMjlRNnJKYzhJVjY4eVBlNDRsUWJVTjUtTGI0NDVyb1pTcU9WOTBhMjV1VERMbzZZX1dpT3A0YjVvSmtaME5vamo5bW1GZDJGbi04Y0NDdng4aXFDNGVGTENnaHM4REdjMzlTX2dHVDJqRDJpWVFWOE1XXzZFNHRvaEdMd1NhVzhGMXJSQm9xOFIxUjF3NDA3YnZuN1lj?oc=5",
+                "pub_datetime_utc": "2026-10-28T21:33:13Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:34:58 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "남아공 경제 위기",
+                "hook": "미국의 최후통첩, 남아공 경제에 드리운 검은 그림자.",
+                "script": "미국이 남아공을 향한 무역 혜택 마감 시한을 다음 주로 예고했습니다. 그레이리스트 재지정 리스크까지 겹치면서 남아공 경제는 그야말로 사면초가에 빠졌습니다. 정부의 개혁 노력에도 불구하고 시장의 불안감은 최고조에 달하고 있습니다. 과연 남아공은 이 경제적 위기를 어떻게 돌파할 수 있을까요?",
+                "original_title": "Nhlanhla Mkhwanazi tipped for top Hawks post - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0hiT2pFdXpfZlBpUnFqUE9VZXJzenVIdGZyOE05SVZ2UHhIYVRLLXlmTHgtalFnUnVTQ1lCcTdGQUxSdFZ4aTZxdTI5cEJyY1dXYUk0T0VYUTFSaDNINGpSZ3BVS1B2cDlMcUV4OVNZVFE2TjBzUE5Ua3BaQzhfbEVGbzg?oc=5",
+                "pub_datetime_utc": "2026-10-29T10:48:48Z"
+            }
+        ],
+        "last_updated": "2026-10-30 03:35:05 KST",
+        "current_rank": 19
+    }
+}
