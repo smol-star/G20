@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 선거 개입 논란",
+                "hook": "미국 대선판이 뒤집혔다, 트럼프가 꺼낸 초강수 카드는?",
+                "script": "도널드 트럼프 전 대통령이 알래스카 민주당 상원 후보의 기소와 처벌을 강력히 요구하고 나섰습니다. 선거 방해 의혹을 둘러싼 여야의 공방이 격화되면서 미국 정가가 큰 혼란에 빠졌습니다. 투표 사기 논란과 함께 연방 요원까지 개입하는 등 미국 선거 시스템의 신뢰성에 빨간불이 켜졌습니다.",
+                "original_title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T22:09:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:06 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "영국 예산안 발표",
+                "hook": "세금 오르고 에너지 보조금까지, 영국 경제의 새로운 시험대.",
+                "script": "영국 정부가 새로운 예산안을 공개하며 대대적인 경제 정책 변화를 예고했습니다. 은행세 인상과 에너지 보조금 정책이 핵심인 가운데, 국민들의 삶에 어떤 변화가 생길지 주목됩니다. 이와 함께 영국은 우크라이나 지원을 위해 국방비 지출 목표를 앞당기며 안보 강화에도 나섰습니다.",
+                "original_title": "Rise in bank tax and £100 energy payments: What’s in Healey’s debut Budget? | ITV News - ITVX",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUW5GcHNYZy1TSS1VZ01obmNKcXhOLW0xU3BUdmxFUHk1U0Z2YkFkM19OdkNyM004Z3duTHYyUTdHUHQ5QXBlei1xNjBidldyRjhTQjZzVEQwVG94eDRqOFF1VnJ4bElXWm5mSXY1cjliQi1mMnFrdndVX3NUWEZBcEkwbWJUd1l3OFlVUi1VY1BHSmUtNkxyNXZ3?oc=5",
+                "pub_datetime_utc": "2026-10-28T23:23:08Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:06 KST",
+        "current_rank": 2
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "이탈리아 예산안 통과",
+                "hook": "세금은 줄이고 혜택은 늘린다? 이탈리아의 새로운 경제 전략.",
+                "script": "이탈리아 정부가 대규모 경제 정책인 '마누브라'에 최종 승인을 내렸습니다. 연봉 5만 5천 유로까지 소득세를 33%로 낮추고, 10만 유로까지는 플랫 택스를 적용하는 파격적인 안입니다. 침체된 경제를 살리기 위한 이 조치가 실질적인 효과를 거둘 수 있을지 이목이 쏠리고 있습니다.",
+                "original_title": "Via libera alla manovra: Irpef al 33% fino a 55mila euro, flat tax fino a 100mila euro - Il Sole 24 ORE",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWdDc1lOeFhEU0dqV0xCM2YzSVRWWlBOYUxNTEM0cUJTbjAtMWVobkFuSDNydV9felhIRXU4dEhfcWNGcDd2aDBxQ05CQW8yOVc1clFfd3REQkN3aGRTVC16SV9DU3JndGF3bnhFYjNHMDdBVVd6VFBwMnJCZlpWWFBSdmc2WGlYUWk4RHdzWk5MSk0?oc=5",
+                "pub_datetime_utc": "2026-10-28T17:26:34Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:11 KST",
+        "current_rank": 3
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "볼소나루의 '대통령' 주장",
+                "hook": "대선 패배 후 미국으로 떠난 볼소나루, 여전히 자신을 대통령이라 주장하다.",
+                "script": "대선 패배 이후 미국으로 향한 플라비우 볼소나루가 자신이 여전히 '진정한 대통령'이라며 논란을 일으키고 있습니다. 이에 대해 트럼프 전 대통령조차 개입을 거부하며 거리를 두는 모습입니다. 브라질 정국이 혼란스러운 가운데, 타르시우 등 주요 인사들은 이제 미래로 나아가야 한다며 진화에 힘쓰고 있습니다.",
+                "original_title": "Trump evita apoiar declaração de Flávio Bolsonaro de que é o verdadeiro presidente do Brasil: 'Não vou me envolver' - G1",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObE9FNkZGMHZ3am81cXdmdGJ1bGNLc1dwdkphLXpuMkw1ZEJPOHpNQjVtMzF6Nmx1T0xRWDJ2Qzg2Z1ZybE9yTmhLOEI0eDNsTTl0dUJzNmtJbklqdjR5QXc4RFBGSzk2Q3ZHZmVyM3Q4OExVeUNCTkl0aV9Ta3VTS3J2UXN2cl9abWx0SHhLNHJpZTlYOUQ2RVdOR1JUZi1WSW80ZTFMY291c1pBUjNJczJVa3Q5WWZ2WHRrQjJoQW8wNW0xYVQxOTNxN3hLSU1iTzREa28ta19STGQwd1lPTi1yMG5rc3VQOXZGMWYyV21nUWotZW9n0gGGAkFVX3lxTE5GemFmRnAyc3dmVXpNZlVXS0xXTXlfYkMyWlFMSHA2SW9KandCVVhmSmJqY095bDdOdGR2QlBoSEZDeTZveWx0WUE3TFN5YUhDTW03UTUwVHBjVkRtV1pISHRhcUZaUDBBX2lUOVl3d2NwbDZHNGlVcHQzdHlTTXRWSXBfc2o3aGgxS3c5b1FoeWFHVHVDZlhQRkktUnV4bEEwZElfdGVmdGtYWVZpX2VHTVQwZ3JVMDdUNldtT2ZELTN0YkZnTVQxOW9XZnBzX1BNMkZJb19SWnpMTmhfdHpKWmtEUER5NlpHenNGSnYtLXNOeFAzczBIR1h1VHpwUjF5SDFBTUE?oc=5",
+                "pub_datetime_utc": "2026-10-28T21:14:48Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:11 KST",
+        "current_rank": 4
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "물가 급등, 금리인상",
+                "hook": "당신의 지갑이 위험합니다, 5번째 금리 인상이 다가오고 있습니다.",
+                "script": "호주 경제에 빨간불이 켜졌습니다. 치솟는 인플레이션을 잡기 위해 중앙은행이 5번째 금리 인상을 예고했는데요. 대출 이자 부담은 커지고, 가계 경제는 더욱 팍팍해질 전망입니다. 지금 바로 예산을 다시 점검해야 할 때입니다.",
+                "original_title": "Crash survivors recount chaotic scenes in Europe's worst train disaster since 2013 - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRV9xXzNyVmtpM2VmZW1BU2hJcmsxaW1MM1pGTkVUazhGMjlSV2h2UTdidlRCdFg3dndIaXZjMkVkNktlVnRjOTB4LUF0ck9rQ0kzU1UxOUVyLXVPbVB5OWNsNUdfN2loOTllYVVHelEzT0huN0dwZ2tDSjdjM1k3eG81RmdISklhcXN6SF9ET3R3bC1CNVpDVUp2Vks?oc=5",
+                "pub_datetime_utc": "2026-10-28T21:47:44Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:15 KST",
+        "current_rank": 5
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "말리오보로 시위 격화",
+                "hook": "평화로웠던 관광지 말리오보로가 시위대로 인해 마비되었습니다.",
+                "script": "인도네시아의 상징, 말리오보로 거리에서 대규모 시위가 벌어지며 상점들이 문을 닫는 등 혼란이 이어지고 있습니다. 학생들의 시위가 격화되면서 '상황이 좋지 않다'는 우려가 쏟아지고 있는데요. 현지 상황을 지금 바로 전해드립니다.",
+                "original_title": "Demo di Malioboro Berujung Ricuh, Toko-toko Memilih Tutup - Tirto.id",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNk1vNHc4T3BSRkExRmRKVWlBSFUzZW9GWHVSNF9FOUtOTlVyc1Q5Qkl4aldSeGNVWkNHQVdldTdkODJObkpOazRrdkM5cXNOcGo0N1R2VWhUMlQ0d1o5YWNIWWQtWnZMRFJUXzFQMXRHVUdRMkx2ZFp3OUVfaUszSmFiNHQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T13:56:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:15 KST",
+        "current_rank": 6
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "Flavio Bolsonaro se presentó c",
+                "hook": "Argentina의 최신 주요 뉴스입니다.",
+                "script": "Flavio Bolsonaro se presentó c",
+                "original_title": "Flavio Bolsonaro se presentó como el líder de Brasil y les agradeció a Milei y a Trump en un comunicado tras su fuga - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeHQtVmJ6RjkxRjdFY3ZnaEk1a20wMjhjUUVuWDN6R1R6YUo5TUpCY3VhWnAydFgwSUZINWxSRnlLRldQZVhZeHJGSmpvcDVybGM5RVBGdE1pRjRBdEJVbFR4TTloLV92UGZlbXBDRTZsZWdaYU9ET3VkLWhFbi1NYjVjNnBBekxNMlZvZVprWjFkeWJTWGJ5UHhldDNHYldGMGFRa2J6MExSUlJ2M2gyTnlzNTJXVU9aOENXTWNSeXlVOTUwb1QydHFKUGViYWlpLWxrRm5QMzNJQXkyTFhyQWZiZ0NxdDQ5bWc?oc=5",
+                "pub_datetime_utc": "2026-10-28T20:52:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:15 KST",
+        "current_rank": 7
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "Interim interdict against Marc",
+                "hook": "South Africa의 최신 주요 뉴스입니다.",
+                "script": "Interim interdict against Marc",
+                "original_title": "Interim interdict against March and March protest granted - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHBsZ3NodWttZ01UeHpVR0pBTk1EeHd5X0RHdWJoQjlqVnoxaEFJMFptc3NqTEdqUElTNFdObTF5eFdhTlI4dWJaMFl4Vkhaa1FGbE1iMlJ3cE85MzBjY1E4NzFWczQzd1R1MzlVUjNFaFVpcTZJUkJVSGZBVDdmTWdZYnNPcEpmX2I0?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:38:55Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:16 KST",
+        "current_rank": 8
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 70.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "스페인 열차 참사",
+                "hook": "68명의 목숨을 앗아간 비극, 스페인 열차 충돌 사고의 전말.",
+                "script": "스페인에서 발생한 고속열차 충돌 사고로 최소 68명이 사망하는 안타까운 비극이 벌어졌습니다. 사고 현장은 순식간에 아수라장이 되었고, 구조 작업이 긴박하게 이어지고 있습니다. 전 세계가 충격에 빠진 가운데, 정확한 사고 원인 규명에 국제 사회의 이목이 쏠리고 있습니다.",
+                "original_title": "“更加清醒坚定地推进反腐败斗争”（总书记的人民情怀） - 人民网",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkY2RvX2JnTEk4b3ZHNXB4Nm5BeFRub1FMNTc1SVdINHlNU0M0cTRhbTAyamNpNGpsRXdvSHEyeGJ2YWNyN3d5ei1OVXNwMTZoYlVHNWpRdDdoMEhybjcxYkNtZkxZTWZrdm45QkhzWQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T22:07:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:06 KST",
+        "current_rank": 9
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "베를린 연쇄 성폭행",
+                "hook": "14명의 여성을 마취시킨 악마, 독일을 충격에 빠뜨린 판결.",
+                "script": "독일 베를린에서 14명의 여성을 마취시킨 뒤 성폭행한 범죄자가 법의 심판을 받았습니다. 끔찍한 범행 수법이 드러나면서 독일 사회 전체가 공포와 분노에 휩싸였습니다. 한편, 정치권에서는 차기 대통령 선출을 앞두고 치열한 수싸움이 시작되었습니다.",
+                "original_title": "Brasilien: Flávio Bolsonaro behauptet, Präsidentschaftswahl gewonnen zu haben - Spiegel",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOajVaM3ZEX3FDOEFRVHlaQ0toZTA4d3JuakUwYldtcW4tbEhJR2N4eGxUSUpfYmtHMk5Zc2ozbWJQWHJfbGFKc0ZtZERZY01lOElwZUgxWVlFMU5EWExxMEtWZWNka194V2E5OXJURDczdlJIQ2pRN3czTFhEZ0xtTlpVM1ZNUmsxUG9hU1ZfbW1aS1l2ZWc1ekdtZURZSkJvZmMzU1NxWlZnNzJvMG1YOUVyWUlaOWUtVTdpdTZUelg5YUJ2bEZWQUQ3bXNDYm5mZnZCVWY5Nndma1l5eXpF?oc=5",
+                "pub_datetime_utc": "2026-10-28T20:50:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:06 KST",
+        "current_rank": 10
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "일본 규모 5 지진",
+                "hook": "지진 강타한 일본, 흔들리는 열도와 긴박한 대피 상황.",
+                "script": "일본 지바현 북동부에서 규모 5의 강한 지진이 발생해 주민들이 큰 불안에 떨었습니다. 다행히 쓰나미 피해는 없었지만, 도쿄에는 9년 만에 '첫 겨울바람'이 불며 추위가 덮쳤습니다. 기상 이변과 지진이 겹치면서 일본 전역에 긴장감이 고조되고 있습니다.",
+                "original_title": "イスラエル与野党とも過半数届かず、ネタニヤフ氏は野党切り崩しへ…連立のカギ握るのはアラブ系２政党 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NM1E2SU1jNVYzVC1xQTUyVFVLaUk0V1I5ZGtHdjdBSFI2MTJzR0lqYUc5ZmxpbG9aOVUtVE81alpmVGxORHphYWxOODBmN3lzYm1pOHZ2Um43Sm1FTjdJbmtR?oc=5",
+                "pub_datetime_utc": "2026-10-28T20:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:06 KST",
+        "current_rank": 11
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "인도 IPO 대박",
+                "hook": "지오(Jio) 주가 21% 폭등, 인도 시장이 뜨겁게 달아올랐다.",
+                "script": "인도 증시에 상장한 지오가 첫날부터 주가가 21%나 치솟으며 기록적인 데뷔를 마쳤습니다. 한편 인도 전역에서는 사이클론 '아르나브'로 인해 5명이 사망하는 등 자연재해 피해가 잇따르고 있습니다. 암 환자를 위한 약값 인하 조치까지 발표되며 인도 내 경제와 사회 이슈가 동시에 요동치고 있습니다.",
+                "original_title": "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYndjRXNBX1gwWFAxNkhMX0JZVm9fNnFHQjB0ZVBpVEdacjM5dGVLNEZ5SVVkUnNVT0FDV2xIRnJ0UnRTS2ZyZ3p1R0dWM1V1WnFta0FTdFA3ZmtlZ1UyTUxFX2gxOFJTWlhHbFB6RS1MczJ2dU1hR0VqTFhMS3ljQ29xNVR0QnB6aDk5TXZFVG9QMjhwY3JiT0FmVUhmcE9FVllEMDFRU3VtRERYLTZFQ3B3VHVQWjI3ZHBwUGt4YXNoWV9xWVlSbEV1UTlValpMcWt6MTF6SVA3Rzlxal9xYUVUMTdSaFZLNlo5cGkzTWXSAfcBQVVfeXFMTlQxWENwZFdka2ViWDlDcGRjRFJXamlMRUZuWWFJMFhqUC1JdUJQQlM5N2k2bDlfbWkxbEcxdm52TWo0ZmRxR0NzbzJJdVFEcU9XUlNMeEJ5WGQ0OFh6cTJjZWhMWmt6ckhYRWlsRmdFMW1yU0sxeXduWmlETEJYbU5UWTZUanp0bmUtTVRvNGJyamVFSWc4SWJ0anVyVWJMUTB0Rm05SGVVTVlieDRaQ3hSQWp1TVVXLWVvZHhtckR5dnhKdi04bXRzN1h1U054WXZVaDBLMmpsVEVpZkdfUmVpc3JON25wNWFNbGVNY0VXY1FwY0thUQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T20:12:02Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:06 KST",
+        "current_rank": 12
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "마크롱의 교육 호소",
+                "hook": "고등학생들의 시위 확산, 프랑스 정부가 대응에 나섰습니다.",
+                "script": "프랑스 전역에서 고등학생들의 시위가 거세지자 마크롱 대통령이 직접 진화에 나섰습니다. 정부는 학생들에게 월요일 수업 복귀를 강력히 요청하며 사태 수습을 시도하고 있습니다. 인플루언서와의 소통마저 실패로 돌아간 상황에서, 과연 학생들의 분노가 가라앉을 수 있을지 주목됩니다.",
+                "original_title": "Quel rôle pour les partis arabes au lendemain des législatives en Israël ? - 20 Minutes",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb1VoWENHWVMxZnZ0cUxGOUpDOUVSdk9DZ1NRSUVhVmluaFlZUHRzMWxVajBCd2FPZTl4Rncwelo3MFVRYjJINHl0am41SHlJaDRaQ1BDTXh0R3hzVkxkeHlNZU8xalN2Nkw5Mi12ajFfOThOMDRWbVJkNDNEdk1EU2xjVDhVUjZBU0lCN0tMRE5Wb3FNQUNLbEZfeFJmZktwYUJON3dKdTltaFhwbmhacGF1QlJGU2JsTVUtVDVNSGtwSDVmaUx0VWJSUHBjOHNIeXI0WnBiWQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T18:01:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:11 KST",
+        "current_rank": 13
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "스페인 열차 참사",
+                "hook": "해외 여행 중 날벼락, 스페인 열차 사고로 캐나다인들도 피해를 입었습니다.",
+                "script": "스페인에서 발생한 고속열차 탈선 사고로 수십 명의 사상자가 발생한 가운데, 캐나다 정부가 피해자 중 7명의 캐나다인이 포함되어 있다고 확인했습니다. 현지 당국은 사고 원인을 조사 중이며, 캐나다 외교부는 피해자 지원에 총력을 다하고 있습니다. 갑작스러운 비보에 캐나다 사회도 충격에 빠졌습니다.",
+                "original_title": "7 Canadians impacted by high-speed rail crash in Spain: Global Affairs - CTV News",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3p0azFpR05ndm5vV0ZKQUNYZVctdWFvVVRyRjAxdnQ3SXJmRWdSeGNuNWxKZ0ZYcmM4UGN1cnlRcmJlQ210UEQ2WkFEOFVCbEFRSjhfcG8wRXBKQkloMUk1aEhEUjAyWEQ1aFE0Y3A3S0JlZFZhQ29ZWGpCaGhpNUctb3N4SmZZdVBtamh1Z3JtcXJNRVJxUlVBdFM0UThnZi1pNzN2UEZtSzh0QVVWOGpOczZ0NU5qOGZ3Q2l1Zm9ubHB1elE?oc=5",
+                "pub_datetime_utc": "2026-10-28T21:30:58Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:11 KST",
+        "current_rank": 14
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "러시아 곡물 수출",
+                "hook": "아조프해 빗장이 풀렸다, 러시아 곡물 수출길 다시 열린다.",
+                "script": "러시아가 아조프해를 통한 곡물 수출을 공식 재개했습니다. 케르치 해협이 개방되면서 11월 15일까지 수출 허가가 유효해진 상태입니다. 푸틴 대통령은 아프리카 항공사들에게 러시아 노선 확대를 주문하며 경제적 영향력 확대에 속도를 내고 있습니다.",
+                "original_title": "Фотохроника 28 октября - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92c09NMnI5ZExjYzkxQVg2OHB1SWJWNV8wR0NOX2hCYXdFRjZvdHVsRXVZN1VpZjhhSmQwSEY0WWFXbmQxSnhNV01QMA?oc=5",
+                "pub_datetime_utc": "2026-10-28T16:49:39Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:11 KST",
+        "current_rank": 15
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "시날로아 카르텔 소탕",
+                "hook": "카르텔 핵심 인물 사살, 멕시코 치안 당국의 작전이 성공했습니다.",
+                "script": "멕시코 시날로아 카르텔의 핵심 조직원인 '추이 곤잘레스'가 당국의 작전 끝에 사살되었습니다. 이번 작전은 멕시코 내 강력 범죄 척결을 위한 정부의 강력한 의지를 보여줍니다. 한편, 상원에서는 미국 네이비실 대원 28명의 입국 요청을 검토 중이라 향후 안보 협력 변화에 관심이 집중됩니다.",
+                "original_title": "Ni OIC ni ASF hallaron irregularidad en mi gestión.- Córdova - Reforma",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3JhLXFQckxGMEJVSklGUU9QcTZJVWZGeU5weUlBYnRXSGlFcHdvWHVtVWZLdHZWcmZRRl9pbjU2T1JxZXZHVlVFZkVodXFhZ29vV3BRT1RXRWVmSzk5NXZGcEFDQVVoTC1hX0lwdXJCN2ROT0dBMVRSNHRVWFdDX3dQOFJENkZYM2VEaFp5bmNqRHpfWlNF?oc=5",
+                "pub_datetime_utc": "2026-10-28T22:29:47Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:11 KST",
+        "current_rank": 16
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "역삼동 연쇄방화범",
+                "hook": "평온한 주택가를 공포로 몰아넣은 연쇄 방화범의 얼굴이 공개되었습니다.",
+                "script": "서울 역삼동 일대를 공포에 떨게 했던 70대 연쇄 방화범의 신상이 공개됐습니다. 경찰은 범행의 잔인성과 피해의 심각성을 고려해 이례적으로 신상정보 공개를 결정했는데요. 이웃의 삶을 송두리째 앗아간 방화범의 충격적인 범행 동기는 무엇일까요?",
+                "original_title": "올림픽공원 투표지 검증 끝났지만…국힘 측 ‘밤샘 농성’ 돌입 - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13NEtqUE4tQnpRRndDVzZYNkxiY3N6cVVURjk5WXFHenN2dzhTWnFlT0p2UHpmZUlpdndRTm04SlN2bDFsd0UtWWFxZzZfdFRnYjdJZlR3?oc=5",
+                "pub_datetime_utc": "2026-10-28T17:29:12Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:15 KST",
+        "current_rank": 17
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "스페인 열차 참사",
+                "hook": "스페인에서 발생한 끔찍한 고속열차 충돌 사고, 수십 명의 사상자가 발생했습니다.",
+                "script": "스페인에서 발생한 고속열차 정면충돌 사고로 최소 68명이 목숨을 잃는 비극이 벌어졌습니다. 현장은 순식간에 아수라장으로 변했고, 구조 작업이 긴박하게 이어지고 있는데요. 전 세계가 충격에 빠진 이번 참사의 원인을 짚어봅니다.",
+                "original_title": "Mustafa Sarıgül hakkında cinsel saldırı iddiası… Eski korumasının ifadesi ortaya çıktı - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelpJQnU4VkRuc3hxa2lNWEdtWkd0ZV9FWVNSS3lqWlJ5VV9GSm5mMUx1eWFxWGl2ZTVxYkt5N040bU5UTTM3NHpLWTNjV2Z4Q0hmZGl6c1V3cXU3WmxhQmpuaS1FZGluRU9YLUtBdDRYUzdXS3IzWjF2bVpXZmtFekVnQVZBdkZ6bjl5aC04V2c0bHVMSVBfTTYxWENpR1pISGItRjBHUW1kX3BZV3pUOHJMZTdBdE50Q05MaWxOb2JPTjVaRTBsUQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T11:45:13Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:15 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "후티 미사일 격추",
+                "hook": "사우디 상공을 향해 날아온 후티 반군의 탄도 미사일, 방공망이 막아냈습니다.",
+                "script": "후티 반군이 사우디아라비아 타이프를 겨냥해 탄도 미사일을 발사했습니다. 하지만 사우디 방공 부대가 이를 즉각 탐지해 공중에서 격추하며 큰 피해를 막았는데요. 끊이지 않는 후티의 도발, 중동 지역의 긴장감이 최고조에 달하고 있습니다.",
+                "original_title": "مع قرب انتهاء فرز الأصوات.. هذا نصيب كتلتي نتنياهو وآيزنكوت - سكاي نيوز عربية",
+                "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOVHFJMmRnVVY1VFFUZVBBR2RDYzEwQ240Zm1BeXhSRWwzWFVmVEJZcS1YcGl4UkNJMHZoOVRWZFFPTUFmc0QtVXU5ZFdOejRQSTgxOHBVWXU0UWpLb2JKMVNMc3ViY3JMa1dadmhTTFJBOFcxWV9FbXJhQlIxdUNoc3FUN25ucG9WTDVQTVd1aEc0UWYxd0ZlLXZvQUh6Q01EV2lwNDY3aXdWQ29vWGhwVWlsYVBmZkRlMEt5VnRjSXJUWFpqLXBIYWJ1cUJLNFNIYkNaTzFFUUZ4aHFzY1dTN0hjTng0ZjgwaXNkYXJfaTV0dUlaV3A5WVNYSHl0a19jaE9vUkU1aGdSTER3Sl8wdUw1UWhIUHc2Y1FCN0N5bFQtclR5Q0NmVmpWd09yMWplU0x5enJfMVowODhWTkdBd01qQThYN0lOdGdzZWhLaFY4WmRFcWFvaUl5MUU3QnNfTkU1MFMtOXhnazFYZjdWS2ZaQ3hPSWk0SEpvc216X2dHZHk4VFRMSXRIakpHZFpJU1ZDdnlCb0JGZjAzbVRCeTIyMG91N0xaWGU1eHc4Rms4S3dYLVFhNHZTcHJzUV9oVGt5cWJHOFBMWjBlSVY1M3ZjcmVZTDRYZEHSAd8DQVVfeXFMT0FxR0xNeU13cm5jU1ZTeTU4Q0JBYUhrckptNTZaM3Nhc2dUd1JpNm5uN2ktd253c1UzN1hLMng2ei1Zd3Ayc3Nna3RSeDNxSEVHZGF2SUpSVk9NSU8xX1ZaQkRLNHk2Mm41dWV1dTU5MWVyTl9mRG9vZWxkZ1RWMTlEQzdlemZVWTZwbWhYVW5nTWF5NHhLbVJ4bmVlTnFTcjl1OTRLSlZkRFRrdkxmUzAxN2N4b0VDakVTSWcwTTdmVDZ3VTExOG9jTzJYNUxobnlrT3lYTzlGbVIwYjhhNXlSRHFtMVpoV1l4NW5sUko4cDdpMU1TYmRGRXhwbjNmeVcxckxwcVdiTjZEUWViamlVcmFZWjQ2eTBRZUg5NDQ5bmZNQWZKSS1VWW9waEFDeWw4UVpKVGI1bjZzdTRLNTktREU2bXJyTV8tOHdFVTFyaTZXZTB6N1dldHB2WUExZ3lWd040QTlLTFJLY2VLQ1BMVHhrcDd0X0hLSU1UZ2g5d0gyd05rSmZpWjc5dWxZMjF5WHdtc2w3UXprZWZCYjA4OExBUlhzdnpmMjNLNll5WGF1dlJYeFBzdHhoR2x6THZIeGJMWW0tVV81M1RKenVSaC02cUpfaU5VdXVtZnM?oc=5",
+                "pub_datetime_utc": "2026-10-28T21:23:43Z"
+            }
+        ],
+        "last_updated": "2026-10-29 10:01:15 KST",
+        "current_rank": 19
+    }
+}
