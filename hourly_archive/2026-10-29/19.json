@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "공무원 4만 명 유출",
+                "hook": "국가 안보 비상, 당신의 개인정보는 안전합니까?",
+                "script": "미 국토안보부 직원 4만 명 이상의 개인정보가 해커들에 의해 통째로 유출되는 초유의 사태가 발생했습니다. 이번 공격은 정부 시스템의 보안 취약점을 여실히 드러내며 전국적인 안보 우려를 낳고 있는데요. 당국은 즉각 조사에 착수했지만, 유출된 데이터의 파장은 걷잡을 수 없이 커지고 있습니다.",
+                "original_title": "Alaska Governor Orders Criminal Investigation Into Peltola Campaign - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0kzOFFIQUtuQXpaU2VMTmNPbTBfUWh0Q2huckNWTEc5OS00NTdILU9VZG44TlFBWjQyeEJMWllveTR0OUZDb0xqTVllV3N5UG1zbmNxU1VVQXpqSkg2TEhYRVVFVWJKYUZRd2pROUxyb3N6NFFXaldUblgyZzBhZ0ZKS0RBMVFjbTdLT3dWS0lxUQ?oc=5",
+                "pub_datetime_utc": "2026-10-29T08:12:49Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:04:57 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "중국, 반부패 의지",
+                "hook": "더욱 강력해진 사정 칼날, 중국의 미래는?",
+                "script": "중국 당국이 반부패 투쟁의 고삐를 더욱 바짝 죄고 있습니다. 시진핑 주석은 더욱 명확하고 확고한 의지로 부패 척결에 나설 것임을 천명했는데요. 이번 조치는 공직 사회 전반에 걸친 대대적인 기강 잡기로 이어질 전망입니다.",
+                "original_title": "受权发布丨中国共产党第二十届中央委员会第五次全体会议公报 - 新华网",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQm96aXpLbERKQ2d3c3ctMXREQmgwZGlCcjZ5TGpubXlndW11OFlnVUVCVUotZjBuSEtPbkxMUlZ3Nzd2aHlfQWdQMlA4cF9aNEprNkVMSmRWRkFyR1ZRcVVKZDE2NFN2RHF4MlVidUhYemRRdE1nNDljLUVSa0lsNkFzWG1pTTBrNlYxRUxB?oc=5",
+                "pub_datetime_utc": "2026-10-29T09:42:32Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:04:57 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "愛知 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "愛知 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報",
+                "original_title": "愛知 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報 - NHKニュース",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jUlQ5a1lIdkZraXpZWmVPOTZlYkFtMXlrSlNQSzVEX2Q4WHhNRHVkOHFtcHZIUVgtajdGWWNzWmxjNU9wMGNKZDFaVl9qalFBOG9zQVdKcms4NjM3cWsw?oc=5",
+                "pub_datetime_utc": "2026-10-29T07:42:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:04:57 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "인도, 사이클론 공포",
+                "hook": "왔던 길을 되돌아온 괴물 사이클론, 인도를 강타하다.",
+                "script": "인도에 상륙했던 사이클론 '아르납'이 이례적으로 경로를 바꿔 다시 인도 본토를 덮쳤습니다. 갑작스러운 방향 전환으로 피해 규모가 커지고 있는 가운데, 당국은 긴급 대피령을 내리고 구조 작업에 총력을 기울이고 있습니다.",
+                "original_title": "No clear winner in Israel election with nearly 90 percent of votes counted - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmJRN2dyY3FpN29wU2ZnR3hiUVBhbElKY2hmcGZ0X1FVM3NnNGV3elViN2NXNFJlOWFWQ2hMOExrQWpqdTZ0R0lGOTV1ekpXd3d1UDZVdXJqSGJ6M1puTGhPMFRnUFhQQjAtVzBPUW94dzJaODRObjV6M2dLMXNjYjNYOTc5Wk4xWmx0YmtxUS1TZEt6c1NzV1huS28xVU9ld1NpaVRYQUFScXIwbS1rdVJvRGZKOVV50gG-AUFVX3lxTE43aGZvSkdlUkZWeVp4czVqLUNtaDVicE9xQjhOOXo4MV94aHdHeFBVOXlOS3hDSExEOTJFbUM2RlZTT015aU5RRUxtdFpwWDd2OHNiWkstcTVnbXpsRFdZNkFEeGNxNzVYLW1XWGtnMzlRaHp6N3VJRzRBOV9MbXNEdjJhTTdrYXF3bU5zRTlSdmZXXzBTRF9uSHZtejNvOXNFSEhNUjVtQzcwUU5mUHFRQjk3VldLN3puM3p3OEE?oc=5",
+                "pub_datetime_utc": "2026-10-29T00:09:49Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:04:57 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "프랑스 극우 논란",
+                "hook": "100명이 넘는 예술가들이 극우 부상의 책임은 미디어에 있다고 공개 비판했습니다.",
+                "script": "최근 프랑스 내 극우 세력의 급격한 확산을 두고 오마르 시 등 100여 명의 예술가들이 미디어를 정조준했습니다. 이들은 언론이 극우의 서사를 확산시키는 데 일조했다며 강한 비판을 쏟아냈습니다. 마크롱 정부를 향한 비판과 맞물려 프랑스 사회의 갈등이 최고조에 달하고 있습니다.",
+                "original_title": "L’Espagne de nouveau endeuillée par une catastrophe ferroviaire, moins d’un an après celle d’Adamuz - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRUhVRTZJNjBwQ0RaYUJJb25oM05DVV8zaXZsdUpBTFRrekYyNC1WMWY0T2VCZXpaOUV6cHhzcG1WWlo3ZkJyczBBVHZrYjRYQjA4Nl9mWVJpazRHVkxoZThudzQwNjd0dkktT3FjUnl5MUlpakNCTmI1MkM3aktOZEJKNUlRWFFvNTBCNXJycVNoTjVGTkRFWW42YlNaem14X3I1Q2RVUjZsaGx4OUF3YldHc0hZblJSandaOEhtelNMZExtTXg2UVhXVUtONmlPeEtkQTF0WERCOFcyYnlIMDhPempSQ3RyUUNyOHJHdERSMG9vbEh4TFY5cUM5SnBz?oc=5",
+                "pub_datetime_utc": "2026-10-28T21:11:24Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:02 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "이탈리아 대규모 개혁",
+                "hook": "신생아 지원금부터 연금 개혁까지, 이탈리아 정부가 2027년 예산안을 발표했습니다.",
+                "script": "이탈리아 정부가 2027년 예산안을 전격 승인했습니다. 신생아 1인당 100유로 지원과 소득세율 인하, 조기 연금 도입이 핵심입니다. 경기 침체를 극복하기 위한 정부의 파격적인 경제 정책이 이탈리아의 미래를 어떻게 바꿀지 주목됩니다.",
+                "original_title": "Via libera del governo per la Manovra 2027: 100 euro per i neonati, Irpef al 33% fino a 55.000 euro e un fondo per le pensioni anticipate. Slitta il decreto bollette - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQMl95QjJ6c1FPU2JMb2hJZVhnZnl4R2JBVzJ2alVrNEU5aEk2dktOMkxLVERaRktOMmppRWVvZjdVMzJYb1NtMktOMDBGd1lrYzBzMkhXM3d3MHctRkkwdnJ2YmlVZE1taHB4XzRmd3FLREVId1lqUHZTZjdDT3pfUkZPOUc3akM0YlhieGJsdmNoaDdsaDZQcnlrb0IxM3R6SmVJaFNuS3FVVXRlbUVSNmlUSTJ0OFREVVhXOEFhaFJ6STRvR3l1dGxDUDVmNmh3bTQzbHI2ZTd0R2tZcEFQcm1hQ2VpeXBwZnNQZXJlQm8zWHJKQVRvSWtGRGU5SnQ1TnRFY3dHWGhsaVVzYXNUOVBtN01kUEhZQUY5SHRfUmlPWTUxYTZkNUZVTHBiVHZFSXfSAbcCQVVfeXFMUFJWdEdkYlBBZWktTG8xVUd0ajlXbkJRYmpZd2Rla1NObDh6LWx3N1I5MmIwUXVEZWFRM3k4RnFVWXRuZDBxS3VoT29QTThiNTNlTGRUV19jSXE2czhPS2pIc2RHaUJHZFV2Rk9fWW8xd3BidUlubmhZZG1sU09wZEQ5ZTM4aTZYZjl6N1hscFJqZjFtY2pqU05kcm5WUGZmaldvd2NiR0pfNWM4THRaMjhRbDd2QzJENUJBRm9QZ3ZfbFozcno0d1RJOW1jMWtaUFFuVUtfQmFHaXp6UHNfLWVtYkxUQ0o0ZWtfY1FQR1ZGU1Q5dHNzdWN2RHJ0d05VaGRyUmF3Z256a1ZnZFRBRFlNT2lJUnJNbTh4NmFoemtSNHRZWU9Icy01TWJ0czZXWTIzY09aZTQ?oc=5",
+                "pub_datetime_utc": "2026-10-29T06:49:39Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:02 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "플라비우 볼소나루 파문",
+                "hook": "브라질 정치권이 스스로를 '진정한 대통령'이라 칭한 플라비우 볼소나루의 발언으로 발칵 뒤집혔습니다.",
+                "script": "플라비우 볼소나루가 대선 결과에 불복하며 자신이 당선자라고 주장해 파문이 일고 있습니다. 아르헨티나 의원들까지 나서 비판하는 등 국제적 논란으로 번진 상황입니다. 브라질 정계는 이번 사태가 가져올 정치적 후폭풍에 긴장하고 있습니다.",
+                "original_title": "Deputados argentinos acusam Milei de facilitar fuga de Flávio e pedem reconhecimento da vitória de Lula - G1",
+                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTnFjdVAyWE9pU1ZGOENkVFJValF4Z2s0LXN1a1ZCT2hyVUtqam9oaGtNLVMwNzlRa3ZtRlc2eVBQQWFWM05sZjR0aGt1dzlOdVFKMXpBcThGQjBJbTh4ZjFlWVBBS0ZreVotbkRIcDEyQ0tYZWNpRlFvQXUwR29MM2RhMk9uODU3YlgzQ2FNeUhnWlJPTlVrS0w1YW5UUDRYaHJvSVRIWXpkeXZRV3dyRkMwVUJPbWFsbEtMcE5tUFlSN2hpMU9KeXMzQm94VzRCY3llRkY0U0w0Y3d0eVlBQXp1OUtKdDBhMEFZ0gH6AUFVX3lxTE5MRVFfU1BJUlNBdjdydGtSX05xVnFUMWI3VkFBWmZOeGc0UGZNMnF0UTN0VTJwTG14aHpDWUtnQTlWVHZGUWhOWUwxbDJSUDIwQm9Ba0RBbXg4OFNoUTlTWWZERE1BZUNSYV8xN2l4djREajF6VjZjc3Jyd0hxdWhKQTBYR2ZqSUxDVjdjMjFBMDd1UktuNEN4RXFGRzNHRkxpWFpoNll1Rmc3YklXLUNjbFNWeGlfNGdiMEVBSDJZWllndlM1VFJHeUkzdnZSa3NUWFVrbmg5bWtFOFYzSV9XbUV4U3NKLVk1b3RmRDRJWF9WQ2Vxa2wxZXc?oc=5",
+                "pub_datetime_utc": "2026-10-29T00:43:12Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:02 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "캐나다-EU 동맹 변화",
+                "hook": "캐나다와 유럽연합의 밀착 관계를 상징하던 '준회원' 타이틀이 역사 속으로 사라집니다.",
+                "script": "유럽연합이 캐나다와의 관계를 재정립하며 준회원 명칭 폐기를 결정했습니다. 이 결정으로 캐나다 내에서는 퀘벡주의 소외 우려 등 정치적 목소리가 엇갈리고 있습니다. 글로벌 동맹 지형이 급격히 변하고 있는 가운데, 캐나다의 대응에 이목이 쏠립니다.",
+                "original_title": "EU dropping associate membership title for its closer alliance with Canada - CBC",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0dtbG95c2h3TXdodUZtNDBJSWdhWnh0ZnNfLXZFSHpmUVlaNjFPcXJYWUZaa1NpaWlabktqZFJWQmpuOFZHeHR1bFlUcDFzRTNGV1UwbFhKMzRaclVNQkRYaEdlODVvaFlQSEJpMTFyYzdpd1k5THhwamxQT0ZZUjlNT0JoN1Nk?oc=5",
+                "pub_datetime_utc": "2026-10-28T23:27:45Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:02 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "러시아 대규모 드론공격",
+                "hook": "러시아 전역이 올해 최대 규모의 드론 공격을 받으며 비상사태에 빠졌습니다.",
+                "script": "러시아 영토를 향한 대규모 드론 공격이 이어지며 바슈코르토스탄의 화학 공장 등 주요 시설이 타격을 입었습니다. 100여 채의 주택과 수백 대의 차량이 파손되는 등 민간 피해도 속출하고 있습니다. 전선 밖 러시아 본토까지 전쟁의 공포가 확산하고 있습니다.",
+                "original_title": "Попытка атаки БПЛА на Москву стала одной из самых крупных в 2026 году - Lenta News",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb3lscHhBSDI3T2xYaHF4YmZ6OVU5NkxFZzNkMjlLR2Y5UjlaTzVCcFFSRkVfWUhuRzgzRnZ5akhWTVIyWTZlbUVwLUFxVENMNlZDLWh4Ym9jenhraTRGaHRHN0hoR1NXdjZUWXp5cXM1QkFOR2JrWngtQWRCd2RrV0xSUE1JbnNRejByUEZRNU80ekxERDVlalQ2eEZPdTdPREh6Mk1HdFrSAa4BQVVfeXFMTzBzYlh4UkVMYkRFQXJ0RjJ5b1hSOGQ5UGpfSDU4S1E0QXNROXZPVHZ1d0JoZ2NZY25wYXNWREllQzVWZUNCeUxMMHVvUUxlc3BJRlAycFVoaUxBVUV4Wm9VUUtzRUh1STRuS1oxZHVYX3VCZzVBaGJmUGhWSkI0MTI3cGRZMUFGQjB5Z2RxV3ZFSGFwd2UxN1pTY2w5NW1uS2xuRFM4RF9tNGhkcVp3?oc=5",
+                "pub_datetime_utc": "2026-10-29T04:28:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:02 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "멕시코 선거 부정 척결",
+                "hook": "셰인바움 대통령이 선거판의 고질적인 악습인 '선거 브로커' 근절을 선언했습니다.",
+                "script": "멕시코의 셰인바움 대통령이 선거 부정과 관련된 브로커들을 뿌리 뽑겠다고 선언했습니다. 투명한 선거 시스템을 구축해 민주주의를 바로 세우겠다는 강력한 의지입니다. 멕시코 정치권의 투명성 확보가 본격적인 시험대에 올랐습니다.",
+                "original_title": "Sheinbaum se lanza contra los proveedores del INE para evitar más escándalos: “Hay que acabar con los coyotes electorales” - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUI4OUpjTXJYQy1qcExXWHh0SnhWQng3dWQ5bTVBaXZfOEc1V3pPRHNMNWZMUXo5YkZabGd2ZWkxYWdvMlZfOThRUno3Q1hEYXQ1RUFwclY3U3dHOW1ZNWRqNGdIYzVOdlRHWmJVWXRBc2ZLa3JRNmhGdnNjVU1YNl80QXJHUUNSd3BpZGY1cEdXeExYRFNYYVNnTG5pMEZ3TUZCakV3X25abmVLZVhqSWVZR2R6bUpuMmhrdTR3NHBaNVUzamx0V0RMR0ljQzhRdTVUdWJHNFFMdERVZDBPbmhjcXpCb0VqRWJ4ZlRqcWtOakk?oc=5",
+                "pub_datetime_utc": "2026-10-28T15:17:15Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:02 KST",
+        "current_rank": 10
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "브리즈번 총격 참극",
+                "hook": "평온한 일상을 뒤흔든 브리즈번의 비극적인 총격 사건, 대체 무슨 일이?",
+                "script": "호주 브리즈번 남부에서 드라이브 바이 총격 사건이 발생해 꽃다운 나이의 10대 소녀가 목숨을 잃었습니다. 평범한 일상을 보내던 마을은 순식간에 충격과 슬픔에 잠겼는데요. 경찰은 범인을 추적하며 사건 현장을 봉쇄하고 수사를 확대하고 있습니다. 무고한 생명을 앗아간 이번 사건에 호주 전역이 공분하고 있습니다.",
+                "original_title": "Teen in 'prime of her life' dies after drive-by shooting south of Brisbane - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckdJWXJaaTJFQ3JhM0ZzZzM5WUtxYno3NHpNUXRhMGJ4MTNXRmo1STVXX29odm9nN0ttOVZVWEVpZXBhdUstRnlrSXZfWEZNSmd0Vzc1NFZtYWhBcUFBN1VGWlAwZG9BU0NyLU5VdHBoN1YyUGplUThrNVl4dXA4a2Rwak1rV0hXXzhYN1NRUjhvdWJxYzdYMWNEMjlJdjdXS1lz?oc=5",
+                "pub_datetime_utc": "2026-10-29T06:55:33Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:09 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "윤 대통령의 파격 발언",
+                "hook": "대통령 5년 연임은 미친 짓? 윤 대통령의 충격적인 발언 배경은?",
+                "script": "윤석열 대통령이 대통령 임기 개헌 논의와 관련해 5년 이상 대통령을 하는 것은 미친 짓이라는 파격적인 발언을 쏟아냈습니다. 대통령직의 무게와 현실적인 부담을 직설적으로 표현한 것인데요. 정치권에서는 이를 두고 장기 집권에 대한 부정적 견해인지, 차기 대선 구도에 미칠 영향인지에 대해 갑론을박이 이어지고 있습니다.",
+                "original_title": "국정원 \"APEC 전후 북미 정상회담 국면 전환 가능성 있어\" - MBC 뉴스",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QNE5QdF9FSnpVM1RYSWhOSkZWWXcxTkwwY0xhR1l3NjBSRzlYczlYVGppWWpXVGxxaHJKQ00tWFdlLWhXYXpkdUlXQmtvbFpuclRCcktRb0NxbDN2RFVIWDdKeGlqRUlWTUQ5NUp2c1E4WUIwckt4a9IBeEFVX3lxTE81VktMWEhoRGtzaTRXdWF3QlQwRHdYdU1HRmRma1hsM241NkZ1Z3VWcld6cUtxVWZqSy04eGhnSjlMNVVvRkFCSmlYSjZSWF9YSklZRjJyMUdFUWtJdmxhQjNESFBaN1UtQVd3UVpvZU5ROEtORENiWg?oc=5",
+                "pub_datetime_utc": "2026-10-29T09:21:39Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:09 KST",
+        "current_rank": 12
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Sidang Gugatan SK Penyetaraan ",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Sidang Gugatan SK Penyetaraan ",
+                "original_title": "Sidang Gugatan SK Penyetaraan Gibran Digelar di PTUN, Denny Indrayana Walk Out - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEp0eFVKUXNhNjRBQWloeXZhWlZfdEFHaTZPSkpSQmxwNjdxbFlxbTM4UTBXblV0VmZIb3REclFqd09qbFQ5ZThobVFSLTlQbGpTbnlmZ2Q0a3BRSlRLRW13WmZVS09PNXZIWVRxRWp1WVo4RmNIWHF3NkxwRF94VmxTYllvUG9Jem9faVItTjNiY0Y1cDJtX21zd0U3cUVKeVk4MTVDRzhnZlpBT1hyVmMtZDYyZm950gG-AUFVX3lxTFBIbUN3QVFSTHg0OHNlVGRQU2txM1pnTHpYSXJmNk55VHdGQWItWUdtYXV2Zk5WWlZ1MXhxRnFSOWw5Z3AzaVVzdGVMRENTYnpNSi1NRXNwV3RvOERqei1wc3NGWWpSTDU5N0FTV3pMb0hIWFFZWGQ2Tm1uWTBYTkJ1NzhRZ0ZiQUt5dU1RVkpWUkQ4VUxsWjUtU3JwOGVDVlpKcEh1dmx0UmV4RmpSaUoxQXBmZ082ck91VW5wbWc?oc=5",
+                "pub_datetime_utc": "2026-10-29T07:14:06Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:09 KST",
+        "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "터키 공화국 103주년",
+                "hook": "103년의 역사를 맞이한 터키, 전국을 뒤덮은 환희와 논란의 중심은?",
+                "script": "터키가 공화국 선포 103주년을 맞아 전국에서 대대적인 기념 행사를 열었습니다. 에르도안 대통령을 비롯한 지도부는 아느트카비르를 찾아 아타튀르크를 기렸는데요. 하지만 일부 지역에서는 지자체장이 기념일을 소홀히 했다는 비판이 제기되며 갈등이 불거지기도 했습니다. 터키의 오늘을 관통하는 화려한 축제와 정치적 분열의 현장을 전합니다.",
+                "original_title": "Cumhuriyet 103 yaşında: Tarihi yapmak mı yazmak mı? - Yeni Şafak",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1pHSE5keWFOVTBVZk1ta2ZmYmQ0R0t0WWQ4Nmp3NzQ4dHlVRzJnelZwcTRkMzItMlB6czBtR01HZjhPVDlTOEJNOW4yT0RiajZSZDVDaVU3dVNEZWFSTnppZFMwR1psWjRfZkZ6aml2UUkzTlkwWXNZT01FcFAtTlFtU1VCYWZvN21hOFhfbTQ5WV9oNExKdy1fV1VORy1RN1ZfTEdZRQ?oc=5",
+                "pub_datetime_utc": "2026-10-28T01:00:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:09 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "사우디 탄도미사일 요격",
+                "hook": "사우디 영공을 노린 위협, 요격된 미사일 뒤에 숨겨진 긴장감은?",
+                "script": "사우디아라비아 영공에서 후티 반군이 쏜 탄도미사일이 사우디 방공망에 의해 성공적으로 요격되었습니다. 최근 사우디의 주요 에너지 시설과 공항을 겨냥한 공격이 잇따르면서 중동 지역의 안보 위기가 다시 고조되고 있는데요. 사우디 군 당국은 즉각적인 군사 대비 태세를 강화하며 강경 대응을 예고했습니다.",
+                "original_title": "الانتخابات الإسرائيلية.. أين نقف بعد فرز 85.6% من الأصوات؟ - CNN Arabic",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkkxUXVRQW4wN0RCSDNvRmstWWxmZ1k1UUtwanFlVlAzbHR2Ulo4cGJ4RWF6QkxaaFFtaUtxWVMtSkN5a3VWakc1R3ZQelNVMEdwYnpwZVBKSEQ0RHVoeGRSZlhlU2VvUkozWTJBNzE2TWxHczVFLUprTGVQR2lTVFNNb01aZHdoVDFVUUVncURmeDNlN3VTNkU0cXY4U1c1VkJsRENxNmdMdWZ4SnhrbWRiT2JUbTBvVjFsa1M2b0xYZlloblZz?oc=5",
+                "pub_datetime_utc": "2026-10-29T06:29:41Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:09 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "스페인 열차 참사",
+                "hook": "스페인 열차 충돌 사고, 희생된 아르헨티나인의 안타까운 사연은?",
+                "script": "스페인에서 발생한 열차 충돌 사고로 아르헨티나 국적의 탑승객이 사망하고 실종자가 발생하는 비극이 일어났습니다. 타국에서 들려온 갑작스러운 소식에 아르헨티나 유족들은 큰 충격에 빠졌는데요. 현재 현지 대사관이 실종자 수색과 수습을 위해 긴급 지원에 나섰습니다. 모두의 마음을 아프게 한 이번 사고 소식을 전합니다.",
+                "original_title": "Confirman una víctima argentina en el choque de trenes en España y otra permanece desaparecida - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHJDYU1BNUFCaUpkRTdYU1NYOC1kNE45OV9Ld0xHUGFMRDZ0ZW53b1NaN1NEUmxlOFZGZUNSOUtKQmtWd1FlN2o2ZzJSTkFmWFo2ajRHTHlTbjFnNTVjc1dXSXlzNmlHNm5GTXZPbFY4QkNVRUYxNGVDNmJLOTkzSFp4V0VYR2czY0Z1VHA1QThGTTlKRmNvVC03Yms5X1ozODQ1Tmk5WXM1bEtKbTkzT2tDREVhY0VHZjc5dnVkSDZZVXRKbGJBNkIzOFV1UWp5X19PTHppZXJqY3VD?oc=5",
+                "pub_datetime_utc": "2026-10-29T05:44:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:09 KST",
+        "current_rank": 16
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "남아공 국가 비상사태",
+                "hook": "라마포사 대통령의 군대 투입, 남아공에 무슨 일이 벌어지고 있는가?",
+                "script": "남아프리카공화국 전역에 군 병력이 전격 배치되었습니다. 최근 정부 기관을 노린 방화 음모와 사이버 범죄, 그리고 잇따른 강력 사건으로 치안이 극도로 불안해졌기 때문입니다. 국가 핵심 시설 보호와 사회 질서 회복을 위한 이번 조치가 혼란을 잠재울 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "SARS raids Tshwane offices in operation targeting CFO Mnisi - eNCA",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjVCeEo3NFRnMExXU08yOHhDQ0x5dExmLU4zWG0zSDd0c0dRc2xGb1NhWWVxeFg0MzJTdVdERGJYMm4yT0lIbjNRVUdpQjFkQnpmN0swcE8xWl9tUC1YNUhIeTNrX0F2eXlUUGpYTExNSUhSSDBCaWFEWndvSkg2MHZHN01KZ3gyU3EtN3JrYTFTT1AyeWJONWJqNGZ5U1VoRlJR?oc=5",
+                "pub_datetime_utc": "2026-10-29T08:15:44Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:05:11 KST",
+        "current_rank": 17
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "스페인 열차 참사",
+                "hook": "평화롭던 기차역이 아수라장으로 변했습니다.",
+                "script": "스페인에서 발생한 끔찍한 고속열차 충돌 사고로 68명이 목숨을 잃었습니다. 밤새 이어진 구조 작업 속에서도 비보가 이어지며 온 나라가 슬픔에 잠겼는데요. 현장은 사고 수습과 희생자 추모를 위한 긴박한 움직임으로 가득합니다.",
+                "original_title": "68 Tote nach spanischem Zugunglück Suche nach Opfern geht auch in der Nacht weiter – Ausschreitungen in Madrid - Tagesspiegel",
+                "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdmpidnlzdkRfZXotbUE0SmhoZ04tNy1WN0JySk5LUkZVY1dGY08yWWNtSHMwOWVtbUJQcEJiUFYySUxjVWlPMnNiOXJxakxUSkhrV0U1eFM3ak52SkcyUTI5MzdLWGlaQ3BDN1oydUx2cmFhankwRmhYajh2NFJ5b0Y3VEhRRTRHdHI3U1VTLWg1RDRhb0FvTXhzeUl4d2lYTmtVT19LOHV0NHk5QThUenZndnphUWVMRXdLVXVhOUd0RXJzV3hDUEtFeUFDRVFGNk5neG5zSnFGR0w1QlhTTG9aMVRIejJ2RWUxV0FoLTZsQV8taU14XzgtbWwyOEJrOFRKQVQ2bw?oc=5",
+                "pub_datetime_utc": "2026-10-29T04:46:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:04:57 KST",
+        "current_rank": 18
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "영국, 우크라이나 지원",
+                "hook": "영국이 국방 예산을 대폭 늘리기로 결정했습니다.",
+                "script": "영국 정부가 국방비 지출 목표를 앞당기고 우크라이나를 위한 수십억 파운드 규모의 지원을 약속했습니다. 이는 유럽 내 안보 불안이 커지는 가운데 러시아를 견제하겠다는 강력한 메시지로 풀이됩니다.",
+                "original_title": "Spain begins mourning period after deadly train crash - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEcxSmMxR0cxZjVYbEpQeEVPWEQ2QWJJcEYwdjJ2VUxydk94aEdsWTVzb2dzQzVzelE2b0JGY3BacXB5YWk5UlliNEd1Y0hsajQ5LUk1aG0tZUxINnJtVFB5UDctNDN1c2JQYmd2bmVMRU1xVWJkc0p1UVVWQzEzOE44dG1NSTJMOE9xT3FuRQ?oc=5",
+                "pub_datetime_utc": "2026-10-29T08:40:00Z"
+            }
+        ],
+        "last_updated": "2026-10-29 19:04:57 KST",
+        "current_rank": 19
+    }
+}
