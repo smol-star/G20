@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미 중간선거 임박",
+                "hook": "운명의 3일, 미국 전역이 투표 열기로 뜨겁게 달아오르고 있습니다.",
+                "script": "미국 중간선거가 단 3일 앞으로 다가왔습니다. 격전지마다 후보들이 총출동하며 마지막 표심 잡기에 사활을 걸고 있습니다. 트럼프 전 대통령도 유세 일정을 재개하며 판 흔들기에 나섰습니다. 과연 이번 선거가 미국 정치 지형을 어떻게 바꿀지 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "Judge blocks DOJ from threatening election workers before midterms - Axios",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zdndkaWZvRWVwWUlwZU82X1JCU1g4MDV2QTZ2QkQ1OUpVSlBhc3RLU3FXaWFfVVdVS0NLWlZXNHUwVTRGcHg1VVpLeWRIZzFLUEE0dk44M0djRmIwUUdLSW55eEF5MWV5bXZ1QUExZEMyeFNsV2RFT05n?oc=5",
+                "pub_datetime_utc": "2026-10-31T02:10:40Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:07 KST",
+        "current_rank": 1
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "독일 반유대주의 급증",
+                "hook": "독일 사회에 충격적인 경고음, 이슬람식 반유대주의가 폭발하고 있습니다.",
+                "script": "최근 독일 내 이슬람 극단주의에 기인한 반유대주의 범죄 수치가 위험 수위를 넘었습니다. 사회적 갈등이 깊어지면서 정부의 대응책 마련이 시급하다는 목소리가 커지고 있습니다. 독일 사회의 통합이 심각한 시험대에 오른 지금, 국민들의 불안감은 극에 달하고 있습니다.",
+                "original_title": "Gen-Z-Proteste im Liveticker: Alle Infos zu den Protestaktionen der Jugend gibt es hier - WDR",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pN1ZsRXgwMEdEZktQbnhvWVFEd0lvcHo2aTFsU3RTRnN4WVQ1UUlZVGNXQzhOSTk3bDB6NGdWZmZVOXJkVmNybHp0TjgwVVdvV1FWSnM4Z1UyWDFtb3haa0pOc2xnMDlmaDlhZk5rVGYzMGEzUzRQQlJB?oc=5",
+                "pub_datetime_utc": "2026-10-31T12:23:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:07 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "アメリカ中間選挙の期日前投票者数が前回を５割上回るペース、４",
+                "hook": "Japan의 최신 주요 뉴스입니다.",
+                "script": "アメリカ中間選挙の期日前投票者数が前回を５割上回るペース、４",
+                "original_title": "アメリカ中間選挙の期日前投票者数が前回を５割上回るペース、４９５６万人が投票済み…民主党支持層目立つ - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CcGJjT01BeUdvNllyWmZlZnRGRGMxTEQyWXZjVXF5R0tyMnhlX3ExY05vbFl4ZElYR0UyRXdfUkRvRHAwMTgyN1ZxSVFtZl8xcFAyaGNQRGltRlMxQWFNRHVB?oc=5",
+                "pub_datetime_utc": "2026-10-31T09:33:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:07 KST",
+        "current_rank": 3
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "이탈리아 총파업 격돌",
+                "hook": "로마와 토리노를 뒤덮은 100만 명의 함성, 이탈리아가 멈췄습니다.",
+                "script": "이탈리아 전역에서 열린 총파업 시위가 로마와 토리노 등 주요 도시에서 거센 충돌로 번졌습니다. 주최 측은 100만 명 이상의 시민이 거리로 쏟아져 나왔다고 밝혔습니다. 정부의 정책에 반대하는 시민들과 경찰 간의 긴장이 최고조에 달하며 이탈리아 사회가 크게 흔들리고 있습니다.",
+                "original_title": "Cortei, 60 perquisizioni in 23 città - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUhvTWozYmd5LWI0NG9fNWRjR19HQ1B3Vm5PNkhxTjVEVnBrdVZtWjVaNFBHekxLdXhKQjV2WWdqV1VGRGZUbFpaWE1oZ01hOG1fLUo3MmlsckZOdGlFcGY0TnNXVFFQQUlYblZOemZhQ3g5elRYcTdXZ0E5OVdsWC1vc2pBZ1pYVGdXc3BlRzd5SE0wZVJLQkVqcXhhWHhobHYwbVNIT1R6SUVnYjduYmZPTHpRV3hCdGloYVNvdVRPX2FJWHJzalJ30gHPAUFVX3lxTE1MN05HWmIwS2JLNy0xUWJ1Y0Fxc1pGQlYwZ24wVVB2OGNWQTA1VlhrOEdfWmVWVVdYNHVhTGRVUTBpV2pyTjI3Und5YWZEVWhLTzNoQktvcU5XZ3FKcWRHSkVyaDlSZ3lzM2RRVC16M05ZOHBnZ1NuTzlnN0lFaTg3MG9KOXlLSnFtZC14N0p6RFNmME9KNi1PQUdTQXd0Nzg3d1Fkb0VqdU5kM1FRdERFLURaZ3hEYk1WTGp6VG54dGxYTTU2aGVZdEFqZ2wzMA?oc=5",
+                "pub_datetime_utc": "2026-10-31T09:13:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:11 KST",
+        "current_rank": 4
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "룰라 경제팀 구상",
+                "hook": "룰라 대통령이 차기 경제 수장을 찾기 위해 파이우이로 향합니다.",
+                "script": "룰라 다 실바 브라질 대통령이 차기 재무장관 후보로 폰텔리스를 고려하며 시장의 이목이 집중되고 있습니다. 이번 행보는 브라질 경제 정책의 향방을 결정할 중요한 전환점이 될 전망입니다. 시장은 벌써부터 룰라의 새로운 경제팀 구성에 기대와 우려를 동시에 보내고 있습니다.",
+                "original_title": "Lula cogita ir ao Piauí convidar Fonteles para Fazenda e anima mercado - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzdHODJ0ZlBudmE5ZDlYYmZ1NTJkamc2ZFlBWHhUR19oT3VyaVI3eUt2M0drX1Q0N0JXUHN6RXEtVEstS2tIRzhCSUhoWEFWTEhvZjVhVWxvRUJyYm5DWjVPT2NkM0hRdWRmSjN3blhfakZyNlZURmZNd2gyYUtHVFAyTDVYSTNEaUdxUnVCVGt1LWRZNEZyTGwxVVJOR054U1hKeXRRd0QtMEtzTFhUVnZMWQ?oc=5",
+                "pub_datetime_utc": "2026-10-30T19:34:44Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:11 KST",
+        "current_rank": 5
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "Nearly three-quarters of Canad",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Nearly three-quarters of Canad",
+                "original_title": "Nearly three-quarters of Canadians support PM in seeking closer ties with Europe - National Post",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekljeFBTUTNqenJuV1ZObi1wTHFXbGpONEhpWUVsM0JfcHpyWnIzaDd1aEVIRndrLURCZ2N4ZmlzMk5xeVVIaXVSR3hhQnJfaGhYZms0WThjcXRXcEpuRHBPc3hrWUhxekMxY3hSV0xhRTZnbFJtWnZPOUNOYVVMdlZVckF4LV9vaGJIaEh6TVpqbmh6aHZtN2FWd0d5eUE1TGt3WHV0bDFwNWxkWHQ3YzMwUnY4b2ctUUE?oc=5",
+                "pub_datetime_utc": "2026-10-30T23:41:05Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:11 KST",
+        "current_rank": 6
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "멕시코 대규모 시위",
+                "hook": "멕시코시티를 마비시킨 노동자들의 분노, 도심이 멈춰 섰습니다.",
+                "script": "IMSS 노동자들이 대규모 시위를 벌이며 멕시코 내무부 청사 접근을 전면 봉쇄했습니다. 연금 제도와 행정 불투명성에 항의하는 노동자들의 행진으로 도심 교통은 마비 상태입니다. 정부를 향한 규탄의 목소리가 커지면서 멕시코 정국에 긴장감이 감돌고 있습니다.",
+                "original_title": "EN VIVO | Megamarcha de trabajadores del IMSS hoy viernes 30 de octubre: Manifestantes cierran accesos a la Secretaría de Gobernación - Infobae",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORkZWLTdKdnE5RDdmMVFYSnlYcWlzTk15TzZyMW0zUUZ1cVJNWXdIc2JVM2ZLZHRlTTQ5R21oZHl5Z0s3ZGdfcVBEazZ2Z3pfbEllanc3Q1MzaW1tQ2lIQkl6RTNsMF9MalNEWmVnOUdiaDBNeTJVVFJTWnZNWGFTVm1Od2FNT2tWOTJhR25TOFhTelQ5T0xfNWtaOGJJYUtXQ2M2NG95bG9jQW9SbU5hNUpUMXctSGJPbVE1QmFDaGFzZ2pmM18zX0ZPcnFxMC1URzlocFYxSEVvR0ZSSHFaR0N6ckTSAf8BQVVfeXFMTTktR010dWt5ODNIR2FPWjVMYlNWNzAta2hHSUFwcVpOOW9IcjdqY205MzlBY3VPdERSbFI0M0g2dWxZcWJRUVRNbTNlaFh5ZmZWaEt5eU5WVGhnamVnbEU4NGNTQ1h2UDd0dlZmR1NTUmktN1JYelR0WnZnZFVuM2N1SHFTNGlPbjBuZHhsVVFCUUNOR3JVWk1obzlpS2tHM1VLNkdwZ0ExUDVQYnZNSkd1R0t1MElhQWNGVXBrUE9aTl9ZVzI2VjVDNHYyV0ltSkpVY3FuTk81YVZBYmVGbVdxN0hOWTEyU3ByaWJXSmZtWGhwNnQta05ucmlJTUo0?oc=5",
+                "pub_datetime_utc": "2026-10-31T04:20:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:11 KST",
+        "current_rank": 7
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "브리즈번 도심 추격전",
+                "hook": "3시간 동안 이어진 광란의 질주, 결국 비극으로 끝났다.",
+                "script": "호주 브리즈번 도심이 3시간 동안 벌어진 경찰과의 추격전으로 공포에 휩싸였습니다. 경찰의 필사적인 추격 끝에 차량은 멈춰 섰지만, 도심 곳곳은 아수라장이 됐습니다. 사건의 자세한 경위와 범인의 정체가 곧 밝혀질 예정입니다.",
+                "original_title": "Three-hour police pursuit comes to dramatic end in Brisbane - Nine.com.au",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUndjZW5WZWd0WnExdzRocXIxeWNjdkhUWG1qSU4tNUJsVTlhNnNWZENkeHFVZWRWcF9QZEE2d0oyelBHcThnNmYxV2h1SktjcVFtYlpGU2N1WUotNGdfc1RUN1dmRFdHcjRnTWpqNUFiclJoLU8yTV9scEV0LUVFWENzcFIyRTFtbm43Wk1aaVFycnF3SXQxaEtaZFh3UVM3Y2tlME5HS1ZGRVlsZE91Ui1DUVBUYS1SWTFrU0V0dC0?oc=5",
+                "pub_datetime_utc": "2026-10-31T10:51:16Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:18 KST",
+        "current_rank": 8
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "장동혁, 대통령 비판",
+                "hook": "대통령을 향한 여당의 거침없는 직격탄, 정치권이 들썩인다.",
+                "script": "장동혁 의원이 대통령의 행보를 두고 강도 높은 비판을 쏟아냈습니다. 링거 투혼을 언급하며 외유성 논란을 꼬집은 발언에 여야의 공방이 격화되고 있습니다. 과연 이 발언이 향후 정국에 어떤 파장을 몰고 올지 주목됩니다.",
+                "original_title": "장동혁, 이 대통령 향해 “링거 맞고 코피? 일본 가서 총리랑 드럼 치며 놀다 와” - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUWVBrZFI4dmNvWldiTkg2Tk50VzNMaGZRekdlQkpQMDJtay1WNXFXZFp1SU9OZWRaZVU5ektlMEtKVHYwZTNnLV84dllzZktpY0tUM3RybUhIUdIBX0FVX3lxTE5DY1dFTzZJUElybUQ0M2dYNnFhNjlhMkZFakRwbnFxWGFScmRNbHJOZGZFVDFlNlRiZWJzWUFxQmF1REtLcGRYUFBoTElxSVZ3TFhRd2JDZUlJb2NDbTdr?oc=5",
+                "pub_datetime_utc": "2026-10-31T08:57:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:18 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "터키, 비자 주의보",
+                "hook": "자유롭던 해외 여행의 시대는 끝났다, 터키 여행객들에게 닥친 변화.",
+                "script": "터키 여행객들이 즐겨 찾던 국가들의 비자 면제 시대가 막을 내렸습니다. 이제는 사전 준비 없이는 출국조차 어려운 상황인데요. 터키 항공 측도 긴급 경고를 내놓은 가운데, 달라진 여행 환경을 지금 바로 확인하세요.",
+                "original_title": "Hizmetçi firarda yeni dalga yolda: 10 soruda Sarıgül soruşturmaları - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGZFQ1F1TTNDbWw4YXZ4YWN2VWg2M1JmWWhuQzdKQS10c3dSRDVKMG0zZ1pVMUYydU04ZUVwYmV5cUQxLWtybWdLRmRZVk5OQjhLSzJpMERxb0NvUXNUbnBfQlFQcHFrMmJVTVVQd2VuV19HQ09LaWZUQkRpZ0xSZUc3end5dFJzdk1IbXRhTTBSR3pObENzQnV2dzNFOEVNS2trRm12NWpFZkRYUmdz?oc=5",
+                "pub_datetime_utc": "2026-10-30T22:32:35Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:18 KST",
+        "current_rank": 10
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "아르헨, 끔찍한 비극",
+                "hook": "한 가족의 갑작스러운 죽음, 메를로 지역을 뒤덮은 충격.",
+                "script": "아르헨티나 메를로 지역의 한 가정집에서 일가족 5명이 숨진 채 발견됐습니다. 경찰은 가족 간의 범행 가능성을 열어두고 수사에 착수했는데요. 평화롭던 마을에 찾아온 끔찍한 비극의 전말을 보도합니다.",
+                "original_title": "Los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita del papa León XIV - La Nación",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWhtdG1rZWcwU0x2NE9SbzdrR3I4STlJRFltMl8xMWRNRUwxajBFcXo2d1UzYlZGNlRMRXpWMEhJWjhydFlhYUV1U0N6SjNTeVpPbzBUb2htMFpZamFNZGtVTFZJeHlDbFRvUWgxQXk2YnA1MS1WWXAxZWZ1YUpjb09UZllkUXlCVWxFdmRDZXRiVXVyVXQyN0VBa1ZqZDBBQzFzR0xzdnUzVXkxeGo0Q05CUW15NnBBVDFvTVZ5YmpKYlltUkFNemVRSGlqMFFYZkc5UUkzUkVLT3c?oc=5",
+                "pub_datetime_utc": "2026-10-31T11:37:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:18 KST",
+        "current_rank": 11
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "남아공 정국 요동",
+                "hook": "주마의 몰락인가, DA의 질주인가? 남아공 정치권이 대격변을 앞두고 있습니다.",
+                "script": "남아공 지방선거가 임박한 가운데, 제이콥 주마의 MK당 지지율이 급락하며 정치 지형이 흔들리고 있습니다. 현지에서는 DA의 독주가 예상되는 가운데, 주마의 복귀 선언이 판도를 뒤집을 수 있을지 주목됩니다. 남아공의 미래를 결정지을 이번 선거, 과연 누가 최후의 승자가 될까요?",
+                "original_title": "Geordin Hill-Lewis frames local elections as a ‘two-horse race’ in final push for DA dominance - News24",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnpLd0R6U2RkcU1nWXpzQ09PYkxiMTlTUXRKUUZhR2pCUU00NGpQMUNGb1JjLXotY2Jvc3BrdlI0d29ZRi1IeVMxdmluM2VnSVRKdld4ZXRMX0lTdFBPbzE0cVFORkxwanY3Ukp4OGkyQXV0M00xZHNGSVhoNGJkWVpDWEtPWm9GRGcwaTBwLWxRay1yM0xySmVEd2xaN0F2RmNjTjBSMXpKdmhyeGNabEVGQk1KQUY1aGJROE5xQ0dQYU5kQTdsYmEwaUFfaV91SUZrXw?oc=5",
+                "pub_datetime_utc": "2026-10-31T11:09:20Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:21 KST",
+        "current_rank": 12
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 70.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국 해군 무인기",
+                "hook": "중국 최신형 함재 무인기가 실전 배치 수준의 성능을 입증했습니다.",
+                "script": "중국군이 개발한 첫 함재형 스텔스 무인기가 사천함에서의 성공적인 이착륙을 마쳤습니다. 이는 중국 해군의 작전 능력이 한 단계 도약했음을 보여주는 중요한 신호입니다. 주변 해역에서의 감시와 타격 능력을 동시에 강화하며 지역 안보의 새로운 변수로 떠오르고 있습니다.",
+                "original_title": "我军首型舰载察打一体隐身无人机在四川舰成功起降 - 中国共产党新闻网",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRZFFNaExHdE81bDk3bzNnX011X2NJeDZHakZUZlJBQ0laSVRVYkRVeFNwUnctRzdXZW4yb1A4QmJDNGdkZmtiZGpKRFl2aC1sS1NxemdtLVF6SWd5WW8wN0JMcHRQSU1ZUVE?oc=5",
+                "pub_datetime_utc": "2026-10-31T00:19:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:07 KST",
+        "current_rank": 13
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "학교 내 끔찍한 습격",
+                "hook": "교실 안에서 벌어진 전기톱 습격, 인도 사회가 충격에 빠졌습니다.",
+                "script": "안드라프라데시주의 한 학교 교실에 전기톱을 든 남성이 난입해 여학생들을 공격하는 사건이 발생했습니다. 교사가 현장에 있었음에도 불구하고 벌어진 일이라 학부모들의 분노가 극에 달하고 있습니다. 인도 전역에서 학교 안전 관리 체계에 대한 전면적인 재검토 요구가 빗발치고 있습니다.",
+                "original_title": "J&K CM Omar Abdullah and journalist Nidhi Razdan get married - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLURlZVIzTGhQXy1QU2xrQXNidXN5OWZpQlU5Z2NHZU1EX0lhSGU3OXU0Zzg3VnFKZUZvM0ZjZkd1R0lvU1lmM2ppUTNuZkJNLTI0VWU3RU91TW9GcWJQR05rTGh5ZzJoWUZDNFRXejQ5a3BUcHFkNUUya05iZHdCRUREUWJxbS01SkppazFYa0gxVlR6YmVhdHpDLVUzeldyRFFERG5ZVnI2Z2Q3R3JJblN6Y0c4WnI0Vm41SUZR?oc=5",
+                "pub_datetime_utc": "2026-10-31T11:28:28Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:07 KST",
+        "current_rank": 14
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "러시아와 G20 갈등",
+                "hook": "G20 정상회의에서 러시아를 향한 서방의 '사진 거부'가 현실이 됐습니다.",
+                "script": "영국과 호주 등 주요국들이 러시아와의 단체 사진 촬영을 거부하며 G20 정상회의의 '가족 사진' 행사가 전격 취소됐습니다. 우크라이나 사태 이후 국제 사회의 러시아 고립 기조가 이번 회의에서 더욱 선명하게 드러났습니다. 외교적 갈등이 최고조에 달하며 회의 성과에 대한 우려도 커지고 있습니다.",
+                "original_title": "US approves sale of 500 Patriot missiles to Ukraine - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qRy00d003Y2lhSmIyeUlDM293TG1jSkxtUmhWYTBTbGxDVHBReExJcWhpRVh1TW84aWtha1UyTy1wZTQ5RDh6NXhabnZvZEZ0TkNTVl9EYmVZWEM5Nmc?oc=5",
+                "pub_datetime_utc": "2026-10-30T22:20:52Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:07 KST",
+        "current_rank": 15
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "프랑스 화재 참사",
+                "hook": "건물 잔해 속 발견된 3구의 시신, 프랑스 클레르몽페랑이 충격에 빠졌습니다.",
+                "script": "프랑스 클레르몽페랑의 한 건물에서 발생한 화재로 3명이 숨진 채 발견되었습니다. 당국은 현재 사고 원인을 조사하며 1명을 구금해 정밀 수사를 진행 중입니다. 도시는 슬픔에 잠겼고, 정확한 화재 경위를 밝히기 위한 현장 감식이 이어지고 있습니다.",
+                "original_title": "A Trappes, l’« espoir d’un réveil » des Français, alors que l’arrivée de l’extrême droite au pouvoir est dans toutes les têtes - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRi12NmNxLWg0RU43VXAxdG9CdkV6YlYyaWltWTd5Wk1LR1NvZ2c1M0I0dTVYUE5IdW4zMmdfT0Y4MDRJd3h6dXFWLUItUHB2SmE1bnZoenJSMmVOTEtqS3RSSjQ4Vm5fREVHZVQ4MzM5UlZ0SWZwWHFiNzVuUEwwNFplaWhRS21sUGt3djI1NDVrc29aN0JxS0NhMXlQLTVWVlJTQURLVm9ld3dBSU9oYVY4LVg2b3VrVFBQQThzQTFIcWNHbjNPVHlWTFAzUlB3dWhKYUF5Z09QZUdfLWlEZHlxUllnU1dyamRoWlNGUFIzelJLenp0dWdpeWF0ZUgzanVjVzNQQjdtYlFBZWxsdlRLTzBhT0RNRE10ag?oc=5",
+                "pub_datetime_utc": "2026-10-31T04:00:40Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:11 KST",
+        "current_rank": 16
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "러시아-우크라 공방",
+                "hook": "하룻밤 사이 쏟아진 400여 대의 드론, 전선이 요동치고 있습니다.",
+                "script": "러시아 국방부가 지난밤 우크라이나군 드론 433대를 격추했다고 발표하며 양국 간 공중전이 격화되고 있습니다. 동시에 러시아는 우크라이나의 주요 에너지 시설을 타격하며 압박 수위를 높였습니다. 끝이 보이지 않는 전쟁의 포화 속에서 긴장감은 더욱 고조되고 있습니다.",
+                "original_title": "Кабмин РФ продлил до 31 января 2027 г. запрет на экспорт дизтоплива для производителей - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iQktPVzZtSUMwbzE1OGlnazV6N1JsVk16QW1RYmlEU3NJTDNSMk1SQzNvUWdIekR1Ri1McmdVM0JxNFluT2t3cjcwajZ0aU11aGfSAUtBVV95cUxPVWpWbVdPWXJiVGhEdl9IZThrd3I4ZktlN05iN1p2VjlQb3QtYW5Oc0tkRXNIWHg3Mmk5RW9OSWpPUkQ1dXBjd2NUQUE?oc=5",
+                "pub_datetime_utc": "2026-10-31T11:02:00Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:11 KST",
+        "current_rank": 17
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "Wakapolda Jateng Temui Ulama, ",
+                "hook": "Indonesia의 최신 주요 뉴스입니다.",
+                "script": "Wakapolda Jateng Temui Ulama, ",
+                "original_title": "Wakapolda Jateng Temui Ulama, Jelaskan Penggeledahan di Kasus Perusakan Warung Mi Babi - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1pRcEpCQWVGSkY2ekhMcjZieVJtenliUzZ6ZHJkWWozRlJtOTFRNFdjUEtNVEdSUVpRVDhqQW8xV1JpVWlWY2ljT19tSjNDRzlNdjR1VDYtRnB5R2V5ajE4RmZ2bnQ2NGlIYTBqN0pXN2lvMVBVczI5MExPbkJlTEFaRm9KczNJN3Q1NlRYcEt1Wm0tdnpuUFFIaHRoVXVLaXZ1ZXF1bl9tcHY3VEZtMTRnNGVublV3ZkR3SVpyXzdYT2_SAcgBQVVfeXFMTXowLVg5SXBzYUF5cWdjSnZSVlNtV3l4cFlrZ2F1d3NCTTM3VFhWSWpLQmxUSGhOOFlHVm40b0pFWkdCV0FmSlhsNm9Ib1dxOWNFTmpCb1B0SENILTVZLW1Sc3FtTWJPdXpfVG5NR3l5U20xOUd4ZC04clhGZzZRc0dEejUwcU9SMEluRkdlam0yR3dxeDJCSFFnR0IxaUZtZThYaVRQMEV5OFpfSE1rUmdMTXQ2YlY2Nm9qUW9ZeldlRzAxNHBESVo?oc=5",
+                "pub_datetime_utc": "2026-10-31T07:40:18Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:18 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "사우디, 이볼라 차단",
+                "hook": "전 세계를 긴장시키는 이볼라 바이러스, 사우디가 빗장을 걸어 잠갔다.",
+                "script": "사우디아라비아가 이볼라 바이러스 확산을 막기 위해 케냐발 입국을 전면 금지하는 초강수를 뒀습니다. 국가 방역 시스템을 총동원해 추가 유입을 원천 차단하겠다는 방침인데요. 중동의 방역 상황이 급박하게 돌아가고 있습니다.",
+                "original_title": "التحالف: اعتراض وتدمير صاروخ باليستي حوثي باتجاه المنطقة الجنوبية.. ومسيّرة بمنطقة الرياض - صحيفة سبق الإلكترونية",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tZGdZXzdIMHBCalpkNzlrb2NuYXVNRldaNER2TUFQTkFzQ0h4M0tmSW93Wk00Ymo1enhfUmExT3RzRG12MzZz?oc=5",
+                "pub_datetime_utc": "2026-10-30T15:59:05Z"
+            }
+        ],
+        "last_updated": "2026-10-31 21:41:18 KST",
+        "current_rank": 19
+    }
+}
