@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "텍사스 사전투표 급증",
+                "hook": "2026 선거, 텍사스에서 역대급 투표 열기가 터졌습니다.",
+                "script": "텍사스에서만 750만 명 이상이 사전투표에 참여하며 2018년 기록과 대등한 수준을 보이고 있습니다. 고물가와 경제 위기 속에서 유권자들의 관심이 그 어느 때보다 뜨겁습니다. 이번 선거가 향후 미국 정치 지형을 어떻게 바꿀지 전 세계가 주목하고 있습니다.",
+                "original_title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible' - PBS",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVBtYkpCQVRWUnFLWEtrM1d5U1VYam1NS28tSlN5U05veXlOMEFvVnNGaFh2UlZOcnlxNk9tcnRzQTl6R3FYMmVZUDJZdmF3SUZROUxhYnJKTUpXaTZzczZsek5xWmhDM2U2MVQzWUlLQ0NJV3o5ZFVCVFFVTGZtVWdVZkF0WXl6blZRR0tLY2xCc2xVR29pemZJZmpUbXY3dTRjZU1aQjdKUHVfYk1vM3l4MDVua3ZOcjlWeGZPSUlqZnVOSmUzdnI5ONIB0AFBVV95cUxNNTFHWW9CSGlUalpqWC1TZlhXLVlITDlDSDBLV0pUSUU0ZGpLb2ptdENIQlNXdFg3UFZ1d0ZEcHZBbHNuT0d2djkwcWRoaS11RGJBQXN0YzFFYmF6X25STzRoRFR3c3ptRXBiX0p4bWF4Tkt3VnlPNWFNVG5VTllNREhpR1U0M01OSXdJU19qLVU4QkRtSjBUYldlSXlZVS1RR1R5RlM5OWdyR1NpUmprMEpRWFlmcHBaaV9sbGgyZ1hrT1hzY2JOamZ4SHBkRHpv?oc=5",
+                "pub_datetime_utc": "2026-10-31T23:22:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:37 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "아만 국왕 방중",
+                "hook": "아만 국왕이 베이징에 도착하며 외교 행보를 시작했습니다.",
+                "script": "아만의 하이삼 국왕이 공식 방중하며 베이징에 도착했습니다. 이번 방문을 통해 양국 간의 경제적 협력과 전략적 파트너십이 한층 강화될 것으로 보입니다. 중동과 아시아를 잇는 외교적 교두보가 마련될지 국제사회의 시선이 쏠리고 있습니다.",
+                "original_title": "《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》单行本出版 - 新京报",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jb3BxTWJtLTh3NnF6SmdFQy1wdnlQQUNiVVM5RE1hTWJ3T0lxQkhPVXZpckcxTE9xblMxV3lIa29UQkY0RENpaENvdmYwSC1SN3A2TEM1V2ZkMzNCWU0tMjBRZ0s?oc=5",
+                "pub_datetime_utc": "2026-11-01T11:04:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:37 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Brennende Barrikaden und Wasse",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Brennende Barrikaden und Wasse",
+                "original_title": "Brennende Barrikaden und Wasserwerfer: \"Gen-Z-regelt\"-Demo in Hamburg mit Ausschreitungen - NDR.de",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzB3RlFTakl1d29IenZwazBhQTNoNThBdmRGSnFSZ3E4LWRoNlVuSVFZMHdCd1NNTkZkbElJVFVJMFpwVmo4aTF1M0V3UVhJOTFYVlZKWG9Ta3N2Nkw2T0pzTFd2M3VuUVJtRi1McGRVcjJCRzR5b0Q0ak5ZZTBLc0NWMlhwaHptTW5xRW1ZY05Yd3dBeTRsQmJBazJBN08wMEVyUDUxLVFKLUY3UWlCRGsxZ2FBcU44?oc=5",
+                "pub_datetime_utc": "2026-11-01T10:40:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:37 KST",
+        "current_rank": 3
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "영국 EU 결속론",
+                "hook": "레이첼 리브스 장관이 던진 영국과 EU의 미래, 브렉시트 이후는?",
+                "script": "레이첼 리브스 장관이 브렉시트 이후 영국의 미래를 위해 유럽연합과의 더 긴밀한 협력이 필요하다고 강조했습니다. 앤디 번햄의 주장을 지지하며 새로운 외교적 노선을 시사한 것인데요. 영국의 정치권이 다시 한번 유럽과의 관계 재설정을 고민하기 시작했습니다.",
+                "original_title": "'PM lets down the King' and 'Kenny's secret night at Maya's' - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ubFBSR3lJaDBDbTJpOFNmWHFXaFJWbUc1RUNaM2RLcGhHMUZYZG1ZLWpSTmRKN1M0SVNncGxqb1VCcGtYNUc4SF9yb3A4b1I2RTF4S1R1SzlFOGFNOHc?oc=5",
+                "pub_datetime_utc": "2026-11-01T01:15:10Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:37 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "프랑스 대규모 시위",
+                "hook": "프랑스 전역을 뒤흔든 50만 명의 분노, 대체 무슨 일이?",
+                "script": "프랑스 전역에서 최대 50만 명이 거리로 쏟아져 나왔습니다. 상점 20곳이 파손되는 등 격렬한 시위가 이어지며 도심은 마비 상태입니다. 2027년 대선을 앞두고 프랑스 사회의 불안감이 극에 달하고 있습니다.",
+                "original_title": "Manifestations du 31 octobre : « Une tentative de meurtre »… Ciblés par un … - 20 Minutes",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOalQ0VXl4ZHRsdjV4UWVaMzhBbE5WNkJBQXI1QXNrYXpNYmprdmp3RGwwNkd5OTNhbkhnbkczV3FrQjZXN1JzZUFWcGdBUEdycGNGOE1qZE0yaDhWcFRfemYxLWpBcDZJdXA2clYwNDc2Zm9EYWFRSkc5Y083MmhON0ItQnpEbFlNaXJsRWVzY0VmUVFQM2lYcWM2WTlwSTBBRzNaRFRYVHJab3R0RExWMHZUMThKdF85V2E3WWkteVNwaVF0b0ZSUERPaHB5S1Q0el9xNEVfTDdzNzJvREs1SUxGVlc?oc=5",
+                "pub_datetime_utc": "2026-10-31T19:40:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:40 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "이탈리아 대규모 시위",
+                "hook": "이탈리아를 뒤덮은 200만 명의 거대한 행렬, 그들의 요구는?",
+                "script": "이탈리아 전역이 200만 명이 참여한 사상 최대 규모의 시위로 마비되었습니다. 정부의 예산안과 연금 정책에 반대하는 시민들의 목소리가 전국을 뒤덮고 있습니다. 이탈리아가 경제 위기 속에서 중대한 갈림길에 섰습니다.",
+                "original_title": "Manovra 2027, pensione più ricca per chi resta al lavoro, ma sulla rivalutazione è stangata. I 300 euro per la sanità - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFdPSEhEN1h4Nm1zVEJ0RWZMQ2twQlFHME1NcEs1SzhfUW5zaDRadGhWcVJtY3lkV05NbTg1dU1mc1ZubGpSSVJobXllV21UR2ZTVTFmYnhoclFKcEZwUTgtT2I5Z1Vwd3M3V0lnZW5SNWNfVVdKaVdaWTZ1TXozRkJvNG1sUFU1LXpkdnM2Z0N6eHctUm81dW1xMkpsdFEwUExveEJ0NW1KbkppOU4xUHFteVZCWVlfTGhVSG1KdWdWck45UTFF0gHMAUFVX3lxTFBxOVhzcmlPZjBkNW85bmFzV3dwNjhsbG5BdmN1aXNBTVprRVhoTnNIQkxaOElDTnVvaExlbTZ5QkxNaFZNSllxMWpPbFhuNjZTVDRYV2FwQmVobDliUWtmM2YwamlSWDBEalFPMUxuZ0J4aEdRTGJRTzM2cWhoY1I2TnhwYWVXOHdtcERkMHVDMkVVTEwwblc3aWFvUVZWV1FRS215ZmhxRUdWeDQwQVBHQnZ6Wk1nbWVNZmUyQ0dMVlN2M0ZIeC1ZRHE2RQ?oc=5",
+                "pub_datetime_utc": "2026-11-01T05:51:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:40 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "Ação popular pede suspensão de",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Ação popular pede suspensão de",
+                "original_title": "Ação popular pede suspensão de salário do senador Flávio Bolsonaro - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGZTRVROMUlNY3lTR2pkd3dHZnpUVWV0LWUtMjNkZ1YwYTJCajQtZm42dFB0ckZ0eUp0RXQ0U3FIS2M2bXNEQ3FXUjNVX3BrM05WX3Rock5qQVA0Z2Z0Z0U5dUdMZUIxdXRqY3RDaW9weHdsMk96b09iUVMtdDR3ZG1HNmhLbkZWUFZCVFZpendPd1ItZGFjMEV0NkMwM05XX2VSSlQyUmg2dl9QTWc?oc=5",
+                "pub_datetime_utc": "2026-10-31T19:31:42Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:40 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "러시아 드론 공습",
+                "hook": "러시아 전역을 강타한 드론 공격, 밤사이 무슨 일이?",
+                "script": "러시아 본토 곳곳이 밤사이 드론 공습을 받으며 긴장이 고조되고 있습니다. 랴잔 지역 등 주요 시설이 공격받았고 당국은 방공망을 가동했습니다. 우크라이나를 향한 보복 타격까지 이어지며 전면적인 확전 양상을 보이고 있습니다.",
+                "original_title": "Что известно об атаках БПЛА на регионы России в ночь на 1 ноября - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFFwQ1BHbmpyN2NESDh4aXBXTGhzWlpJMDlqYWx4VzlNVWhLOXpRZm03b3JmVld3eGdaMFUwNkFPcXh2OW8wSnUwNFYtYV9iQlJuR1FfZ0VPdi1LVy1ndHB4ckJQb1dxZ245aWhyNW1VZ2Q0cFU1WlNkdm1sSkc4QWdXek84N1dvTldwN3p3?oc=5",
+                "pub_datetime_utc": "2026-11-01T06:46:42Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:40 KST",
+        "current_rank": 8
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "군용 소총 든 경찰",
+                "hook": "호주 시위 현장에 군용 소총이 등장했습니다.",
+                "script": "최근 호주 뉴사우스웨일스주 경찰이 군용 소총으로 무장하고 시위 현장에 배치될 수 있다는 소식이 전해졌습니다. 이는 공공 안전을 위한 조치라는 주장과 시민의 자유를 위협한다는 우려가 팽팽히 맞서고 있습니다. 과연 호주의 치안 정책이 어디까지 변하게 될지 귀추가 주목됩니다.",
+                "original_title": "Big tech’s national security case to gut copyright laws is a bluff, intelligence expert warns - SMH.com.au",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLTJQUEdqZHB0YktibGRuR1JfRDRpMGxLMWZDdFBXdTBLNGJwZ0NOSjNBbHR6dUFFWjZObTRVOHJLQWhjQ3NHTGYxUTktcGxqUHhwSThyM1Y2UE05ZWJiRlRXVGZWemZ2M1A5elFsRmpyOXN1RlBLV2tDdEtxYnZlOW52dThhMXdrdVhKdHFhVE4yMUg0cGxzaTQ0OVl0eFJCaG84bW9ZQ3pDWFFYb1QxVTctSWc4bmJya1RjdHlHdF9XemxQLWFlOE9jdi05TWVEdlFoRV9Ld0xKTExHV1VreVVhNGRHNkFD?oc=5",
+                "pub_datetime_utc": "2026-11-01T09:00:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:45 KST",
+        "current_rank": 9
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "비이슬람 식당 방화",
+                "hook": "인도네시아 수코하르조에서 벌어진 방화 사건이 파장을 일으키고 있습니다.",
+                "script": "인도네시아 수코하르조 지역의 한 비이슬람 식당이 방화 공격을 받아 사회적 공분이 일고 있습니다. 당국은 이번 사건이 다양성을 해치는 심각한 범죄라며 강력한 대응을 예고했습니다. 다종교 국가인 인도네시아에서 관용의 가치가 다시 한번 시험대에 올랐습니다.",
+                "original_title": "Babe Haikal: Pembakaran Warung Nonhalal di Sukoharjo Coreng Keberagaman, Tak Boleh Terulang - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ3E3ZExlMHVEeExBams1cHl0M2l0OEh5eXcwbXhwRzVuc0Z0blBWWktZX0JNRERBQml6RDRaQVhNbENwaUh2T1FEM3pNdW1BWUgtU21ORnFMRVFfXzhOLXFyOHR2RnBqaXR3a19jYmJwZ2JJY3BUbVVjRzg0amNDSWluRVl3eTJNX0MzTGZXcWZJS2lnYVpwOXhXTjV1VmpZcUQ3dHVOTFJSOEltWUNDVVFTUzZrZG5VYktISjBncko0emdDc0JZOdIBzgFBVV95cUxPeWV0bEtzNEVVeHNvYWhCVVZHRHdMYW9nb3RWN3FmUDNKeWxkZTZZeVd6NDR5NzFaZnhQMkpoazREcVZPamd5dEF0a2t3TnBjR3JLSW9yaWs5TTVEci1weHBMUHA1OW41Und3a3RnVnh5cEF0S0NJNy0ydGNZZzRxZTRWcDlCRFhESVJadko0cUE0Q1JTSzRrX09yTjZxbHpCc1ozSU5wQ201dTVkTmZSanlHT2c5Q21PdC1uVVdpeDhCcktYOXgyd254RmNGQQ?oc=5",
+                "pub_datetime_utc": "2026-11-01T09:08:45Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:45 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "MHP'den \"100 il 1000 ilçe\" pro",
+                "hook": "Turkey의 최신 주요 뉴스입니다.",
+                "script": "MHP'den \"100 il 1000 ilçe\" pro",
+                "original_title": "MHP'den \"100 il 1000 ilçe\" projesi. Bahçeli: 19 yeni il ve 78 yeni ilçe kurulmasını öneriyoruz - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3VVd0ozOXZXX3Riay13YnM1Y05wZ3pHOUFFamVkaUFST3lLQXA3Y29DcWd4UHFXSGNhdEhUbVUxWERwLU9HSlJsTWpfM084czNMRjZZYlR0UHNvam9CRmhmdnpvcE1ZZ0NyZE92OFVFdWJfamVwYUdyemZNRlpjaVpfSkV3VEVYOUJiQlY1RjUzVU5UTjJJdFY3a1NJQTM0dkNkZm5rY05oX0lRcThFVUh3ZlFYNGl2eW82anY2SnVVazZGLVkw0gHMAUFVX3lxTE5iMEJFNkFoZnYwajRDRmt3d0dmWW1oS21aaE8yTnJROGZIYVM3eFkzODNjV3NCdXhlZzNjbmpxVEQzMlNweXFpWWVmUUdURzF1eFFaWTZzenZ5ejBaTVF0Q3N2N25DVXZrckh2MDdDTlRJZDkxRnFjRzlXel8wbE1lWHI2NkJOWUp3bmlvMkRZMjhETDFFcjRQUkpGeU1Fa1lIZ3dtWUY3dU5yQ254UTZ0d21qQU1uZ1JnQlRNVzVFZk9HeGx5OGNlNkE4Vw?oc=5",
+                "pub_datetime_utc": "2026-11-01T09:06:03Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:45 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "리야드 드론 격추",
+                "hook": "사우디 수도 리야드 상공에서 적대적인 드론이 격추되었습니다.",
+                "script": "사우디아라비아 수도 리야드 상공으로 진입하던 적대적인 드론이 연합군에 의해 성공적으로 요격되었습니다. 최근 중동 지역의 긴장이 고조되는 가운데, 사우디 측은 해상과 영공 방어에 대한 확고한 의지를 드러냈습니다. 지역 안보 상황이 한 치 앞을 내다보기 어려운 상황입니다.",
+                "original_title": "آيزنكوت يفتح باب التحالف مع القائمة العربية.. بـ 4 شروط - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNVWwwTDNhekF5czdNdjh1M0N0TW9rb2NIcnFiT0pBZEt0LUlyU0U4YzRTeTdGcjRUZ0dzaGhtYXotd1JNdVA1XzFZalV1dzRUU3JJaDFycmRjSUxWcHhCdFIzdEZlNm42V2hud0tvOEZ4NDF2SW8yRF9UdkFSSm9LSkRmUHFiSUE5M2NzblVQemdySkdHNHFOLWZ4eWFFdDA0NVBPb3VUM3VRb0RmdUU3VU5pNnpyenZsaTZYS0ZEWDRTLWlNeWpVZ0hoTjJrZkNEa1ZMbVRkVEhGaUItUTdWY0xnWGlvNmM1NDdZZWQ1UVRrZDZGT3k2R1hMcXdCb085R296YUR2RmZmMjIzV0swT1NOTktNOWxHdUpEUW9Ca3ZRX2p0dERBYTh4VDMycGxSdmFJbGF1YjB6R2c1Z3pmTUVfZ3RRQWV6c2Vic01pcHctY2xQMHF4bmNfTVpCTzlpRjc1Q25FNkY3V1FyRDF2ZWR3V1dfemhyYlptbHVOWDdCUU1wS2x0eWFEV3BnZjN1bWtETzY5MF9CckVXaFhEc2xRaDZJWjg0ejdGS0pqSVhuT1dXTk9iTFNYOEJRQ0xDb3h1cE15M282NXJ5aU1yZUtGR2l2Z29HdTBVNHVQX1F4a1A2ejR4d1FIU1lPcTdtSmdrTWFRWdIB_ANBVV95cUxPa3FmY3EtYVpkU2pXaml4cXAxc1hRTTlnTFVrc2tRQnNOQlctaGhNal81N2JUSzdpRmRSZTBtTFhzczNIUjlSOWxGNjZMWUQ3aEYyR2NILUpjYzdGRTA4Qm1fWWN3QktiV0ZWSHAwbzkzbnBUcXVsTnI1QzZRUU1TYTBXRTJDa1lpWlptRnBONUlyVHZEZlljXzB0TUxNUVFMZ0RwTmF1Q00yN3BIRmd0NnZsUzhoZjY4Y1loSC1wMmJCa21XNFJlNHhfZ0lfRy1fY19BVVBVem5hZmczemVUa2g2Q0dwUURPNGlqU1FvNUVoaVB3c2VtaVo4aTJEdHJnS0Q1dFd5bWU5SF9vX0lqc0E1ZjZPYm9JUkNqTjlzekMwQ2F2MVdaTzFPUTBSenh0Mk1EcXBuU1FCakloNEJCeEFfLWxGNlNGT0E3QWRWc1dzNVVMWTVEX2V5b2VGVHhDaUViRlhBMlJiYk5sZm9BUFNEVk9Jc0NhR1B2ZnlzZnRMSmVGR0dfZ1pUVXZZMUgzc0xrcEtlT3ZhUkRNb2x4THZZSGQ1dVlDR0hRMEJiUG5wSk40TEFKbm5RdGtsM2FUZmgyRm12R2gyUjRoLUFhY3poLXBNbVBYalRyQ0s1R0gwVDhzNGl3NzVDV2I3NTJPbE5uQjRNZnYzYXE2?oc=5",
+                "pub_datetime_utc": "2026-11-01T10:50:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:45 KST",
+        "current_rank": 12
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "밀레이의 종교 행보",
+                "hook": "아르헨티나 밀레이 대통령이 복음주의 교회에서 파격적인 메시지를 던졌습니다.",
+                "script": "하비에르 밀레이 아르헨티나 대통령이 복음주의 교회를 방문해 '황금기'를 언급하며 정치적 메시지를 던졌습니다. 최근 바티칸과의 미묘한 기류 속에서 행해진 이번 행보는 국내외 정계의 큰 관심을 끌고 있습니다. 과연 그의 경제 개혁이 아르헨티나의 새로운 시대를 열 수 있을까요?",
+                "original_title": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: Estados Unidos dice que no intervino directamente en su salida - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUtMeG1NQjdSa3VCcnJ6c3NzejROdW1hNW5wamRMa2Vva2hLdVNfa28yUEJzdzBtcXFycDBpOTZ2UTRRckhQRGt1Y2ZBd3VCTktKRk9sUFQ0Y2xzdi1tRk1uZGZ5YUxuTnpIQjRyWm13ZmFBelkzM2RrSHIwejk4OVZvajVoZkNzbHVweEJ1VWtwWlJHTzFfZGZXQjljRW9oWGJQRDJydEd4d05oY0RsZTVLU0xfNFhpUnJwekNlaU1fZXdzclBR?oc=5",
+                "pub_datetime_utc": "2026-11-01T12:20:44Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:45 KST",
+        "current_rank": 13
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 운명의 총선",
+                "hook": "남아공의 미래를 결정할 역사적인 D-Day가 마침내 밝았습니다.",
+                "script": "라마포사 대통령의 정치적 위기와 ANC의 연정 구성을 둘러싼 갈등이 최고조에 달했습니다. 야당의 도전과 주마 전 대통령의 복귀 선언으로 이번 총선은 그 어느 때보다 예측 불가능한 상황입니다. 전 국민이 투표소로 향하는 지금, 과연 남아공의 권력 지형은 어떻게 뒤바뀔까요? 지금 바로 확인해 보세요.",
+                "original_title": "Family crisis sees Ramaphosa skip crucial ANC gala dinner as party reviews its campaign - News24",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnBKbnRXM0xIX2lJOTJJVjYtbzdmajlpWHZybHpVSUwxeVRZc0x3UmgxbFZkY3ZkWnc1UzIySWlqVGJ3cnpCcXBTallYdHNMWmtVLXJ5VTc0UEZ0U3ZCbGRORjZfcEhKOExXQnBubVJtZk9MLUtNX25zck10MU9vdFI2ZTZwZFVSYUZTVGlyWTh1V0dfZFRkemtWMkVNdWFDdmRlaGJROTRGOU9hUTJjYUJTWTZCT21GTjljd0lXQk9KX2xTbGRpV2lkSlc5QQ?oc=5",
+                "pub_datetime_utc": "2026-11-01T11:02:42Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:46 KST",
+        "current_rank": 14
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "후쿠오카 시장 선거",
+                "hook": "40년 만에 새로운 얼굴들만 남은 후쿠오카 시장 선거전.",
+                "script": "현직 시장의 불출마 선언으로, 후쿠오카 시장 선거에 역대 최다인 13명의 신인 후보가 출사표를 던졌습니다. 40년 만에 처음으로 신인들만 경쟁하는 구도가 형성되며 지역 정가에 지각변동이 예상됩니다. 과연 누가 후쿠오카의 새로운 리더가 될까요?",
+                "original_title": "ヒグマ衝突で特急脱線のJR宗谷線 11月3日に運転再開へ - NHKニュース",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0NmtnbGs5cExHbDJrWk5ZQkdTMmxhN1BXTGVkVVJnSnJkMkp0UENoOFlySFVRTVNhendhQXlndGVKUTBlTlQ3TGNIMkRaU1FCN1JoZElnblh2UVFZYVlr?oc=5",
+                "pub_datetime_utc": "2026-11-01T10:29:20Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:37 KST",
+        "current_rank": 15
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "사이클론 무라스 비상",
+                "hook": "강력한 사이클론 무라스가 인도 안드라프라데시를 강타합니다.",
+                "script": "사이클론 무라스의 북상으로 인도 안드라프라데시 5개 지역에 적색 경보가 발령되었습니다. 찬드라바부 나이두 주총리는 예정된 델리 방문을 전격 취소하고 재난 대응에 총력을 기울이고 있습니다. 막대한 피해가 우려되는 상황 속에서 주민들의 대피가 시급합니다.",
+                "original_title": "Nadda terms INDIA bloc rally against CEC a ‘foolish and designed drama’ - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPanoxRUZBVEo1ak54VHlMUnAydHJzN0pzbXVDS1FDdFIzZUtlSXBWMXJQNkJ4ZkF1UkNIT2QyNkZNTFVEUm1md2ZwWUFRQWhRR3dmRFQwTjM1RF9EOWVVR0VwN3NmdzNGbktxSFZBaGNPZnlrQU93cFZ0a245ZkRycDFwUE5uRjZzS0xHTGlseDhscENUWFJrTEs2UE9DLTIyOWlGQXUzc1ZZcW9PWnRRMjQwcGM0SG00TzktU2h0MWZya0FOYTNYMFU1Y01oMnVFbnfSAdgBQVVfeXFMT0U2b2lDMlExZlRXMTYwN28tbWo2X0cwUS1PQ3pUcV9NUThTeWNqWGkwaXdDOEJJTXR4YTJFMDdVc25YQjRPX1plZ1hNWkVaQ01qejBaVGpyZzduXzdaZzZUUlc2WkFfZjQ4SmxUU3lSWUdWT3NON203dDBkcGZDRU5adnZWbnpYMUNMdnNRTFNQbXBjOWIxak9fS2pHN0pyaXozVTBmNk5RRURzQlQyTTU2dFp5MVNfUUpZdERjN3NZakladkx0dXVMYkpCNFdXS2VISElFakxZ?oc=5",
+                "pub_datetime_utc": "2026-11-01T12:24:39Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:37 KST",
+        "current_rank": 16
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "캐나다 흉흉한 치안",
+                "hook": "핼러윈 사탕에서 금속 파편이? 캐나다 학부모들 비상",
+                "script": "캐나다 전역에서 핼러윈 사탕에 금속 이물질이 섞여 있다는 신고가 잇따라 접수되어 경찰이 수사에 나섰습니다. 토론토에서는 흉기 난동 사건까지 발생하며 치안 우려가 최고조입니다. 안전한 일상을 위협받는 캐나다 시민들의 불안이 커지고 있습니다.",
+                "original_title": "‘Associate’ EU membership for Canada not a ‘short-term’ project: expert - Global News",
+                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DTG1hd0J6Ukg5VmIxdXVxMzQxNkozd0plWDMxdDFtT2syRlVtUEtKbjRYYUVlMVNhcWFwdVNkX3ZnVnFGd1habW5qXzR4Y3JONENRUEM5WWUxdHJseTRsSzFmd1lGekVIRndpVW5peTFqNW9BRkZwTV96aw?oc=5",
+                "pub_datetime_utc": "2026-10-31T14:54:14Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:40 KST",
+        "current_rank": 17
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "멕시코 폭우 참사",
+                "hook": "바다로 휩쓸려가는 자동차들, 멕시코를 덮친 역대급 폭우",
+                "script": "멕시코 로스카보스 지역에 쏟아진 폭우로 차량들이 바다로 떠내려가는 아비규환이 벌어졌습니다. 폭풍 '밴스'의 영향으로 소노라 등 주요 지역이 물바다로 변하며 막대한 피해가 발생했습니다. 현재 구조 작업과 함께 비상 대응이 긴급하게 진행 중입니다.",
+                "original_title": "Un chat cifrado, un disco duro, más de 30 detenidos: así cayó la estructura del CJNG que mató a Carlos Manzo - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbUs3eVlISElLMzBnZHFjZUxEOTFPNmZvMjgwWFF2ZldwQVBvWU01SDJsTkpVVlRNRXprY2Jwd3ljeWNMS0xhU2Q2bVpYY0RMbk0wYnNZaTJGdlhlTGduY0RQam9xejBPblJweEU4dVNvVFZNZ3hITXAxU0tnUWxXdzk0QnhnelZLOHBDT0JZSXUyZlA2RFJFeGpCSzNkMVVOQjl0MEotWTF6bXI5czNZbnp2TTJhaUZTWlhSc0xUNGxvXzFNTXNrVV9MYVJfN2FMQ0xlaXlzVjRmaERYcUM3b9IB9AFBVV95cUxPc3RrWkhzQTJJdk95WXBzQ2FuUDhQbllGX3dPRjJ5RFh5T2laZ0pLVGY3enp4YjdkMXk4NVRPMXB2TllzY0JwXzAySHZGWXhabVFhQTR5U09KVWFOUWpwcDA1bkhUTTFBU1VNbnpzV1RMZWNoMHVTcnFpeVlhLUR2SlMyb2ZQUzd0UWlqWVhfdTlzZWRtc0U3dzZRb0pKVGFWbGxoRTRvTDVOTlVkNkswWlRmeGVaMmp3RGd4ZFNWd3FNaEpKRGNXaE56N3RtRVZUSHJVU25DUnhrOTl5dFZiSTJoQXRoM1hnNHE4aUo2TVBab0dx?oc=5",
+                "pub_datetime_utc": "2026-11-01T09:30:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:40 KST",
+        "current_rank": 18
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "북한 '강철비' 공개",
+                "hook": "북한이 축구장 18개 면적을 초토화하는 위력을 과시했습니다.",
+                "script": "북한이 최근 대규모 타격 훈련을 공개하며 이른바 '강철비'로 불리는 강력한 무기 체계를 과시했습니다. 축구장 18개 면적을 한 번에 초토화할 수 있는 수준이라 군 당국도 긴장을 늦추지 않고 있습니다. 한반도 안보 상황이 더욱 급박하게 돌아가고 있습니다.",
+                "original_title": "“돼지 눈엔 돼지만”…이 대통령 SNS, 소통 창구서 ‘설전 도구’로 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zWkVlZERGczJWcHdDQWpHeHg3eDdJbUtHUE1FVG9nWkNzdi1yV0FEYk5ZS3NJRXg3ZWVJd3Z6RlBmeTBSLUFON0NSd0JobzNTbjhVZUFHZ3B2d9IBX0FVX3lxTE1rbWRQbzhSMWpkWEt6T1pUMVR4em1lS3FVOFpZNk1sSE5sRzVlc2NEaWRvaWxKV1JqY2ZBX1pPWW9sODRPYUszbDJiN0pYa1pVUzdHNTN2M0JpOHN0aTR3?oc=5",
+                "pub_datetime_utc": "2026-11-01T12:32:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 22:31:45 KST",
+        "current_rank": 19
+    }
+}
