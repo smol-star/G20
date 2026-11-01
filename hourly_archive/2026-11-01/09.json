@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미 중간선거 D-3",
+                "hook": "5천만 명의 선택, 미국의 운명이 이번 주말 결정됩니다.",
+                "script": "미 중간선거가 3일 앞으로 다가온 가운데, 경합주를 중심으로 후보들의 막판 총력전이 치열합니다. 이미 5천만 명 이상의 유권자가 사전 투표를 마치며 역대급 투표율을 예고하고 있습니다. 이번 선거 결과에 따라 바이든 행정부의 정책 기조와 향후 정국 주도권이 완전히 뒤바뀔 전망입니다.",
+                "original_title": "2026 Elections Live Updates: Candidates Campaign in Battleground States on Final Weekend - The New York Times",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YR1owcUlLb3d1ajhFeWJacmU2aXAwV1g2Uk9aUjhtNFFNSlRSMXFxR2RCaWlIUWZ5M0w2M2kwODVndGNuSFdUangydkM0b0p5WERGOFY5QjZtSzNnYnhZTFd5NW1yZ2d6amJwMk9sdll6ZXdQeWc?oc=5",
+                "pub_datetime_utc": "2026-10-31T23:24:04Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:41 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "중국-스위스 경제밀착",
+                "hook": "무역 장벽을 허무는 중국의 거침없는 경제 영토 확장.",
+                "script": "중국과 스위스가 자유무역협정 업그레이드 의정서에 서명하며 경제 협력의 새로운 장을 열었습니다. 양국은 무역과 투자 분야에서 협력을 강화해 잠재력을 극대화하겠다는 전략입니다. 한편, 세계 과학자 포럼에서는 AI 혁신을 주도하려는 중국의 기술적 야망이 다시 한번 확인되었습니다.",
+                "original_title": "走在前作表率 深入推进新时代党的建设新的伟大工程（学习贯彻党的二十届五中全会精神） - 人民网",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oWkFreklwVVRuWEd5YUZUaGVSMGlGazNQT3NSSm9UTWFFNngxc1pidnJhTjVXbTNWWEszSDFCTTRXeS10MTdITXB1V2NoLTc0aXI2cERqUUFpSWp3cEtGSGRFNGFucFZoWjJoeWxBaw?oc=5",
+                "pub_datetime_utc": "2026-10-31T21:39:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:41 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "독일 청년 대규모 시위",
+                "hook": "거리로 나온 Z세대, 독일 전역이 시위로 뒤흔들리고 있습니다.",
+                "script": "독일 베를린 브란덴부르크 문 앞에 수천 명의 Z세대가 모여 대규모 시위를 벌였습니다. 기후 변화와 사회적 불평등에 항의하는 이들의 목소리는 점차 거세지고 있으며, 일부 지역에서는 경찰과 충돌하며 긴장감이 최고조에 달했습니다. 독일 정치권은 이번 청년층의 집단 행동이 향후 정책에 어떤 영향을 미칠지 예의주시하고 있습니다.",
+                "original_title": "\"Gen Z regelt\": Tausende demonstrieren bei Jugendprotesten am Brandenburger Tor - rbb24.de",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUnIyVmtlN3lNTWN3bHM0VU8wZjYxVDdUVjF0b084NVpNMHJrcVdDWC1IbXFEd0tkTElJXzdqQkgyNnFnN1phMUZZNl9od1c3Mk0wX3F0QjdjbjcybFF0NnJaU0NGQzBTN0ZEQzc1czB0NjB5dkN1U3R5bXdKdEx3VHo5aUUxTjAwYjMyTXJFanZCOE40WlZxblF2dXJxUQ?oc=5",
+                "pub_datetime_utc": "2026-10-31T13:38:45Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:41 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "인도 야권 대규모 규탄",
+                "hook": "인도 정국 급랭, 선거관리위원회 정조준한 야권의 분노.",
+                "script": "인도 야당 연합이 선거관리위원장 해임을 요구하며 델리 람릴라 마이단에서 대규모 규탄 집회를 강행합니다. 4천 명의 경찰이 배치되는 등 물리적 충돌 우려가 커지며 정국 혼란이 가중되고 있습니다. 동시에 인도 서부 해안은 사이클론 상륙 예보로 비상이 걸리는 등 안팎으로 다사다난한 주말을 보내고 있습니다.",
+                "original_title": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY20xMUFROEt3Zy1VMHl3SG1lZHhURk13Wm4wcTh4OG9PU3FYNlotZngtZHJENnR2bTBBenpBNnliODZMRGUxVURpcXR6eG9CdklkaC01QVFpdk9EUmZTX2NRZk9UbVQxeHRiTzhaNjBVU3o1OWpyMmRjb2hfZTVFaXV3eVRQUHFUR0tKMV93ZmYwSDF5aHJqb1pBSFpadGNxUUh5b1JJOGk4cXU0WnVsNUVNOGZLUzZPQ3hDNTFXYTNMejVLQTloU3hRem42SDhjenFvVzFn0gHcAUFVX3lxTE5NN3I2ZGdob1E4NC10WU9fNTA3V1NUX3pZaGFhYU0wTzFVVVpteDRNc3dSdXl3MXFxMjZIeF9pc1Z5M3Z0QXlYd3VmaHNsZHJhLUJoWmFNcGdfc1htaV9KTjlNRkkweW9kS2hNUGtyN1lvUkllb0xoenJnM3VmdjJaWEpMajVnOWxvbjNTRmF3Nm1wUzN3SEpTUGRFQmR1M2xmYWhxMTI0SFVxT1VCeHVULXdGZDVCMjJ4SFlrV1ZvN3NHanFCc2hHb3VES3BQT0hGMzlMVDFBSGJXaWw?oc=5",
+                "pub_datetime_utc": "2026-10-31T17:17:53Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:41 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "영국 버스 충돌 사고",
+                "hook": "도심 한복판 덮친 2층 버스, 아수라장이 된 현장.",
+                "script": "영국 뉴밀스 지역에서 2층 버스가 건물을 들이받는 대형 사고가 발생해 다수의 부상자가 발생했습니다. 현재 구조 작업이 긴박하게 진행 중이며 사고 원인에 대한 조사가 시작되었습니다. 한편, 정치권에서는 브렉시트 이후 EU 재가입 논의가 다시 점화되면서 영국 사회의 뜨거운 감자로 떠오르고 있습니다.",
+                "original_title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03SXFCRnFielRjVFJaU0QxeVI3QnJpZ0dyOWpKakR0djJob2VRMjJWcnpxM3pDdFk5LWg0azNleUNzZnhlZXE3VjBoRFFkT2VFWmNUQm8taWRxakpUaHc?oc=5",
+                "pub_datetime_utc": "2026-10-31T19:22:26Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:41 KST",
+        "current_rank": 5
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "Ação popular pede suspensão de",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Ação popular pede suspensão de",
+                "original_title": "Ação popular pede suspensão de salário do senador Flávio Bolsonaro - Poder360",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGZTRVROMUlNY3lTR2pkd3dHZnpUVWV0LWUtMjNkZ1YwYTJCajQtZm42dFB0ckZ0eUp0RXQ0U3FIS2M2bXNEQ3FXUjNVX3BrM05WX3Rock5qQVA0Z2Z0Z0U5dUdMZUIxdXRqY3RDaW9weHdsMk96b09iUVMtdDR3ZG1HNmhLbkZWUFZCVFZpendPd1ItZGFjMEV0NkMwM05XX2VSSlQyUmg2dl9QTWc?oc=5",
+                "pub_datetime_utc": "2026-10-31T19:31:42Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:45 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "캐나다 4명 사망",
+                "hook": "평화롭던 캐나다 온타리오주, 끔찍한 교통사고로 4명 사망",
+                "script": "캐나다 온타리오주 퍼슬린치에서 끔찍한 교통사고가 발생해 4명이 현장에서 목숨을 잃었습니다. 이번 사고로 2명이 중태에 빠지며 지역 사회는 큰 충격에 휩싸였습니다. 평화로운 일상을 뒤흔든 비극적인 사고 현장의 자세한 소식을 정리합니다.",
+                "original_title": "Here’s why parts of Ontario are not turning their clocks back this weekend - CBC",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbVczSVgyLXgyMXhlSzdzM1VEcGhTbEptRlhvWFdRd19KVVNOdDFHR3M2YkIwNEI0TnpGT3JVSUhvcXpoYU96b0hPNktXWXp3UHdmcWwtVHA3TzAtVWtsNDgyVDZyMTFwaEV6WFppY25CX1lpZ2tHNlplN3pMTjQtT25WTVZKX2U5aHZhOA?oc=5",
+                "pub_datetime_utc": "2026-10-31T17:53:09Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:45 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "러시아 테러 경고",
+                "hook": "러시아 모스크바를 겨냥한 테러 징후, 미국이 직접 경고했다",
+                "script": "미국 정보당국이 러시아 모스크바 내 테러 가능성을 경고하며 긴장감이 고조되고 있습니다. 동시에 우크라이나 점령지에서 탈출한 피란민들이 현지의 끔찍한 실상을 폭로하며 전쟁의 비극이 다시금 드러나고 있습니다. 한치 앞을 알 수 없는 러시아와 우크라이나의 긴박한 상황을 분석합니다.",
+                "original_title": "Эвакуированные из Олешек прибыли в Украину. Они рассказали The Insider о голоде, исчезновениях людей и жизни под российской оккупацией - The Insider",
+                "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1UbzFpUlo1WVc2d240aXRrQjVkU0loZGV4enpxaXZEZ2lwcDdhM3YxaUtRNG04aXBTRG5Wd0Nyamh2UW8?oc=5",
+                "pub_datetime_utc": "2026-10-31T19:20:52Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:45 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "멕시코 정치 스캔들",
+                "hook": "멕시코 주지사 72억 페소 횡령 의혹, 뒤흔들리는 정치권",
+                "script": "누에보레온 주의 사무엘 가르시아 주지사가 무려 72억 페소를 횡령했다는 혐의로 고발당했습니다. 한편에서는 선거 관리 기구의 부패 논란까지 터져 나오며 멕시코 정치권이 사상 초유의 위기를 맞고 있습니다. 과연 멕시코의 부패 척결은 이뤄질 수 있을까요?",
+                "original_title": "Canelo Álvarez venció Christian Mbilli y vuelve a ser campeón - ESPN Deportes",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGlGalNONVhqU2hNUXdCWFdaZjlYdWpvbjBPRVN6RXhZdFNuNzRsbUQxMGF1TUpKTF9tMENiREZlbWtOSUxfUS1wNUtxQ3BEbWhYU0otU25Ba05sSHBPVXBqSFNCU3BxcDdRc2RyeVZMTjRDNUZOQWY4WnhJRWF1UXowVmlGMk9jRlUzc2lyYzdLbEdiRW9TYUgyekQyVzNuYjF2REpKOTVheU5RZ1ZN?oc=5",
+                "pub_datetime_utc": "2026-10-31T23:02:14Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:45 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "NSW 경찰, 군용 소총 무장",
+                "hook": "호주 거리에 군용 소총이 등장합니다, 평화롭던 일상이 바뀔까요?",
+                "script": "호주 NSW 경찰이 이번 일요일부터 군용 소총으로 무장합니다. 범죄의 흉포화에 대응하기 위한 조치라지만, 시민들의 불안감은 커지고 있습니다. 과연 치안 강화일까요, 아니면 공권력의 과잉일까요? 여러분의 생각은 어떠신가요?",
+                "original_title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ2V2cWRBNy1zeWNUbDVRZm50YUg3N013MVVEUWhNSGtoVDB4YkZsQzdRY21OUGNYd3cwMUNWeHhnbTFjR3pUN1E3YW1iNFFDWHVCRU5ISDJJdW9QVWZyZG5Gek5PZm5qWU03V3VnZGZmOG1sODZmQzJ6QWMzblcwMHprTnVNNnlKZk9pV09LSUE0LWU1SEx2MWxlUG5xSC1VeVZHa19zVDFlNFRua0UyUko1UnRobS1paXMyeGlVYnpmaTgySFE?oc=5",
+                "pub_datetime_utc": "2026-10-31T22:09:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:48 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "터키 46년 기업 파산",
+                "hook": "46년 전통의 터키 유력 기업이 결국 문을 닫았습니다.",
+                "script": "터키 경제에 충격적인 소식이 전해졌습니다. 46년간 터키 산업을 지탱해온 유력 기업이 파산을 선언했습니다. 경기 침체와 물가 상승의 여파가 결국 역사 깊은 기업마저 무너뜨린 것일까요?",
+                "original_title": "Erdoğan'ın imzasıyla 3 isim görevden alındı - Sözcü Gazetesi",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0RkOGZLaHhiRjZCNFlQRTNySUh6MC1EcjdJSTAxWFU4cVBFbTlNX0pWck5JUzF1VFVLMlFWMDZoSkhCRHlveDdhRUd0cWVWMy1GQXlMMWdQUl9OZ3lPQjlqZS1CY0o5VklkYlRoWVh0SmYwbUV4el80ZWRSZVFiYg?oc=5",
+                "pub_datetime_utc": "2026-10-31T22:15:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:48 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "사우디, 후티 공격 격추",
+                "hook": "사우디 방공망이 영토를 노린 후티 반군의 공격을 성공적으로 막아냈습니다.",
+                "script": "사우디아라비아 방공군이 영토를 겨냥한 후티 반군의 테러 시도를 또다시 격추했습니다. 끊이지 않는 중동의 긴장 속에서 사우디의 안보 대응 능력이 다시 한번 시험대에 올랐습니다.",
+                "original_title": "\"حرب بالوكالة\".. حكومة السودان تكشف تفاصيل عن الهجمات الإثيوبية بالمسيرات - CNN Arabic",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGY0OUF1SkFVbFIwWFZGVTQ0T1BteWpJQjRlWmZTc3kxNGZBOE9RUGEwREg0ZU53dHJqRThZNWw1dTlxX1ZxeXhpVEs0VFppb1NtUjZ4U3pOeE5ITzBEd04zaFdFMDl0XzlmY2ZLbmtkdDBiWlhNa3dKcXR5NmFwclVBU0Jta0JIaUVZT0NHbWxpY1J4d0V5dXA0N3QxT0Rj?oc=5",
+                "pub_datetime_utc": "2026-10-31T14:22:49Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:48 KST",
+        "current_rank": 12
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 정국 대혼란",
+                "hook": "과반 정당 없는 남아공, 연립 정부의 시대가 열렸다.",
+                "script": "최근 여론조사 결과, 남아공의 어떤 정당도 과반 의석을 확보하지 못할 것으로 나타났습니다. 이로 인해 정국은 불확실한 연립 정부 체제로 깊숙이 빠져들고 있습니다. 선거를 앞두고 긴장감이 고조되는 가운데, 정치적 지형 변화가 남아공의 미래를 어떻게 바꿀지 전 세계가 주목하고 있습니다.",
+                "original_title": "No party commands majority support as South Africa moves deeper into coalition politics, Ipsos survey finds - IOL",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSFZqUk5ZTlN4YWhPLWNBT1BkZHY3aUlFOFNGUE9MUU5VbTYtWm5sZ3lnWnY3Z1lkZ3ZnT3hkVzlsQjV6WkRpdlJYRy1ROGtzTWRGaHF2aWVRUWNlV0gxbjFMazBmaDZ0RDF1bS14ZEZqUl8zZ0RqcjhSYi1ZZXRmN2hpX0xGNmQ5TldiT3NCVEZfS2tjeks2YndvQVZNM25QQUJGVFN6S0xYR0NpdXRYNU9aVWZOcEtwNVNyODlMOEp1OER0LXVBbmZCVnFlSmRQczBVYW12QkF0VFFi?oc=5",
+                "pub_datetime_utc": "2026-10-31T10:06:46Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:49 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 70.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "일본 열도 지진 주의",
+                "hook": "일본 남동부 해역 강진 발생, 더 큰 자연재해 전조인가?",
+                "script": "일본 미에현 남동쪽 해역에서 규모 6.1의 심발지진이 발생해 긴장감이 높아지고 있습니다. 특히 이번 지진은 특이한 진도 분포를 보여 전문가들이 정밀 분석에 나섰습니다. 설상가상으로 제31호 태풍까지 오가사와라 제도로 접근하고 있어, 일본 당국은 폭우와 강풍 피해에 대한 철저한 대비를 당부했습니다.",
+                "original_title": "三重県南東沖でM6.1の深発地震 震度分布に“異常震域”の特徴 - ウェザーニュース",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GM2JsYkk3QV9zQmNzNEhjNXMyS2lmWE5iVEdRbzJDMk1HQnh4Z1JNSGpRbmx1QXhRLVlQQ2htc0MxSFdXTGxocFFuTmZqUlF1M3FEeg?oc=5",
+                "pub_datetime_utc": "2026-10-31T22:35:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:41 KST",
+        "current_rank": 14
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "프랑스 대규모 시위",
+                "hook": "프랑스 거리에서 터져 나온 분노, 50만 인파가 멈춰 세운 도심의 실체는?",
+                "script": "프랑스 전역이 50만 명의 시위대로 뒤덮이며 일상이 마비되었습니다. 축제 같던 거리는 순식간에 아수라장이 되었고, 곳곳에서 경찰과의 충돌과 연행 사태가 속출했습니다. 시민들은 왜 거리로 쏟아져 나와 정부를 향해 멈추라고 외치는 걸까요? 지금 프랑스에서 벌어지는 격렬한 변화의 현장을 전해드립니다.",
+                "original_title": "Crise en Pologne : le président Nawrocki dénonce une prise de contrôle forcée du Tribunal constitutionnel - Euronews.com",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWZkSHN3dk1CTkkyUzJUV1lyQ0M3V09kdXB4cF9XVjlScmJiaVVJVWFZbGFMMkNmYkE2LWNIWHFWTUlnSmxOcWh6a0xHYWZnU0s1QkIzZG53cWdFQi1jQUQ1QmJZaXZ2aXlXUGdibGluQ2M1VV84RkJINWg0aWY0TEFLa3QyU1hCa1RfeTJWVUtoVzNELTl3Y2dZbHJncmRBOWFIQUFKV0V1c3NfcVY4T19Pdw?oc=5",
+                "pub_datetime_utc": "2026-10-31T10:28:54Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:45 KST",
+        "current_rank": 15
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "이탈리아 연금 삭감",
+                "hook": "10년간 140억 유로 증발, 당신의 연금은 안녕하십니까?",
+                "script": "이탈리아 정부가 연금 재평가에 칼을 빼 들었습니다. 이번 조치로 향후 10년간 140억 유로의 예산이 절감될 예정이지만, 고스란히 시민들의 피해로 돌아갈 전망입니다. 물가는 오르는데 연금은 깎이는 상황, 이탈리아 경제의 미래는 과연 어디로 향하고 있을까요?",
+                "original_title": "Pensioni, maxi stretta sulla rivalutazione: ecco chi sarà penalizzato. Per lo Stato risparmi per 14,2 miliardi in 10 anni - Corriere della Sera",
+                "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTUFrSDZGVm05cnY3MXlTekh4LWsyZERfejhoUEVKRzVYeGtxVTctSUxleWhsQnQtZS03X2tDVWxfdXM4Ty1GdlJZbGgxLW9SdWl2YjhRcmUzSFpQWVdXYXdqY3V0SzB5azFEcGVMS0E2UTl3em9FR0VRcGpDOWN3OEJ2WEVOelBHRmN3Q3o3NXBhWlNlMWhic1dMUWdBQ3ZJTjR4ZXBwV0UwaVFxTnVLNnJfdWhLN1hGRHhiWmZhNEhRbGVxMnFvUjhDS1J4dlU2OWpIX0VDNWF3YWlvcVB1TlpuTjdjMTNVVVZobzJhUlM1RGY0UFFMRW5NUFM1TUVSbEE2RldfdEp3b1BZMlE4eWRYTDlROU5hbFVjR1hmclQ4eFFn0gGqAkFVX3lxTFA1RGNIRE5rY2JkVDRYZ3k3LV9KNk1Ham9DOENLZHFrWEpyMWcwamdqMm1ZVklsV0hmeDdoUGEzQWxoUVRKMTM1LUItYTMxN1A0NUs0MDUwSG1DU29zY0dyT2xsQnN2TEY3OUFiZUVsYVRTdDVILUJ2cDBQbG82Z1BSYjlmRWdCOHZlOUoyTkUzNHFCSkZZMDhwZVgwSXNJeHBPZ1pHaDhwSHFScmN5LUpaV0hHbHp6WjluaEw5dGF4UFcyMjVVQmFhcmlmWlZRU3l4bkp6VXI1T0I5TWUyLTktSDU0Sy1LT19aYXlEU21HbHo2aXVXRm5Gc0hkMGhNOWppRzlaeENkM2l2UkIyVWx2TXd3LVhpQmJBeHZydFFRN3E3ei1MWWV0dVE?oc=5",
+                "pub_datetime_utc": "2026-10-31T15:48:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:45 KST",
+        "current_rank": 16
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "북한, 집속탄두 미사일 도발",
+                "hook": "북한이 13헥타르를 초토화할 수 있는 치명적 무기를 시험했습니다.",
+                "script": "북한이 전술탄도미사일용 집속탄두 시험을 강행했습니다. 한 발만으로도 광범위한 지역을 초토화할 수 있는 위협적인 무기인데요. 고조되는 한반도 긴장 상황, 지금 바로 확인해 보시죠.",
+                "original_title": "北, 전술탄도미사일 집속탄두 시험…\"13ha 초토화\" - 연합뉴스TV",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YdmlTY1lXeHFhNTlwWEhnbjdxSURnZW1TYk53N2hNaEVyNDdoMGhkX3FDS29WUWltcmFrX05oWFVuTDhtU1NaX1l5VWNPc3pPTUFtSXJyTUV1aGpBSTNWQkhDXzBqV1U?oc=5",
+                "pub_datetime_utc": "2026-10-31T22:13:00Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:48 KST",
+        "current_rank": 17
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "아낙 크라카타우 폭발",
+                "hook": "인도네시아의 화산 아낙 크라카타우가 밤사이 7차례 폭발했습니다.",
+                "script": "인도네시아 아낙 크라카타우 화산이 심상치 않습니다. 어젯밤에만 7번의 분화가 발생하며 경계 수위가 높아졌는데요. 인근 주민들의 안전과 추가 피해에 전 세계가 주목하고 있습니다.",
+                "original_title": "PDIP Respons Putusan MA soal Suket SMA Gibran, Singgung Hak Angket DPR - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVk1NlRPZDN6SmhnY25vQ1gwSjZvVXZzU2hqNFVfelVzaDFuVlpMRmFndnVYQ2pLaU5wZzRNVWRTRDFrdmlTMEl4Tk1yM2pyd0tjTHRCcEpfMVZVMXZVRENHVzQxTWhjSGpTcFVtVDI5d0hMQjVyeW90TVFxQkpaclJhZlpqay1uY1ExWEpZLWdLREF5ODJRYVhLSVF6VGhaR0tpYnFUNWtqMERXa2fSAbMBQVVfeXFMTkVCOUFaczlpRlVzM0RWanhNSHBEeDZleFRsUVBTcVBuSWhmLUQ2WDlxZnFia0U4MEJSajUtWmZrTjZ0T0hXMVUyNm5sMkFuQzN4bWNwcTFZSnI5YVd1VGlfZUJ0M0hCSzRuMW0xeTRWck1JZ3ZmR1owZjdEckJuYzVpOWxoMXhINmlST1hwMVU0c0l4WU1KTC1GRjV1ZWRKV0psaDF3ZGFnZlNVQUp5c053VFE?oc=5",
+                "pub_datetime_utc": "2026-10-31T03:57:09Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:48 KST",
+        "current_rank": 18
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "밀레이, 정치적 갈등 심화",
+                "hook": "아르헨티나 밀레이 정부를 향한 비판의 목소리가 터져 나오고 있습니다.",
+                "script": "밀레이 대통령의 행보를 두고 아르헨티나 정계가 뜨겁습니다. 야권은 그를 '역사상 가장 큰 선거 사기'라고 비판하며 거센 공세를 펼치고 있는데요. 경제 위기 속 아르헨티나의 정치적 운명은 어디로 향할까요?",
+                "original_title": "Javier Milei viajó a Neuquén para inaugurar una iglesia evangélica con la presencia del gobernador Rolando Figueroa - TN",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT0NlRV9hbldfNkhIdUIyd252NXRCR1dEZnU2MTZZaVB3Q1ZURmx4Zko2Q3hwVTN4X3JlZnpULWNadjZUUEdIdXZveXRvNjBzWUhrNkU2VHVUbTNfbVI1cW1MSzRNNUVxaTl0S05rTGdmVF9FWElDaE81TFFXRUxPbTFpX2VhYnFGMG1GTVUwZUlYeXlVSllnTEhUWVZBZ1BCc3J2dEt0X2RnMXFjSnRyQmZmRkh1cmIzWlMxN0UxNkFCSmNMSURmLUdpY0hYY2ljMGhrVmdBU2M3TmFOVml4VGFLSmxNVGdjckHSAf4BQVVfeXFMTVl3TGZtaWl2eGF5VUJaVjY0NmpreGRwLTFFTFB3VnRDb1BPYS1GWkc5Y21MdXp3ZTVwOE5CTDF4bmF3UGpQVUZ5MllmZzRpS0ZCd19oeHN5d29yaDMwdUNFRXYxMXMxLTVwdUhtNDI4bEx2NUwzRmxmYnpELUdtVV8xUW5Ub2FqeWlpMTJQNWlGQk1PSkpoNWh2NEpWeGs4SWI2YjFrb3FZbjYzanduaFB4S0RxNmd2UWgtWHh4dzNYY0x0VmxOZGRmd3lTTU1qc3BqNzhtelF3LWZFUFp5RmlZOHNLT3NvRW1lU3FiVnJSeURVUEJNNGE0eHo0MXc?oc=5",
+                "pub_datetime_utc": "2026-10-31T22:13:07Z"
+            }
+        ],
+        "last_updated": "2026-11-01 09:10:48 KST",
+        "current_rank": 19
+    }
+}
