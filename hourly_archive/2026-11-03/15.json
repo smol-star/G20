@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "트럼프, 중간선거 총력전",
+                "hook": "트럼프의 정치적 운명이 걸린 중간선거, 막판 승부수가 시작되었습니다.",
+                "script": "미국 중간선거를 앞두고 트럼프 전 대통령이 막판 총력전을 펼치고 있습니다. 대법원이 캘리포니아 투표 관련 소송을 기각하며 트럼프의 정치적 입지에 큰 변수가 생긴 상황인데요. 과연 이번 선거가 트럼프의 정치적 유산에 어떤 종지부를 찍게 될지, 전 세계의 이목이 미국으로 쏠리고 있습니다.",
+                "original_title": "The Saga of Haley Stevens’ Fiancé Keeps Getting Weirder - Slate",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0hjTFZGLXJMRFlTcUFWVExSSXlvM19lb3ZrQ1VlcGNYdVhnak94Szd4enpFZlEwU1ZPLXJOVGJIbjJXNm5iWGNnNWJnSDlmSm5BWm80LXVlWVpGWFRfQndXNC1CaThHOUtvMHk3ZFdoWXNwOEV0SndOWVZrdThmMTNDYXYwUjRRR2ZyMmo0Rkd5c2xIelZz?oc=5",
+                "pub_datetime_utc": "2026-11-03T00:20:00Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:18 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "시진핑, 오만 국왕 회담",
+                "hook": "중국 외교의 속도가 빨라집니다, 시진핑 주석의 광폭 행보가 주목받고 있습니다.",
+                "script": "시진핑 중국 국가주석이 오만 술탄과의 회담을 통해 전략적 소통을 강화하고 있습니다. 이와 함께 중국 내에서는 당성 강화와 국정 운영 혁신을 위한 고위급 인사들의 움직임도 분주한데요. 기술 혁신과 외교적 영향력 확대를 동시에 꾀하는 중국의 거침없는 행보를 주목해야 합니다.",
+                "original_title": "锤炼坚强党性 砥砺担当作为 - 人民网",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SQ2xacFdsT0JSZmdHYm5tWXBXbFVHZFBRQWxCYi1EWTV0NkxEYWx0cDdaZC0zbGM0OTF6d0d1bjRiSktWUE9ZR2tibDl4cUwxZUJWZWQxWUI5b1dmM09jMjRuZjNPcF8wbDVRYTFQbUhuUQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T05:28:00Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:18 KST",
+        "current_rank": 2
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "일본, 10년 만의 한파",
+                "hook": "기상청이 경고한 10년 만의 최강 한파, 일본 열도가 잔뜩 긴장했습니다.",
+                "script": "일본 북부 지역에 10년 만에 찾아올 유례없는 혹한이 예고되었습니다. 기상청은 급격한 기온 하강에 따른 대비를 당부하며 비상이 걸린 상태인데요. 이와 동시에 잇따른 사건 사고와 폭력 조직 관련 범죄 등 사회적 불안까지 겹치며 일본 사회가 뒤숭숭한 한 주를 보내고 있습니다.",
+                "original_title": "トランプ氏「口約束」連発 中間選挙前に焦り：時事ドットコム - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTclA5R0dQTklKVWxLWG5kUjhwX2hWZXBjQTdHZzRmVG5OLUNOSXFmVnNRMEhGTW13YnVoZ2c3ZWpxVTRsTHZBZVVXSGJlWUtoV19XZ1RpNEd2Wm5rVjlGZkVTTQ?oc=5",
+                "pub_datetime_utc": "2026-11-02T22:08:00Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:18 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "이란 공습과 대기오염",
+                "hook": "이란 공습으로 긴장 고조, 인도는 최악의 대기오염과도 사투 중입니다.",
+                "script": "이란 케슘 섬을 향한 미군의 공습으로 중동 정세가 급박하게 돌아가고 있습니다. 한편 인도 뉴델리는 대기질 악화로 인해 최악의 스모그 사태를 겪으며 긴급 조치가 발동되었는데요. 안팎으로 쏟아지는 악재 속에서 인도의 대응 전략이 시험대에 올랐습니다.",
+                "original_title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz - Al Jazeera",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5",
+                "pub_datetime_utc": "2026-11-03T05:29:26Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:18 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "영국, 노예제 사과 검토",
+                "hook": "영국 정부가 과거의 역사를 마주합니다, 노예제 사과가 공식화될까요?",
+                "script": "영국이 과거 노예제와 관련된 국가들에 공식적인 사과를 검토하고 나섰습니다. 이와 동시에 우크라이나 파병 평화유지군의 교전 수칙 변경 등 국제적 현안에서도 영국은 적극적인 행보를 보이고 있는데요. 국내외를 가리지 않는 영국의 파격적인 결정들이 어떤 후폭풍을 몰고 올지 지켜봐야 합니다.",
+                "original_title": "Labour MPs pull their punches on immigration changes - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HcjROZGJQT0hBb296NF9mZVY4YUtNdWVvVDcxQVNXUUxHdXhBRnl0QTYzcFM2ZUUyM2xWektkSWdhLWRRTkxOYmJtX0dfTDVwajVLOGtJZzNQMnpOSHc?oc=5",
+                "pub_datetime_utc": "2026-11-02T21:57:04Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:18 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "프랑스 교도소 포화",
+                "hook": "프랑스 감옥에 9만 명이 갇혔다, 사상 최대 규모의 과밀 수용 사태.",
+                "script": "프랑스 교도소 수감자 수가 9만 명을 돌파하며 역대 최고치를 기록했습니다. 교정 당국은 수용 공간 부족으로 심각한 한계에 봉착했는데요. 사회적 불안과 강력 범죄가 늘어나는 가운데, 프랑스 정부가 이 위기를 어떻게 타개할지 주목됩니다.",
+                "original_title": "Midterms 2026 : l’ultime discours de Donald Trump, la décision de la Cour suprême sur la Californie… Retrouvez les informations de la campagne à la veille du scrutin. - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeGVtT0ZRZE5kWnZacXRWV0lTUzJjV180S2pIdnZtdUJtMnFyd1FoT2J5c3BXdXFReHI3MmZYS3otdGtPSThmczI2R3JrZXZHWmJyTkcwS1lIWGxMMnJqdzFscGlEeFROQ2ZGWnpQaXMtWVF2NFRBM081akltY29IMVFiOEdrOWZKTGxTMHRWZjdmcnUyNHF3d0NQSXpDcDBrdlV1MHpnLVE3NVdhT2xfcTE0NU85X2M4d256QUVoSFVIZHdfYkdldXEwVG9TakJTV0k5RjFZY2NWUUpIMmdvdS1tdkdoMUZ5UlZucURIbDRoeGllZm9UOTh3?oc=5",
+                "pub_datetime_utc": "2026-11-03T04:37:31Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:30 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "유럽 유통망 해킹",
+                "hook": "당신의 장바구니가 위험하다, 유럽 전역을 덮친 슈퍼마켓 해킹 공포.",
+                "script": "유럽 6개국 슈퍼마켓 체인이 동시다발적인 해킹 공격을 받으며 비상이 걸렸습니다. 이탈리아를 포함한 주요 도시 매장들이 시스템 마비로 큰 혼란을 겪고 있는데요. 디지털 금융 시대, 일상을 파고드는 사이버 범죄의 실체를 추적합니다.",
+                "original_title": "Trump, 'le midterm più importanti della storia, dai dem candidati jihadisti' - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYlBIRWZBU1E5YUJmRmhZSUhEU09BVEg5OGdYYkFFcUNoOWJPX1lMYlNNdnMyM0R1bUtwQV9lckJKdlBlcUlGamZmTjRWeTJjOE8tMjgtSWY0cjNodHhBZGU5OTZHTGxBWFJ3aUtQX3NoSURuUUs2MWdNc0h0NktZTGNIbG01LUdQbjM0Yzc4aHBKMFhKWnlfdHdyNERIdDY1ZlgzaXM5QWxKQ1V5SXkyaXVWeThISVlpbmNEdnoyNnFqWFN5cDhRMVNBZUtCZ1k2V2N2ZFl4VHBYclRuaDhsTXdVRnVScFpTXy1wckJIWE1HckQxVjY4SE1n?oc=5",
+                "pub_datetime_utc": "2026-11-02T19:42:00Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:30 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "플로리다 비행기 참사",
+                "hook": "플로리다 상공의 비극, 9명의 목숨을 앗아간 추락 사고의 전말.",
+                "script": "미국 플로리다에서 발생한 비행기 추락 사고로 9명이 사망했습니다. 특히 사고기 부조종사가 브라질계 이민자 가정의 딸로 밝혀지며 브라질 사회가 큰 충격에 빠졌는데요. 현재 정확한 사고 원인 규명을 위한 정밀 조사가 진행 중입니다.",
+                "original_title": "Reuters/Ipsos: aprovação de Trump segue baixa na véspera de eleição de meio de mandato - G1",
+                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlh4U2twZ2ZBakVHc2dkTUtyVGlEUGFTWUVLSDNCbWZ3NGxmVl93cTFsYWk1Wi1IV2VoZXg3QWpMYkdJajhqODBZSXZMMDJGajd5Z0U5dFdSLVRoMmh6dkx2THF5dnQzNnJlTURGdm1XYnk5SUpvU2pSRElUODRhcGkwRTJJNVFoXzhMSXk4cjlpRnY4elhnbzhmeG83V0R3cmIxeGY0UVdxSGpXQkFQM09mZGNPZ2NxN3BRelZBcVJPN3Y5ck5GWF9ycGxVdXRNdFHSAeABQVVfeXFMT19mOGtaMzRuTGhCOXJQQ1NEbHR1ak5NeUVVMlA1eVBobkc2ZUktcWFGckZSOHpoMzduUXFxNURQRFJtUlBIWUdFc29JSmtJQ1NiRnlNT0pBbWQteC0yVGprRVg5M0wtdzh6Snd0dGRwQWVvbFpjRngxRjV5cXJ0ZnRoWVhlT3NMT3ZpZElQemNLbEd1QjNrMnhGakhKSS1iRWFlRG0zWFJrdUhPcHhuZDY3SVotQ1Jyd2lHZjktWDN2TUItczlNV0poZ2o1cm9CcjhMSFhCQnBMUmdsbGxyNVY?oc=5",
+                "pub_datetime_utc": "2026-11-02T22:34:19Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:30 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "Two-year-old boy struck and ki",
+                "hook": "Canada의 최신 주요 뉴스입니다.",
+                "script": "Two-year-old boy struck and ki",
+                "original_title": "Two-year-old boy struck and killed by taxi after running into northeast Calgary parking lot - Calgary Herald",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzczcDlteXdPQ0IzOTVsSGdsSHlkTWIwRUNnRWxXSWx4dmdlOURFSk0xOGRGc1hMVHZveUNDTHl2SzhENzdtN19jczRJU3FEOFN0SkJMZm44alJmZ2tMVWRPVmhGdElGZlA2dkRGdW82MkRtVWFMX3R6S24xNkkzS1pLOUkwZWRHOTZfWWk4YkVqUTdqUlJj?oc=5",
+                "pub_datetime_utc": "2026-11-02T22:08:14Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:30 KST",
+        "current_rank": 9
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "러시아 정유소 화재",
+                "hook": "러시아 심장부를 강타한 화염, 정유소 피격으로 에너지 공급 비상.",
+                "script": "러시아 야로슬라블의 대형 정유소에서 대규모 화재가 발생했습니다. 우크라이나의 드론 공격이 원인으로 지목된 가운데, 러시아 국방부는 강력한 대응을 예고했는데요. 전쟁이 에너지 시설로 확산하면서 글로벌 유가 시장에도 긴장감이 감돌고 있습니다.",
+                "original_title": "Переговоры между РФ и Украиной при посредничестве США пройдут в Абу-Даби 10-11 ноября - Интерфакс",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hNVFrUUN4WDFNcWxSNmRpa1hZSGMxMlBxOXdXaDlBdF82MzRrNG8wWlhxalRkMV9FRkRBcXhLQVZRUXhKR3lHeXJfcW9Vd9IBS0FVX3lxTE9zckZzUXBVeW5FZG9tTTFETjRlSVU5aDlTWEZtYk1mMUtmdzVXQ2l2RlI0WXpsQ1pxX2J3ZC1mOE5YN09HR2tXc05VRQ?oc=5",
+                "pub_datetime_utc": "2026-11-02T23:22:00Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:30 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "멕시코 학교 휴대폰 금지",
+                "hook": "오늘부터 학교에서 휴대폰 퇴출, 멕시코 교육 현장의 대변화.",
+                "script": "멕시코 교육부가 오늘부터 전국 학교 내 휴대폰 사용을 전면 금지합니다. 디지털 기기 대신 학생들 간의 직접적인 소통과 학습 집중력을 높이겠다는 취지인데요. 학부모와 학생들 사이에서 찬반 논란이 뜨거운 가운데, 이번 정책이 어떤 변화를 가져올지 주목됩니다.",
+                "original_title": "Elecciones en Estados Unidos: 7 carreras clave que tienes que mirar para saber si los demócratas recuperan el control del Senado - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCMThCV1hVeGhPQW1qcUZsVEJhNEkwd3ZTbnBMQTJHa3NneUFJRUpVZjVoMXY4RkxWbFQ4MTFEaVZwek82aWpXUEwxOG9kUnNuQlZ0RlJlcEM3RlJ40gFiQVVfeXFMTlR0NEkyUU5RNEhjX1RtdE5DcHZoQ1dvdnY2bXBUbk9lUFhyT2FhMFpsSlJ4SFVHNXYwdkNkYk1RUTEyTzRkN09TUXY2RGZJeEN2RlBQWV9mQ0VmT2Jtd01xbFE?oc=5",
+                "pub_datetime_utc": "2026-11-02T22:21:33Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:30 KST",
+        "current_rank": 11
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "호주 기준금리 4.85% 인상",
+                "hook": "호주 중앙은행의 전격적인 금리 인상, 당신의 대출 이자는 얼마나 오를까요?",
+                "script": "호주 중앙은행이 기준금리를 4.85%로 전격 인상했습니다. 치솟는 물가 잡기가 최우선 과제로 떠오르면서 가계 부담은 더욱 커질 전망입니다. 전문가들은 이번 결정이 주택 담보 대출과 소비 심리에 즉각적인 타격을 줄 것으로 내다보고 있습니다.",
+                "original_title": "One Nation volunteer allegedly beaten with bat after dispute over signage - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUnpkbFp1YnVBc2ZFWVU5bHVJdUxFaTZQZzFqRjFjN1ZCNUExX1pyaW9uRkpzWXdhQ18wVmMtTzMtS1B6OEl4UUc0U1RFTnFzNTI3cjZtS2RTTWh1WlFWQkpqU2xOT2tXaEVoZkVzRm5jcWNoWGVzMEpUenVCcGROSDB0UzJZTHhVRkViUllWbS1WbjBRaG9udU0tSWlhUQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T04:37:52Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:33 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "대통령 '가짜뉴스' 강력 대응",
+                "hook": "사회 극단화를 막겠다며 '가짜뉴스'와의 전쟁을 선포한 대통령, 그 배경은?",
+                "script": "윤석열 대통령이 최근 사회의 극단화 현상을 우려하며 가짜뉴스 선동에 대한 강력한 대응을 지시했습니다. 정치권에서는 이를 두고 지지율 반등을 위한 포석이라는 해석과 국정 장악력을 높이려는 의도라는 비판이 엇갈리고 있습니다. 여야의 공방이 격화되는 가운데, 정부의 대응 수위가 어디까지 높아질지 주목됩니다.",
+                "original_title": "[6문6답] 막 오르는 미 중간선거···여론조사, 이번에는 맞을까? 선거 결과 따른 트럼프 임기 후반 시나리오는? - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWWozM0kzWTc3elRJYXd1RDljTlhyTW1JS05OdzJvWHdzdERWdU5lUXhGbXd2RTBqM1Rsb282SHlkWnN4cmowRlpicjk4S3FXRDBaYmxkc2Jkd9IBX0FVX3lxTE5QaXF6VktHbGdqX0RiMl9pbGFuLUFEc01Kc1Z0dS1TM01YNWFKUXpQWlFRdWE3SVFDYm4zYlY2ZkRsT0JYcm9mX0pSNGE3OVFRc2R0OHg0b3VsTnF3WmlB?oc=5",
+                "pub_datetime_utc": "2026-11-03T05:37:00Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:33 KST",
+        "current_rank": 13
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "인도네시아 잇단 재난",
+                "hook": "평화롭던 마을을 덮친 화산 폭발과 대형 사고, 인도네시아가 울고 있습니다.",
+                "script": "세메루 화산의 라하르가 마을을 덮치며 사이렌 소리가 멈추지 않고 있습니다. 설상가상으로 베카시에서는 무면허 대형 트럭이 인파를 덮치는 참사까지 발생했습니다. 반복되는 안전사고에 인도네시아 국민들의 불안감과 정부의 관리 부실에 대한 비판이 극에 달했습니다.",
+                "original_title": "Denny Indrayana: Gibran Tak Lagi Penuhi Syarat Wapres, Pemakzulan Harus Jalan - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenZrYzIzcTlpQVRzNTVoSHRETXdRd2ZrYnRTUjJhZ0tKY0FJYmdZX28wRG9KdWFLTlhFV3AwNHBPTlZ4Z2RBNU1DSTYzS2ZEanJzOXFsX3Rwd2hWd3YzOS1uXy1icUNCWjdfZXBMZ1BoSzY1OWZLN0UybS1ZQlFRcnk2OU1kT0x2bFlrT0hQYkZCSFE2cUFQTGhkSVJYRU55OWROZU1wMlYya2wtTzRSX19YNmdXQdIBuwFBVV95cUxPWnZfc2JENTZkSUtpTTNTYVpXNi1jR191MWhiUWh2NUxTTG43QVhmVi1QUzVLdVY0a3kyNUlqYm0xRFRTNHJSMlV5RjcyQnBRS0o5ZmdpcDM1WWZCYnEwVzU3d2VpelItUExBc3d3VmlLSDJoeUVucVk4c0hGMnFLODNFZEpUWmhZallDU2xqQno0bDhNcDIxY09oOEtTRTI1OU9paWVvOE5ZNFVLQ2J1VnZNM2ZVcVlvLWcw?oc=5",
+                "pub_datetime_utc": "2026-11-03T03:59:03Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:33 KST",
+        "current_rank": 14
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "튀르키예 19개 군 승격",
+                "hook": "튀르키예 지도가 바뀐다? 19개 지역이 '도'로 승격될 전망입니다.",
+                "script": "바흐첼리 대표가 차기 도 승격 대상지 19곳을 공식 발표하며 전국이 들썩이고 있습니다. 경제적, 행정적 변화를 기대하는 목소리가 높지만, 동시에 쏟아지는 폭우와 기상 악화로 인한 피해 예방에도 비상이 걸렸습니다. 정치적 결단이 지역 사회에 어떤 변화를 가져올지 귀추가 주목됩니다.",
+                "original_title": "İşte il olmaya aday 19 ilçe! Bahçeli beklenen listeyi bölge bölge duyurdu - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0FhUTdCNHNHMXdKV2RoM3dVWk5zZkJwTEhxS1lOeGFiS29tS1RwaEtMYWZDcmFsdThXd0FxMncyVEU5UmJvSjBraW0tS0hCRzh4aWY4OHRITkZIQ0VsakRCZnR1MXZLOEdJOU01Z3pFUUdMVjJQc09rTl9URXMyVHA1b1REMm9Ud0g4eFRDVS1TYXZBYmNDTVlGcnpLbXZscThXOVFuX3JQaGFWdi0yOWhxMXdqLUk?oc=5",
+                "pub_datetime_utc": "2026-11-02T10:19:38Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:33 KST",
+        "current_rank": 15
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "밀레이, 미국행 강행군",
+                "hook": "아르헨티나의 운명은 미국에 있다? 밀레이 대통령의 파격 행보.",
+                "script": "밀레이 아르헨티나 대통령이 미국 중간선거 국면에서 다시 미국을 방문하며 외교적 승부수를 띄웠습니다. 경제 위기 타개를 위해 글로벌 동맹을 재편하려는 밀레이의 전략이 과연 아르헨티나의 실질적인 변화로 이어질까요? 대통령의 일거수일투족에 온 국민의 시선이 집중되고 있습니다.",
+                "original_title": "El futuro de Milei se define en Estados Unidos - Página|12",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd2tNSFVZR3dMdzFaRm1Qd25MZmhMZ3otVER1OEc4eTdObFFLOFVqeXVLenVWTHhHSE55UXlVaGVHNG82VGdtY3pkQng4U3k1NzdmbU12c0J0dUhna3Y5MVA1dnVWV044bWlyNnd2dTlUTlhKaGNOTi1PNVp2VUlFWUdabk54Z001WUxBQk1wNA?oc=5",
+                "pub_datetime_utc": "2026-11-02T23:17:31Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:33 KST",
+        "current_rank": 16
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "남아공 운명의 선거",
+                "hook": "이번 주, 남아공의 미래가 바뀝니다. 투자자들이 가장 두려워하는 최악의 시나리오는 무엇일까요?",
+                "script": "남아공 총선이 코앞으로 다가오면서 전국이 긴장감에 휩싸였습니다. 트럼프의 메시지부터 새로운 세금 정책, 그리고 연립 정부 구성까지 경제에 미칠 파장이 엄청납니다. 특히 투자자들은 선거 결과에 따른 최악의 시나리오를 대비하며 촉각을 곤두세우고 있습니다. 과연 이번 선거가 남아공의 새로운 도약이 될지, 아니면 경제 위기의 서막이 될지 전 세계가 주목하고 있습니다.",
+                "original_title": "Donald Trump sends a message to Ramaphosa, and new tax on all South African households planned - BusinessTech",
+                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQekVyeTN2ZEhYTFpQWTVQVWJocWFWVEkwTzNxV3llSW41cE9MOVJFVlAxOW56eWNKbmZXSHREVjdtSEgwMk0wMlgtaGRpcmh4a3lVSmFYRWktNVVBVUJlb2c4WXF1cWNFOXpnb0hvSjlNRl9nRS1VeHlqSFBqSWZDeV9DM0JIWUE3RXM3U18tWG1rem01Qlg4bURydmJiZ1ZROFZweVYxWGZJNkNhdGJVemY3aUJBREY2emswaHRnRFJxcnJXWmliUVJDdkt2WHVmdHlqN1NTNE5uQQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T05:28:26Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:35 KST",
+        "current_rank": 17
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 70.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "Zwischenwahlen in den USA: Ble",
+                "hook": "Germany의 최신 주요 뉴스입니다.",
+                "script": "Zwischenwahlen in den USA: Ble",
+                "original_title": "Zwischenwahlen in den USA: Bleibt das Land regierbar? - tagesschau.de",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Kd3JwUkVsZ2RGSm9ScUdwV2ZtMmE2ejB5U3dIcFlkWmhMaGV2LWdYN0FSOFhhU0pHOUhKd0ZmQ1FuUkV6dTVKT2tQYWJRMDVSSnZFcnBOQnh0V0VxM0ZOVmM5c0VpSkxOWnROb3UtNFdPclVxTVE?oc=5",
+                "pub_datetime_utc": "2026-11-03T00:45:54Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:18 KST",
+        "current_rank": 18
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 70.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "사우디, 주식시장 규제 강화",
+                "hook": "중동의 거인 사우디가 주식시장 문턱을 높였습니다. 투자자라면 주목하세요.",
+                "script": "사우디아라비아가 주식 상장 규정을 대폭 강화하며 시장 투명성 확보에 나섰습니다. 동시에 후티 반군을 향한 군사적 대응과 외교적 노력을 병행하며 역내 안보 주도권을 지키는 데 총력을 기울이고 있습니다. 변화하는 사우디의 경제와 안보 전략을 지금 확인하세요.",
+                "original_title": "معارك \"فجر اليمن\" مستمرة.. مواقع ومخازن الحوثي تحت النيران - العربية",
+                "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZmlBSTloYldwd0FiVXczb1dVbWtUWWhNMUVLTG9UaTl2a1pqOGdjN0VhRWVCbTl6b2ZjTHlBS3NLT3pCN3ZrS2dxdWxweDR0RlRZN0dBa2F4U1FELUpaZjJwbnU4aWpZUjQ5Q2R0UTdGYmo2YTJiSTlWNGsyTnlXLU4zcXEyQzBoa0hwN0RtVzNobFVueWdXcUhuRXhRaHh6ck8yQXltbURaeGRPUWFEeXd4VGs3cjladjQ1UW9UN1dabWhPX2lGSHJ1OGZTVElhek9vcUNrMHdLODBsZWs1V2tMVzhmdzJYaV9SQXNBTFh4QlFZaFB2aEZhUk15aGVReEUxekVNQ3dvekdFc3VfT3RMS0RqbERqUWVRdlBxc29fbjFVM3Q3a09hakx3bVhJM1NfcUVjajJvd2ZPUGlpVzVNUTB0RmpPU09jZ3N1cHcyNWJ5NHh0TU9XNVlVM1V5RGswWFpwNmhxLXdrR1I2ZUNBcGpCM0xTdWxsWnRrWktfMTJCZkxvbkVHcHprdDJEU2w1THZhOEs0R2JLWDZ0V2x4R0RJZlU2b0VQbFdvWDlJMUZldW51WGQyc2xISnlObjJOdmNmZ3ZCWTlWelItcURRSld2YWwwS0paMkdwUzlyZ29V?oc=5",
+                "pub_datetime_utc": "2026-11-03T05:44:00Z"
+            }
+        ],
+        "last_updated": "2026-11-03 15:55:33 KST",
+        "current_rank": 19
+    }
+}
