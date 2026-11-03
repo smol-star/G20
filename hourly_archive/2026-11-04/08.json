@@ -1,0 +1,325 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 75.0,
+        "previous_rank": 1,
+        "trends": [
+            {
+                "keyword": "미 중간선거 개표",
+                "hook": "운명의 날, 미국 의회의 주인이 오늘 밤 결정됩니다.",
+                "script": "2026년 미국 중간선거 투표가 종료되고 지금 이 순간, 전 세계의 이목이 개표 상황실로 집중되고 있습니다. 상·하원 통제권을 두고 민주당과 공화당의 초박빙 승부가 펼쳐지는 가운데, 이번 선거 결과가 차기 미 정국과 트럼프 전 대통령의 영향력에 어떤 파장을 미칠지 귀추가 주목됩니다. 투표함이 열리는 지금, 미국 정치 지형이 완전히 바뀔 준비를 마쳤습니다.",
+                "original_title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance - CNBC",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMWlJWVhUdU9BWjhRS2dOUTFsclRxbE9SdTlaeml6SzVBcy02WjRxMlZpNmRfSnk0Q1YteGZId0NFN18xMzcwX1ZPLTNZejBmR0Fjc1EzUE9GR2pIM2dIMHlqc3RaeE5sNTUxcGNpUmN4N3d4Wm0zZHJHTVjSAYIBQVVfeXFMUEFNNjBVQWJILWo5UVNqS0lZN0dGYWpuT081UWRILXQ0N1NFcThsRUFIQkdZcWNHRXMzSFpVdU1PeEltUFZidm9ob1B2SUFTVWw5LXFabkxMZk5aeVpKYWVvOXJDWWkwSW1IYjB3b1FyVEZUOHdLS00wQUpxOUJJeWNDQQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T23:15:00Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:41 KST",
+        "current_rank": 1
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "세계 인터넷 정상회의",
+                "hook": "우전에서 시작된 디지털 혁신, 미래 인터넷의 청사진이 그려집니다.",
+                "script": "2026년 세계 인터넷 대회 우전 서밋이 화려한 막을 올렸습니다. 이번 회의에서는 오픈 소스 기술을 중심으로 디지털 개방과 협력을 논의하며 글로벌 인터넷 생태계의 새로운 표준을 제시하고 있습니다. 기술 자립과 경제 발전을 동시에 꾀하는 중국의 전략이 이번 회의를 통해 어떻게 구체화될지 전 세계 IT 업계가 주목하고 있습니다.",
+                "original_title": "习近平总书记的黄河牵挂 - 求是",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbUE2R3h4M25ySWlvWnROSnQtSDB1UkdNN3ZjcnI4dGE5UG1LSk1fbHA2NjFfNHl3QjdlRGVmSHZjdlBzdjNfeW1ReHVXVlZpRFpLSGRaaUg5TTlFbndPS3d2bDAwTHJ6UHpKaXVDczRHdkI4Z3FrNTduQm8?oc=5",
+                "pub_datetime_utc": "2026-11-03T01:31:52Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:41 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 75.0,
+        "previous_rank": 2,
+        "trends": [
+            {
+                "keyword": "메르츠 총리 위기",
+                "hook": "독일 연정의 흔들리는 기초, 메르츠 총리가 민심의 역풍을 맞았습니다.",
+                "script": "프리드리히 메르츠 독일 총리가 집권 이후 최대 정치적 위기에 직면했습니다. 당 내부에서부터 터져 나오는 비판과 함께 차기 총리직에 대한 여성 후보론까지 거론되며 메르츠 체제의 결속력이 시험대에 올랐습니다. 연금 인상과 경제 정책을 둘러싼 논란이 가중되는 가운데, 독일 정계의 권력 지형이 요동치고 있습니다.",
+                "original_title": "US-Kongresswahlen: Die Ergebnisse der Midterms 2026 – live - DIE ZEIT",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDduZFotaUw4OXIxZmlmU3d6S3VEOWxRZ0FvWVR5SmlRekFBUEZOeWNnMzF1QkFxZU9lTUhSU29yV25xbHd5bGQtUHRKVVRQMkQwZFFLM01jU3NGc2FHaWxPaFBlM1VfWUhldVNLRUlGdWJCdWRORTRCVnR4V241YUdNUkItdGlpckduMWxzVQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T22:08:52Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:41 KST",
+        "current_rank": 3
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 75.0,
+        "previous_rank": 3,
+        "trends": [
+            {
+                "keyword": "미 선거와 일본",
+                "hook": "미국발 정치 태풍이 일본을 덮칩니다, 트럼프의 행보가 불러올 파장.",
+                "script": "미국 중간선거 결과에 일본 열도가 숨죽이고 있습니다. 특히 이스라엘 지원 중단 가능성을 시사한 트럼프 전 대통령의 발언이 일본 외교 안보 전략에 어떤 영향을 미칠지 정부 당국이 촉각을 곤두세우고 있습니다. 엇갈리는 미 정치권의 향방 속에서 일본은 자국 안보와 국제 질서 유지를 위한 고차원적인 외교 해법을 찾아야 하는 상황입니다.",
+                "original_title": "アメリカ中間選挙2026【速報中】民主か共和か、多数派巡る攻防 トランプ政権の命運握る - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZGFPNThISWR0Wm9QNEJSWmc2Smp3eHBNazJsU09tUzgtUGtEbVJybjFJNjIybVpuS2lSVVdUWkV6cjBvWndBTF80d3pVbWRYWFRXYmhIdkhWV09aelAyMmlMcy1ndHdMNGdvSg?oc=5",
+                "pub_datetime_utc": "2026-11-03T23:09:09Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:41 KST",
+        "current_rank": 4
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 75.0,
+        "previous_rank": 4,
+        "trends": [
+            {
+                "keyword": "Trump's Next Two Years On The ",
+                "hook": "India의 최신 주요 뉴스입니다.",
+                "script": "Trump's Next Two Years On The ",
+                "original_title": "Trump's Next Two Years On The Line As US Midterms Counting Day Arrives - NDTV",
+                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPalNNeVZwNGxDWG9Ia1BUOFJsVUVJWHR2YlpCXzJ3alpvU2h4bzZ6Vm1tUFZYMHM1M205d3FkWDF0cWd4ckdLUjluTVJ2cmE2Yl9DbGVBUHpVT2Y4Vk8yQm1tV2dVMVFKQVhfdnU4X2Frek9PYWVaajNRVE03d1BBdzBsZnZqNG5vRlJCZUNXdW1weW5ZUFdER1ZRc3hVSW5vTmpIRi1VcHJoc2FWRUJmQTFrOGc1LVdjQ2lDTS1SQzN4d041VGt5VXQtS1hSUFVfcHZvNjdNUXVsUFBOUEZB?oc=5",
+                "pub_datetime_utc": "2026-11-03T18:44:27Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:41 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 75.0,
+        "previous_rank": 6,
+        "trends": [
+            {
+                "keyword": "프랑스 전국 총파업",
+                "hook": "오늘 프랑스 전역이 멈춰 섰습니다. 무엇이 그들을 거리로 나오게 했을까요?",
+                "script": "프랑스 전역에서 대규모 총파업이 시작되며 교통과 교육 현장에 큰 혼란이 빚어지고 있습니다. 이번 시위는 정부의 정책에 반대하는 시민들의 분노가 폭발한 결과로, 주요 도시마다 격렬한 행진이 이어지고 있습니다. 당국은 긴장 속에 사태를 주시하고 있으며, 시민들은 일상 마비라는 큰 불편을 겪고 있습니다.",
+                "original_title": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les élections de mi-mandat en direct - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSll6RW5SU1lfR1FNZkVEX1Bzczh2Q001c1BJQXFwQXZVamJkRno4R1Zpcmc2Y1JJM1ByVjhGQ1B4Y0hqOGRsTEM0ZjVYR2xnVnZLZTVTVGxldm13bE90MFcySkFTVWhiU0RyMGVWODlOOGN3VjBwX2xseUwxV3h4TEx5NHVaZ0xpZVdMRzJ5c2NzQ2NQZlVTLUtSc3V4R2NocWF6TXZMUHhxUEtFYzA3cklTUkFTX3luZmxxR1RYZ1JSd18zZTl5Z21PeTZNQVhmS3NFSUVHekNma2lOMS11NjVkczVCRU5pT0xRc3llYmVRaXdGMVE?oc=5",
+                "pub_datetime_utc": "2026-11-03T23:11:43Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:47 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "Senado aprova em primeiro turn",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Senado aprova em primeiro turn",
+                "original_title": "Senado aprova em primeiro turno texto-base da PEC da Segurança Pública - G1",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTc4Q1dwLXBTa1BpOGlXbFhidmdUcGtxRzhSY1ZrYXFJNGtRd3NXVTdxRzZiTmxJNk5yclhmc25wQXFxNnZRUFE2eG1CRERNLVoxWGdVWURfMkZCU2Jvd0U2ZWxuSVM4M0pIMDhweTFnZDNkLUJWeWxUcGtSM2Y4dXFMWXIxTVhqYi1BeEVnUVJjSldxU0liM9IBpwFBVV95cUxNcjlzZkRab0QzMXFFbGpTTmFyXzZYRWozSVR0c2pNLXl2bmU4YzBKVDBpY3pPSFdKZlEyN2ViaVQ5UTYzOFptd0ZneFBOVTdjWklxR2doSWV4UHFkQ3owMHRFRm1ya2luTWdQWldIaVd2eU91dFMwaTJZbHRNQ1BjTlRreXJ2WXBWS3dfQnpQa0lVdTVHRG5mRUk0cFZQT2JMTVJRbzdvVQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T22:06:13Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:47 KST",
+        "current_rank": 7
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "캐나다 연쇄 비극",
+                "hook": "평화로운 캐나다에 닥친 잇따른 사건 사고, 대체 무슨 일이?",
+                "script": "캐나다 전역에서 충격적인 소식이 잇따르고 있습니다. 몬트리올 경찰관들이 차별적이고 인종차별적인 행위로 대거 해고되는 사태가 발생했고, 야생 곰의 습격으로 사망자와 실종자가 발생하는 비극까지 겹쳤습니다. 캐나다 사회는 치안과 안전에 대한 근본적인 신뢰를 다시 묻고 있습니다.",
+                "original_title": "U.S. midterms live results - CBC",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zcnJVTC12TnBva1NfYnc3NTFZOEZJNkJBaXpNa2x1Z3lpSV9id20wZk5kNEtMRXE2N2h3UXIyd1lhTk45UFZPMXlFUmpHbWtkbnlNYmxlRUUtcE55WHFSY01GQk50VGJXa3AyYjZKRkdGVVVVellhMWRoUnNHQQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T17:24:15Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:47 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "러시아 정국 긴장",
+                "hook": "우크라이나의 정유시설 타격, 러시아의 다음 선택은 무엇일까요?",
+                "script": "우크라이나군이 러시아 야로슬라블의 정유시설을 전례 없는 규모로 타격하며 긴장이 최고조에 달했습니다. 이에 푸틴 대통령이 직접 대국민 메시지를 준비하는 등 러시아 내부는 강경 대응을 예고하고 있습니다. 국제 사회의 이목이 쏠린 가운데, 전쟁의 양상이 새로운 국면으로 접어들고 있습니다.",
+                "original_title": "Песков: делегацию России на переговорах в Абу-Даби возглавит Мединский - Forbes.ru",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX254cUFFaG1FWEpmN3R3bEx3TEpKYzBjdG1lbmpuSHZTUDVQVWlIVEtYNlNNUFZsaGlydDBBNVk4X1JmSnhodjdDNzUtN0VJZjFoOU8xd1E3dmJUMEdTMW9yT0UyYzE5Nm9acVFqQjBNVHFvc19GMkt5ZThheVppZ0prNkY4LWd0SXZpM084VTdLbEhvVEdKeElxcExuRTVYZl80c2hNalY2Zw?oc=5",
+                "pub_datetime_utc": "2026-11-03T12:00:35Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:47 KST",
+        "current_rank": 9
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "미 중간선거 충격",
+                "hook": "트럼프의 폭탄 선언, 이스라엘 지원 57억 달러 중단?",
+                "script": "미 중간선거가 열리는 가운데 트럼프가 이스라엘 지원금 전면 중단을 언급하며 국제 사회에 큰 파장이 일고 있습니다. 호주 정부 역시 금리 인상 이후 긴축 재정을 예고하며 경제적 불확실성이 커지고 있는데요. 잇따른 대형 사고와 정치권의 긴박한 움직임 속에서 세계 경제가 요동치고 있습니다.",
+                "original_title": "See live results from the 2026 US midterm elections - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjFJckdCNDZPQUVxYlEyYVRWVWdDRUNZMHM3TkxOdVhSckoyY2Q0TmxNOTZMUlYxazh5b0VHSWc1Uk9FUWFCd1pKMU1yVEZJNHRkYUNtYi1pYkFIWFlPM0ZhYmcxYnNXRkpUZWJMOEhvQld5eFdWejFBUWRvV19iRkZLRmpZZlVB?oc=5",
+                "pub_datetime_utc": "2026-11-03T19:13:25Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:51 KST",
+        "current_rank": 10
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "트럼프 발 경제쇼크",
+                "hook": "이스라엘 지원 중단 예고에 국제 유가까지 흔들린다",
+                "script": "트럼프의 이스라엘 지원 중단 발언이 글로벌 시장의 뇌관을 건드렸습니다. 국내에서는 외교부의 개인정보 유출 의혹과 법무부 시스템 마비 사태까지 겹치며 정부의 보안 관리 능력이 도마 위에 올랐는데요. 이 대통령이 튀르키예와의 협력 강화를 모색하는 가운데, 국내외로 쉴 틈 없는 위기가 계속되고 있습니다.",
+                "original_title": "견제 원하지만 도리어 압박 세질라…미 중간선거를 바라보는 각국의 딜레마 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XRS1ZXzRHMzBrektOTVdKQmFiZzY3WGJfUkRVeU0xa2pyVmFtRHQ0QUF3dzZCcThlS3RhRmVlX2pnUkVld2JMeGpYRmNUUU5FTGdpcE5OZ2RkQdIBX0FVX3lxTE5IQnExcmpWNTJoSHE5TXZ3dms2TWl2VGJZSnFTUnEyTUwtUE1NRjUtQk5vQ2M0eUpLaUxmVUt4VE1yUVlCdkR1MHdwd0ZLMHJPRlpFX3VSZGJieUN2NkQ4?oc=5",
+                "pub_datetime_utc": "2026-11-03T21:00:00Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:51 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "미국 운명의 날",
+                "hook": "트럼프 당선 여부가 결정될 중간선거, 전 세계가 주목한다",
+                "script": "오늘 미국에서 차기 행정부의 향방을 가를 중간선거가 시작되었습니다. 튀르키예에서는 기온이 급격히 떨어지는 기상 경보와 함께 갈라타사라이의 유럽 대회 승전보가 전해지고 있는데요. 국내 정치권에서는 도용 사태에 대한 강력한 수사가 진행 중이며, 한국과의 원전 협력 등 외교적 행보에도 속도가 붙고 있습니다.",
+                "original_title": "ABD sandık başında. Başkan Trump için kritik ara seçim - NTV Haber",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkdGVnlqZFA5TGpnci1ocWhYdnNmSHV0LW8zejJ1S1hIbEEydVpITTFXQTBFa0EwSnlIUTVZVWxUTzVFQUpoZHMzVXZ1cVZGRU52NEJ5YVVmQS1QeWY0ajRpbUlEX1ZfdTZueUZQb2lQYjc3QlJGck9Nc05ya0tlNXNBNVdjRkI0aHV3Xzl5Q1RJX2RxRGRYSVVRWWVYWl9fS0JnQ0pGVktva1JF?oc=5",
+                "pub_datetime_utc": "2026-11-03T22:06:29Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:51 KST",
+        "current_rank": 12
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "중동 긴장 최고조",
+                "hook": "후티 반군, 사우디 공항 타격... 안보 위기 심화",
+                "script": "후티 반군이 사우디아라비아의 담맘과 자잔 공항을 공격하며 중동 지역의 안보 위기가 다시 고조되고 있습니다. 사우디 정부는 재정 적자 상황 속에서도 국방력을 강화하며 대응에 나섰는데요. 미국 중간선거 결과에 따라 중동의 전쟁 종식 가능성까지 거론되는 가운데, 사우디의 다음 외교적 행보에 전 세계의 이목이 쏠리고 있습니다.",
+                "original_title": "الانتخابات النصفية.. 3 سيناريوهات قد تقلب حسابات ترامب وتعيد رسم موازين السلطة - العربية",
+                "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxPUUZMUWs3VFVqS2t2YzhrS0VGVWVueVBySEFiZVdRUkJTUmZXUnVHcGUyaElyRjR1SjlIUUE2bkhsX0UtZkxhbEVsOUltNU11MmdpWHBlTllRXzRaUWdVMDZNQjhDZXZadW1BTDZwMUk3b1U1ZGJscVZZYzJGQjNUZUZuaHllTnI2S2VtQ2tjbnlBeTNwUmcyaUUtYkI0Y25zdmRwRlE3ZE4zTUJxTlFWaUozemhpNXpaX0lQSms2S2VOUTg5bVA3NEFFdE1HYUc0Q01qd1hrckZWQ2lWVENJMkRxaDh3QlZsMTVSZlRnMUlpbW1xdWF0d1J4akVRc24wcjIxSDlvRzlWV0tIM05QZGtiN21EdWJUdEZaMURsTlRZa0MyaGV2UW0xZUZSZmlVYmN4YjFFVmJFMmdGUm8yT3Qza0daYUtVUi1oX3lnZTRIbF9kUFhKMUltek5NLUdBLUJOR1hEU3Q0U3RpbWxkU01qMVJ5WVdrR3lJNzJpTzl5LUJQOFg5R0JkN1Uwa3N4c2s3dENsRGZlNHhZMEVEaGllNXpJRnUxcWtXUUlnbHg1eE43NFA1Nm1yTXZvdnVwMjVaT2ZkSllqSkdvZDJpWjRPaWZQT2tLelhWOVExU1B2V2JvTUpHVEplQ0tXdWsyRUttREJwRTVVWXFmbF94WHp0N0JCbzlpR0xRcnYwUktIQ2dISkpveVBxM2NiY29adS1KMWd4bWpIdlFpRVFHRjJBM0twMXRmbDZCenFoTE03b0ZVdHlTelVLUW9wSWdYQXNyYzIxaVp0T3VjOUJiaVJxMW5vZWw5OENQWFZiUU1XUGRNRTJIQjh5SmRNQnpzbms2bk1QUUFhX0s1cVFPN0Zn0gGXBUFVX3lxTE5Bb29IS1ZleFpoTlpEZlVjSzlUbzZUSXNfenlJM0xoOUc3RjU1SmtMZlpSTHB0c2ItU1JCLUxiNFVsUWJoWWpPNEdRWWtsemljSS00VTJPak40RjRVOWpiZUJmSHdWa0ZSRXI3TDZ4eHNwUWNFU0lnTFRMZV9CZV9ZNm5XdUFQMTVsXzdxTFd3T2hmOXVqM3VfWHRuU1lHT1dZTVdPTzhTM0RwSjFKdG5EdWx4VVRCLUhIeHNqTlktN1FSQndKVmNjVkNGRXJ2by13RG5hTm1aRXFpODVRWEM5ZE52dTJHTXh5WmlmcXJydC00ZTh5MGI0QzJLdVBObDl3UWRsbUJSVGc0M1pEbERubFJwZUNMS0FCX2ZNUkxObEVIcERLSmYyOU9NT1JzUTNLT0tMcWRZQVcwZDc3SkpBbXF4NVdIMi1KdFJZWHg3YVZsZkZrV1pxQTRJMVhIam56WWlvcHg4Sm9ia2lyV2pNaVBJVW9SUnB4OFJjcmhiVEJuZjUtQzd2VlJoODIySW9IS1AtQTAxNE1JM1JEcnJsZ3ZpcVI2Q3E4YjFBRW1aTUlFRUJOR0c2eWsxOFd6REM1eWxOOTlPTUhVYkpKMXBNRjBfYko3RXdKS3hlSC1yaTFkaHBFLTRoTklzanJCSi1wVEdMQ01hSldCYV91TW5RNGFackVTQUpYeVpJalAzWTZjZjdudDhBNFJDemZEQ2tWZnNHUWRIdjRveVlPRlBsaFVNdVp6bDloQnBIZF9uWDdrNmY3aGxpQUF0OThyT203RDBxNGplVzBGZWg5YmI2Z1R5RWdYMzVBcWtqWGFiQURXSFFQVElQcTNxV19FOFpyUGZXMFhDMF83R0xocHVaWDdMRGxKVQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T19:10:00Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:51 KST",
+        "current_rank": 13
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "밀레이의 시험대",
+                "hook": "교황 방문 앞둔 아르헨티나, 정치권은 대혼란",
+                "script": "프란치스코 교황의 아르헨티나 방문을 앞두고 정치적 기대와 우려가 교차하고 있습니다. 밀레이 대통령은 세금 정책 수정과 고위직 인사에 속도를 내고 있지만, 미국 중간선거 결과가 아르헨티나 경제에 미칠 영향에 대한 시장의 불안감은 가시지 않고 있는데요. 혼란스러운 정국 속에서 아르헨티나가 어떤 돌파구를 찾을지 주목됩니다.",
+                "original_title": "“Trump está gagá”: esperan una derrota republicana en las elecciones de Estados Unidos - Página|12",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUlvbkFVN1BtUE15X2x2c1Y2UjJFOFNKc3BRa3VSc0daNmlTX0QxeHhhMl96ZWpsTHJBN2R3QWRZS0FkeE16OGFkVWVmOVFrN1NzNFNsOHlYOWV1NC1Qa2V0S1AtRkNtQy1jQzczSG9ScWVISzgxTlBjYzI2UFNuYmlyQmsyWldweWNpWGVDU0EteFZpcU43NjFzU0JMTDRhSHJ4LXQtcnJPVlpSUWwxWDZrNVU5ZDlaTGEyUjBEX2c?oc=5",
+                "pub_datetime_utc": "2026-11-03T19:52:39Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:51 KST",
+        "current_rank": 14
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 17,
+        "trends": [
+            {
+                "keyword": "남아공 선거 D-Day",
+                "hook": "남아공의 운명을 결정할 지방선거, 폭풍우 속에서도 투표는 강행된다!",
+                "script": "남아공 지방선거가 임박한 가운데, 요하네스버그의 거액 임금 협상부터 서부 케이프의 총격전까지 혼란이 가중되고 있습니다. 설상가상으로 KZN과 림포포 지역에는 강력한 폭풍우 예보까지 내려져 투표 당일 긴장감이 최고조에 달했습니다. 과연 이번 선거가 남아공의 무너진 행정을 바로잡는 전환점이 될 수 있을지 전 세계가 주목하고 있습니다.",
+                "original_title": "2026 Local Government Election – the final polls before voting day - BusinessTech",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazd3VlF5ck1QRzhtZ1BYQlZuNWpqNEFQNnRvSzNHUC1lYnZxeHN0WXZZUjhPck01NEliTW4wVE9jMDl5U0kyVkdydzJyWV9IY1hiR01SU1JPaXppeHZtcmdCemJ5dm5wSDk2SjJRYl9iVFlCY3ZYNlp3ZzVSMkpyT3RSTXo4ekl1by1Ya293a0tCdHkzUGZNVHpMLXkzRDNGWjRKckNITkstdng4MFNhbG56bFdyUQ?oc=5",
+                "pub_datetime_utc": "2026-11-03T13:33:32Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:52 KST",
+        "current_rank": 15
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 70.0,
+        "previous_rank": 5,
+        "trends": [
+            {
+                "keyword": "유럽 전역 항공대란",
+                "hook": "평화롭던 하늘길이 멈췄습니다, 유럽을 뒤흔든 악의적인 폭파 협박.",
+                "script": "유럽 전역의 공항이 폭파 협박으로 인해 일대 혼란에 빠졌습니다. 수백 명의 승객이 긴급 대피하는 등 항공 운항이 전면 중단되는 사태가 발생했으며, 당국은 이번 사건을 악의적인 허위 사실 유포로 규정하고 수사에 착수했습니다. 안전을 위협하는 전례 없는 사이버 테러에 유럽 전역이 공포에 떨고 있습니다.",
+                "original_title": "Live updates: 2026 US midterm elections and results - BBC",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12UGtQS1M3eEd3N1BXOGR4TDdmeVlabFdQOXFya3NiNlZRTkdteEdCM2JPbHlVYzJzMEhwc1dhOENCUE1TbnFiWExFQWtuX0VqRlZhVFNB?oc=5",
+                "pub_datetime_utc": "2026-11-03T23:19:23Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:41 KST",
+        "current_rank": 16
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 70.0,
+        "previous_rank": 7,
+        "trends": [
+            {
+                "keyword": "이탈리아 안보 비상",
+                "hook": "피우미치노 공항에 울린 폭탄 경보, 도대체 무슨 일이 벌어진 걸까요?",
+                "script": "이탈리아 피우미치노 공항에서 발생한 폭탄 테러 허위 신고로 인해 군 전투기가 긴급 출격하는 등 일대가 아수라장이 됐습니다. 동시에 우크라이나의 러시아 정유시설 타격 등 국제적 긴장감이 고조되면서 이탈리아 안보 당국에도 비상이 걸렸습니다. 시민들은 불안에 떨고 있으며, 정부는 철저한 원인 규명과 대응책 마련에 나섰습니다.",
+                "original_title": "Garlasco, i pm: 'Andrea Sempio a processo, ha ucciso Chiara Poggi con crudeltà e odio' - ANSA",
+                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSTVpNUlCM1BYWFBPNUpXanE3LVUyMk9xMTVNU1JUQ19HdkNuN2NkRUxmXy01aEFiRVVGcF9nRnRncWd2MEowSFdwZzRmQUtnTHU3N3NLRnp1MzY3UkU2OWdCLVMzWDhyZUJTXzFqNEw5Vlg0M1BNcC1oTUxhalZSYlVseW5hcTZHUFhSVXN3S0dIUjBkS0ZaTVBvQ3RYQ3dMa1poeTNEYmxPQ3M2OXVBRlMyTGhnN2RGemtmSnVROXZSRFhnckQybFdSb0xTR0ZQdXVNR1dlTzdMcnIxeFVvMUpja3AweXhLS3JMajcwcFA0UmstM25Ed0pScEdjVVlrVVRJb0lB0gGLAkFVX3lxTFA1SVpVdUd5TGthekM1akIxQnhhWWJMcUVVbTlOWEZ4Rm44OW11RVV1Y2RDb2FVSE9DRXNDWUwxV1ZCa0lKVVBaREZleVNEaEpzVUFFX0FaYzhQYXhXRFV5ODlNUGhrSnhYdFFKZThQR25QZTlqcFNiSXlndU9TSFVJMnZNRzN6X0JCU2lJWmZhWEg1RV9zcmVJdVgyQWUtTFdXTmN5SVBaNXJ2NjZ6Nk9Jd21UTXZCRFZ6ZHdKRFM5REc4UUQwa3Z5NHFla3NhcFppeTBBU3NPRHhrb2l2emI3R2hBNTRJOUx6akJEc1V4LXhudFV3MVdfWFBWejQzdFJlU2hNOERldWJDYw?oc=5",
+                "pub_datetime_utc": "2026-11-03T20:36:00Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:47 KST",
+        "current_rank": 17
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 70.0,
+        "previous_rank": 11,
+        "trends": [
+            {
+                "keyword": "멕시코 학교 휴대폰 금지",
+                "hook": "교실에서 사라지는 스마트폰, 멕시코 교육 현장의 대변화!",
+                "script": "멕시코가 11월 3일부터 학교 내 휴대폰 사용 전면 금지라는 파격적인 결정을 내렸습니다. 학생들의 집중력 향상과 교육 환경 개선을 위한 조치지만, 학부모와 학생들 사이에서는 찬반 논란이 뜨겁습니다. 교육 당국이 제시한 새로운 규칙이 과연 학교 현장을 어떻게 바꿀지 주목됩니다.",
+                "original_title": "Todo sobre las elecciones intermedias en Estados Unidos - DW.com",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUpMVUdVZnpKUDRRVGNyRnZwN0RJWGJUNjFobmRvV0F6aDN2QVZ6VUxMQ2ZZQllTZjRzbVpZSEhtVDNJUnZJTDNCQXpCdTlDMlZCZzk2Q25WdVRNTmhlWjJrRXFSNlhQLXo3TVJQNzNjX2pXQWxvQWxtaXBuLWFUMER2c1I4djZIRk9nS04xRHRZM0FESFE?oc=5",
+                "pub_datetime_utc": "2026-11-03T18:00:40Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:47 KST",
+        "current_rank": 18
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 70.0,
+        "previous_rank": 14,
+        "trends": [
+            {
+                "keyword": "비극의 추락 사고",
+                "hook": "플로리다에서 사라진 비행기, 마지막 문자 내용은?",
+                "script": "미국 플로리다에서 발생한 비행기 추락 사고로 탑승자 전원이 사망하며 전 세계가 충격에 빠졌습니다. 한편 인도네시아에서는 트럭 사고로 12명이 숨지는 안타까운 소식과 함께, 이스라엘 대리인 문제로 안와르 이브라힘 총리가 국가 비상태세를 촉구해 긴장감이 고조되고 있습니다. 곳곳에서 들려오는 비보와 정치적 갈등, 그 중심에 선 이슈들을 정리했습니다.",
+                "original_title": "Pilot Learjet 60 Sempat Chat Pacar Sebelum Pesawat Jatuh di Florida - CNN Indonesia",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0ZRTzA1Z1NnTjQ4QnBiN0tGalV3ejJnd3Y5UUhxOWN1cDQwY1NzMk9wMnVydGVCUlFHRV9VaGNCS1hlM2tsSmp3M2J6TW5hNW5GaEo0MnNJMWNYMHZ0c3ZPSFJFa253dnpJaG4yR2ppQXBYMjA2X0x6amFBdGo0TnpPR3N3WWgxSHRpRjE3RTVDcGV3RTQ5ZlFpVjF0V1I0Z0ZuOWR4eTNmc3p2UlcyQ0FKVUd1azE5ZTh3ekZRNEFXWWVCYmNScVRPWlJheUtWUXJn0gHYAUFVX3lxTE54Nnd4RXRUUml2NzJlVC1lcnZvSWZzamtHY2tBYmtqckt5cUtBQm9PTm1saDZCQzJldU8tbW83cEh6RUFmMFY5bWR3R1dJV29pbWE1dGlQWGNfQmhXWEwyY1V0LUc3LWdrV3JyakFQQnZvem84WldSNHVHTDNpWmpXYVlXR24xVUdjWnNpY2hGX19QbVFETjNZTDBlVDZOV0h6R09SVkY4UEtlSFFNbXZBQnVEVFh4Q1REc25MdEhVbGdsUVNPWmlOTml5V0xrb1hXeU9Fanl3Zg?oc=5",
+                "pub_datetime_utc": "2026-11-03T01:05:00Z"
+            }
+        ],
+        "last_updated": "2026-11-04 08:27:51 KST",
+        "current_rank": 19
+    }
+}
