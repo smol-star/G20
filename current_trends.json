@@ -5,84 +5,101 @@
         "previous_rank": 1,
         "trends": [
             {
-                "keyword": "미 중간선거 개표",
-                "hook": "운명의 날, 미국 의회의 주인이 오늘 밤 결정됩니다.",
-                "script": "2026년 미국 중간선거 투표가 종료되고 지금 이 순간, 전 세계의 이목이 개표 상황실로 집중되고 있습니다. 상·하원 통제권을 두고 민주당과 공화당의 초박빙 승부가 펼쳐지는 가운데, 이번 선거 결과가 차기 미 정국과 트럼프 전 대통령의 영향력에 어떤 파장을 미칠지 귀추가 주목됩니다. 투표함이 열리는 지금, 미국 정치 지형이 완전히 바뀔 준비를 마쳤습니다.",
-                "original_title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance - CNBC",
-                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QMWlJWVhUdU9BWjhRS2dOUTFsclRxbE9SdTlaeml6SzVBcy02WjRxMlZpNmRfSnk0Q1YteGZId0NFN18xMzcwX1ZPLTNZejBmR0Fjc1EzUE9GR2pIM2dIMHlqc3RaeE5sNTUxcGNpUmN4N3d4Wm0zZHJHTVjSAYIBQVVfeXFMUEFNNjBVQWJILWo5UVNqS0lZN0dGYWpuT081UWRILXQ0N1NFcThsRUFIQkdZcWNHRXMzSFpVdU1PeEltUFZidm9ob1B2SUFTVWw5LXFabkxMZk5aeVpKYWVvOXJDWWkwSW1IYjB3b1FyVEZUOHdLS00wQUpxOUJJeWNDQQ?oc=5",
-                "pub_datetime_utc": "2026-11-03T23:15:00Z"
+                "keyword": "민주당 의회 장악",
+                "hook": "트럼프의 시대가 저물고 민주당이 의회 과반을 탈환했습니다.",
+                "script": "2026년 중간선거 결과, 민주당이 하원 과반 의석을 확보하며 트럼프 전 대통령의 정치적 입지가 벼랑 끝으로 몰렸습니다. 조지아주에서는 존 오소프 의원이 재선에 성공했고, 키샤 랜스 보텀스가 미국 역사상 첫 흑인 여성 주지사로 당선되는 이변을 낳았습니다. 트럼프는 결과에 불만을 표하며 폭스 뉴스를 향해 날 선 비난을 쏟아내고 있습니다. 미국 정치 지형의 거대한 지각변동, 지금 시작됩니다.",
+                "original_title": "2026 House election live results as Democrats win House majority with Trump approval at historic low - CBS News",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GTmpQZjdnTFlENlNLaXI0eVZjaEdIUU9pZUw5VE9kMElvcXlqYWFLdjRYdVdqWmtYN1NsWngzcm56M1E3VVl1dkF3NzhIV2FPaTJFOWhOVTRDQXMtVmtGeU9wX1JVYUdPRmQzOHlRTW91Ymc?oc=5",
+                "pub_datetime_utc": "2026-11-04T04:13:00Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:41 KST",
+        "last_updated": "2026-11-04 15:33:59 KST",
         "current_rank": 1
     },
     "China": {
         "gdp_rank": 2,
         "spike_score": 75.0,
-        "previous_rank": 18,
+        "previous_rank": 2,
         "trends": [
             {
-                "keyword": "세계 인터넷 정상회의",
-                "hook": "우전에서 시작된 디지털 혁신, 미래 인터넷의 청사진이 그려집니다.",
-                "script": "2026년 세계 인터넷 대회 우전 서밋이 화려한 막을 올렸습니다. 이번 회의에서는 오픈 소스 기술을 중심으로 디지털 개방과 협력을 논의하며 글로벌 인터넷 생태계의 새로운 표준을 제시하고 있습니다. 기술 자립과 경제 발전을 동시에 꾀하는 중국의 전략이 이번 회의를 통해 어떻게 구체화될지 전 세계 IT 업계가 주목하고 있습니다.",
-                "original_title": "习近平总书记的黄河牵挂 - 求是",
-                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbUE2R3h4M25ySWlvWnROSnQtSDB1UkdNN3ZjcnI4dGE5UG1LSk1fbHA2NjFfNHl3QjdlRGVmSHZjdlBzdjNfeW1ReHVXVlZpRFpLSGRaaUg5TTlFbndPS3d2bDAwTHJ6UHpKaXVDczRHdkI4Z3FrNTduQm8?oc=5",
-                "pub_datetime_utc": "2026-11-03T01:31:52Z"
+                "keyword": "이란-미국 긴장 고조",
+                "hook": "호르무즈 해협이 다시 막힐 위기에 처했습니다.",
+                "script": "미국과 이란 간의 휴전 협상이 7가지 핵심 조건에 가로막혀 사실상 결렬 위기입니다. 이란은 요구 사항이 수용되지 않을 경우 호르무즈 해협을 완전히 폐쇄하겠다고 경고하며 긴장감을 최고조로 끌어올리고 있습니다. 국제 정세가 요동치는 가운데, 이번 협상 결렬이 세계 경제에 미칠 파장이 주목됩니다. 과연 이 갈등의 끝은 어디일까요?",
+                "original_title": "一见·从三次乡村之行感悟“努力让这条母亲河越来越美” - 人民网",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82RmdZOVNYX2ptb09fM1JYNFhmbTZVM1VYVHdmeDIxMS1oVjhIcEFQd25ja2ZuSVQ1MnM2ZFdJZGM0QXJpMTY2Wjhrd04zd2JzMDk3MUgxUUFta29kNDV2QzBZbjFqRjhqSG10dmhzaUhQZw?oc=5",
+                "pub_datetime_utc": "2026-11-04T01:09:00Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:41 KST",
+        "last_updated": "2026-11-04 15:33:59 KST",
         "current_rank": 2
     },
     "Germany": {
         "gdp_rank": 3,
         "spike_score": 75.0,
-        "previous_rank": 2,
+        "previous_rank": 3,
         "trends": [
             {
-                "keyword": "메르츠 총리 위기",
-                "hook": "독일 연정의 흔들리는 기초, 메르츠 총리가 민심의 역풍을 맞았습니다.",
-                "script": "프리드리히 메르츠 독일 총리가 집권 이후 최대 정치적 위기에 직면했습니다. 당 내부에서부터 터져 나오는 비판과 함께 차기 총리직에 대한 여성 후보론까지 거론되며 메르츠 체제의 결속력이 시험대에 올랐습니다. 연금 인상과 경제 정책을 둘러싼 논란이 가중되는 가운데, 독일 정계의 권력 지형이 요동치고 있습니다.",
-                "original_title": "US-Kongresswahlen: Die Ergebnisse der Midterms 2026 – live - DIE ZEIT",
-                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDduZFotaUw4OXIxZmlmU3d6S3VEOWxRZ0FvWVR5SmlRekFBUEZOeWNnMzF1QkFxZU9lTUhSU29yV25xbHd5bGQtUHRKVVRQMkQwZFFLM01jU3NGc2FHaWxPaFBlM1VfWUhldVNLRUlGdWJCdWRORTRCVnR4V241YUdNUkItdGlpckduMWxzVQ?oc=5",
-                "pub_datetime_utc": "2026-11-03T22:08:52Z"
+                "keyword": "미국 선거 참패",
+                "hook": "트럼프의 공화당이 상원마저 민주당에 내줬습니다.",
+                "script": "미국 중간선거에서 공화당이 예상 밖의 참패를 당하며 상원 다수당 지위마저 민주당에 넘겨주었습니다. 특히 텍사스주와 같은 공화당의 텃밭에서조차 민주당 후보가 승리하는 이변이 속출했습니다. 트럼프 전 대통령은 선거 결과에 강한 분노를 표출하고 있지만, 미국 유권자들은 사실상 트럼프의 의제를 거부했습니다. 세계가 주목한 이번 선거, 그 후폭풍이 거셉니다.",
+                "original_title": "Republikaner verlieren Senat – Demokraten feiern Erdrutschsieg – Trump reagiert auf Wahlausgang - WELT",
+                "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY2NwX2EzcE5nRU1EYnVyekdkako4Q1FhTFNPTDFXYlVOWDlMdlhsS1hqOWlLLXVDNnFZVE1qM29lbW5rWVZXbjh6MDV1eVE0bUh6UmxwVUt6ZU9OSFpieTVERzN6OWFzZmg0SnZJQUJxc0tHZTBobm9VaWo0WjkxN1lYUDRORmQ5OHVoTDZYLXhES25Hemo1cWRkQmFfeDY4WjRNTFQ0N2FoeGpHUFFXSnZuTFZhRXF4MFh2TzVCd3lTV05KYlRoZ1hFdFFyZm1MZ0F6blV2aVNfWjZIbzNVZVl2cUZJdWFYaVY5RDNOcEpZdTNkd0dHT1dlYU5qYWx0dUpmV1gxV2hGeEZhVjR2OXY0MURLLU4z?oc=5",
+                "pub_datetime_utc": "2026-11-04T06:11:15Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:41 KST",
+        "last_updated": "2026-11-04 15:33:59 KST",
         "current_rank": 3
     },
     "Japan": {
         "gdp_rank": 4,
         "spike_score": 75.0,
-        "previous_rank": 3,
+        "previous_rank": 4,
         "trends": [
             {
-                "keyword": "미 선거와 일본",
-                "hook": "미국발 정치 태풍이 일본을 덮칩니다, 트럼프의 행보가 불러올 파장.",
-                "script": "미국 중간선거 결과에 일본 열도가 숨죽이고 있습니다. 특히 이스라엘 지원 중단 가능성을 시사한 트럼프 전 대통령의 발언이 일본 외교 안보 전략에 어떤 영향을 미칠지 정부 당국이 촉각을 곤두세우고 있습니다. 엇갈리는 미 정치권의 향방 속에서 일본은 자국 안보와 국제 질서 유지를 위한 고차원적인 외교 해법을 찾아야 하는 상황입니다.",
-                "original_title": "アメリカ中間選挙2026【速報中】民主か共和か、多数派巡る攻防 トランプ政権の命運握る - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZGFPNThISWR0Wm9QNEJSWmc2Smp3eHBNazJsU09tUzgtUGtEbVJybjFJNjIybVpuS2lSVVdUWkV6cjBvWndBTF80d3pVbWRYWFRXYmhIdkhWV09aelAyMmlMcy1ndHdMNGdvSg?oc=5",
-                "pub_datetime_utc": "2026-11-03T23:09:09Z"
+                "keyword": "민주당 의회 압승",
+                "hook": "미국 역사상 첫 흑인 여성 주지사가 탄생했습니다.",
+                "script": "미국 중간선거에서 민주당이 상하원 모두 승기를 잡으며 트럼프 진영의 패배가 확정되었습니다. 이번 선거를 통해 미국 역사상 최초의 흑인 여성 주지사가 탄생하는 등 정치적 기록도 새로 쓰였습니다. 한편, 트럼프는 이스라엘에 대한 연간 6,300억 엔 규모의 지원을 중단하겠다고 밝혀 외교 정책의 거대한 전환을 예고했습니다. 격변하는 미국 정치, 그 중심에 서 있습니다.",
+                "original_title": "米中間選挙、民主党が上下両院で多数派奪還へ トランプ共和党は敗北 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWb3lkTnVTbnBOVTRvRVhJT0d2eW1WMjZhZjVlTEtoOWNDd01PNVJ1bWxKWnF4OE96eWFoN0d6UFFaOTdEYzlkaFRrdkdSQ3NqRHVuS1BqdDl0SFNnWVdDVXZuWTV4dG1wV2ZrRA?oc=5",
+                "pub_datetime_utc": "2026-11-04T04:35:38Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:41 KST",
+        "last_updated": "2026-11-04 15:33:59 KST",
         "current_rank": 4
     },
     "India": {
         "gdp_rank": 5,
         "spike_score": 75.0,
-        "previous_rank": 4,
+        "previous_rank": 5,
         "trends": [
             {
-                "keyword": "Trump's Next Two Years On The ",
-                "hook": "India의 최신 주요 뉴스입니다.",
-                "script": "Trump's Next Two Years On The ",
-                "original_title": "Trump's Next Two Years On The Line As US Midterms Counting Day Arrives - NDTV",
-                "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPalNNeVZwNGxDWG9Ia1BUOFJsVUVJWHR2YlpCXzJ3alpvU2h4bzZ6Vm1tUFZYMHM1M205d3FkWDF0cWd4ckdLUjluTVJ2cmE2Yl9DbGVBUHpVT2Y4Vk8yQm1tV2dVMVFKQVhfdnU4X2Frek9PYWVaajNRVE03d1BBdzBsZnZqNG5vRlJCZUNXdW1weW5ZUFdER1ZRc3hVSW5vTmpIRi1VcHJoc2FWRUJmQTFrOGc1LVdjQ2lDTS1SQzN4d041VGt5VXQtS1hSUFVfcHZvNjdNUXVsUFBOUEZB?oc=5",
-                "pub_datetime_utc": "2026-11-03T18:44:27Z"
+                "keyword": "미국 선거 지각변동",
+                "hook": "트럼프의 부재 속 민주당이 텍사스를 흔들었습니다.",
+                "script": "미국 중간선거가 민주당의 압승으로 마무리되면서 워싱턴 정가가 요동치고 있습니다. 특히 공화당의 강력한 지지 기반이었던 텍사스에서 민주당 탈라리코 후보가 승리하는 충격적인 결과가 나왔습니다. 트럼프 전 대통령은 자신이 출마했다면 압승했을 것이라 주장하지만, 유권자들의 표심은 이미 등을 돌린 상태입니다. 세계 최대 민주주의 국가의 선택, 그 의미를 분석합니다.",
+                "original_title": "U.S. midterm elections 2026 LIVE: Democrat Talarico flips Texas Senate seat; Trump claims Republicans would have won in ‘landslide’ if he was running - The Hindu",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdXRTb01LclVkSEpvQVFsRzlxUVZrV2xNVUhDQi1neGVRZDl4c1c1eDBscXdpeGo4YzI3MzJYclpWQW1maEhRTHYtd2p1WDludVBqb3hYc0tnY3VxbUxmdGJjS1U1cDUwTFA4VzJDVE1xVmdUbFZhMnlnak1mVDBFTjd4LUZfV1RQNjFyQjN6ZTZkTG4zOHR3clJzblNZZV9lVDlYamVWTjBBUzVNRXRiWE1qNzVuMjNtRnNFVnNkQ1JEbWhrYjhvTldPT0RtbTd5YXpkVXBGeVNLZHBSb21iX0YtRGpBTV8yQ3NoZjJ6TzdTVVVQdUMyZEdZeFI0SG9Sb1ZB?oc=5",
+                "pub_datetime_utc": "2026-11-04T04:15:36Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:41 KST",
+        "last_updated": "2026-11-04 15:33:59 KST",
         "current_rank": 5
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 75.0,
+        "previous_rank": 16,
+        "trends": [
+            {
+                "keyword": "트럼프 의제 거부",
+                "hook": "미국 유권자들이 트럼프 시대를 끝냈습니다.",
+                "script": "미국 중간선거 결과, 민주당이 상원 장악에 성공하며 트럼프의 정치적 영향력에 제동이 걸렸습니다. 유권자들은 트럼프가 내세운 의제들을 사실상 거부하며 민주당의 손을 들어주었습니다. 선거 결과에 대한 지도가 속속 공개되면서 공화당은 깊은 패배의 늪에 빠졌습니다. 과연 이번 선거 결과가 향후 국제 관계에 어떤 변화를 가져올지 전 세계의 이목이 쏠립니다.",
+                "original_title": "Democrats win control of Senate as US voters reject Trump’s agenda - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVR5eVp2VTVFS0JZWHQ5R3V3V2tsbi1pVG9QQngyel9TclVVVWhhR2ZYVnB3UmlORHZVbnFGN1pHa2dRYW5DMEQtSllYVVFHVXVaelg0Ujl0N3RzMjhOYkd4S01LSFVYQll3R1EtN2RuMFRqcEI3cTZBTGFBeEdTSU5fVFhzaDdYR1dkSmxwSUIxSHMwSUE?oc=5",
+                "pub_datetime_utc": "2026-11-04T04:42:00Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:33:59 KST",
+        "current_rank": 6
     },
     "France": {
         "gdp_rank": 7,
@@ -90,236 +107,219 @@
         "previous_rank": 6,
         "trends": [
             {
-                "keyword": "프랑스 전국 총파업",
-                "hook": "오늘 프랑스 전역이 멈춰 섰습니다. 무엇이 그들을 거리로 나오게 했을까요?",
-                "script": "프랑스 전역에서 대규모 총파업이 시작되며 교통과 교육 현장에 큰 혼란이 빚어지고 있습니다. 이번 시위는 정부의 정책에 반대하는 시민들의 분노가 폭발한 결과로, 주요 도시마다 격렬한 행진이 이어지고 있습니다. 당국은 긴장 속에 사태를 주시하고 있으며, 시민들은 일상 마비라는 큰 불편을 겪고 있습니다.",
-                "original_title": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les élections de mi-mandat en direct - Le Monde.fr",
-                "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSll6RW5SU1lfR1FNZkVEX1Bzczh2Q001c1BJQXFwQXZVamJkRno4R1Zpcmc2Y1JJM1ByVjhGQ1B4Y0hqOGRsTEM0ZjVYR2xnVnZLZTVTVGxldm13bE90MFcySkFTVWhiU0RyMGVWODlOOGN3VjBwX2xseUwxV3h4TEx5NHVaZ0xpZVdMRzJ5c2NzQ2NQZlVTLUtSc3V4R2NocWF6TXZMUHhxUEtFYzA3cklTUkFTX3luZmxxR1RYZ1JSd18zZTl5Z21PeTZNQVhmS3NFSUVHekNma2lOMS11NjVkczVCRU5pT0xRc3llYmVRaXdGMVE?oc=5",
-                "pub_datetime_utc": "2026-11-03T23:11:43Z"
+                "keyword": "프랑스 학생들의 반란",
+                "hook": "전국 48개 학교가 멈췄습니다, 무엇이 그들을 거리로 나오게 했을까요?",
+                "script": "프랑스 전역에서 학생들의 거센 시위가 이어지고 있습니다. 파리와 보르도 등 주요 도시에서 학교 봉쇄가 잇따르며 교육 현장이 마비되었습니다. 생활고에 지친 시민들의 목소리가 커지는 가운데, 이번 대규모 시위가 프랑스 정국에 어떤 파장을 몰고 올지 주목됩니다.",
+                "original_title": "EN DIRECT, midterms 2026 : les démocrates remportent la majorité des sièges au Sénat, les républicains en difficulté à la Chambre des représentants - Le Monde.fr",
+                "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOUGZ5ei1vbjZkOWw4VWUybTlubkVMenNNcV9TYTNzVUZzcV96VHhXSGM5ZnNOSjBjUlo3djI5clppd1ZXM3o3eHlHNjJibnhUWVRRbmZqQjA3STVGWWZrd1Y5ODJDSWFIUlBlVDNuNEQ5bnBxOUU0NlMtdE8wczJ0MHpHZWU3Z2M3LUhHMDRILVdrMnVJSHJIblYySTJHLUpqaEhia1ZIUXJTRU9mUkZ2SnJMdjJEc0R1YkVFVnY5djZzYlgwNUJQRTFRUk0wNVV6Q19taHhQOEQ5RmJCVHVLbzN3czBWUUZ2OXRDZEJKY3lzYU1iNFhaNVNseU4zck5oT2d5WFltc2owbEdXVExXOVAzN08zMzV3YU1XVXB1WEU4VXNZR0NfQlduOTJOZzNjemQwZnNNTVZHUQ?oc=5",
+                "pub_datetime_utc": "2026-11-04T06:16:17Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:47 KST",
-        "current_rank": 6
-    },
-    "Brazil": {
-        "gdp_rank": 9,
-        "spike_score": 75.0,
-        "previous_rank": 8,
-        "trends": [
-            {
-                "keyword": "Senado aprova em primeiro turn",
-                "hook": "Brazil의 최신 주요 뉴스입니다.",
-                "script": "Senado aprova em primeiro turn",
-                "original_title": "Senado aprova em primeiro turno texto-base da PEC da Segurança Pública - G1",
-                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTc4Q1dwLXBTa1BpOGlXbFhidmdUcGtxRzhSY1ZrYXFJNGtRd3NXVTdxRzZiTmxJNk5yclhmc25wQXFxNnZRUFE2eG1CRERNLVoxWGdVWURfMkZCU2Jvd0U2ZWxuSVM4M0pIMDhweTFnZDNkLUJWeWxUcGtSM2Y4dXFMWXIxTVhqYi1BeEVnUVJjSldxU0liM9IBpwFBVV95cUxNcjlzZkRab0QzMXFFbGpTTmFyXzZYRWozSVR0c2pNLXl2bmU4YzBKVDBpY3pPSFdKZlEyN2ViaVQ5UTYzOFptd0ZneFBOVTdjWklxR2doSWV4UHFkQ3owMHRFRm1ya2luTWdQWldIaVd2eU91dFMwaTJZbHRNQ1BjTlRreXJ2WXBWS3dfQnpQa0lVdTVHRG5mRUk0cFZQT2JMTVJRbzdvVQ?oc=5",
-                "pub_datetime_utc": "2026-11-03T22:06:13Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:47 KST",
+        "last_updated": "2026-11-04 15:34:02 KST",
         "current_rank": 7
     },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 75.0,
-        "previous_rank": 9,
-        "trends": [
-            {
-                "keyword": "캐나다 연쇄 비극",
-                "hook": "평화로운 캐나다에 닥친 잇따른 사건 사고, 대체 무슨 일이?",
-                "script": "캐나다 전역에서 충격적인 소식이 잇따르고 있습니다. 몬트리올 경찰관들이 차별적이고 인종차별적인 행위로 대거 해고되는 사태가 발생했고, 야생 곰의 습격으로 사망자와 실종자가 발생하는 비극까지 겹쳤습니다. 캐나다 사회는 치안과 안전에 대한 근본적인 신뢰를 다시 묻고 있습니다.",
-                "original_title": "U.S. midterms live results - CBC",
-                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zcnJVTC12TnBva1NfYnc3NTFZOEZJNkJBaXpNa2x1Z3lpSV9id20wZk5kNEtMRXE2N2h3UXIyd1lhTk45UFZPMXlFUmpHbWtkbnlNYmxlRUUtcE55WHFSY01GQk50VGJXa3AyYjZKRkdGVVVVellhMWRoUnNHQQ?oc=5",
-                "pub_datetime_utc": "2026-11-03T17:24:15Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:47 KST",
-        "current_rank": 8
-    },
-    "Russia": {
-        "gdp_rank": 11,
-        "spike_score": 75.0,
-        "previous_rank": 10,
-        "trends": [
-            {
-                "keyword": "러시아 정국 긴장",
-                "hook": "우크라이나의 정유시설 타격, 러시아의 다음 선택은 무엇일까요?",
-                "script": "우크라이나군이 러시아 야로슬라블의 정유시설을 전례 없는 규모로 타격하며 긴장이 최고조에 달했습니다. 이에 푸틴 대통령이 직접 대국민 메시지를 준비하는 등 러시아 내부는 강경 대응을 예고하고 있습니다. 국제 사회의 이목이 쏠린 가운데, 전쟁의 양상이 새로운 국면으로 접어들고 있습니다.",
-                "original_title": "Песков: делегацию России на переговорах в Абу-Даби возглавит Мединский - Forbes.ru",
-                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX254cUFFaG1FWEpmN3R3bEx3TEpKYzBjdG1lbmpuSHZTUDVQVWlIVEtYNlNNUFZsaGlydDBBNVk4X1JmSnhodjdDNzUtN0VJZjFoOU8xd1E3dmJUMEdTMW9yT0UyYzE5Nm9acVFqQjBNVHFvc19GMkt5ZThheVppZ0prNkY4LWd0SXZpM084VTdLbEhvVEdKeElxcExuRTVYZl80c2hNalY2Zw?oc=5",
-                "pub_datetime_utc": "2026-11-03T12:00:35Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:47 KST",
-        "current_rank": 9
-    },
-    "Australia": {
-        "gdp_rank": 13,
-        "spike_score": 75.0,
-        "previous_rank": 12,
-        "trends": [
-            {
-                "keyword": "미 중간선거 충격",
-                "hook": "트럼프의 폭탄 선언, 이스라엘 지원 57억 달러 중단?",
-                "script": "미 중간선거가 열리는 가운데 트럼프가 이스라엘 지원금 전면 중단을 언급하며 국제 사회에 큰 파장이 일고 있습니다. 호주 정부 역시 금리 인상 이후 긴축 재정을 예고하며 경제적 불확실성이 커지고 있는데요. 잇따른 대형 사고와 정치권의 긴박한 움직임 속에서 세계 경제가 요동치고 있습니다.",
-                "original_title": "See live results from the 2026 US midterm elections - ABC News & Headlines – Australian Broadcasting Corporation",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjFJckdCNDZPQUVxYlEyYVRWVWdDRUNZMHM3TkxOdVhSckoyY2Q0TmxNOTZMUlYxazh5b0VHSWc1Uk9FUWFCd1pKMU1yVEZJNHRkYUNtYi1pYkFIWFlPM0ZhYmcxYnNXRkpUZWJMOEhvQld5eFdWejFBUWRvV19iRkZLRmpZZlVB?oc=5",
-                "pub_datetime_utc": "2026-11-03T19:13:25Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:51 KST",
-        "current_rank": 10
-    },
-    "South Korea": {
-        "gdp_rank": 14,
-        "spike_score": 75.0,
-        "previous_rank": 13,
-        "trends": [
-            {
-                "keyword": "트럼프 발 경제쇼크",
-                "hook": "이스라엘 지원 중단 예고에 국제 유가까지 흔들린다",
-                "script": "트럼프의 이스라엘 지원 중단 발언이 글로벌 시장의 뇌관을 건드렸습니다. 국내에서는 외교부의 개인정보 유출 의혹과 법무부 시스템 마비 사태까지 겹치며 정부의 보안 관리 능력이 도마 위에 올랐는데요. 이 대통령이 튀르키예와의 협력 강화를 모색하는 가운데, 국내외로 쉴 틈 없는 위기가 계속되고 있습니다.",
-                "original_title": "견제 원하지만 도리어 압박 세질라…미 중간선거를 바라보는 각국의 딜레마 - 경향신문",
-                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XRS1ZXzRHMzBrektOTVdKQmFiZzY3WGJfUkRVeU0xa2pyVmFtRHQ0QUF3dzZCcThlS3RhRmVlX2pnUkVld2JMeGpYRmNUUU5FTGdpcE5OZ2RkQdIBX0FVX3lxTE5IQnExcmpWNTJoSHE5TXZ3dms2TWl2VGJZSnFTUnEyTUwtUE1NRjUtQk5vQ2M0eUpLaUxmVUt4VE1yUVlCdkR1MHdwd0ZLMHJPRlpFX3VSZGJieUN2NkQ4?oc=5",
-                "pub_datetime_utc": "2026-11-03T21:00:00Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:51 KST",
-        "current_rank": 11
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 75.0,
-        "previous_rank": 15,
-        "trends": [
-            {
-                "keyword": "미국 운명의 날",
-                "hook": "트럼프 당선 여부가 결정될 중간선거, 전 세계가 주목한다",
-                "script": "오늘 미국에서 차기 행정부의 향방을 가를 중간선거가 시작되었습니다. 튀르키예에서는 기온이 급격히 떨어지는 기상 경보와 함께 갈라타사라이의 유럽 대회 승전보가 전해지고 있는데요. 국내 정치권에서는 도용 사태에 대한 강력한 수사가 진행 중이며, 한국과의 원전 협력 등 외교적 행보에도 속도가 붙고 있습니다.",
-                "original_title": "ABD sandık başında. Başkan Trump için kritik ara seçim - NTV Haber",
-                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkdGVnlqZFA5TGpnci1ocWhYdnNmSHV0LW8zejJ1S1hIbEEydVpITTFXQTBFa0EwSnlIUTVZVWxUTzVFQUpoZHMzVXZ1cVZGRU52NEJ5YVVmQS1QeWY0ajRpbUlEX1ZfdTZueUZQb2lQYjc3QlJGck9Nc05ya0tlNXNBNVdjRkI0aHV3Xzl5Q1RJX2RxRGRYSVVRWWVYWl9fS0JnQ0pGVktva1JF?oc=5",
-                "pub_datetime_utc": "2026-11-03T22:06:29Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:51 KST",
-        "current_rank": 12
-    },
-    "Saudi Arabia": {
-        "gdp_rank": 17,
-        "spike_score": 75.0,
-        "previous_rank": 16,
-        "trends": [
-            {
-                "keyword": "중동 긴장 최고조",
-                "hook": "후티 반군, 사우디 공항 타격... 안보 위기 심화",
-                "script": "후티 반군이 사우디아라비아의 담맘과 자잔 공항을 공격하며 중동 지역의 안보 위기가 다시 고조되고 있습니다. 사우디 정부는 재정 적자 상황 속에서도 국방력을 강화하며 대응에 나섰는데요. 미국 중간선거 결과에 따라 중동의 전쟁 종식 가능성까지 거론되는 가운데, 사우디의 다음 외교적 행보에 전 세계의 이목이 쏠리고 있습니다.",
-                "original_title": "الانتخابات النصفية.. 3 سيناريوهات قد تقلب حسابات ترامب وتعيد رسم موازين السلطة - العربية",
-                "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxPUUZMUWs3VFVqS2t2YzhrS0VGVWVueVBySEFiZVdRUkJTUmZXUnVHcGUyaElyRjR1SjlIUUE2bkhsX0UtZkxhbEVsOUltNU11MmdpWHBlTllRXzRaUWdVMDZNQjhDZXZadW1BTDZwMUk3b1U1ZGJscVZZYzJGQjNUZUZuaHllTnI2S2VtQ2tjbnlBeTNwUmcyaUUtYkI0Y25zdmRwRlE3ZE4zTUJxTlFWaUozemhpNXpaX0lQSms2S2VOUTg5bVA3NEFFdE1HYUc0Q01qd1hrckZWQ2lWVENJMkRxaDh3QlZsMTVSZlRnMUlpbW1xdWF0d1J4akVRc24wcjIxSDlvRzlWV0tIM05QZGtiN21EdWJUdEZaMURsTlRZa0MyaGV2UW0xZUZSZmlVYmN4YjFFVmJFMmdGUm8yT3Qza0daYUtVUi1oX3lnZTRIbF9kUFhKMUltek5NLUdBLUJOR1hEU3Q0U3RpbWxkU01qMVJ5WVdrR3lJNzJpTzl5LUJQOFg5R0JkN1Uwa3N4c2s3dENsRGZlNHhZMEVEaGllNXpJRnUxcWtXUUlnbHg1eE43NFA1Nm1yTXZvdnVwMjVaT2ZkSllqSkdvZDJpWjRPaWZQT2tLelhWOVExU1B2V2JvTUpHVEplQ0tXdWsyRUttREJwRTVVWXFmbF94WHp0N0JCbzlpR0xRcnYwUktIQ2dISkpveVBxM2NiY29adS1KMWd4bWpIdlFpRVFHRjJBM0twMXRmbDZCenFoTE03b0ZVdHlTelVLUW9wSWdYQXNyYzIxaVp0T3VjOUJiaVJxMW5vZWw5OENQWFZiUU1XUGRNRTJIQjh5SmRNQnpzbms2bk1QUUFhX0s1cVFPN0Zn0gGXBUFVX3lxTE5Bb29IS1ZleFpoTlpEZlVjSzlUbzZUSXNfenlJM0xoOUc3RjU1SmtMZlpSTHB0c2ItU1JCLUxiNFVsUWJoWWpPNEdRWWtsemljSS00VTJPak40RjRVOWpiZUJmSHdWa0ZSRXI3TDZ4eHNwUWNFU0lnTFRMZV9CZV9ZNm5XdUFQMTVsXzdxTFd3T2hmOXVqM3VfWHRuU1lHT1dZTVdPTzhTM0RwSjFKdG5EdWx4VVRCLUhIeHNqTlktN1FSQndKVmNjVkNGRXJ2by13RG5hTm1aRXFpODVRWEM5ZE52dTJHTXh5WmlmcXJydC00ZTh5MGI0QzJLdVBObDl3UWRsbUJSVGc0M1pEbERubFJwZUNMS0FCX2ZNUkxObEVIcERLSmYyOU9NT1JzUTNLT0tMcWRZQVcwZDc3SkpBbXF4NVdIMi1KdFJZWHg3YVZsZkZrV1pxQTRJMVhIam56WWlvcHg4Sm9ia2lyV2pNaVBJVW9SUnB4OFJjcmhiVEJuZjUtQzd2VlJoODIySW9IS1AtQTAxNE1JM1JEcnJsZ3ZpcVI2Q3E4YjFBRW1aTUlFRUJOR0c2eWsxOFd6REM1eWxOOTlPTUhVYkpKMXBNRjBfYko3RXdKS3hlSC1yaTFkaHBFLTRoTklzanJCSi1wVEdMQ01hSldCYV91TW5RNGFackVTQUpYeVpJalAzWTZjZjdudDhBNFJDemZEQ2tWZnNHUWRIdjRveVlPRlBsaFVNdVp6bDloQnBIZF9uWDdrNmY3aGxpQUF0OThyT203RDBxNGplVzBGZWg5YmI2Z1R5RWdYMzVBcWtqWGFiQURXSFFQVElQcTNxV19FOFpyUGZXMFhDMF83R0xocHVaWDdMRGxKVQ?oc=5",
-                "pub_datetime_utc": "2026-11-03T19:10:00Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:51 KST",
-        "current_rank": 13
-    },
-    "Argentina": {
-        "gdp_rank": 18,
-        "spike_score": 75.0,
-        "previous_rank": 19,
-        "trends": [
-            {
-                "keyword": "밀레이의 시험대",
-                "hook": "교황 방문 앞둔 아르헨티나, 정치권은 대혼란",
-                "script": "프란치스코 교황의 아르헨티나 방문을 앞두고 정치적 기대와 우려가 교차하고 있습니다. 밀레이 대통령은 세금 정책 수정과 고위직 인사에 속도를 내고 있지만, 미국 중간선거 결과가 아르헨티나 경제에 미칠 영향에 대한 시장의 불안감은 가시지 않고 있는데요. 혼란스러운 정국 속에서 아르헨티나가 어떤 돌파구를 찾을지 주목됩니다.",
-                "original_title": "“Trump está gagá”: esperan una derrota republicana en las elecciones de Estados Unidos - Página|12",
-                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUlvbkFVN1BtUE15X2x2c1Y2UjJFOFNKc3BRa3VSc0daNmlTX0QxeHhhMl96ZWpsTHJBN2R3QWRZS0FkeE16OGFkVWVmOVFrN1NzNFNsOHlYOWV1NC1Qa2V0S1AtRkNtQy1jQzczSG9ScWVISzgxTlBjYzI2UFNuYmlyQmsyWldweWNpWGVDU0EteFZpcU43NjFzU0JMTDRhSHJ4LXQtcnJPVlpSUWwxWDZrNVU5ZDlaTGEyUjBEX2c?oc=5",
-                "pub_datetime_utc": "2026-11-03T19:52:39Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:51 KST",
-        "current_rank": 14
-    },
-    "South Africa": {
-        "gdp_rank": 20,
+    "Italy": {
+        "gdp_rank": 8,
         "spike_score": 75.0,
         "previous_rank": 17,
         "trends": [
             {
-                "keyword": "남아공 선거 D-Day",
-                "hook": "남아공의 운명을 결정할 지방선거, 폭풍우 속에서도 투표는 강행된다!",
-                "script": "남아공 지방선거가 임박한 가운데, 요하네스버그의 거액 임금 협상부터 서부 케이프의 총격전까지 혼란이 가중되고 있습니다. 설상가상으로 KZN과 림포포 지역에는 강력한 폭풍우 예보까지 내려져 투표 당일 긴장감이 최고조에 달했습니다. 과연 이번 선거가 남아공의 무너진 행정을 바로잡는 전환점이 될 수 있을지 전 세계가 주목하고 있습니다.",
-                "original_title": "2026 Local Government Election – the final polls before voting day - BusinessTech",
-                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazd3VlF5ck1QRzhtZ1BYQlZuNWpqNEFQNnRvSzNHUC1lYnZxeHN0WXZZUjhPck01NEliTW4wVE9jMDl5U0kyVkdydzJyWV9IY1hiR01SU1JPaXppeHZtcmdCemJ5dm5wSDk2SjJRYl9iVFlCY3ZYNlp3ZzVSMkpyT3RSTXo4ekl1by1Ya293a0tCdHkzUGZNVHpMLXkzRDNGWjRKckNITkstdng4MFNhbG56bFdyUQ?oc=5",
-                "pub_datetime_utc": "2026-11-03T13:33:32Z"
+                "keyword": "이탈리아 공항 비상",
+                "hook": "평화롭던 공항이 순식간에 아수라장이 된 이유는 무엇일까요?",
+                "script": "이탈리아 피우미치노 공항에서 발생한 폭탄 테러 오보 소동으로 긴박한 상황이 연출되었습니다. 라이언에어 여객기 두 대가 군 전투기의 호위를 받으며 긴급 착륙하는 등 대혼란이 벌어졌습니다. 다행히 허위 신고로 밝혀졌지만, 유럽 전역의 보안 경계는 한층 강화될 전망입니다.",
+                "original_title": "Elezioni Usa, chi sta vincendo? I risultati in diretta - la Repubblica",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjhXTjZ3Y01WTmVudGZwb3JZVnAwN3A1Z3k4UmNOdml4X1h4VVlYdXRFTWZyd2ExcWtjZ3g5WkxLdXpBdWRXWndZNXVPbFdiZWtCbDhsTlFOZEk3c3c3MWg0cEJaQjNWVnRucjliWF85UFNMUmZSTy1xcjdMQnkyenZzUTJreC1BVzJ5RDZ5dS1EZUt6dG84R3paZ2swaDlaYV9kWTc3VXo1bzR4VGVqSFFDU2VyT0lMZ3N3TVpyTnFRSXptUDVMdlp3?oc=5",
+                "pub_datetime_utc": "2026-11-04T05:28:04Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:52 KST",
-        "current_rank": 15
+        "last_updated": "2026-11-04 15:34:02 KST",
+        "current_rank": 8
     },
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 70.0,
-        "previous_rank": 5,
-        "trends": [
-            {
-                "keyword": "유럽 전역 항공대란",
-                "hook": "평화롭던 하늘길이 멈췄습니다, 유럽을 뒤흔든 악의적인 폭파 협박.",
-                "script": "유럽 전역의 공항이 폭파 협박으로 인해 일대 혼란에 빠졌습니다. 수백 명의 승객이 긴급 대피하는 등 항공 운항이 전면 중단되는 사태가 발생했으며, 당국은 이번 사건을 악의적인 허위 사실 유포로 규정하고 수사에 착수했습니다. 안전을 위협하는 전례 없는 사이버 테러에 유럽 전역이 공포에 떨고 있습니다.",
-                "original_title": "Live updates: 2026 US midterm elections and results - BBC",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12UGtQS1M3eEd3N1BXOGR4TDdmeVlabFdQOXFya3NiNlZRTkdteEdCM2JPbHlVYzJzMEhwc1dhOENCUE1TbnFiWExFQWtuX0VqRlZhVFNB?oc=5",
-                "pub_datetime_utc": "2026-11-03T23:19:23Z"
-            }
-        ],
-        "last_updated": "2026-11-04 08:27:41 KST",
-        "current_rank": 16
-    },
-    "Italy": {
-        "gdp_rank": 8,
-        "spike_score": 70.0,
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 75.0,
         "previous_rank": 7,
         "trends": [
             {
-                "keyword": "이탈리아 안보 비상",
-                "hook": "피우미치노 공항에 울린 폭탄 경보, 도대체 무슨 일이 벌어진 걸까요?",
-                "script": "이탈리아 피우미치노 공항에서 발생한 폭탄 테러 허위 신고로 인해 군 전투기가 긴급 출격하는 등 일대가 아수라장이 됐습니다. 동시에 우크라이나의 러시아 정유시설 타격 등 국제적 긴장감이 고조되면서 이탈리아 안보 당국에도 비상이 걸렸습니다. 시민들은 불안에 떨고 있으며, 정부는 철저한 원인 규명과 대응책 마련에 나섰습니다.",
-                "original_title": "Garlasco, i pm: 'Andrea Sempio a processo, ha ucciso Chiara Poggi con crudeltà e odio' - ANSA",
-                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSTVpNUlCM1BYWFBPNUpXanE3LVUyMk9xMTVNU1JUQ19HdkNuN2NkRUxmXy01aEFiRVVGcF9nRnRncWd2MEowSFdwZzRmQUtnTHU3N3NLRnp1MzY3UkU2OWdCLVMzWDhyZUJTXzFqNEw5Vlg0M1BNcC1oTUxhalZSYlVseW5hcTZHUFhSVXN3S0dIUjBkS0ZaTVBvQ3RYQ3dMa1poeTNEYmxPQ3M2OXVBRlMyTGhnN2RGemtmSnVROXZSRFhnckQybFdSb0xTR0ZQdXVNR1dlTzdMcnIxeFVvMUpja3AweXhLS3JMajcwcFA0UmstM25Ed0pScEdjVVlrVVRJb0lB0gGLAkFVX3lxTFA1SVpVdUd5TGthekM1akIxQnhhWWJMcUVVbTlOWEZ4Rm44OW11RVV1Y2RDb2FVSE9DRXNDWUwxV1ZCa0lKVVBaREZleVNEaEpzVUFFX0FaYzhQYXhXRFV5ODlNUGhrSnhYdFFKZThQR25QZTlqcFNiSXlndU9TSFVJMnZNRzN6X0JCU2lJWmZhWEg1RV9zcmVJdVgyQWUtTFdXTmN5SVBaNXJ2NjZ6Nk9Jd21UTXZCRFZ6ZHdKRFM5REc4UUQwa3Z5NHFla3NhcFppeTBBU3NPRHhrb2l2emI3R2hBNTRJOUx6akJEc1V4LXhudFV3MVdfWFBWejQzdFJlU2hNOERldWJDYw?oc=5",
-                "pub_datetime_utc": "2026-11-03T20:36:00Z"
+                "keyword": "Eleições nos EUA: em derrota h",
+                "hook": "Brazil의 최신 주요 뉴스입니다.",
+                "script": "Eleições nos EUA: em derrota h",
+                "original_title": "Eleições nos EUA: em derrota histórica para Trump, democratas conquistam maioria no Senado - G1",
+                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDRNSGo5ZUN6X2l4OHpmQTF5c2tOOWw0NnFrVGkwa3QweEwwQlZfaFd1dmVGam9lTE9PY21URXctSmF1em5NaGN5TER1eV9qdDBGNHdHeFJSQ29RREhTMGxFRFlJeG9qdFRpWVM0VzNxOC16REtnejh5bXNhNFNheVpfSmZoYkpNdENtS0c0WWR0Mms1RktJeVdybVJaT00xNXo0VHp2Zk9XRFpYeG1ZdVdPejhpcEVkb2hiS3hTYWRHcGVWQkxtMHpJa051NjBYT1ZZUEw4Z9IB5gFBVV95cUxOVm1iSWw3am84UXhjU0lDTTlyU3pOV2djUVp2QUVYa29YbkNLQ08zeG1sYlhrd3hMOUpvS2owMDNWUW5PNjNMdmpXVFdlV3pxaEpaSHNmOFJmVGVraEZrbVpvX05BbVFyNGJsdkhtTUxFbnB0cmRBY1dZMVRzbkJubmtpQTJDY0xJdXVuTHE1NmVxZjB4djVET0s3RThHMGV5MXU1MGNheUZ1a2FjMFlaa0N5c2lOUG9GdTNxTGZ2Y1R1NFJxVWxzdE5Zd084ellvNy1UNHhZaXVJY2tWSjY2NG43T0U3UQ?oc=5",
+                "pub_datetime_utc": "2026-11-04T04:37:04Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:47 KST",
-        "current_rank": 17
+        "last_updated": "2026-11-04 15:34:02 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 75.0,
+        "previous_rank": 8,
+        "trends": [
+            {
+                "keyword": "미국 중간선거 충격",
+                "hook": "미국 의회 판도가 완전히 뒤집혔습니다, 캐나다엔 어떤 영향이 올까요?",
+                "script": "미국 중간선거에서 민주당이 의회 양원을 모두 장악하는 대이변이 일어났습니다. 텍사스 등 주요 경합지에서 민주당 후보들이 승리하며 트럼프 진영이 큰 타격을 입었습니다. 캐나다 정부는 무역 협상 등 즉각적인 대응책 마련을 위해 분주하게 움직이고 있습니다.",
+                "original_title": "U.S. midterms: Democrats take control of both chambers of Congress, major networks project - CBC",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUV2Vy1MdHJvY0VNNVpubWFaWGFzdzZFZDRrd3FLZjVScl9JNi1vdU10QlVxSUthWDQzdUd1QXh2M3Roa3V2ODRWTFg5TEl6QUc4dktyMmdrTjRMaC1vWVI0bFR6U2lqS3BNODh6cHJsU202b2ZOd2ZvTW95OTlWc1dldU80ODAyaWFSQWxCdjBfY0dSUDZTR0FZbw?oc=5",
+                "pub_datetime_utc": "2026-11-04T05:17:45Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:02 KST",
+        "current_rank": 10
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 75.0,
+        "previous_rank": 9,
+        "trends": [
+            {
+                "keyword": "러시아 대규모 공습",
+                "hook": "하룻밤 사이 우크라이나 전역이 타올랐습니다, 지금 무슨 일이 벌어지고 있나요?",
+                "script": "러시아군이 우크라이나 주요 거점을 향해 대규모 공습을 감행했습니다. 오데사와 하르키우 등에서 폭발음이 이어졌고, 수십 명의 사상자가 발생할 위험에 처해 있습니다. 긴장이 극에 달한 가운데, 서방의 대응과 향후 전황에 세계의 이목이 집중되고 있습니다.",
+                "original_title": "Итоги выборов в США: республиканцы терпят сокрушительное поражение - Ведомости",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUm5SRHNhckc5VEIyOEZoYkxPQlZKS1laeUkweU1DSXRZRjFHVEFPdTZ1UF9wTHZBcUV3cUJ2bTJuQ3Z5ZWxiRzBhQkZhbjZNQ2tVYUdpdV9BbDJLR1J1ZTlvZTk1b2tqbzNIRjVndFd4bjZzVWxSWkF4NTNDQ2R6MW00WHhTS2pTNFE?oc=5",
+                "pub_datetime_utc": "2026-11-04T04:48:51Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:02 KST",
+        "current_rank": 11
     },
     "Mexico": {
         "gdp_rank": 12,
-        "spike_score": 70.0,
+        "spike_score": 75.0,
+        "previous_rank": 18,
+        "trends": [
+            {
+                "keyword": "멕시코계의 쾌거",
+                "hook": "150년 만의 기적, 멕시코 이민자 아들이 캘리포니아의 수장이 되다!",
+                "script": "멕시코 이민자의 아들 자비에 베세라가 캘리포니아 주지사에 당선되는 역사를 썼습니다. 이는 1875년 이후 라틴계 인물로는 처음 있는 일로, 미국 내 멕시코계의 위상이 크게 높아졌음을 의미합니다. 셰인바움 대통령 또한 이번 결과를 환영하며 미국과의 협력 의지를 다지고 있습니다.",
+                "original_title": "La jornada electoral de las ‘midterms’ de Estados Unidos, en imágenes - EL PAÍS",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTk5dUxIMzhOR3UwMnJqQUs2SFlCLU1OU3ZtTUJtXy1OVWxmUElnMVpaWlVhNXpKQVNJSXpxUXVyek1ONDJvckUtSGdwbzZ3MmZHbms1Qnk2X1JTS25ldDVOa3lyaEFtMlRGT1BQQ0l3Und4X1lsUGQ4Vk1WbVR1a2p1UEE2OGxqbWpXaVRXejVEWFBSd1pKVC04eFl4bHU0ODdmQnppZw?oc=5",
+                "pub_datetime_utc": "2026-11-03T14:16:48Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:02 KST",
+        "current_rank": 12
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 75.0,
+        "previous_rank": 10,
+        "trends": [
+            {
+                "keyword": "미 의회 민주당 석권",
+                "hook": "트럼프의 대참패, 미국 정치 지도가 완전히 뒤집혔습니다.",
+                "script": "미국 중간선거에서 민주당이 상·하원을 모두 장악하는 대이변이 일어났습니다. 트럼프 전 대통령을 향한 강력한 심판론이 현실화된 것인데요. 이번 결과가 향후 글로벌 정세와 호주 경제에 어떤 파장을 몰고 올지 전 세계의 이목이 집중되고 있습니다.",
+                "original_title": "Live: Democrats win control of both US House and Senate in major blow to Trump - ABC News & Headlines – Australian Broadcasting Corporation",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmc4ajdQb19Qd1o4VnhKVXA1YWVCZ2cxZUtQWXJzOHRvbm5mUlFVVG1id3dVcUhBX2ItT2FwUlU5UUU4c1R1Z2RNdGdlSm5DNml3VWE3aDNiOXpNMjhJZFhVSzVyR041ZWN3eVY3N2ZHZ2xvZDBjZjlZa1U3MURhUnVJV1ppelpjMUZ4VHcxVzI?oc=5",
+                "pub_datetime_utc": "2026-11-04T05:13:48Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:05 KST",
+        "current_rank": 13
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 75.0,
         "previous_rank": 11,
         "trends": [
             {
-                "keyword": "멕시코 학교 휴대폰 금지",
-                "hook": "교실에서 사라지는 스마트폰, 멕시코 교육 현장의 대변화!",
-                "script": "멕시코가 11월 3일부터 학교 내 휴대폰 사용 전면 금지라는 파격적인 결정을 내렸습니다. 학생들의 집중력 향상과 교육 환경 개선을 위한 조치지만, 학부모와 학생들 사이에서는 찬반 논란이 뜨겁습니다. 교육 당국이 제시한 새로운 규칙이 과연 학교 현장을 어떻게 바꿀지 주목됩니다.",
-                "original_title": "Todo sobre las elecciones intermedias en Estados Unidos - DW.com",
-                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUpMVUdVZnpKUDRRVGNyRnZwN0RJWGJUNjFobmRvV0F6aDN2QVZ6VUxMQ2ZZQllTZjRzbVpZSEhtVDNJUnZJTDNCQXpCdTlDMlZCZzk2Q25WdVRNTmhlWjJrRXFSNlhQLXo3TVJQNzNjX2pXQWxvQWxtaXBuLWFUMER2c1I4djZIRk9nS04xRHRZM0FESFE?oc=5",
-                "pub_datetime_utc": "2026-11-03T18:00:40Z"
+                "keyword": "민주당 미 의회 탈환",
+                "hook": "트럼프 시대의 종말인가, 미국 정치가 요동치고 있습니다.",
+                "script": "미국 중간선거에서 민주당이 상·하원을 모두 탈환하며 역사적인 '블루 웨이브'를 일으켰습니다. 트럼프 전 대통령의 영향력에 제동이 걸리면서 국내외 정치권도 큰 충격에 빠졌는데요. 이번 선거 결과가 한국의 외교와 안보 전략에 어떤 영향을 미칠지 긴박하게 돌아가고 있습니다.",
+                "original_title": "[속보]윤석열 ‘선거법 위반’ 2심도 징역형 집유···확정 땐 국민의힘 397억 반환 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZ2RYcGVXN2FFVDAtOXpPUk83a0hoLWhhTFVCRlVjM1RSVlNWb1FQX1dZQ1Q4ay1kWXR1cnhPUlRuQUlIOTJ5N0tBQ1pjTkpXcXlEaXJGb2c2Z9IBX0FVX3lxTFB5T2huYjF6N0xKN2QxNnp3cEY2OU9WOGx3ZC1ILVh4VWtvdXFleWRpV2dSLXdqTmpfaUQ2UDBEdVZBZDRPMjl4NThOVjJKUkRoLUFNdkhIYi1va0l3cVJr?oc=5",
+                "pub_datetime_utc": "2026-11-04T05:43:00Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:47 KST",
-        "current_rank": 18
+        "last_updated": "2026-11-04 15:34:05 KST",
+        "current_rank": 14
     },
     "Indonesia": {
         "gdp_rank": 15,
-        "spike_score": 70.0,
+        "spike_score": 75.0,
+        "previous_rank": 19,
+        "trends": [
+            {
+                "keyword": "미국 선거 민주당 승리",
+                "hook": "트럼프의 시대가 저물고 있습니다, 미국 정치의 지각변동!",
+                "script": "미국 중간선거에서 민주당이 상·하원을 모두 장악하는 파란을 일으켰습니다. 트럼프 후보의 패배는 세계 정치 지도를 다시 쓰고 있는데요. 이번 결과가 인도네시아를 포함한 글로벌 경제와 외교 노선에 어떤 변화를 가져올지 지금 즉시 확인하세요.",
+                "original_title": "Komitmen Polri Bersih ke Dalam Saat Tetapkan Listyo Sigit dkk Tersangka - detikNews",
+                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFFwbmVsWDRtQ21WbTczQ2RLa2N5c3MtaWE5dUItX3RreFBtTUNmNmw1ZXFKVURleFhyZVFkb2tNSVkwVkRoSHUwMWJoVEdmQVhHMkhlVzFVTC1BcExVeFJfYlhTY0lVZkdzX3RCNGpJNGlvQS1XWjFnU0pnU3phaEMwMndwWF9XV0xQM2VfTUVRLUJrMXo0Vnc2cGFjMzV3ZkJLTHlxX1ZHdjlQN0tvetIBtgFBVV95cUxQVFZUWUxUT2NGU25JSElKRUJ5aTVpdDJYZG54M283U1NEbVdZR0hKWE9lczdYLVZMOWhueEZmQ2dXNi1wSk94bTN5UGo5c2kydDZqejlFeHNaaHNTc1FrRkpoQUx4NzR4NFZQb01HT3N0RndEeW9KTnJZWU9vaFRjUXZCV3FzMUNlNUZhNkdsenZ5ZWxsd19hT3EtNHMzbk9HLWFDMERNMDdlLXVwTkFBck5QcE43QQ?oc=5",
+                "pub_datetime_utc": "2026-11-04T03:15:42Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:05 KST",
+        "current_rank": 15
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 75.0,
+        "previous_rank": 12,
+        "trends": [
+            {
+                "keyword": "미국 선거 민주당 완승",
+                "hook": "트럼프에 닥친 거대한 폭풍, 민주당이 의회를 점령했습니다.",
+                "script": "미국 중간선거에서 민주당이 상·하원 모두 승리하며 트럼프의 정치적 입지에 치명타를 입혔습니다. 이번 결과는 미국 내 정책 변화뿐만 아니라 국제 정세에도 거대한 변화를 예고하고 있는데요. 과연 세계 최강대국의 권력 이동이 터키에 어떤 영향을 미칠지 주목됩니다.",
+                "original_title": "Son dakika... ABD ara seçimlerinde ilk sonuçlar belli oldu: Donald Trump'a ağır darbe! Senato Demokratlara geçti - Hürriyet",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSktLNXRXSXFpeWVCOUt6ZThNUmxiOEIwNUNZOFZrNVFzNFVrd1EyRGlFYkpCNzMwLXRjSDNlMXlBa0w2a0Q0QkJiSkZRV054WGlTNWpxczJ1aC1qNnJLUGl1c0tEYlVpMHlwMGVFVGdsSFdBREhwaGVpaDlid3pnTWFxVUZIU2dSdTZyZElpRVRISVVhYzNMS3hEb3ZDT1VsbjhkNmNxTDJReGpzYmk2cXR6dFpaSURWX0VkLXhEYUhvX2ZQSG5z?oc=5",
+                "pub_datetime_utc": "2026-11-04T06:14:29Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:05 KST",
+        "current_rank": 16
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 75.0,
+        "previous_rank": 13,
+        "trends": [
+            {
+                "keyword": "미국 선거 민주당 승리",
+                "hook": "트럼프의 패배, 미국 정치의 판도가 완전히 바뀌었습니다.",
+                "script": "미국 중간선거에서 민주당이 상·하원을 모두 탈환하며 압승을 거뒀습니다. 트럼프의 재집권에 제동이 걸리면서 중동 정세에도 큰 변화가 예상되는데요. 이번 선거 결과가 사우디아라비아와 미국의 향후 관계에 어떤 변수로 작용할지 세계가 주목하고 있습니다.",
+                "original_title": "تحديث الانتخابات النصفية بأمريكا..CNN تتوقع سيطرة الديمقراطيين على الكونغرس - CNN Arabic",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmZLdUptRGxKeVVOMkU0MGN4WEdxUUNVQlZwVHdzNTVxakdNWHBiSlJCZnlERmRySHNMaGRJVTZHUjVoWVNBcncyUy1QeHdoVTZTNEM1ZnZQS3FoaENTUS00NUhtQThuWmNBZWRkWGxqSks5ajhmSDE0M09mem5CN0RsaDY5LTVD?oc=5",
+                "pub_datetime_utc": "2026-11-04T03:05:06Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:05 KST",
+        "current_rank": 17
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 75.0,
         "previous_rank": 14,
         "trends": [
             {
-                "keyword": "비극의 추락 사고",
-                "hook": "플로리다에서 사라진 비행기, 마지막 문자 내용은?",
-                "script": "미국 플로리다에서 발생한 비행기 추락 사고로 탑승자 전원이 사망하며 전 세계가 충격에 빠졌습니다. 한편 인도네시아에서는 트럭 사고로 12명이 숨지는 안타까운 소식과 함께, 이스라엘 대리인 문제로 안와르 이브라힘 총리가 국가 비상태세를 촉구해 긴장감이 고조되고 있습니다. 곳곳에서 들려오는 비보와 정치적 갈등, 그 중심에 선 이슈들을 정리했습니다.",
-                "original_title": "Pilot Learjet 60 Sempat Chat Pacar Sebelum Pesawat Jatuh di Florida - CNN Indonesia",
-                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0ZRTzA1Z1NnTjQ4QnBiN0tGalV3ejJnd3Y5UUhxOWN1cDQwY1NzMk9wMnVydGVCUlFHRV9VaGNCS1hlM2tsSmp3M2J6TW5hNW5GaEo0MnNJMWNYMHZ0c3ZPSFJFa253dnpJaG4yR2ppQXBYMjA2X0x6amFBdGo0TnpPR3N3WWgxSHRpRjE3RTVDcGV3RTQ5ZlFpVjF0V1I0Z0ZuOWR4eTNmc3p2UlcyQ0FKVUd1azE5ZTh3ekZRNEFXWWVCYmNScVRPWlJheUtWUXJn0gHYAUFVX3lxTE54Nnd4RXRUUml2NzJlVC1lcnZvSWZzamtHY2tBYmtqckt5cUtBQm9PTm1saDZCQzJldU8tbW83cEh6RUFmMFY5bWR3R1dJV29pbWE1dGlQWGNfQmhXWEwyY1V0LUc3LWdrV3JyakFQQnZvem84WldSNHVHTDNpWmpXYVlXR24xVUdjWnNpY2hGX19QbVFETjNZTDBlVDZOV0h6R09SVkY4UEtlSFFNbXZBQnVEVFh4Q1REc25MdEhVbGdsUVNPWmlOTml5V0xrb1hXeU9Fanl3Zg?oc=5",
-                "pub_datetime_utc": "2026-11-03T01:05:00Z"
+                "keyword": "미국 선거 민주당 승리",
+                "hook": "트럼프를 향한 강력한 심판, 미국 의회가 뒤집혔습니다.",
+                "script": "미국 중간선거에서 민주당이 상·하원을 모두 장악하며 트럼프 후보에게 뼈아픈 패배를 안겼습니다. 이번 결과는 미국뿐 아니라 전 세계 정치 지형을 뒤흔들고 있는데요. 아르헨티나 정부도 이번 선거 결과가 경제와 외교에 미칠 영향에 촉각을 곤두세우고 있습니다.",
+                "original_title": "Elecciones en Estados Unidos: en un fuerte voto castigo a Trump, los demócratas ganan la Cámara de Diputados y el Senado - Clarin.com",
+                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTUVfYktPcTRReV9sQi04X0IyVmhKSmpMODVGSWRQZUZlOHFzOE10cVNqbDZUNllyQWtLbDBncEdpSHBKU1duWFVqYVBjVWJiTUxaLTRXc0dzSlBlN3F6VGFlVTZGZUliRzY4ZDRGLVZNQ2pOS2RMTkROUXFnRmM4RTczMDFjWVRHN0psdGFIMFljWDZrUElZbGRub2g1VHpyS2tXVUhSRHN4X2VGb1QwTldONjlCYkItckFhbm82WGhvR2tzUGhjSGxPcU1tZlVnNmV3YnNzZFFrdW8wRmRUQg?oc=5",
+                "pub_datetime_utc": "2026-11-04T03:55:37Z"
             }
         ],
-        "last_updated": "2026-11-04 08:27:51 KST",
+        "last_updated": "2026-11-04 15:34:05 KST",
+        "current_rank": 18
+    },
+    "South Africa": {
+        "gdp_rank": 20,
+        "spike_score": 75.0,
+        "previous_rank": 15,
+        "trends": [
+            {
+                "keyword": "남아공 물 대란",
+                "hook": "50리터로 버티는 일주일, 남아공의 생존 게임이 시작됐습니다.",
+                "script": "요하네스버그의 수도꼭지가 완전히 말랐습니다. 14주째 이어진 물 공급 중단 사태로 시민들은 50리터의 물로 일주일을 버티는 극한의 생존을 이어가고 있습니다. 남아공 인권위원회는 이를 명백한 인권 침해라며 강력히 규탄했습니다. 당국이 손을 놓은 사이, 시민들은 스스로 배급망을 꾸리며 생존을 위한 투쟁을 계속하고 있습니다.",
+                "original_title": "ANC faces anger over poor services as South Africans vote in local elections - The Guardian",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2VrbXJpa3c2U3hDeFlJYUQzMnlBOTZpOFJocUExcHBHT2UxSDRzdEk1WVhSZEFaYmxBMGZMYmRVSWF3aGdjeUdYWHZheUpkUm96b1FIZ2d5emV2VG9RWDRnUmtVNXBZVC16TFk3MnNZaVRUR0YwdVZ1TDVMd05Kai1nZ0FfR1FMNy16cjB4WUc3SkFRNERwZVhQbTItNXpQc0o2WHd3?oc=5",
+                "pub_datetime_utc": "2026-11-04T04:00:00Z"
+            }
+        ],
+        "last_updated": "2026-11-04 15:34:06 KST",
         "current_rank": 19
     }
 }
